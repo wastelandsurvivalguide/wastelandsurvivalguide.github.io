@@ -14,13 +14,13 @@ const config = {
     url: "https://wastelandsurvivalguide.com",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: "/",
+    baseUrl: "/wastelandsurvivalguide",
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: "wastelandsurvivalguide", // Usually your GitHub org/user name.
     projectName: "wastelandsurvivalguide.github.io", // Usually your repo name.
-    deploymentBranch: "main",
+    deploymentBranch: "gh-pages",
     trailingSlash: false,
 
     onBrokenLinks: "throw",

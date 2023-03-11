@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="The customizable modding guide for Tale of Two Wastelands."
+      description="A customizable modding guide for Tale of Two Wastelands."
     >
       <HomepageHeader />
       <main></main>
