@@ -1,7 +1,5 @@
 ﻿# Intro
 
-![WSG Banner](img/banner.png)
-
 ## About the Guide
 
 Wasteland Survival Guide is a customizable, modular modding guide for Tale of Two Wastelands.

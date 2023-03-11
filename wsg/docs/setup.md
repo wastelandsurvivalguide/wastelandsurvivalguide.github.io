@@ -23,7 +23,7 @@ By default, file extensions (such as .ini, .dll, or .esp) are hidden in Windows 
 which will make distinguishing between files more difficult. Open File Explorer from the Start Menu,
 from your desktop, or with the keyboard shortcut **Win + E**, and select
 **View > Show > File name extensions** to disable this behaviour.
-![Show file extensions in File Explorer](./img/show%20file%20extensions.webp)
+![Show file extensions in File Explorer](../static/img/show%20file%20extensions.webp)
 
 ## Uninstalling the Games
 

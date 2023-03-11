@@ -10,14 +10,13 @@ using the **Manual Download** link. Run the downloaded installer and choose an u
 
 Once installed, run `ModOrganizer.exe`, click _Next_ on the _Creating an instance_ pop-up,
 then select _Create a global instance_:
-![Create a global instance](./img/mo2%20global%20instance.webp)
+![Create a global instance](../static/img/mo2%20global%20instance.webp)
 
 Select _TTW_ from the list of games, then click _Next_:
 
-![Choose TTW from list of games](./img/mo2ttwinstallation.png)
+![Choose TTW from list of games](../static/img/mo2ttwinstallation.png)
 
-If TTW is not in the list, you very likely
-forgot to run Fallout 3 once through Steam/GOG during the
+If TTW is not in the list, you very likely forgot to run Fallout 3 once through Steam/GOG during the
 [Generating Fresh .INI Files](setup#generating-fresh-ini-files) step.
 
 Leave the _Location_ file path default and click _Finish_. Say _No_ to the _Show Guide?_
@@ -32,7 +31,7 @@ the language.
 
 ## Configuring Settings
 
-Click the ![MO2 Settings](./img/mo2%20settings.webp) button at the top of MO2 or press **Ctrl+S**
+Click the ![MO2 Settings](../static/img/mo2%20settings.webp) button at the top of MO2 or press **Ctrl+S**
 to open the Settings menu, and make the following changes:
 
 - General tab:
@@ -46,17 +45,17 @@ to open the Settings menu, and make the following changes:
     You may not need to do this if you have already connected your Nexus account
     on another instance of MO2.
 
-![MO2 Connect to Nexus](./img/mo2%20connect.webp)
+![MO2 Connect to Nexus](../static/img/mo2%20connect.webp)
 
-Click the ![MO2 Profiles](./img/mo2%20profiles.webp) button at the top of MO2
+Click the ![MO2 Profiles](../static/img/mo2%20profiles.webp) button at the top of MO2
 or press **Ctrl+P** to open the Profiles menu. Ensure both **Use profile-specific Game INI Files** and
 **Automatic Archive Invalidation** are enabled on the default profile.
 
-![MO2 Profile Settings](./img/mo2%20profile%20settings.png)
+![MO2 Profile Settings](../static/img/mo2%20profile%20settings.png)
 
 ## FalloutCustom.ini
 
-Click the ![MO2 INI Button](./img/mo2%20ini.png) button at the top of MO2 and select **INI Editor**.
+Click the ![MO2 INI Button](../static/img/mo2%20ini.png) button at the top of MO2 and select **INI Editor**.
 Make sure you are in the **FalloutCustom.ini** tab and NOT the **Custom.ini** tab. It should be blank right now.
 Paste in the following:
 

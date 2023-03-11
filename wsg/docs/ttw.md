@@ -9,7 +9,7 @@ We will now install Tale of Two Wastelands. Make sure both Mod Organizer 2 and t
 From the [TTW Download](https://taleoftwowastelands.com/dl) page, download the **3.3.2 Installer** file.
 Extract the contents of the **3.3.2 Installer** archive to a new folder called **TTW Installer** in a safe
 location outside of any default Windows folders. Once everything has been extracted, open MO2, select the
-![MO2](./img/mo2%20folders.webp) button at the top, select **Open Mods folder**, and create a folder there
+![MO2](../static/img/mo2%20folders.webp) button at the top, select **Open Mods folder**, and create a folder there
 named **Tale of Two Wastelands**.
 
 Back in the **TTW Installer** folder, right-click the **TTW Install.exe** and select **Run As Administrator**.
@@ -17,7 +17,7 @@ In the installer, verify that the automatically set file paths for both your Fal
 installations are correct. Set the Tale of Two Wastelands install path to the
 `C:\Users\**YOUR USERNAME**\AppData\Local\ModOrganizer\TTW\mods\Tale of Two Wastelands` you created earlier.
 
-![TTW Installer](./img/install.webp)
+![TTW Installer](../static/img/install.webp)
 
 Ensure your paths look similar to the example above, then select **Install**. The installer can take a long time -
 potentially multiple hours, depending on the speed of your CPU. Be patient and let it do its thing uninterrupted.

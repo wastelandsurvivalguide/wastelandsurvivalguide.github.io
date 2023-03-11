@@ -29,7 +29,7 @@ Expands the engine and scripting capabilities of Fallout New Vegas, fixing bugs 
 **Manual Download** the **Main File - New Vegas Script Extender (NVSE)** and extract the contents
 to the game's [Root folder](./setup/#important-locations). Note that even if you have the GOG version,
 you still need to include `nvse_steam_loader.dll`.
-![xNVSE post-install root folder](./img/root.webp)
+![xNVSE post-install root folder](../static/img/root.webp)
 
 ### [New Vegas Heap Replacer](https://www.nexusmods.com/newvegas/mods/69779)
 

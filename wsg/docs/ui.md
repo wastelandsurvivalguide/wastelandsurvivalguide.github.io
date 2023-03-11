@@ -35,7 +35,7 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 #### Installation:
 
 - Main File - Clean Vanilla Hud
-  - [Use these settings](./img/clean.png) in the FOMOD installer
+  - [Use these settings](../static/img/clean.png) in the FOMOD installer
 - Optional File - Cursor Unilaterally Matched - Patch
 - Optional File - [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)\*\*
 - Optional File - [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
