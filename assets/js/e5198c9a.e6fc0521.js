@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwsg=self.webpackChunkwsg||[]).push([[6745],{719:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/wsg.github.io/blog/tags/hello","allTagsPath":"/wsg.github.io/blog/tags","count":2}')}}]);
