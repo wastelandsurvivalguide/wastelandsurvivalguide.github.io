@@ -43,7 +43,7 @@ const sidebars = {
         "finish",
         "faq",
     ],
-    //appendixSidebar: ["contributors", "xedit", "themethod", "lod", "dogma", ],
+    appendixSidebar: ["contributors", "xedit", "themethod", "lod", "dogma", ],
 };
 
 module.exports = sidebars;

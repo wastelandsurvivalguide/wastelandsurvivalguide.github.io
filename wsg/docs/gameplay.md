@@ -39,14 +39,6 @@ Works with most Pip-Boy mods.
 
 Main File - Faster Pip-Boy Animation (2x)
 
-### [Merged Collectable Quests](https://www.nexusmods.com/newvegas/mods/75829)
-
-Adds quest markers for collectibles including: bobbleheads, steel ingots, alien captive recordings, intel briefcases & Keller family transcripts.
-
-#### Installation:
-
-Main File - TTW Merged Collectable Quests
-
 ### [Misc Gamesetting Tweaks](https://www.nexusmods.com/newvegas/mods/72983)
 
 Customizes some vanilla gamesettings with text files powered by Stewie's Tweaks.
@@ -79,15 +71,6 @@ Replaces all static (non-interactive) containers with lootable equivalents.
 
 Main File - Root'n Loot TTW
 
-### [Skill Book Checklist](https://eddoursul.win/mods/skill-book-checklist/)
-
-Adds an MCM checklist of the skill books in both wastelands & can optionally
-notify you when you enter a cell containing one.
-
-#### Installation:
-
-Main File - Skill Book Checklist
-
 ### [Stash Organizer](https://eddoursul.win/mods/stash-organizer/)
 
 Automatically organizes your items in any interior cell, modded or vanilla.
@@ -112,7 +95,7 @@ Bobblehead is not given at the start, you can pick it up later during Trouble on
 
 #### Installation:
 
-Main File - TTW Quick Start
+- Main File - TTW Quick Start
 
 ## New Features
 
@@ -160,8 +143,8 @@ Adds 60+ perks and 12+ traits in a vanilla friendly, immersive way.
 
 #### Installation:
 
-- Main File - Sweet 6 Shooter Perk Pack TTW Version
-- Optional File - NVB1Patch
+Main File - Sweet 6 Shooter Perk Pack TTW Version
+Optional File - NVB1Patch
 
 ### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
 

@@ -10,15 +10,7 @@ you can instantly restore this load order:
 
 # Finishing Notes
 
-Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy.
-
-:::info Got a question?
-
-Make sure to check the [FAQ](faq) for answers to some of the most common questions/issues.
-
-:::
-
-For even more info on incompatible mods, performance tips and more, see the [Appendix](appendix).
-
-Remember to join the [TTW Discord](https://discord.gg/taleoftwowastelands) if you have any additional 
-questions about the guide, modding, or just to chill.
+Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. For additional resources such as
+incompatible mods, performance tips, frequently asked questionsand more, see the [Appendix](appendix). Remember
+to join the [TTW Discord](https://discord.gg/taleoftwowastelands) if you have any additional questions about the
+guide, modding, or just to chill.

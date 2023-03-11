@@ -4,9 +4,9 @@ displayed_sidebar: appendixSidebar
 
 # Appendix
 
-## [Contributors](contributors)
+## [Frequently-Asked Questions](faq)
 
-Meet the team and other contributors who helped make the guide what it is today.
+Solutions to common problems with the guide.
 
 ## [xEdit Basics](xedit)
 

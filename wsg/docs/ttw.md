@@ -1,10 +1,6 @@
 ﻿# Tale of Two Wastelands
 
-:::tip Video Guide 
-
-A [YouTube video](https://youtu.be/Fb9e4-NDOTM?t=1025) is available to help with this section.
-
-:::
+##### A [video guide](https://youtu.be/Fb9e4-NDOTM?t=1025) is available to help with this section.
 
 We will now install Tale of Two Wastelands. Make sure both Mod Organizer 2 and the game are closed.
 

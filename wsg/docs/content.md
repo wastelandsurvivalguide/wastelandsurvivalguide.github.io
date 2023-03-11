@@ -21,7 +21,7 @@ Adds a fully functional post-game world that reflects the consequences of player
 
 - Main File - Functional Post Game Ending
   - You will be prompted with a FOMOD installer; select only the Tale of Two Wastelands Patch then click Next and Install
-- Optional File - [FPGE - Casino Crowds Patch](dl/FPGE%20-%20Casino%20Crowds%20Patch.7z)
+  - Optional File - [FPGE - Casino Crowds Patch](./dl/FPGE - Casino Crowds Patch.7z)
 
 ### [N.V. Truce Series](https://www.nexusmods.com/newvegas/users/78355343?tab=user+files)
 
@@ -52,6 +52,14 @@ This master file allows you to play mods in the Someguy series, which are being 
   - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108)
   - [Bad Mothafucka LE](https://www.nexusmods.com/newvegas/mods/77229)
   - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
+
+### [Merged Collectable Quests](https://www.nexusmods.com/newvegas/mods/75829)
+
+Adds quest markers for collectibles including: bobbleheads, steel ingots, alien captive recordings, intel briefcases & Keller family transcripts.
+
+#### Installation:
+
+Main File - TTW Merged Collectable Quests
 
 ### TTW Quest Conversions
 
