@@ -11,7 +11,7 @@ const config = {
     favicon: 'img/favicon.ico',
 
     url: 'https://wsg.github.io',
-    baseUrl: '/',
+    baseUrl: '/wsg.github.io/',
     organizationName: 'wastelandsurvivalguide', // Usually your GitHub org/user name.
     trailingSlash: false,
     projectName: 'wsg.github.io', // Usually your repo name.
@@ -110,7 +110,7 @@ const config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Wasteland Survival Guide.`,
         },
         prism: {
             theme: lightCodeTheme,

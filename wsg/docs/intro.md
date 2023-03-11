@@ -1,47 +1,47 @@
----
-sidebar_position: 1
----
+﻿# Intro
 
-# Tutorial Intro
+## About the Guide
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Wasteland Survival Guide is a customizable, modular modding guide for Tale of Two Wastelands.
+The core of the guide - everything up to and including the [Utilities](utilities) section -
+focuses on stability and performance and should be completed by everyone.
 
-## Getting Started
+Everything _past_ that point is included for the purposes of customization, and you can skip any
+mods (or entire sections) at your leisure. When you are done installing mods, no matter how many
+you chose to install or skip, you must also complete the [Final Steps](finish) section.
 
-Get started by **creating a new site**.
+:::info Continuing from _The Best of Times_?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+If you are continuing from the official [**TTW Installation Guide**](https://thebestoftimes.github.io/),
+you should start this guide at the [Utilities](utilities) section. You should already have
+nearly everything there with the exception of **AnhNVSE**.
 
-### What you'll need
+:::
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Requirements
 
-## Generate a new site
+- Legal **English** copies of both Fallout 3 and New Vegas with **all DLCs** on either Steam, GOG or Epic Game Store.
+  - GoTY/Ultimate edition is **not** a factor so long as you have all of the DLCs for both games.
+  - You may "mix and match" Steam, GOG and Epic versions; e.g. FO3 on Epic and FNV on Steam is supported.
+  - Xbox Game Pass version is **not supported** (unmoddable).
+- ~30 GB of free space for installation.
+- Windows 7 or higher (64-bit).
+- [DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
+  - Extract the archive to any location and run `DXSETUP.exe`.
+- [VC++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
+  - Extract the archive and run the included `install_all.bat` **as an administrator** to install all
+    of the required libraries at once.
+- [7-Zip](https://www.7-zip.org/) or [NanaZip](https://github.com/M2Team/NanaZip/releases/latest).
+- The latest GPU drivers (either
+  [NVIDIA](https://www.nvidia.com/download/index.aspx),
+  [AMD](https://www.amd.com/en/support) or
+  [Intel](https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html)).
+- A [Nexus Mods](https://users.nexusmods.com/register) account.
 
-Generate a new Docusaurus site using the **classic template**.
+:::danger Not Vortex Compatible
 
-The classic template will automatically be added to your project after you run the command:
+This guide uses [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+**exclusively**. The steps specifically pertain to MO2 features and cannot be completed
+on Vortex or any other mod manager. Support will only be provided for MO2.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::
