@@ -1,48 +1,60 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/nightOwlLight");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'Wasteland Survival Guide',
-    tagline: 'The customizable TTW modding guide',
-    //favicon: 'static/img/favicon.ico',
-    favicon: 'img/favicon.ico',
+    title: "Wasteland Survival Guide",
+    tagline: "A Tale of Two Wastelands Modding Guide",
+    favicon: "img/favicon.ico",
 
-    url: 'https://wsg.github.io',
-    baseUrl: '/wsg.github.io/',
-    organizationName: 'wastelandsurvivalguide', // Usually your GitHub org/user name.
+    // Set the production url of your site here
+    url: "https://wastelandsurvivalguide.com",
+    // Set the /<baseUrl>/ pathname under which your site is served
+    // For GitHub pages deployment, it is often '/<projectName>/'
+    baseUrl: "/",
+
+    // GitHub pages deployment config.
+    // If you aren't using GitHub pages, you don't need these.
+    organizationName: "wastelandsurvivalguide", // Usually your GitHub org/user name.
+    projectName: "wastelandsurvivalguide.github.io", // Usually your repo name.
+    deploymentBranch: "main",
     trailingSlash: false,
-    projectName: 'wsg.github.io', // Usually your repo name.
-    deploymentBranch: 'gh-pages',
 
-    onBrokenLinks: 'throw',
-    onBrokenMarkdownLinks: 'warn',
+    onBrokenLinks: "throw",
+    onBrokenMarkdownLinks: "warn",
 
+    // Even if you don't use internalization, you can use this field to set useful
+    // metadata like html lang. For example, if your site is Chinese, you may want
+    // to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: 'en',
-        locales: ['en'],
+        defaultLocale: "en",
+        locales: ["en"],
     },
 
     presets: [
         [
-            'classic',
+            "classic",
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 docs: {
-                    sidebarPath: require.resolve('./sidebars.js'),
+                    path: "docs",
+                    routeBasePath: "docs",
+                    sidebarPath: require.resolve("./sidebars.js"),
+                    // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    //editUrl: 'https://github.com/wastelandsurvivalguide/wsg.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+                    // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
                 blog: {
-                    showReadingTime: true,
+                    showReadingTime: false,
+                    // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    //editUrl: 'https://github.com/wastelandsurvivalguide/wsg.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+                    // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
                 },
                 theme: {
-                    customCss: require.resolve('./src/css/custom.css'),
+                    customCss: require.resolve("./src/css/custom.css"),
                 },
             }),
         ],
@@ -51,46 +63,51 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-        // Replace with your project's social card
-        image: 'img/docusaurus-social-card.jpg',
+        colorMode: {
+            defaultMode: "dark",
+            respectPrefersColorScheme: false,
+        },
         docs: {
             sidebar: {
                 hideable: true,
             },
         },
+        // Replace with your project's social card
+        image: "img/social.png",
         navbar: {
-            title: 'Wasteland Survival Guide',
+            title: "Wasteland Survival Guide",
             logo: {
-                alt: 'Wasteland Survival Guide',
-                src: 'img/logo.png',
+                alt: "Wasteland Survival Guide Logo",
+                src: "img/logo.webp",
             },
             items: [{
-                    type: 'doc',
-                    docId: 'intro',
-                    position: 'left',
-                    label: 'Guide',
+                    type: "doc",
+                    docId: "intro",
+                    position: "left",
+                    label: "Guide",
                 },
                 {
-                    type: 'doc',
-                    docId: 'faq',
-                    position: 'left',
-                    label: 'FAQ',
+                    type: "doc",
+                    docId: "faq",
+                    position: "left",
+                    label: "FAQ",
                 },
                 {
-                    type: 'doc',
-                    docId: 'appendix',
-                    position: 'left',
-                    label: 'Appendix',
+                    type: "doc",
+                    docId: "appendix",
+                    position: "left",
+                    label: "Appendix",
                 },
-                { to: '/blog', label: 'Changelog', position: 'left' },
+                { to: "/blog", label: "Changelog", position: "left" },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
-                    label: 'GitHub',
-                    position: 'right',
+                    href: "https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io",
+                    label: "GitHub",
+                    position: "right",
                 },
             ],
         },
         footer: {
+            style: "dark",
             links: [{
                     title: "Other Guides",
                     items: [{
@@ -104,6 +121,22 @@ const config = {
                         {
                             label: "Viva New Vegas",
                             href: "https://vivanewvegas.github.io/",
+                        },
+                    ],
+                },
+                {
+                    title: "Information",
+                    items: [{
+                            label: "Mods to Avoid",
+                            href: "https://vivanewvegas.github.io/avoid-mods.html",
+                        },
+                        {
+                            label: "Tools to Avoid",
+                            href: "https://vivanewvegas.github.io/avoid-tools.html",
+                        },
+                        {
+                            label: "Incompatible Mods",
+                            href: "https://taleoftwowastelands.com/viewtopic.php?t=6878",
                         },
                     ],
                 },
@@ -125,12 +158,12 @@ const config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Wasteland Survival Guide.`,
+            //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
         },
         prism: {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
-            additionalLanguages: ['ini'],
+            additionalLanguages: ["ini"],
         },
     }),
 };
