@@ -6,8 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'My Site',
-    tagline: 'Dinosaurs are cool',
+    title: 'Wasteland Survival Guide',
+    tagline: 'The customizable TTW modding guide',
+    //favicon: 'static/img/favicon.ico',
     favicon: 'img/favicon.ico',
 
     url: 'https://wsg.github.io',
@@ -33,12 +34,12 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Remove this to remove the "edit this page" links.
-                    editUrl: 'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+                    //editUrl: 'https://github.com/wastelandsurvivalguide/wsg.github.io/tree/main/packages/create-docusaurus/templates/shared/',
                 },
                 blog: {
                     showReadingTime: true,
                     // Remove this to remove the "edit this page" links.
-                    editUrl: 'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+                    //editUrl: 'https://github.com/wastelandsurvivalguide/wsg.github.io/tree/main/packages/create-docusaurus/templates/shared/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -52,19 +53,36 @@ const config = {
         ({
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
+        docs: {
+            sidebar: {
+                hideable: true,
+            },
+        },
         navbar: {
-            title: 'My Site',
+            title: 'Wasteland Survival Guide',
             logo: {
-                alt: 'My Site Logo',
-                src: 'img/logo.svg',
+                alt: 'Wasteland Survival Guide',
+                src: 'img/logo.png',
             },
             items: [{
                     type: 'doc',
                     docId: 'intro',
                     position: 'left',
-                    label: 'Tutorial',
+                    label: 'Guide',
                 },
-                { to: '/blog', label: 'Blog', position: 'left' },
+                {
+                    type: 'doc',
+                    docId: 'faq',
+                    position: 'left',
+                    label: 'FAQ',
+                },
+                {
+                    type: 'doc',
+                    docId: 'appendix',
+                    position: 'left',
+                    label: 'Appendix',
+                },
+                { to: '/blog', label: 'Changelog', position: 'left' },
                 {
                     href: 'https://github.com/facebook/docusaurus',
                     label: 'GitHub',
@@ -73,39 +91,36 @@ const config = {
             ],
         },
         footer: {
-            style: 'dark',
             links: [{
-                    title: 'Docs',
+                    title: "Other Guides",
                     items: [{
-                        label: 'Tutorial',
-                        to: '/docs/intro',
-                    }, ],
-                },
-                {
-                    title: 'Community',
-                    items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: "Performance Guide",
+                            href: "https://wallsogb.github.io/FalloutNV-Performance-Guide/",
                         },
                         {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            label: "Texture Guide",
+                            href: "https://salamand3r.fail/texture-guide",
                         },
                         {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            label: "Viva New Vegas",
+                            href: "https://vivanewvegas.github.io/",
                         },
                     ],
                 },
                 {
-                    title: 'More',
+                    title: "Community",
                     items: [{
-                            label: 'Blog',
-                            to: '/blog',
+                            label: "TTW Discord",
+                            href: "https://discord.gg/taleoftwowastelands",
+                        },
+
+                        {
+                            label: "xNVSE Discord",
+                            href: "https://discord.gg/EebN93s",
                         },
                         {
-                            label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            label: "GECKWiki",
+                            href: "https://geckwiki.com/index.php/Main_Page",
                         },
                     ],
                 },
@@ -115,6 +130,7 @@ const config = {
         prism: {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
+            additionalLanguages: ['ini'],
         },
     }),
 };

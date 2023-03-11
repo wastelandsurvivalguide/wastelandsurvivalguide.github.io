@@ -1,6 +1,6 @@
 ﻿# Mod Organizer 2
 
-In this step, we will install and configure Mod Organizer 2, the best mod manager for any Bethesda game and the only one supported for the guide.
+In this step, we will install and configure Mod Organizer 2.
 
 ## Installing MO2
 
@@ -10,16 +10,17 @@ using the **Manual Download** link. Run the downloaded installer and choose an u
 
 Once installed, run `ModOrganizer.exe`, click _Next_ on the _Creating an instance_ pop-up,
 then select _Create a global instance_:
+
 ![Create a global instance](../static/img/mo2%20global%20instance.webp)
 
 Select _TTW_ from the list of games, then click _Next_:
 
-![Choose TTW from list of games](../static/img/mo2ttwinstallation.png)
+![Choose TTW from list of games](../static/img/mo2%20ttw.webp)
 
-If TTW is not in the list, you very likely forgot to run Fallout 3 once through Steam/GOG during the
-[Generating Fresh .INI Files](setup#generating-fresh-ini-files) step.
+If TTW is not in the list, you very likely forgot to run New Vegas and/or Fallout 3 once through Steam/GOG,
+during the[Generating Fresh .INI Files](setup#generating-fresh-ini-files) step.
 
-Leave the _Location_ file path default and click _Finish_. Say _No_ to the _Show Guide?_
+Leave the _Location_ file path default and click _Next >_, then _Finish_. Say _No_ to the _Show Guide?_
 pop-up, then say _Yes_ to the _Register_ pop-up (if you receive one). If at any point you
 get a _INI file is read-only_ pop-up, select _Remember my choice_ from the drop-down at
 the bottom, then click _Clear the read-only flag_.
@@ -35,10 +36,11 @@ Click the ![MO2 Settings](../static/img/mo2%20settings.webp) button at the top o
 to open the Settings menu, and make the following changes:
 
 - General tab:
-  - Enable _Compact list_ and disable _Show menubar when pressing Alt_.
+  - [x] Compact list
+  - [ ] Show menubar when pressing Alt
 - Theme tab:
-  - Choose any theme you prefer. We suggest _dracula_, _VS15-Dark_ or _1809 Dark Mode_.
-    Linux users should select _Fusion_.
+    - We suggest _dracula_, _VS15-Dark_ or _1809 Dark Mode_.
+    - Linux users should select _Fusion_.
 - Nexus tab:
   - Click _Connect to Nexus_ and follow the process, then close the browser
     and exit the MO2 settings menu. Allow MO2 to restart if asked.
@@ -48,18 +50,18 @@ to open the Settings menu, and make the following changes:
 ![MO2 Connect to Nexus](../static/img/mo2%20connect.webp)
 
 Click the ![MO2 Profiles](../static/img/mo2%20profiles.webp) button at the top of MO2
-or press **Ctrl+P** to open the Profiles menu. Ensure both **Use profile-specific Game INI Files** and
-**Automatic Archive Invalidation** are enabled on the default profile.
+or press **Ctrl+P** to open the Profiles menu. Enable:
+- [x] Use profile-specific Game INI Files
+- [x] Automatic Archive Invalidation 
 
-![MO2 Profile Settings](../static/img/mo2%20profile%20settings.png)
+![MO2 Profile Settings](../static/img/mo2%20profile%20settings.webp)
 
 ## FalloutCustom.ini
 
-Click the ![MO2 INI Button](../static/img/mo2%20ini.png) button at the top of MO2 and select **INI Editor**.
-Make sure you are in the **FalloutCustom.ini** tab and NOT the **Custom.ini** tab. It should be blank right now.
-Paste in the following:
+Click the ![MO2 INI Button](../static/img/mo2%20ini.png) button at the top of MO2 and select *INI Editor*.
+Paste the following into `FalloutCustom.ini`:
 
-```ini
+```ini showLineNumbers title="FalloutCustom.ini"
 [Audio]
 ; Enables additional worker thread for minor performance improvement. Disable if you encounter audio stutter
 bMultiThreadAudio=1
@@ -123,6 +125,12 @@ bForceFullLOD=1
 fBlockLoadDistance=300000.0000
 fBlockLoadDistanceLow=125000.0000
 ```
+
+:::caution Check the filename
+
+Make sure you are in the `FalloutCustom.ini` tab, **NOT** `Custom.ini`.
+
+:::
 
 ## How to Install Mods
 

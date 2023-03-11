@@ -43,7 +43,7 @@ const sidebars = {
         "finish",
         "faq",
     ],
-    appendixSidebar: ["contributors", "xedit", "themethod", "lod", "dogma", ],
+    appendixSidebar: ["contributors", "dogma", "incompatible", "lod", "mods-avoid", "tools-avoid", "xedit", "themethod", ],
 };
 
 module.exports = sidebars;

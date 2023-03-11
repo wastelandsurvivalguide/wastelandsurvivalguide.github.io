@@ -3,11 +3,6 @@
 In this section we will install a multitude of required tools and mods. It's very important not to skip anything on this page,
 with the sole exception of the totally optional _Discord Rich Presence_.
 
-### Utilities Separator
-
-Right-click in MO2's left pane and choose "Create a separator". Name it _Utilities_ and organize
-the mods in this section below it.
-
 ## Utilities Installed Manually
 
 ### [FNV 4GB Patcher](https://www.nexusmods.com/newvegas/mods/62552)
@@ -40,9 +35,13 @@ which will benefit load times, stutter and frame rate.
 
 **Manual Download** the **Main File - NVHR** and extract the contents of the archive to the game's [Root](./setup/#important-locations) folder.
 
-> By default, NVHR will create a terminal window every time the game is launched, letting you know it has loaded successfully.
-> If you would like the terminal to stop appearing, create a file named `d3dx9_38.tmp` in the [Root](./setup/#important-locations) folder.
-> This will not affect anything in-game. If you want the terminal to appear again, you can delete `d3dx9_38.tmp`.
+:::note NVHR Terminal Window
+
+By default, NVHR will create a terminal window every time the game is launched, letting you know it has loaded successfully.
+If you would like the terminal to stop appearing, create a file named `d3dx9_38.tmp` in the [Root](./setup/#important-locations) folder.
+This will not affect anything in-game. If you want the terminal to appear again, you can delete `d3dx9_38.tmp`.
+
+:::
 
 ### [Discord Rich Presence](https://www.nexusmods.com/newvegas/mods/68976)
 
@@ -118,10 +117,15 @@ made specifically for certain weapons without affecting the others.
 ### [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347)
 
 Plugin with engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable
-via in-game menu and INIs. It cannot be overstated just how many different things this mod does & how many
+via in-game pause menu (**Settings/Tweaks**) and with INIs. Changes made in the in-game menu require a game restart to take effect.
+
+:::tip There's a tweak for that
+
+It cannot be overstated just how many different things this mod does & how many
 [mods it replaces/obsoletes](https://forums.nexusmods.com/index.php?/topic/10248968-mods-that-are-redundant-with-stewies-tweaks-list/).
-Always **check the in-game Settings/Tweaks menu** before installing additional mods. Changes made here
-require a game restart to take effect.
+Always **check Settings/Tweaks** in the pause menu before installing additional mods, as Tweaks likely already does it.
+
+:::
 
 #### Installation:
 
@@ -146,6 +150,72 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
 #### Installation:
 
 - Main File - NVTF
+  - After installation, double-click NVTF and go to **INI Editor** tab. Paste in:
+  ```ini title="NVTF.ini" showLineNumbers
+  ;This plugin now requires Windows 7 or above.
+  ;Only enable options if you know what you're doing.
+  ;The ini by default only has the safest options enabled now.
+  ; NVTF.ini file redesign by Audley - v2.1
+  ; [nexusmods.com/newvegas/mods/66537]
+  ; Report any bugs and performance issues to the Nexus page.
+  ; NOTE: Default settings here will work fine for most setups.
+  [Main]
+  ; Fixes the 64hz microstutter issue. Settings are under [GTC].
+  bGTCFix = 1
+  ; Prevents the game from hanging on exit.
+  bFastExit = 1
+  ; Optimizes the game's hashtables which reduces menu lag. Settings are under [Hashtables].
+  bRedoHashtables = 1
+  ; Modifies the vanilla DirectX 9 behavior. Settings are under [DirectX].
+  bModifyDirectXBehavior = 1
+  ; Miscellaneous threading tweaks which improve overall performance. Settings are under [ThreadingTweaks].
+  bEnableThreadingTweaks = 1
+  ; Used for debugging. Do not use unless you know what you're doing. 
+  bAllowDirectXDebugging = 0
+  [GTC]
+  ; Allows you to run the game at framerates beyond 60 without encountering physics issues.
+  bFPSFix = 1
+  ; Alternate GTC fix which is more compatible with older systems, but not as accurate.
+  bAlternateGTCFix = 1
+  ; This removes the GTC limits. It should only be used if your game is running at the wrong speeds.
+  ; You will need to cap your framrate manually with this enabled.
+  bRemoveGTCLimits = 0
+  [ThreadingTweaks]
+  ; Improves overall performance.
+  ;Setting this option to 2 will make the game smoother but potentially more unstable
+  iTweakRCSafeGuard = 1 
+  ;Even more performance tweaks
+  bTweakMiscRendererSafeGuard = 1
+  ; Extra critical section tweaks.
+  bTweakMiscCriticalSections = 1
+  ;Possible fix for randomly occuring freeze and crash (most noticeable in TTW)
+  bReplaceDeadlockCSWithWaitAndSleep=1
+  [FPSFix]
+  ; Warning: This is a threshold and does NOT cap your frame rate.
+  ; Maximum tolerance for the high FPS fix. Ensure your FPS does not exceed this setting.
+  ; Leave it alone unless you know what you're doing
+  iMaxFPSTolerance = 500
+  ; Minimum tolerance for the high FPS fix. Leave alone unless you know what you're doing.
+  iMinFPSTolerance = 10
+  ; Fix for physics issues caused by high FPS.
+  bfMaxTime = 1
+  ; Fix for the "spider hands" bug.
+  bSpiderHandsFix = 1
+  [DirectX]
+  ; This prevents textures from getting mirrored into RAM and reduces overall memory usage.
+  ; Using OneTweak (windowed mode) or DXVK is recommended with this setting enabled, otherwise you won't be able to alt-tab back into the game.
+  bUseDefaultPoolForTextures = 1
+  ; Enables triple buffering which can provide smoother and more consistent FPS. Disabled by default because it adds an extra backbuffer, potentially increasing input lag.
+  bToggleTripleBuffering = 0
+  [Hashtables]
+  ; Resizes the hashtable bucket space.
+  bResizeHashtables = 1
+  ;Patches that I wouldn't call "proper fixes" but work
+  [Hacks]
+  ;Patch for the water LOD bug 
+  bWaterLODPatch = 1
+  ```
+
 
 ### [ShowOff NVSE](https://www.nexusmods.com/newvegas/mods/72541)
 

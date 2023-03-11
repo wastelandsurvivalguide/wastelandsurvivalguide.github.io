@@ -21,7 +21,7 @@ Adds a fully functional post-game world that reflects the consequences of player
 
 - Main File - Functional Post Game Ending
   - You will be prompted with a FOMOD installer; select only the Tale of Two Wastelands Patch then click Next and Install
-  - Optional File - [FPGE - Casino Crowds Patch](./../static/dl/FPGE - Casino Crowds Patch.7z)
+- Optional File - [FPGE - Casino Crowds Patch](../static/dl/FPGE%20-%20Casino%20Crowds%20Patch.7z)
 
 ### [N.V. Truce Series](https://www.nexusmods.com/newvegas/users/78355343?tab=user+files)
 
@@ -53,14 +53,6 @@ This master file allows you to play mods in the Someguy series, which are being 
   - [Bad Mothafucka LE](https://www.nexusmods.com/newvegas/mods/77229)
   - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
 
-### [Merged Collectable Quests](https://www.nexusmods.com/newvegas/mods/75829)
-
-Adds quest markers for collectibles including: bobbleheads, steel ingots, alien captive recordings, intel briefcases & Keller family transcripts.
-
-#### Installation:
-
-Main File - TTW Merged Collectable Quests
-
 ### TTW Quest Conversions
 
 A series of Fallout 3 quests from various authors which add many new locations to the game, converted for TTW by RoyBatty.
@@ -90,7 +82,7 @@ Main Files:
 
 A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches. Players will also get to explore multiple locations around the island with interesting backstories and meet plenty of different personalities that are sure to leave an impression that lasts.
 
-- Main File - Washington's Malevolence TTW
+Main File - Washington's Malevolence TTW
 
 ## Player Homes
 
@@ -197,6 +189,70 @@ adds some missing crafting stations to various places.
 - Main File - TTW Complete Player Home Upgrades
 - Optional File - TTW Reputations Patch
 
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
+
+Adds crafting stations and additional containers to several vanilla player homes.
+
+#### Installation:
+
+Main File - Home and Safehouse Tweaks
+  - After install, double-click the mod and go to **INI Editor**. Paste in:
+
+  ```ini title="HomeandSafehouseTweaks.ini" showLineNumbers
+  [Misc Homes]
+  ; Enables crafting stations in the Vault 21 player room.
+  bVault21CraftingStations=1
+  ; Enables crafting stations in the Bon Vivant Suite.
+  bBonVivantSuiteCraftingStations=1
+  [Novac Room]
+  ; Enables crafting stations in Novac motel room.
+  bNovacCraftingStations=0
+  [Atomic Wrangler Corner Room]
+  ; Cleans up the damage to the room.
+  bCleanCornerRoom=1
+  ; Enables new containers and crafting stations.
+  bCornerRoomAdditions=1
+  [Ultra-Luxe Penthouse]
+  ; Enable optional crafting stations at the entrace of the Penthouse.
+  bCraftingStations=1
+  ; Enables extra containers for use with Stash Organizer.
+  bExtraContainers=1
+  [Lucky 38]
+  ; Main features. Removes damage and oxidation to Lucky 38 Casino Floor.
+  bNoLucky38CasinoDamage=1
+  ; Removes the interior fog from the Lucky 38 Casino Floor.
+  bNoLucky38CasinoFloorFog=1
+  ; Removes the interior fog from the Lucky 38 Presidential Suite.
+  bNoPresidentialFog=1
+  ; Removes the dust in the Lucky 38 Presidential Suite
+  bNoPresidentialDust=1
+  ; Enables some optional containers and crafting stations.
+  bContainersandCraftingStations=1
+  ; Restores the Lucky 38 Penthouse's cut climate.
+  bRestoreCutClimate=1
+  [The Tops]
+  ; Enables crafting stations in Tops High Roller Suite.
+  bTopsHighRollerSuiteCraftingStations=1
+  ; Enables crafting stations in Tops Presidential Suite.
+  bTopsPresidentialSuiteCraftingStations=1
+  [Safehouses]
+  ; Enables crafting stations in the Brotherhood Safehouse.
+  bBoSSafehouseCratingStations=0
+  ; Enables crafting stations in the Followers Safehouse.
+  bFollowersSafehouseCraftingStations=0
+  ; Enables crafting stations in the Legion Safehouse.
+  bLegionSafehouseCraftingStations=0
+  ; Enables crafting stations in the NCR Ranger Safehouse.
+  bNCRSafehouseCraftingStations=0
+  [Player Owns Companion Homes]
+  ; Own Boone's room at Novac.
+  bBoonesRoom=1
+  ; Own Raul's home.
+  bRaulsHome=1
+  ; Own Jericho's house.
+  bOwnJerichosHouse=1
+  ```
+
 ### [Dynamic Weapon Displays](https://www.nexusmods.com/newvegas/mods/73882)
 
 Adds Skyrim-esque weapon displays. Fully compatible with weapons from all the DLC and weapons
@@ -208,12 +264,3 @@ added by other mods. Contains a patch for TTW & WSG.
     - Install Patch (or skip the merged patch to install individual patches as needed)&emsp;
     - Weapon Display Models - Default (or your choice)
 - Patch File - [Dynamic Weapon Displays - New Vegas Pack - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
-
-### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
-
-Adds crafting stations and additional containers to several vanilla player homes.
-
-#### Installation:
-
-- Main File - Home and Safehouse Tweaks
-- Guide File - [Home & Safehouse Tweaks Fonfig](./../static/dl/Home%20&%20Safehouse%20Tweaks%20Fonfig.7z)

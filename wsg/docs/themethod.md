@@ -1,4 +1,4 @@
-﻿# The Method
+﻿# xEdit: The Method
 
 ## Requirements
 

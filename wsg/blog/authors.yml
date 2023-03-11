@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+many:
+  name: The Many
+  title: Guide Contributor
+  url: https://github.com/WillOfTheMany
+  image_url: https://github.com/lctoye.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+vish:
+  name: VishVadeva50
+  title: Guide Contributor
+  url: https://github.com/VishVadeva50
+  image_url: https://github.com/VishVadeva50.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+wall:
+  name: WallSoGB
+  title: Guide Contributor
+  url: https://github.com/WallSoGB
+  image_url: https://github.com/WallSoGB.png

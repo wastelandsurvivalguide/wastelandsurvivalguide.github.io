@@ -1,4 +1,4 @@
-﻿# xEdit Basics
+﻿# xEdit: The Basics
 
 ## Requirements
 

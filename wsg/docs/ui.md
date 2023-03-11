@@ -1,5 +1,8 @@
 ﻿# User Interface & HUD
 
+In this section we will install mods which overhaul the games menus, interfaces and heads-up-displays
+with ultra-high quality versions, and some which add entirely new interface features.
+
 ## Core HUD/UI Mods
 
 ### [User Interface Organizer](https://www.nexusmods.com/newvegas/mods/57174)
@@ -28,6 +31,40 @@ Modernized vanilla-style UI with many enhancements and bugfixes.
 
 Install from archive in MO2 ([How To Install Mods](mo2#how-to-install-mods))
 
+### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
+
+NVSE plugin that aims to fix UI bugs and add new UI features. Doesn't do anything
+that noticeable on its own without [ySI - Sorting Icons](#ysi---sorting-ycons).
+
+#### Installation:
+
+Main File - yUI
+  - After install, double-click the mod and go to **INI Editor**. Paste in:
+  ```ini title="yUI.ini" showLineNumbers
+  [General]
+  ; fix the issue where items with different conditions would 'jump around' on update
+  bSortingFix = 1
+  ; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI
+  bSortingIcons = 1
+  ; match cursor color to HUD color
+  bMatchingCursor = 1
+  ; fix the issue where items with different conditions would 'jump around' on update
+  bFixIndefiniteSorting = 1
+  ; fix the issue where Container Menu would display only a single dropped item at a time
+  bFixDroppedItems = 1
+  ; fix the issue where Inventory Menu tabline shows up with buttons already selected
+  bFixTablineSelected = 1
+  [Sorting and Icons]
+  ; sort inventory according to tag names supplied in .json
+  bSortInventory = 1
+  ; add ycons to inventory, container and barter menus
+  bAddInventoryIcons = 1
+  ; replace hotkey icons with ycons
+  bReplaceHotkeyIcons = 1
+  ; enable keyring-like clickable categories (this destroys vanilla keyring)
+  bEnableCategories = 1
+  ```
+
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
 Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
@@ -35,9 +72,11 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 #### Installation:
 
 - Main File - Clean Vanilla Hud
-  - [Use these settings](../static/img/clean.png) in the FOMOD installer
+  - [Use these settings](./img/clean.png) in the FOMOD installer
 - Optional File - Cursor Unilaterally Matched - Patch
-- Optional File - [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)\*\*
+  - You do **not** need to install "Cursor Unilaterally Matched"; 
+  it is already built into [yUI](#yui---user-ynterface).
+- Optional File - [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
 - Optional File - [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 - Optional FIle - [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
 
@@ -88,9 +127,9 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- **Main File - Main And Pause Menus Overhaul**
-- Press **M** from the pause menu to access the MCM
-- Press **N** from the pause menu to configure MAPMO's settings
+- Main File - Main And Pause Menus Overhaul
+  - Press **M** from the pause menu to access the MCM
+  - Press **N** from the pause menu to configure MAPMO's settings
 
 :::caution
 
@@ -107,15 +146,6 @@ Hybrid Fallout 4/New Vegas-style HUD.
 
 Main File - Simplified FO4 HUD
 
-### [Skill Book Checklist](https://eddoursul.win/mods/skill-book-checklist/)
-
-Adds an MCM checklist of the skill books in both wastelands & can optionally
-notify you when you enter a cell containing one.
-
-#### Installation:
-
-Main File - Skill Book Checklist
-
 ### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
 
 Removes message boxes that pop up during the Guide, as well as those that occur once
@@ -124,16 +154,6 @@ during a new game, and repeating corner-messages.
 #### Installation:
 
 Main File - Tutorial Killer
-
-### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
-
-NVSE plugin that aims to fix UI bugs and add new UI features. Doesn't do anything
-noticeable on its own without the following mod, [ySI - Sorting Icons](#ysi---sorting-ycons).
-
-#### Installation:
-
-- Main File - yUI
-- Guide File - [yUI Fonfig](./../static/dl/yUI%20Fonfig.7z)
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 

@@ -4,41 +4,37 @@ displayed_sidebar: appendixSidebar
 
 # Appendix
 
-## [Frequently-Asked Questions](faq)
+## [Contributors](contributors)
 
-Solutions to common problems with the guide.
+Meet the team and other contributors who helped make the guide what it is today.
 
-## [xEdit Basics](xedit)
+## Important Information
 
-All you need to know about xEdit as a beginner. Required for things such as patching and The Method.
-
-## [The Method](themethod)
-
-Process aimed at solving conflicts in your load order with a modular approach.
-
-## [LOD Guide](lod)
-
-Guide on how to generate object LOD with xLODGen.
-
-## [Dangerous Dogma](dogma)
+### [Dangerous Dogma](dogma)
 
 Bad modding information floating around the internet that you should be aware of.
 
-## **External Links**
+### [Incompatible Mods](incompatible)
 
-### [Incompatible Mods](https://taleoftwowastelands.com/viewtopic.php?t=6878)
+A *non-exhaustive* list of mods that are known to be incompatible with TTW (or outright broken).
 
-List of mods that cannot be used with Tale of Two Wastelands - very important to review. Be aware the list is not exhaustive.
+### [LOD Guide](lod)
 
-### [Performance Guide for FNV](https://wallsogb.github.io/FalloutNV-Performance-Guide/)
+How to to generate object LOD with xLODGen (usually not required if you don't add extra mods).
 
-In-depth information about how to optimize the game's performance covering topics such as DXVK and fullscreen VS windowed mode.
+### [Mods to Avoid](mods-avoid)
 
-### [Viva New Vegas - Resources](https://vivanewvegas.github.io/resources.html)
+A list of popular mods that should be avoided, and what to use instead.
 
-Various tutorials and information that will be useful, especially if you plan on adding mods.
-The **Tools to Avoid** & **Mods to Avoid** links are especially recommended reads as they apply equally to TTW. Ignore the LOD Guide from VNV since WSG has its own.
+### [Tools to Avoid](tools-avoid)
 
-### [Video Install Guide by Cloudisms](https://www.youtube.com/watch?v=Fb9e4-NDOTM)
+A list of popular modding tools and mod managers that should be avoided, and what to use instead.
 
-An excellent video installation guide for TTW. A video on how to [Update TTW](https://youtu.be/PMWzD_ZwcrI) is also available.
+### [xEdit - The Basics](xedit)
+
+All you need to know about xEdit as a beginner. 
+Required for things such as patching and The Method.
+
+### [xEdit - The Method](themethod)
+
+How to solve conflicts in your load order using a systematic modular approach.

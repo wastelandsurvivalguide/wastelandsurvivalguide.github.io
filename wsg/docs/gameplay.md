@@ -45,7 +45,7 @@ Customizes some vanilla gamesettings with text files powered by Stewie's Tweaks.
 
 #### Installation:
 
-- Main File - Misc Gamesetting Tweaks Presets
+Main File - Misc Gamesetting Tweaks Presets
   - Make your selections & click Install
 
 :::tip Changing Your Settings
@@ -90,12 +90,12 @@ Main File - Supplemental Ammo Crafting
 
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
-Quick start plugin to skip Vault 101 and start in the cave just outside the vault. The Medicine
-Bobblehead is not given at the start, you can pick it up later during Trouble on the Homefront.
+Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
+The Medicine Bobblehead is not given at the start, you can pick it up later during _Trouble on the Homefront_.
 
 #### Installation:
 
-- Main File - TTW Quick Start
+Main File - TTW Quick Start
 
 ## New Features
 
@@ -124,9 +124,9 @@ A compilation of interface and gameplay-enhancing mods in one package, configura
 #### Installation:
 
 - Main File - Just Assorted Mods
+  - Toggle/configure features in the MCM
 - Optional File - [JAM Sprint Animation Replacers](https://www.nexusmods.com/newvegas/mods/74839)
 - Optional File - [Clean Just Weapons Hweel](https://www.nexusmods.com/newvegas/mods/76357)
-- Toggle/configure features in the MCM
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
@@ -143,8 +143,8 @@ Adds 60+ perks and 12+ traits in a vanilla friendly, immersive way.
 
 #### Installation:
 
-Main File - Sweet 6 Shooter Perk Pack TTW Version
-Optional File - NVB1Patch
+- Main File - Sweet 6 Shooter Perk Pack TTW Version
+- Optional File - NVB1Patch
 
 ### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
 
