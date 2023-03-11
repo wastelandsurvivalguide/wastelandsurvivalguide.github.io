@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwsg=self.webpackChunkwsg||[]).push([[5445],{492:e=>{e.exports=JSON.parse('{"permalink":"/wsg.github.io/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/wsg.github.io/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
