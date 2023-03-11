@@ -114,7 +114,7 @@ will greatly affect the amount healed or rads removed.
 
 - Main File - Infirmary Overhaul TTW
 
-### [JIP LN Fonfig](./dl/JIP%20LN%20Fonfig.7z)
+### [JIP LN Fonfig](./../static/dl/JIP%20LN%20Fonfig.7z)
 
 Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by
 distributing weapon mods to NPCs.
@@ -132,7 +132,7 @@ needs will decrease your AP as well; dehydration penalties are twice as severe.
 #### Installation:
 
 - Main File - RAD - Overhaul
-- Guide File - [RAD Fonfig](./dl/RAD%20Fonfig.7z)
+- Guide File - [RAD Fonfig](./../static/dl/RAD%20Fonfig.7z)
 
 ### [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030)
 

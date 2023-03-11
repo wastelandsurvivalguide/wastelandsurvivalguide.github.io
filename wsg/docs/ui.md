@@ -20,7 +20,7 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 - Main File - The Mod Configuration Menu
 - Update File - MCM Bugfix 2 **(Do not skip this!)**
 
-### [Vanilla UI Plus](./dl/Vanilla%20UI%20Plus%209.47%20-%20TTW.7z)
+### [Vanilla UI Plus](./../static/dl/Vanilla%20UI%20Plus%209.47%20-%20TTW.7z)
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
 
@@ -133,7 +133,7 @@ noticeable on its own without the following mod, [ySI - Sorting Icons](#ysi---so
 #### Installation:
 
 - Main File - yUI
-- Guide File - [yUI Fonfig](./dl/yUI%20Fonfig.7z)
+- Guide File - [yUI Fonfig](./../static/dl/yUI%20Fonfig.7z)
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 

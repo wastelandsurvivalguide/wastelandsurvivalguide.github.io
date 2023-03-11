@@ -21,7 +21,7 @@ Adds a fully functional post-game world that reflects the consequences of player
 
 - Main File - Functional Post Game Ending
   - You will be prompted with a FOMOD installer; select only the Tale of Two Wastelands Patch then click Next and Install
-  - Optional File - [FPGE - Casino Crowds Patch](./dl/FPGE - Casino Crowds Patch.7z)
+  - Optional File - [FPGE - Casino Crowds Patch](./../static/dl/FPGE - Casino Crowds Patch.7z)
 
 ### [N.V. Truce Series](https://www.nexusmods.com/newvegas/users/78355343?tab=user+files)
 
@@ -82,9 +82,9 @@ These versions are patched for TTW and FPGE by Kazopert.
 
 Main Files:
 
-- [Uncut Wasteland](dl/Uncut%20Wasteland.7z)
-- [Uncut Extra Collection](dl/Uncut%20Extra%20Collection.7z)
-- Patch File - [FPGE - Uncut Wasteland & Extra Collection Patch](dl/FPGE%20-%20Uncut%20Wasteland%20&%20Extra%20Collection%20Patch.7z)
+- [Uncut Wasteland](../static/dl/Uncut%20Wasteland.7z)
+- [Uncut Extra Collection](../static/dl/Uncut%20Extra%20Collection.7z)
+- Patch File - [FPGE - Uncut Wasteland & Extra Collection Patch](../static/dl/FPGE%20-%20Uncut%20Wasteland%20&%20Extra%20Collection%20Patch.7z)
 
 ### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
 
@@ -216,4 +216,4 @@ Adds crafting stations and additional containers to several vanilla player homes
 #### Installation:
 
 - Main File - Home and Safehouse Tweaks
-- Guide File - [Home & Safehouse Tweaks Fonfig](./dl/Home%20&%20Safehouse%20Tweaks%20Fonfig.7z)
+- Guide File - [Home & Safehouse Tweaks Fonfig](./../static/dl/Home%20&%20Safehouse%20Tweaks%20Fonfig.7z)
