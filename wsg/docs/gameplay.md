@@ -97,6 +97,15 @@ The Medicine Bobblehead is not given at the start, you can pick it up later duri
 
 Main File - TTW Quick Start
 
+### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934/)
+
+A collection of miscellaneous tweaks for TTW, customizable via config file.
+
+#### Installation:
+
+Main File - Tweaks for TTW
+  - 
+
 ## New Features
 
 ### [JIP CCC](https://www.nexusmods.com/newvegas/mods/50468)

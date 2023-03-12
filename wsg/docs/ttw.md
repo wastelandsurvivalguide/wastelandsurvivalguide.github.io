@@ -10,12 +10,12 @@ From the [TTW Download](https://taleoftwowastelands.com/dl) page, download the *
 Extract the contents of the **3.3.2 Installer** archive to a new folder called **TTW Installer** in a safe
 location outside of any default Windows folders. Once everything has been extracted, open MO2, select the
 ![MO2](../static/img/mo2%20folders.webp) button at the top, select **Open Mods folder**, and create a folder there
-named **Tale of Two Wastelands**.
+named _Tale of Two Wastelands_.
 
 Back in the **TTW Installer** folder, right-click the **TTW Install.exe** and select **Run As Administrator**.
 In the installer, verify that the automatically set file paths for both your Fallout 3 and Fallout New Vegas
 installations are correct. Set the Tale of Two Wastelands install path to the
-`C:\Users\**YOUR USERNAME**\AppData\Local\ModOrganizer\TTW\mods\Tale of Two Wastelands` you created earlier.
+`C:\Users\**YOUR USERNAME**\AppData\Local\ModOrganizer\TTW\mods\Tale of Two Wastelands` you created earlier:
 
 ![TTW Installer](../static/img/install.webp)
 
