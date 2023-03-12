@@ -11,7 +11,7 @@ Vortex features a convoluted and inconvenient conflict-management system that si
 with how load orders and other information are shared among the modding community. For example, imagine
 that we have been instructed to apply the following load order:
 
-```
+```txt showLineNumbers
 FalloutNV.esp
 Mod1.esp
 Mod2.esp
@@ -26,6 +26,9 @@ environment we are trying to establish, and for the level of granular control we
 our game and the order in which it loads content. Additionally, Vortex doesn't track generated files,
 and can be slow compared to MO2.
 
+![Vortex moment](https://cdn.discordapp.com/attachments/267355049666019329/1084050657574658068/unknown.jpg)
+_This mind-bending web of nightmares is what Vortex considers conflict resolution_
+
 ### Nexus Mod Manager/Fallout Mod Manager
 
 Outdated/abandoned, NMM/FOMM have no virtual file system or even dynamic movement of mods with loose files.
@@ -38,12 +41,12 @@ There is no reason to use Mod Organizer 1 over Mod Organizer 2.
 
 ### LOOT
 
-As LOOT is automated, it will never fully be able to account for all the nuances of a load order, especially a large one.
-Incorrect load order can lead to overwriting or breaking features from mods.
+LOOT relies on a masterlist being maintained by humans, and nobody maintains that list for Fallout New Vegas, let alone for TTW. Consequently there is no underlying logic when you use LOOT on TTW - your mods will essentially be randomized. LOOT is greyed-out
+when MO2 is in TTW mode, for good reason!
 
 ### Wrye Bash/Flash and Mator Smash
 
-Similarly to LOOT, these programs are fully automated and will never be fully accurate. They will solve things that they
+These programs are fully automated and will never be fully accurate. They will solve things that they
 may see as conflicts, but it reality they are intentional overwrites. They will also often miss critical conflicts.
 
 ### zEdit/zClean:

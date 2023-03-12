@@ -1,8 +1,5 @@
 ﻿# User Interface & HUD
 
-In this section we will install mods which overhaul the games menus, interfaces and heads-up-displays
-with ultra-high quality versions, and some which add entirely new interface features.
-
 ## Core HUD/UI Mods
 
 ### [User Interface Organizer](https://www.nexusmods.com/newvegas/mods/57174)
