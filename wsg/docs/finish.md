@@ -30,11 +30,9 @@ Uncut Wasteland.esm
 Uncut Extra Collection.esm
 Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch.esm
 Rebuild the Capital.esm
-Sweet Home.esm
 TTW Reputations.esm
 TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
-Tenpenny Tower Quest - Redux.esm
 Tale of Bi Wastelands.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
 Tale of Bi Wastelands + TTW Reputations Patch.esm
@@ -51,13 +49,11 @@ RRTV_ScavBunker_FO3_TTW.esm
 SD_Transporters.esp
 SD Transporters - AWOP FO3 Patch.esp
 SpringvaleGarage.esm
-Bathroom Doors Overhaul.esm
 Harder New Vegas Strip Access.esm
 Main And Pause Menus Overhaul.esm
 Configurable Pip-Boy Light Color.esm
 MTB.esm
 Securitrons On Alert.esm
-Vikki and Vance Improvements.esm
 DynamicWeaponDisplays.esm
 WashingtonsMalevolence.esm
 AnotherInteriorMod.esm
@@ -65,19 +61,9 @@ TLD_Travelers.esm
 The Living Desert - TTW Patch.esp
 A Trail of Crumbs.esm
 Regulators.esm
-RagdollsTTW.esm
-A World of Pain Revised.esm
 AWorldOfPainFO3.esm
 AWOP FO3 - TTW Patch.esp
 Rebuild the Capital - A World of Pain for Fallout 3 Patch.esp
-MetroCars.esp
-MetroCars.esm
-MojaveSquads.esm
-ClaimtheMojave.esm
-MojaveSquadsTTW.esm
-TTW Canopy Shadows Restoration.esm
-Own Tenpenny Suite and Mr. Burke's House After Saving Megaton.esm
-Street Lights TTW.esm
 Cyberware.esm
 ISControl.esm
 Brotherhood and House Truce.esm
@@ -102,11 +88,8 @@ The Mod Configuration Menu.esp
 DarNifiedUINV.esp
 Vanilla UI Plus.esp
 AidUI.esp
-AutoGatesRedux.esp
 B42Inertia.esp
-Better Hacking.esp
 BLEED.esp
-BLEEDLESS.esp
 Burden to Bear Armor.esp
 Casino Crowds.esp
 Casino Crowds - TTW Patch.esp
@@ -119,16 +102,11 @@ DWD-Jacobstown Bungalow.esp
 DWD - TTW Pack.esp
 DWD-Wasteland Survival Guide.esp
 Enhanced Vision.esp
-Famine.esp
-Famine - Flora.esp
-Famine - Flora TTW.esp
 YourBuddyIsDead.esp
 FOVSlider.esp
 Hitstop.esp
 InfirmaryOverhaulTTW.esp
 Infirmary Overhaul V3.esp
-ImmersiveRecoil.esp
-JamFix.esp
 JIP Companions Command & Control.esp
 JIP MiniMap.esp
 JustAssortedMods.esp
@@ -152,8 +130,6 @@ ThreePerkBounty.esp
 Tutorial Killer.esp
 Benny Humbles You and Steals Your Stuff.esp
 Benny Humbles You and Steals Your Stuff - TTW Patch.esp
-Bottle Rinse Repeat.esp
-Bottle Rinse Repeat TTW Patch.esp
 AWOPR - Underpass Patch.esp
 ClaimtheMojaveFPGE.esp
 ClaimtheMojaveMojaveRaiders.esp
@@ -207,10 +183,7 @@ SaveRestrictions.esp
 Supplemental Ammo Crafting.esp
 TTW FaceGen Fix.esp
 CPI Icons.esp
-fixy creature.esp
 Skill Book Checklist.esp
-BakaSkillBookScanner.esp
-Follower Home Marker TTW.esp
 NPCsSprint.esp
 Rebuild the Capital - No Pony Express Boxes.esp
 Atmospheric Lighting Tweaks TTW.esp
