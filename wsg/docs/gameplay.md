@@ -46,7 +46,8 @@ Customizes some vanilla gamesettings with text files powered by Stewie's Tweaks.
 #### Installation:
 
 Main File - Misc Gamesetting Tweaks Presets
-  - Make your selections & click Install
+
+- Make your selections & click Install
 
 :::tip Changing Your Settings
 
@@ -90,7 +91,7 @@ Main File - Supplemental Ammo Crafting
 
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
-Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
+Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault.
 The Medicine Bobblehead is not given at the start, you can pick it up later during _Trouble on the Homefront_.
 
 #### Installation:
@@ -104,7 +105,8 @@ A collection of miscellaneous tweaks for TTW, customizable via config file.
 #### Installation:
 
 Main File - Tweaks for TTW
-  - 
+
+-
 
 ## New Features
 

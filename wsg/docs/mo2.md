@@ -39,8 +39,8 @@ to open the Settings menu, and make the following changes:
   - [x] Compact list
   - [ ] Show menubar when pressing Alt
 - Theme tab:
-    - We suggest _dracula_, _VS15-Dark_ or _1809 Dark Mode_.
-    - Linux users should select _Fusion_.
+  - We suggest _dracula_, _VS15-Dark_ or _1809 Dark Mode_.
+  - Linux users should select _Fusion_.
 - Nexus tab:
   - Click _Connect to Nexus_ and follow the process, then close the browser
     and exit the MO2 settings menu. Allow MO2 to restart if asked.
@@ -51,14 +51,15 @@ to open the Settings menu, and make the following changes:
 
 Click the ![MO2 Profiles](../static/img/mo2%20profiles.webp) button at the top of MO2
 or press **Ctrl+P** to open the Profiles menu. Enable:
+
 - [x] Use profile-specific Game INI Files
-- [x] Automatic Archive Invalidation 
+- [x] Automatic Archive Invalidation
 
 ![MO2 Profile Settings](../static/img/mo2%20profile%20settings.webp)
 
 ## FalloutCustom.ini
 
-Click the ![MO2 INI Button](../static/img/mo2%20ini.png) button at the top of MO2 and select *INI Editor*.
+Click the ![MO2 INI Button](../static/img/mo2%20ini.png) button at the top of MO2 and select _INI Editor_.
 Paste the following into `FalloutCustom.ini`:
 
 ```ini showLineNumbers title="FalloutCustom.ini"

@@ -86,6 +86,14 @@ Main File - Washington's Malevolence TTW
 
 ## Player Homes
 
+### [Abandoned Safehouse TTW](https://www.nexusmods.com/newvegas/mods/74434)
+
+A player home located in Springvale by the Red Rocket Pitstop.
+
+#### Installation:
+
+Main File - Abandoned Safehouse TTW
+
 ### [Bonnie Springs Bunker](https://www.sublevel3.com/mmtv/fnv/ttw-bonnie-springs-bunker.html)
 
 Located behind the ruined house adjacent to Spring Mountain Ranch State Park, this is a simple, small player
@@ -196,62 +204,63 @@ Adds crafting stations and additional containers to several vanilla player homes
 #### Installation:
 
 Main File - Home and Safehouse Tweaks
-  - After install, double-click the mod and go to **INI Editor**. Paste in:
 
-  ```ini title="HomeandSafehouseTweaks.ini" showLineNumbers
-  [Misc Homes]
-  ; Enables crafting stations in the Vault 21 player room.
-  bVault21CraftingStations=1
-  ; Enables crafting stations in the Bon Vivant Suite.
-  bBonVivantSuiteCraftingStations=1
-  [Novac Room]
-  ; Enables crafting stations in Novac motel room.
-  bNovacCraftingStations=0
-  [Atomic Wrangler Corner Room]
-  ; Cleans up the damage to the room.
-  bCleanCornerRoom=1
-  ; Enables new containers and crafting stations.
-  bCornerRoomAdditions=1
-  [Ultra-Luxe Penthouse]
-  ; Enable optional crafting stations at the entrace of the Penthouse.
-  bCraftingStations=1
-  ; Enables extra containers for use with Stash Organizer.
-  bExtraContainers=1
-  [Lucky 38]
-  ; Main features. Removes damage and oxidation to Lucky 38 Casino Floor.
-  bNoLucky38CasinoDamage=1
-  ; Removes the interior fog from the Lucky 38 Casino Floor.
-  bNoLucky38CasinoFloorFog=1
-  ; Removes the interior fog from the Lucky 38 Presidential Suite.
-  bNoPresidentialFog=1
-  ; Removes the dust in the Lucky 38 Presidential Suite
-  bNoPresidentialDust=1
-  ; Enables some optional containers and crafting stations.
-  bContainersandCraftingStations=1
-  ; Restores the Lucky 38 Penthouse's cut climate.
-  bRestoreCutClimate=1
-  [The Tops]
-  ; Enables crafting stations in Tops High Roller Suite.
-  bTopsHighRollerSuiteCraftingStations=1
-  ; Enables crafting stations in Tops Presidential Suite.
-  bTopsPresidentialSuiteCraftingStations=1
-  [Safehouses]
-  ; Enables crafting stations in the Brotherhood Safehouse.
-  bBoSSafehouseCratingStations=0
-  ; Enables crafting stations in the Followers Safehouse.
-  bFollowersSafehouseCraftingStations=0
-  ; Enables crafting stations in the Legion Safehouse.
-  bLegionSafehouseCraftingStations=0
-  ; Enables crafting stations in the NCR Ranger Safehouse.
-  bNCRSafehouseCraftingStations=0
-  [Player Owns Companion Homes]
-  ; Own Boone's room at Novac.
-  bBoonesRoom=1
-  ; Own Raul's home.
-  bRaulsHome=1
-  ; Own Jericho's house.
-  bOwnJerichosHouse=1
-  ```
+- After install, double-click the mod and go to **INI Editor**. Paste in:
+
+```ini title="HomeandSafehouseTweaks.ini" showLineNumbers
+[Misc Homes]
+; Enables crafting stations in the Vault 21 player room.
+bVault21CraftingStations=1
+; Enables crafting stations in the Bon Vivant Suite.
+bBonVivantSuiteCraftingStations=1
+[Novac Room]
+; Enables crafting stations in Novac motel room.
+bNovacCraftingStations=0
+[Atomic Wrangler Corner Room]
+; Cleans up the damage to the room.
+bCleanCornerRoom=1
+; Enables new containers and crafting stations.
+bCornerRoomAdditions=1
+[Ultra-Luxe Penthouse]
+; Enable optional crafting stations at the entrace of the Penthouse.
+bCraftingStations=1
+; Enables extra containers for use with Stash Organizer.
+bExtraContainers=1
+[Lucky 38]
+; Main features. Removes damage and oxidation to Lucky 38 Casino Floor.
+bNoLucky38CasinoDamage=1
+; Removes the interior fog from the Lucky 38 Casino Floor.
+bNoLucky38CasinoFloorFog=1
+; Removes the interior fog from the Lucky 38 Presidential Suite.
+bNoPresidentialFog=1
+; Removes the dust in the Lucky 38 Presidential Suite
+bNoPresidentialDust=1
+; Enables some optional containers and crafting stations.
+bContainersandCraftingStations=1
+; Restores the Lucky 38 Penthouse's cut climate.
+bRestoreCutClimate=1
+[The Tops]
+; Enables crafting stations in Tops High Roller Suite.
+bTopsHighRollerSuiteCraftingStations=1
+; Enables crafting stations in Tops Presidential Suite.
+bTopsPresidentialSuiteCraftingStations=1
+[Safehouses]
+; Enables crafting stations in the Brotherhood Safehouse.
+bBoSSafehouseCratingStations=0
+; Enables crafting stations in the Followers Safehouse.
+bFollowersSafehouseCraftingStations=0
+; Enables crafting stations in the Legion Safehouse.
+bLegionSafehouseCraftingStations=0
+; Enables crafting stations in the NCR Ranger Safehouse.
+bNCRSafehouseCraftingStations=0
+[Player Owns Companion Homes]
+; Own Boone's room at Novac.
+bBoonesRoom=1
+; Own Raul's home.
+bRaulsHome=1
+; Own Jericho's house.
+bOwnJerichosHouse=1
+```
 
 ### [Dynamic Weapon Displays](https://www.nexusmods.com/newvegas/mods/73882)
 

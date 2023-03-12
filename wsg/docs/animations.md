@@ -2,9 +2,9 @@
 
 :::caution A Word About Animation Replacers
 
-Some of these mods can affect game balance by differing from vanilla attack speed and reload speed values. 
-They might also be distracting or look strange at high agility and/or with the _Rapid Reload_ perk. 
-If you encounter misaligned ironsights, such as with *Hit's Anims Season 1*, you can align them with 
+Some of these mods can affect game balance by differing from vanilla attack speed and reload speed values.
+They might also be distracting or look strange at high agility and/or with the _Rapid Reload_ perk.
+If you encounter misaligned ironsights, such as with _Hit's Anims Season 1_, you can align them with
 [ISControl Enabler](#iscontrol-enabler) by following the steps on the Nexus page.
 
 :::
@@ -35,7 +35,8 @@ in MO2's left pane (to overwrite).
 #### Installation:
 
 Main File - NVCS Installer
-  - In the prompt just click Install
+
+- In the prompt just click Install
 
 ## Recommended / Vanilla-Friendly
 

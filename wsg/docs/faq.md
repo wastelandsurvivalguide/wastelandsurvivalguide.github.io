@@ -8,7 +8,7 @@ If that still doesn't work, place a copy of your Steam.exe (a copy, not a shortc
 
 ### "Bouncing" NPCs
 
-To fix this issue, open **Tools > INI Editor** in MO2 and make sure you are in the **FalloutCustom.ini** 
+To fix this issue, open **Tools > INI Editor** in MO2 and make sure you are in the **FalloutCustom.ini**
 tab and NOT the **Custom.ini** tab. Paste in the following, then save and exit.
 
 ```ini
@@ -33,9 +33,9 @@ at this time. If using MO2 is a dealbreaker for you, we recommend <a href="https
 
 ### Game runs too fast
 
-If your game is moving too fast, double-click New Vegas Tick Fix (NVTF) and use 
+If your game is moving too fast, double-click New Vegas Tick Fix (NVTF) and use
 the **INI Editor** tab to make sure **iMaxFPSTolerance** is set to **500** in `NVTF.ini`.
-If that still doesn't fix it, verify that NVTF is actually working by using the console 
+If that still doesn't fix it, verify that NVTF is actually working by using the console
 command `IsDLLLoaded NVTF`.
 
 ### `IsDLLLoaded NVTF` reports `>> 0`
@@ -95,4 +95,4 @@ iSize H=1440
 ### What do these installation instructions mean?
 
 Review the [How to Install Mods](mo2#how-to-install-mods) section for how the guide presents
-instructions on both *Mod Manager Download* and *Manual Download* formats.
+instructions on both _Mod Manager Download_ and _Manual Download_ formats.

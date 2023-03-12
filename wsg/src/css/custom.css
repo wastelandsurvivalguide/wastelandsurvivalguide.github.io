@@ -4,40 +4,38 @@
  * work well for content-centric websites.
  */
 
-
 /* You can override the default Infima variables here. */
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 :root {
-    --ifm-font-family-base: 'Rubik', sans-serif;
-    --ifm-color-primary: #6b00d7;
-    --ifm-color-primary-dark: #6000c2;
-    --ifm-color-primary-darker: #5b00b7;
-    --ifm-color-primary-darkest: #4b0097;
-    --ifm-color-primary-light: #7600ed;
-    --ifm-color-primary-lighter: #7b00f7;
-    --ifm-color-primary-lightest: #8b19ff;
-    --ifm-background-color: #eef2ef;
-    --ifm-background-surface-color: #1aff80;
-    --ifm-code-font-size: 95%;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: "Rubik", sans-serif;
+  --ifm-color-primary: #6b00d7;
+  --ifm-color-primary-dark: #6000c2;
+  --ifm-color-primary-darker: #5b00b7;
+  --ifm-color-primary-darkest: #4b0097;
+  --ifm-color-primary-light: #7600ed;
+  --ifm-color-primary-lighter: #7b00f7;
+  --ifm-color-primary-lightest: #8b19ff;
+  --ifm-background-color: #eef2ef;
+  --ifm-background-surface-color: #1aff80;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
-
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 
 [data-theme="dark"] {
-    --ifm-color-primary: #1aff80;
-    --ifm-color-primary-dark: #00fd71;
-    --ifm-color-primary-darker: #00ef6a;
-    --ifm-color-primary-darkest: #00c558;
-    --ifm-color-primary-light: #36ff90;
-    --ifm-color-primary-lighter: #44ff97;
-    --ifm-color-primary-lightest: #6effaf;
-    --ifm-background-color: #282a36;
-    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #1aff80;
+  --ifm-color-primary-dark: #00fd71;
+  --ifm-color-primary-darker: #00ef6a;
+  --ifm-color-primary-darkest: #00c558;
+  --ifm-color-primary-light: #36ff90;
+  --ifm-color-primary-lighter: #44ff97;
+  --ifm-color-primary-lightest: #6effaf;
+  --ifm-background-color: #282a36;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
 pre {
-    max-height: 500px;
+  max-height: 500px;
 }

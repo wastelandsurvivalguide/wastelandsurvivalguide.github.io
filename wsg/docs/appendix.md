@@ -16,7 +16,7 @@ Bad modding information floating around the internet that you should be aware of
 
 ### [Incompatible Mods](incompatible)
 
-A *non-exhaustive* list of mods that are known to be incompatible with TTW (or outright broken).
+A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or outright broken).
 
 ### [LOD Guide](lod)
 
@@ -32,7 +32,7 @@ A list of popular modding tools and mod managers that should be avoided, and wha
 
 ### [xEdit - The Basics](xedit)
 
-All you need to know about xEdit as a beginner. 
+All you need to know about xEdit as a beginner.
 Required for things such as patching and The Method.
 
 ### [xEdit - The Method](themethod)

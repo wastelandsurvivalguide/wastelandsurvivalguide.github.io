@@ -170,7 +170,7 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   bModifyDirectXBehavior = 1
   ; Miscellaneous threading tweaks which improve overall performance. Settings are under [ThreadingTweaks].
   bEnableThreadingTweaks = 1
-  ; Used for debugging. Do not use unless you know what you're doing. 
+  ; Used for debugging. Do not use unless you know what you're doing.
   bAllowDirectXDebugging = 0
   [GTC]
   ; Allows you to run the game at framerates beyond 60 without encountering physics issues.
@@ -183,7 +183,7 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   [ThreadingTweaks]
   ; Improves overall performance.
   ;Setting this option to 2 will make the game smoother but potentially more unstable
-  iTweakRCSafeGuard = 1 
+  iTweakRCSafeGuard = 1
   ;Even more performance tweaks
   bTweakMiscRendererSafeGuard = 1
   ; Extra critical section tweaks.
@@ -212,10 +212,9 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   bResizeHashtables = 1
   ;Patches that I wouldn't call "proper fixes" but work
   [Hacks]
-  ;Patch for the water LOD bug 
+  ;Patch for the water LOD bug
   bWaterLODPatch = 1
   ```
-
 
 ### [ShowOff NVSE](https://www.nexusmods.com/newvegas/mods/72541)
 
