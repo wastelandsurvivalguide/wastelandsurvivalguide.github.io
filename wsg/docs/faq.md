@@ -92,10 +92,6 @@ iSize W=3440
 iSize H=1440
 ```
 
-### What does "Fonfig" mean?
-
-It's short for "Fonfiguration", duh.
-
 ### What do these installation instructions mean?
 
 Review the [How to Install Mods](mo2#how-to-install-mods) section for how the guide presents
