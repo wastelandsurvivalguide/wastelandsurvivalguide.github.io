@@ -19,7 +19,7 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: "wastelandsurvivalguide", // Usually your GitHub org/user name.
-    projectName: "wastelandsurvivalguide.github.io", // Usually your repo name.
+    projectName: "", // Usually your repo name.
     deploymentBranch: "gh-pages",
     trailingSlash: false,
 
@@ -121,22 +121,6 @@ const config = {
                         {
                             label: "Viva New Vegas",
                             href: "https://vivanewvegas.github.io/",
-                        },
-                    ],
-                },
-                {
-                    title: "Information",
-                    items: [{
-                            label: "Mods to Avoid",
-                            href: "https://vivanewvegas.github.io/avoid-mods.html",
-                        },
-                        {
-                            label: "Tools to Avoid",
-                            href: "https://vivanewvegas.github.io/avoid-tools.html",
-                        },
-                        {
-                            label: "Incompatible Mods",
-                            href: "https://taleoftwowastelands.com/viewtopic.php?t=6878",
                         },
                     ],
                 },
