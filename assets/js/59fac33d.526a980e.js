@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwsg=self.webpackChunkwsg||[]).push([[521],{8215:e=>{e.exports=JSON.parse('{"permalink":"/wastelandsurvivalguide/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":11,"nextPage":"/wastelandsurvivalguide/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
