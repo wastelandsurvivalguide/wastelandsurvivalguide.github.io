@@ -187,6 +187,7 @@ PlayerHomeUpgradesTTWReputationsPatch.esp
 SaveRestrictions.esp
 Supplemental Ammo Crafting.esp
 TTW FaceGen Fix.esp
+Tweaks TTW.esp
 CPI Icons.esp
 Skill Book Checklist.esp
 NPCsSprint.esp
