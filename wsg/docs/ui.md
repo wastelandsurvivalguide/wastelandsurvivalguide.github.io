@@ -45,17 +45,15 @@ Main File - yUI
 ```ini title="yUI.ini" showLineNumbers
 [General]
 ; fix the issue where items with different conditions would 'jump around' on update
-bSortingFix = 1
-; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI
-bSortingIcons = 1
-; match cursor color to HUD color
-bMatchingCursor = 1
-; fix the issue where items with different conditions would 'jump around' on update
 bFixIndefiniteSorting = 1
 ; fix the issue where Container Menu would display only a single dropped item at a time
 bFixDroppedItems = 1
 ; fix the issue where Inventory Menu tabline shows up with buttons already selected
 bFixTablineSelected = 1
+; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI installed unless you know what you are doing
+bSortingIcons = 1
+; match cursor color to HUD color
+bMatchingCursor = 1
 [Sorting and Icons]
 ; sort inventory according to tag names supplied in .json
 bSortInventory = 1
@@ -63,7 +61,7 @@ bSortInventory = 1
 bAddInventoryIcons = 1
 ; replace hotkey icons with ycons
 bReplaceHotkeyIcons = 1
-; enable keyring-like clickable categories (this destroys vanilla keyring)
+; enable keyring-like clickable categories (this destroys vanilla keyring, so you have to have .json files supplying a new keyring category, i.e. ySI.json)
 bEnableCategories = 1
 ```
 
