@@ -17,7 +17,7 @@
     --ifm-color-primary-light: #7600ed;
     --ifm-color-primary-lighter: #7b00f7;
     --ifm-color-primary-lightest: #8b19ff;
-    --ifm-background-color: #eef2ef;
+    --ifm-background-color: #e8f4ea;
     --ifm-background-surface-color: #1aff80;
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
@@ -40,4 +40,8 @@
 
 pre {
     max-height: 500px;
+}
+
+img {
+    border-radius: 5px;
 }

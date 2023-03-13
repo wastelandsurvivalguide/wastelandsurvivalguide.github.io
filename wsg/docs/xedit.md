@@ -1,5 +1,12 @@
 ﻿# xEdit: The Basics
 
+:::caution Temporary Migration Issue
+
+Some images still need to be re-added to this page. Next guide update will resolve this.
+Apologies for the inconvenience.
+
+:::
+
 ## Requirements
 
 ### xEdit

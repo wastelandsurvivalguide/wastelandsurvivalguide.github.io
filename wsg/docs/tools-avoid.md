@@ -18,9 +18,9 @@ Mod2.esp
 Mod3.esp
 ```
 
-In Mod Organizer 2, this is as simple as it gets - simply drag the files into the desired order.
-Vortex on the other hand provides no way to simply do this, instead relying on an overly complex and
-frequently confusing system of "rules" which need to be paintakingly created one-at-a-time.
+In Mod Organizer 2, this is as easy as it gets - simply drag the files into the desired order.
+Vortex, on the other hand, provides no  straightforward way to do this. Instead it relies an on overly
+complex and frequently confusing system of "rules" which need to be paintakingly created one-at-a-time.
 
 This conflict management system is cumbersome and inconvenient enough to be a dealbreaker when it comes 
 to the kind of workflow we are aiming for, where we have granular control over our game and the order in

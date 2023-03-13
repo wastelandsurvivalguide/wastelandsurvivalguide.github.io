@@ -1,5 +1,12 @@
 ﻿# xEdit: The Method
 
+:::caution Temporary Migration Issue
+
+Some images still need to be re-added to this page. Next guide update will resolve this.
+Apologies for the inconvenience.
+
+:::
+
 ## Requirements
 
 - **Mod Organizer 2**: Preferably the Alpha 3 of version 2.4.5, which you can download in the release channel of the [MO2 Discord server](https://discord.gg/6GKR9jZ). Vortex is simply too slow and the way it handles load order just makes The Method a pain. In case you don't want to use the MO2 Alpha, keep in mind that plugins in your LO that are written in bold text (meaning they are ESM) will often have to be pushed manually for them to appear in their correct position, which is always above non-ESM plugins. This version also fixes the bug with the loadorder.txt file being reset to alphabetical order randomly. Basic knowledge of the tool is required since going into specific steps for everything would make this guide too long.

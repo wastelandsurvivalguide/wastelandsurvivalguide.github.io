@@ -4,6 +4,7 @@ import TabItem from '@theme/TabItem';
 # Game Setup
 
 Before we can proceed with the guide, a **clean installation** is required for both Fallout NV and Fallout 3.
+
 :::tip Video Walkthrough Available
 
 A [YouTube video](https://youtu.be/I7yfNSFVyx4) covering the steps in this section is available.
@@ -23,6 +24,7 @@ By default, file extensions (such as .ini, .dll, or .esp) are hidden in Windows 
 which will make distinguishing between files more difficult. Open File Explorer from the Start Menu,
 from your desktop, or with the keyboard shortcut **Win + E**, and select
 **View > Show > File name extensions** to disable this behaviour.
+
 ![Show file extensions in File Explorer](../static/img/show%20file%20extensions.webp)
 
 ## Uninstalling the Games
