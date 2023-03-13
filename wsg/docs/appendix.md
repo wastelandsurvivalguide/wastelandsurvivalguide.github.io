@@ -1,8 +1,4 @@
-﻿---
-displayed_sidebar: appendixSidebar
----
-
-# Appendix
+﻿# Appendix
 
 ## [Contributors](contributors)
 

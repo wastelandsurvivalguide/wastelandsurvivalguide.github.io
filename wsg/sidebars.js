@@ -30,29 +30,46 @@ const sidebars = {
            */
     sidebar: [
         "intro",
-        "setup",
-        "mo2",
-        "ttw",
-        "utilities",
-        /* ----------------- */
-        "ui",
-        "gameplay",
-        "content",
-        "overhauls",
-        "visuals",
-        "animations",
+        {
+            type: 'category',
+            label: 'Core Guide',
+            collapsed: false,
+            items: ["setup",
+                "mo2",
+                "ttw",
+                "utilities",
+            ],
+        },
+
+        {
+            type: 'category',
+            label: 'Modding Guide',
+            collapsed: false,
+            items: ["ui",
+                "gameplay",
+                "content",
+                "overhauls",
+                "visuals",
+                "animations",
+            ],
+        },
         "finish",
         "faq",
-    ],
-    appendixSidebar: [
-        "contributors",
-        "dogma",
-        "incompatible",
-        "lod",
-        "mods-avoid",
-        "tools-avoid",
-        "xedit",
-        "themethod",
+        {
+            type: 'category',
+            label: 'Appendix',
+            items: [
+                "contributors",
+                "dogma",
+                "incompatible",
+                "lod",
+                "mods-avoid",
+                "tools-avoid",
+                "xedit",
+                "themethod",
+            ],
+        },
+
     ],
 };
 

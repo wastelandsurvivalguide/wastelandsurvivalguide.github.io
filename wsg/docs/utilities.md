@@ -150,7 +150,7 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
 #### Installation:
 
 - Main File - NVTF
-  - After installation, double-click NVTF and go to **INI Editor** tab. Paste in:
+  - After installation, double-click NVTF and go to **INI Files** tab. Paste in:
   ```ini title="NVTF.ini" showLineNumbers
   ;This plugin now requires Windows 7 or above.
   ;Only enable options if you know what you're doing.
