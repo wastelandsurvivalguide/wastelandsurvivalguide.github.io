@@ -208,11 +208,16 @@ Main File - Home and Safehouse Tweaks
 - After install, double-click the mod and go to **INI Editor**. Paste in:
 
 ```ini title="HomeandSafehouseTweaks.ini" showLineNumbers
+[Options]
+; Grants ownership over various cells.
+bPlayerOwnsHomes=1
+; Syncs cell names to various map markers.
+bSyncMapMarkerNamesToCustomCellNames=0
 [Misc Homes]
 ; Enables crafting stations in the Vault 21 player room.
-bVault21CraftingStations=1
+bVault21CraftingStations=0
 ; Enables crafting stations in the Bon Vivant Suite.
-bBonVivantSuiteCraftingStations=1
+bBonVivantSuiteCraftingStations=0
 [Novac Room]
 ; Enables crafting stations in Novac motel room.
 bNovacCraftingStations=0
@@ -223,9 +228,9 @@ bCleanCornerRoom=1
 bCornerRoomAdditions=1
 [Ultra-Luxe Penthouse]
 ; Enable optional crafting stations at the entrace of the Penthouse.
-bCraftingStations=1
+bCraftingStations=0
 ; Enables extra containers for use with Stash Organizer.
-bExtraContainers=1
+bExtraContainers=0
 [Lucky 38]
 ; Main features. Removes damage and oxidation to Lucky 38 Casino Floor.
 bNoLucky38CasinoDamage=1
@@ -243,7 +248,7 @@ bRestoreCutClimate=1
 ; Enables crafting stations in Tops High Roller Suite.
 bTopsHighRollerSuiteCraftingStations=1
 ; Enables crafting stations in Tops Presidential Suite.
-bTopsPresidentialSuiteCraftingStations=1
+bTopsPresidentialSuiteCraftingStations=0
 [Safehouses]
 ; Enables crafting stations in the Brotherhood Safehouse.
 bBoSSafehouseCratingStations=0
