@@ -19,6 +19,6 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: ( cd wsg && npm ci )
       - name: Test build website
-        run: ( cd wsg && npm run build )
+        run: npm run build
