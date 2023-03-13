@@ -22,7 +22,9 @@ nearly everything there with the exception of **AnhNVSE**.
 
 ## Requirements
 
-- Legal **English** copies of both Fallout 3 and New Vegas with **all DLCs** on either Steam, GOG or Epic Game Store.
+- Legal **English** copies of both [Fallout 3](https://gg.deals/pack/fallout-3-game-of-the-year-edition/) 
+and [New Vegas](https://gg.deals/pack/fallout-new-vegas-ultimate-edition/) with **all DLCs** on either 
+Steam, GOG or Epic Game Store.
   - GoTY/Ultimate edition is **not** a factor so long as you have all of the DLCs for both games.
   - You may "mix and match" Steam, GOG and Epic versions; e.g. FO3 on Epic and FNV on Steam is supported.
   - Xbox Game Pass version is **not supported** (unmoddable).

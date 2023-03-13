@@ -136,4 +136,5 @@ Reanimates all animations for all two-handed melee weapon in the game.
 
 #### Installation:
 
-Main File - 2. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)
+- Main File - 2. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)
+- Update File - Update 1.0.1
