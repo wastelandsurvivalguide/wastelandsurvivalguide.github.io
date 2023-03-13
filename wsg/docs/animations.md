@@ -24,6 +24,7 @@ Main File - ISControl
 
 A skeleton with compatibility for the latest mods. The only mod in this guide
 using it is the next mod, [B42 Weapon Inertia](#b42-weapon-inertia).
+
 :::tip Other Compatibility Skeleton Mods
 
 You may encounter another mod which lists Compatibility Skeleton as a requirement.

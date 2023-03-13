@@ -1,4 +1,7 @@
-﻿# User Interface & HUD
+﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
+
+# User Interface & HUD
 
 ## Core HUD/UI Mods
 
@@ -71,7 +74,21 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 #### Installation:
 
 - Main File - Clean Vanilla Hud
-  - [Use these settings](./img/clean.png) in the FOMOD installer
+  - Main Mod:
+    - [x] Main Files
+    - [x] Clean Fonts
+    - [x] Clean Map Icons
+    - [x] Clean Radiation Bar
+    - [x] Clean Shared Interface
+  - Clean Roulette Loading Wheel:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
+  - Patches:
+    - [x] Vanilla UI+ Patch
+    - [x] I am not a Height Indicator User
+    - [x] Alternative Just Hit Indicator
+    - [ ] Clean Fonts for DarnUI
 - Optional File - Cursor Unilaterally Matched - Patch
   - You do **not** need to install "Cursor Unilaterally Matched";
     it is already built into [yUI](#yui---user-ynterface).
@@ -147,7 +164,7 @@ Main File - Simplified FO4 HUD
 
 ### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
 
-Removes message boxes that pop up during the Guide, as well as those that occur once
+Removes message boxes that pop up during the tutorial, as well as those that occur once
 during a new game, and repeating corner-messages.
 
 #### Installation:
@@ -157,8 +174,8 @@ Main File - Tutorial Killer
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
 Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
-management. Requires enabling `bSortingIcons = 1` in **yUI.ini**, which has been done for
-you already in the **yUI Fonfig** provided above.
+management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
+(it should be if following the guide).
 
 #### Installation:
 

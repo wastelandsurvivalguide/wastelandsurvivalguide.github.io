@@ -7,9 +7,9 @@ Fallout New Vegas or Tale of Two Wastelands, an explanation of the issue(s), and
 
 ### Vortex
 
-Vortex features a convoluted and inconvenient conflict-management system that simply isn't compatible
-with how load orders and other information are shared among the modding community. For example, imagine
-that we have been instructed to apply the following load order:
+Vortex features a convoluted and inconvenient conflict management system that simply isn't compatible
+with how the modding community shares load orders. For example, imagine that we have been instructed 
+to apply the following load order:
 
 ```txt showLineNumbers
 FalloutNV.esp
@@ -20,11 +20,11 @@ Mod3.esp
 
 In Mod Organizer 2, this is as simple as it gets - simply drag the files into the desired order.
 Vortex on the other hand provides no way to simply do this, instead relying on an overly complex and
-frequently confusing system of "rules" which need to be created. This conflict management system is
-cumbersome and inconvenient enough to be a dealbreaker when it comes to the kind of workflow and
-environment we are trying to establish, and for the level of granular control we need to have over
-our game and the order in which it loads content. Additionally, Vortex doesn't track generated files,
-and can be slow compared to MO2.
+frequently confusing system of "rules" which need to be paintakingly created one-at-a-time.
+
+This conflict management system is cumbersome and inconvenient enough to be a dealbreaker when it comes 
+to the kind of workflow we are aiming for, where we have granular control over our game and the order in
+which it loads content. Additionally, Vortex doesn't track generated files, and is slower than MO2.
 
 ![Vortex moment](https://cdn.discordapp.com/attachments/267355049666019329/1084050657574658068/unknown.jpg)
 _This mind-bending web of nightmares is what Vortex considers conflict resolution_
@@ -33,7 +33,7 @@ _This mind-bending web of nightmares is what Vortex considers conflict resolutio
 
 Outdated/abandoned, NMM/FOMM have no virtual file system or even dynamic movement of mods with loose files.
 
-### Mod Organizer 1:
+### Mod Organizer 1
 
 There is no reason to use Mod Organizer 1 over Mod Organizer 2.
 
@@ -49,12 +49,12 @@ when MO2 is in TTW mode, for good reason!
 These programs are fully automated and will never be fully accurate. They will solve things that they
 may see as conflicts, but it reality they are intentional overwrites. They will also often miss critical conflicts.
 
-### zEdit/zClean:
+### zEdit/zClean
 
 Neither have any real advantages over [xEdit](https://www.nexusmods.com/newvegas/mods/34703), and lack some essential
 features/support than xEdit has.
 
-### Merge Plugins Standalone/zMerge:
+### Merge Plugins Standalone/zMerge
 
 Automated merging can potentially cause major breakage in mods, especially heavily-scripted ones.
 

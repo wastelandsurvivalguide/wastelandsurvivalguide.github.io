@@ -10,6 +10,9 @@ Everything _past_ that point is included for the purposes of customization, and 
 mods (or entire sections) at your leisure. When you are done installing mods, no matter how many
 you chose to install or skip, you must also complete the [Final Steps](finish) section.
 
+You don't need any prior modding experience to follow the guide, but you will need a basic level
+of competence using a computer, and to carefully read and follow all instructions.
+
 :::info Continuing from _The Best of Times_?
 
 If you are continuing from the official [**TTW Installation Guide**](https://thebestoftimes.github.io/),
