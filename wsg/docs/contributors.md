@@ -23,7 +23,7 @@
 - [c6](https://ko-fi.com/c6_dev)
 - [Demorome](https://github.com/Demorome)
 - [DoctorTalos](#)
-- [Firebole](https://www.nexusmods.com/newvegas/mods/78156)
+- [Firebole](https://www.nexusmods.com/newvegas/users/35544635)
 - [Galois Girl](#)
 - [jazzisparis](https://github.com/jazzisparis)
 - [Kormákur/korri123](https://github.com/korri123)

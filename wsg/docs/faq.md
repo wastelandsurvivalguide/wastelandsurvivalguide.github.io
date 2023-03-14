@@ -1,4 +1,7 @@
-﻿# Frequently Asked Questions
+﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
+
+# Frequently Asked Questions
 
 ### Application Load Error 5:0000065434
 
@@ -35,9 +38,27 @@ at this time. If using MO2 is a dealbreaker for you, we recommend
 ### DarN instead of VUI+
 
 If you want to use [DarNified UI](https://www.moddb.com/mods/unofficial-darnified-ui-update)
-instead of Vanilla UI Plus, you will need to uninstall any WSG mods which are only compatible
-with VUI+, such as [Clean Vault Boy Paper Doll](ui#clean-vanilla-hud). We will try update this
-FAQ entry with an exhaustive list when time allows.
+instead of Vanilla UI Plus, you will need to make the following changes:
+- Reinstall [Clean Vanilla HUD](ui#clean-vanilla-hud) with these alternative settings:
+  - Main Mod:
+    - [x] Main Files
+    - [ ] Clean Fonts
+    - [x] Clean Map Icons
+    - [ ] Clean Radiation Bar
+    - [x] Clean Shared Interface
+  - Clean Roulette Loading Wheel:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
+  - Patches:
+    - [ ] Vanilla UI+ Patch
+    - [x] I am not a Height Indicator User
+    - [x] Alternative Just Hit Indicator
+    - [x] Clean Fonts for DarnUI
+- Uninstall the following mods as they aren't compatible with DarN UI:
+  - [Clean Vault Boy Paper Doll](ui#clean-vanilla-hud)
+  - [Simplified FO4 HUD](ui#simplified-fo4-hud)
+  - [Three-perk Bounty](overhauls#three-perk-bounty)
 
 ### Game runs too fast
 
