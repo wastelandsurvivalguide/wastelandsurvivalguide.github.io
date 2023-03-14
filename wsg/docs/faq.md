@@ -28,14 +28,15 @@ fOriginalGroundHeightMS=0
 <p>The guide is oriented completely towards MO2 and takes advantage of a number of its exclusive features.
 We are neither willing nor able to provide support for Vortex, as nobody in the modding community uses it. 
 You should use whatever mod manager you like, but asking for Vortex support on the Discord is not permitted
-at this time. If using MO2 is a dealbreaker for you, we recommend <a href="https://youtu.be/Zts-tF0nYIk" target="_blank">Gopher's video tutorial</a> instead of this guide.</p>
+at this time. If using MO2 is a dealbreaker for you, we recommend 
+<a href="https://youtu.be/Zts-tF0nYIk" target="_blank">Gopher's video tutorial</a> instead of this guide.</p>
 </details>
 
 ### DarN instead of VUI+
 
 If you want to use [DarNified UI](https://www.moddb.com/mods/unofficial-darnified-ui-update)
-instead of Vanilla UI Plus, you will need to install any WSG mods which are only compatible 
-with VUI+, such as [Clean Vault Boy Paper Doll](ui#clean-vanilla-hud). We will try update this 
+instead of Vanilla UI Plus, you will need to uninstall any WSG mods which are only compatible
+with VUI+, such as [Clean Vault Boy Paper Doll](ui#clean-vanilla-hud). We will try update this
 FAQ entry with an exhaustive list when time allows.
 
 ### Game runs too fast
