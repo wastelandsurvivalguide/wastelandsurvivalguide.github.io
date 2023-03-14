@@ -88,6 +88,7 @@ Badmothafucka.esm
 NewVegasKiller.esm
 Simple Open Freeside - TTW + Uncut Wasteland + NVBI LE Patch.esm
 SOF-NVBILE Patch.esm
+Tweaks TTW.esm
 TTW 3.3.2 Hotfix.esp
 The Mod Configuration Menu.esp
 DarNifiedUINV.esp
@@ -184,10 +185,11 @@ S6S Perks.esp
 PAVE_NV_TTW.esp
 Rebuild the Capital-PAVE.esp
 PlayerHomeUpgradesTTWReputationsPatch.esp
+Goodsprings and Powder Gangers Truce.esp
+House and NCR Truce FPGE Patch.esp
 SaveRestrictions.esp
 Supplemental Ammo Crafting.esp
 TTW FaceGen Fix.esp
-Tweaks TTW.esp
 CPI Icons.esp
 Skill Book Checklist.esp
 NPCsSprint.esp
