@@ -1,6 +1,4 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require("prism-react-renderer/themes/nightOwlLight");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
@@ -9,26 +7,15 @@ const config = {
     title: "Wasteland Survival Guide",
     tagline: "A Tale of Two Wastelands Modding Guide",
     favicon: "img/favicon.ico",
-
-    // Set the production url of your site here
     url: "https://wastelandsurvivalguide.com",
-    // Set the /<baseUrl>/ pathname under which your site is served
-    // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: "/",
-
-    // GitHub pages deployment config.
-    // If you aren't using GitHub pages, you don't need these.
-    organizationName: "wastelandsurvivalguide", // Usually your GitHub org/user name.
-    projectName: "wastelandsurvivalguide.github.io", // Usually your repo name.
+    organizationName: "wastelandsurvivalguide",
+    projectName: "wastelandsurvivalguide.github.io",
     deploymentBranch: "gh-pages",
     trailingSlash: false,
-
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
 
-    // Even if you don't use internalization, you can use this field to set useful
-    // metadata like html lang. For example, if your site is Chinese, you may want
-    // to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: "en",
         locales: ["en"],
@@ -43,14 +30,10 @@ const config = {
                     path: "docs",
                     routeBasePath: "docs",
                     sidebarPath: require.resolve("./sidebars.js"),
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
-                    editUrl: 'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/edit/main/',
+                    editUrl: "https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/edit/main/",
                 },
                 blog: {
                     showReadingTime: false,
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
                     //editUrl: 'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/',
                 },
                 theme: {
@@ -63,9 +46,7 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-        stylesheets: [
-            "https://fonts.googleapis.com/icon?family=Material+Icons",
-        ],
+        stylesheets: ["https://fonts.googleapis.com/icon?family=Material+Icons"],
         // algolia: {
         //     appId: 'PGDR3J962U',
         //     apiKey: 'a62240650a1665512559c9fd6006d035',
@@ -80,7 +61,6 @@ const config = {
                 hideable: true,
             },
         },
-        // Replace with your project's social card
         image: "img/social.png",
         navbar: {
             title: "Wasteland Survival Guide",
@@ -150,7 +130,7 @@ const config = {
                     ],
                 },
             ],
-            //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Wasteland Survival Guide`,
         },
         prism: {
             theme: lightCodeTheme,
