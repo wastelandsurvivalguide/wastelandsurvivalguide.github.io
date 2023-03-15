@@ -18,7 +18,7 @@ Select _TTW_ from the list of games, then click _Next_:
 ![Choose TTW from list of games](../static/img/mo2%20ttw.webp)
 
 If TTW is not in the list, you very likely forgot to run New Vegas and/or Fallout 3 once through Steam/GOG,
-during the[Generating Fresh .INI Files](setup#generating-fresh-ini-files) step.
+during the [Generating Fresh .INI Files](setup#generating-fresh-ini-files) step.
 
 Leave the _Location_ file path default and click _Next >_, then _Finish_. Say _No_ to the _Show Guide?_
 pop-up, then say _Yes_ to the _Register_ pop-up (if you receive one). If at any point you
