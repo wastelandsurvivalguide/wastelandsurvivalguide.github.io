@@ -66,11 +66,11 @@ const config = {
         stylesheets: [
             "https://fonts.googleapis.com/icon?family=Material+Icons",
         ],
-        algolia: {
-            appId: 'PGDR3J962U',
-            apiKey: 'a62240650a1665512559c9fd6006d035',
-            indexName: 'wastelandsurvivalguide',
-        },
+        // algolia: {
+        //     appId: 'PGDR3J962U',
+        //     apiKey: 'a62240650a1665512559c9fd6006d035',
+        //     indexName: 'wastelandsurvivalguide',
+        // },
         colorMode: {
             defaultMode: "dark",
             respectPrefersColorScheme: true,
