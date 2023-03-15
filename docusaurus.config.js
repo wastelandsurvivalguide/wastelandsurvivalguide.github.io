@@ -66,35 +66,35 @@ const config = {
         stylesheets: [
             "https://fonts.googleapis.com/icon?family=Material+Icons",
         ],
-        algolia: {
-            // The application ID provided by Algolia
-            appId: 'PGDR3J962U',
+        // algolia: {
+        //     // The application ID provided by Algolia
+        //     appId: 'PGDR3J962U',
 
-            // Public API key: it is safe to commit it
-            apiKey: 'a62240650a1665512559c9fd6006d035',
+        //     // Public API key: it is safe to commit it
+        //     apiKey: 'a62240650a1665512559c9fd6006d035',
 
-            indexName: 'wastelandsurvivalguide',
+        //     indexName: 'wastelandsurvivalguide',
 
-            // Optional: see doc section below
-            //contextualSearch: true,
+        //     // Optional: see doc section below
+        //     //contextualSearch: true,
 
-            // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-            //externalUrlRegex: 'external\\.com|domain\\.com',
+        //     // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        //     //externalUrlRegex: 'external\\.com|domain\\.com',
 
-            // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-            // replaceSearchResultPathname: {
-            //     from: '/docs/', // or as RegExp: /\/docs\//
-            //     to: '/',
-            // },
+        //     // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        //     // replaceSearchResultPathname: {
+        //     //     from: '/docs/', // or as RegExp: /\/docs\//
+        //     //     to: '/',
+        //     // },
 
-            // Optional: Algolia search parameters
-            //searchParameters: {},
+        //     // Optional: Algolia search parameters
+        //     //searchParameters: {},
 
-            // Optional: path for search page that enabled by default (`false` to disable it)
-            //searchPagePath: 'search',
+        //     // Optional: path for search page that enabled by default (`false` to disable it)
+        //     //searchPagePath: 'search',
 
-            //... other Algolia params
-        },
+        //     //... other Algolia params
+        // },
         colorMode: {
             defaultMode: "dark",
             respectPrefersColorScheme: false,
