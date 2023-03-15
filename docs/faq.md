@@ -69,7 +69,7 @@ command `IsDLLLoaded NVTF`.
 
 ### I found a mistake in the guide
 
-Please cLick the "Edit this page" link at the bottom and submit a pull request with the necessary changes.
+Please click the "Edit this page" link at the bottom and submit a pull request with the necessary changes.
 Thanks for helping out!
 
 ### `IsDLLLoaded NVTF` reports `>> 0`
