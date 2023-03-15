@@ -73,7 +73,7 @@ const config = {
         },
         colorMode: {
             defaultMode: "dark",
-            respectPrefersColorScheme: false,
+            respectPrefersColorScheme: true,
         },
         docs: {
             sidebar: {
