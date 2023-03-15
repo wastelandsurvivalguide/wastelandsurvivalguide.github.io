@@ -10,6 +10,22 @@ are looking to add to your game.
 
 ## Visual Improvements
 
+### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
+
+Significantly improves performance on the New Vegas strip by removing unseen water LOD.
+
+#### Installation:
+
+Main File - Strip Performance Fix
+
+### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
+
+Fixes alpha rendering issues related to transparency multisampling.
+
+#### Installation:
+
+Main File - Fallout Alpha Rendering Tweaks
+
 ### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
@@ -50,7 +66,15 @@ Makes distant land textures less ugly.
 
 Main File - Improved LOD noise Texture
 
-### [Mostly Fixed Facegen Tints TTW](https://www.nexusmods.com/newvegas/mods/71577)
+### [Metro Map Replacer](https://taleoftwowastelands.com/viewtopic.php?f=55&t=7779)
+
+Texture replacers for the underground metro maps, making them actually useful for navigation.
+
+#### Installation:
+
+Main File - Metro Map Replacer
+
+### [Mostly Fixed Facegen Tints](https://www.nexusmods.com/newvegas/mods/71577)
 
 Removes unsightly green tint from NPC face textures.
 

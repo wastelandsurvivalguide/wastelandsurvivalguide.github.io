@@ -1,12 +1,5 @@
 ﻿# xEdit: The Basics
 
-:::caution Temporary Migration Issue
-
-Some images still need to be re-added to this page. Next guide update will resolve this.
-Apologies for the inconvenience.
-
-:::
-
 ## Requirements
 
 ### xEdit
@@ -67,8 +60,12 @@ the next picture, the record I expanded has the FormID `1200186D`, so that plugi
 but also the fact that it has no color, so it is completely unique to that plugin and no other
 plugin in the load order has overridden it.
 
+![Index example](../static/img/indexexample.png)
+
 But if I select an override in that same plugin you will see a different index, since that record in
 green was first created by the plugin that has index 06, which is `Fallout3.esm`.
+
+![Index example 2](../static/img/indexexample2.png)
 
 You cannot patch or edit everything with xEdit. Records involving **navmeshes**, **scripts**,
 **quest stages**, and **terrain** all need to be modified through GECK since they rely on the render
@@ -82,11 +79,15 @@ xEdit.
 
 1. Start by loading the base plugins for TTW
 
+![Example Loading Plugins](../static/img/exampleloading.png)
+
 1. Once everything has loaded (The tips will go away) you can start looking for that gun by using
    the xEdit filter, just right-click any plugin on the tree-view (List on the left) and selecting
    "**Apply Filter**". This will open a menu with all sorts of criteria to filter by, but first you
    need to uncheck all the boxes it has selected by default, then we will proceed with our own custom
    filter that will find the weapon.
+
+![Example Filtering](../static/img/examplefilter.png)
 
 Now apply the filter and you will be presented will all the plugins that have created or overridden
 a record going by that name and record type you filtered. In this case the filter found multiple
@@ -99,6 +100,8 @@ To make a new plugin, select `**<new file>.esp**` in the prompt, then name it. O
 will see your plugin appear at the bottom of the tree-view and a new override appearing in the
 record you opened in the right pane. Let's also filter for "damage" on the top left of the right
 pane, so that we can see where damage is defined in that record.
+
+![Example Override](../static/img/exampleoverride.png)
 
 Now you can just edit that number (Right-click, edit) in your plugin. The plugin that are you
 changing is dictated by the column you choose to edit values in. Once you are done, just close xEdit
