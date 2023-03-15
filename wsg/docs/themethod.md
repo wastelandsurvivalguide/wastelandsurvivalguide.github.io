@@ -1,12 +1,5 @@
 ﻿# xEdit: The Method
 
-:::caution Temporary Migration Issue
-
-Some images still need to be re-added to this page. Next guide update will resolve this.
-Apologies for the inconvenience.
-
-:::
-
 ## Requirements
 
 - **Mod Organizer 2**: Preferably the Alpha 3 of version 2.4.5, which you can download in the release channel of the [MO2 Discord server](https://discord.gg/6GKR9jZ). Vortex is simply too slow and the way it handles load order just makes The Method a pain. In case you don't want to use the MO2 Alpha, keep in mind that plugins in your LO that are written in bold text (meaning they are ESM) will often have to be pushed manually for them to appear in their correct position, which is always above non-ESM plugins. This version also fixes the bug with the loadorder.txt file being reset to alphabetical order randomly. Basic knowledge of the tool is required since going into specific steps for everything would make this guide too long.
@@ -31,10 +24,14 @@ In order to make sure that all conflicts between your plugins are intended and/o
 
    1. Load up xEdit with VQSC.
 
+   ![TTW Conflicts](../static/img/ttwconflicts.png)
+
 1. Since the mod is obviously intended to edit the base game plugins, nothing needs patching here.
 1. Now create a ModGroup for all these plugins by highlighting them (CTRL+A), right-clicking and then selecting the "Create ModGroup" option.
 1. When asked to include the current CRC32s, always click **Yes**
 1. In this menu you can name your ModGroup and assign tags to each plugin involved (Explained below). The fastest way to name it would be to select the mod you just enabled (In this case TTW) and then pressing CTRL+N
+
+![TTW ModGroup](../static/img/ttwconflictsmg.png)
 
 1. Then you can store the ModGroup in TaleOfTwoWastelands.esm or YUPTTW.esm. Storing it just means that whenever that plugin is loaded then the statement will be used.
 1. The ModGroup you just created will appear in the **Overwrite** folder in MO2, simply take that file and drag it to the corresponding mod, which is Tale Of Two Wastelands in this case.
@@ -68,8 +65,14 @@ In short, the process from this point on is this: (Detailed instructions and exa
 1. Since there is a TTW patch available, i enable that on top of the main mod plugin, then i load up VQSC.
 1. Here you can see that the remaining conflicts are only between the main mod plugin and TTW, but since i already have a patch taking care of this, then it means that the remaining conflict is already taken care of and you can safely hide it via ModGroup.
 
+![Modgroup Example](../static/img/mgexample.png)
+
 1. Expand any of the record in either plugin, then once it is open, right-click the top right of the plugin name to create a new ModGroup for that specific combination of plugins conflicting as shown in the record you opened.
 
+![Modgroup Example 2](../static/img/mgexample2.png)
+
 1. Now name your new ModGroup just like before, but since this one is more specific, i suggest you start creating your own naming scheme for combinations or you just use mine, which is the name of the main plugin from the mod you just enabled + the name of the plugin you are ModGrouping against, as shown in the picture.
+
+![Modgroup Example 3](../static/img/mgexample3.png)
 
 1. Now that the ModGroup is done, you can check if it's working by closing and opening xEdit with VQSC again or by right-clicking on the xEdit tree-view while it is still open and removing the applied filter, then right-clicking anywhere on the tree-view and applying a filter for conflicts. If no conflicts are showing then you hid the previous ones correctly and you can keep ModGrouping your mods
