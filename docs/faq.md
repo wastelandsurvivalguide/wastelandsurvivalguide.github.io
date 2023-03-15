@@ -67,6 +67,11 @@ the **INI Editor** tab to make sure **iMaxFPSTolerance** is set to **500** in `N
 If that still doesn't fix it, verify that NVTF is actually working by using the console
 command `IsDLLLoaded NVTF`.
 
+### I found a mistake in the guide
+
+Please cLick the "Edit this page" link at the bottom and submit a pull request with the necessary changes.
+Thanks for helping out!
+
 ### `IsDLLLoaded NVTF` reports `>> 0`
 
 Install the [DirectX Runtime Libraries](intro#requirements).
