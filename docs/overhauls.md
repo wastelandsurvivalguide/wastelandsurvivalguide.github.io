@@ -33,8 +33,6 @@ the first time; optionally confiscates gear as well.
 - Main File - Benny Humbles You and Steals Your Stuff
   - After install, double-click (Benny Humbles You) and Steals Your Stuff in the left pane, choose INI
     Files & configure the mod to your preferences
-- Patch File - [Benny Humbles You and Steals Your Stuff - TTW
-  Patch](https://www.nexusmods.com/newvegas/mods/77945)
 - Recommended Optional File - [Nail Gun Semi Auto
   Rework](https://www.nexusmods.com/newvegas/mods/74465)
 
