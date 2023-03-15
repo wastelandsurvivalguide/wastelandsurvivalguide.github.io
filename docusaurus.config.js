@@ -68,7 +68,7 @@ const config = {
         ],
         algolia: {
             appId: 'PGDR3J962U',
-            apiKey: '888c9997189cf835adc2cbf8294b638e',
+            apiKey: 'a62240650a1665512559c9fd6006d035',
             indexName: 'wastelandsurvivalguide',
         },
         colorMode: {
