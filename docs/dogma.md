@@ -1,4 +1,5 @@
 ﻿# Dangerous Dogma
+---
 
 The goal with this page is to collect all the dangerous information shared over the years about anything related to modding in general but also specifically Fallout New Vegas and Tale of Two Wastelands. The main sources are sadly often the most popular ones, such as YouTube videos that keep getting recommended or posts on site like Nexus or Reddit.
 

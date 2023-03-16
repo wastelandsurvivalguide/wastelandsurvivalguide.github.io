@@ -2,6 +2,7 @@
 import TabItem from '@theme/TabItem';
 
 # Game Setup
+---
 
 Before we can proceed with the guide, a **clean installation** is required for both Fallout NV and Fallout 3.
 

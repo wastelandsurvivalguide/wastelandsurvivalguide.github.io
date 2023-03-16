@@ -1,4 +1,5 @@
 ﻿# Mods to Avoid
+---
 
 In this section we will go list some of the popular mods that shouldn't be used for Fallout New Vegas or
 Tale of Two Wastelands, along with an explanation of the issue(s), and what to use instead.

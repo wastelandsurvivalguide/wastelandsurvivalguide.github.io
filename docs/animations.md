@@ -1,5 +1,5 @@
 ﻿# Animations
-
+---
 :::caution A Word About Animation Replacers
 
 Some of these mods can affect game balance by differing from vanilla attack speed and reload speed values.

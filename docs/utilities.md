@@ -1,4 +1,5 @@
 ﻿# Utilities
+---
 
 In this section we will install a multitude of required tools and mods. It's very important not to skip anything on this page,
 with the sole exception of the totally optional _Discord Rich Presence_.

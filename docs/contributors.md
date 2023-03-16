@@ -1,4 +1,5 @@
 ﻿# Contributors
+---
 
 ### The WSG Team
 

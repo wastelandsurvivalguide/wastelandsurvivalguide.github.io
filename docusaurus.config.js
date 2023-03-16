@@ -66,7 +66,7 @@ const config = {
             title: "Wasteland Survival Guide",
             logo: {
                 alt: "Wasteland Survival Guide Logo",
-                src: "img/logo.webp",
+                src: "img/logo.svg",
             },
             items: [{
                     type: "doc",

@@ -1,4 +1,5 @@
 ﻿# Tools to Avoid
+---
 
 In this section we will go over some popular mod managers and mod tools that shouldn't be used for
 Fallout New Vegas or Tale of Two Wastelands, an explanation of the issue(s), and what to use instead.

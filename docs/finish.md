@@ -1,4 +1,5 @@
 ﻿# Final Steps
+---
 
 Click the ![MO2 folder button](../static/img/mo2%20folders.webp) button at the top of MO2 and select
 **Open Profile Folder**. Double-click `loadorder.txt` to open it in your text editor of choice and

@@ -2,6 +2,7 @@
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 # Frequently Asked Questions
+---
 
 ### Application Load Error 5:0000065434
 
