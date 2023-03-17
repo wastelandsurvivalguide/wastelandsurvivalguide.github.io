@@ -37,6 +37,6 @@ img {
 
 .hero__title,
 .title_f1Hy {
-    font-size: calc(48px + 0.8vw);
+    font-size: 4vmax;
     font-family: "Rock Salt", cursive;
 }
