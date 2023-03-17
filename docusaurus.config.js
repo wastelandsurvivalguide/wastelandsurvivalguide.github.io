@@ -34,7 +34,7 @@ const config = {
                 },
                 blog: {
                     showReadingTime: false,
-                    //editUrl: 'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/',
+                    editUrl: 'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/',
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
