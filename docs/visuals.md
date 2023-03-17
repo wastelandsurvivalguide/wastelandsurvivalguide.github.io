@@ -9,7 +9,7 @@ are looking to add to your game.
 
 :::
 
-## Visual Improvements
+## Visual Fixes & Improvements
 
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
 
@@ -18,6 +18,14 @@ Significantly improves performance on the New Vegas strip by removing unseen wat
 #### Installation:
 
 Main File - Strip Performance Fix
+
+### [Exterior Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443)
+
+Fixes a bug that would cause certain particles to appear black.
+
+#### Installation:
+
+Main File - Exterior Emittance Fix
 
 ### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
 
