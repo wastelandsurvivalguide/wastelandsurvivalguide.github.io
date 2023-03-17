@@ -257,7 +257,8 @@ Restores Fallout 3 weapon degrading, repair and overhauls the difficulty of the 
 
 #### Installation:
 
-Main File - ROOG TTW
+- Main File - ROOG TTW
+- Optional File - sawyerbattyROOG
 
 ### [Save Restrictions](https://www.nexusmods.com/newvegas/mods/72672)
 
