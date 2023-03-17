@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Roboto+Slab:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 :root {
     --ifm-font-family-base: Roboto, system-ui, -apple-system, BlinkMacSystemFont, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     --ifm-font-family-monospace: "JetBrainsMono NF", "JetBrains Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -28,15 +28,15 @@
 }
 
 pre {
-    max-height: 500px;
+    max-height: 480px;
+    overflow-y: scroll;
 }
 
 img {
-    border-radius: 5px;
+    border-radius: var(--ifm-alert-border-radius);
 }
 
 .hero__title,
 .title_f1Hy {
-    font-size: 4vmax;
-    font-family: "Rock Salt", cursive;
+    font-family: "Roboto Slab", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
