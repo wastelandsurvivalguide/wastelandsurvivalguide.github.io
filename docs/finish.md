@@ -71,7 +71,6 @@ AWorldOfPainFO3.esm
 AWOP FO3 - TTW Patch.esp
 Rebuild the Capital - A World of Pain for Fallout 3 Patch.esp
 Cyberware.esm
-ISControl.esm
 Brotherhood and House Truce.esm
 Brotherhood and Legion Truce.esm
 Hardin and NCR Truce.esm
@@ -89,7 +88,7 @@ Badmothafucka.esm
 NewVegasKiller.esm
 Simple Open Freeside - TTW + Uncut Wasteland + NVBI LE Patch.esm
 SOF-NVBILE Patch.esm
-Tweaks TTW.esm
+TweaksTTW.esm
 TTW 3.3.2 Hotfix.esp
 The Mod Configuration Menu.esp
 DarNifiedUINV.esp
@@ -136,7 +135,6 @@ SimpleDiseases.esp
 ThreePerkBounty.esp
 Tutorial Killer.esp
 Benny Humbles You and Steals Your Stuff.esp
-Benny Humbles You and Steals Your Stuff - TTW Patch.esp
 AWOPR - Underpass Patch.esp
 ClaimtheMojaveFPGE.esp
 ClaimtheMojaveMojaveRaiders.esp
