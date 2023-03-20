@@ -204,7 +204,7 @@ DNWeathers.esp
 
 You don't need to change anything in this file, or even read its contents. It does not matter which
 mods you installed or skipped; just paste in the contents and continue to the next step. MO2 will handle
-everything automatically. [More info can be found in the FAQ](faq#loadordertxt-has-mods-i-skippedwerent-in-guide).
+everything automatically. [More info can be found in the FAQ](faq#loadordertxt-has-mods-i-didnt-install).
 
 :::
 
