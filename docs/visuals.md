@@ -1,15 +1,16 @@
 ﻿# Visuals
+
 ---
 
 :::note Where are all the texture mods?
 
-WSG doesn't cover texture mods as most of our team doesn't use them, but please check out
+WSG keeps things very light on textures, but please check out
 [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide) if it's something you
 are looking to add to your game.
 
 :::
 
-## Visual Fixes & Improvements
+## Visual Fixes & Optimizations
 
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
 
@@ -67,6 +68,17 @@ Increases resolution of local maps, resulting in a sharper and clearer image.
 
 Main File - High Res Local Maps
 
+## Visual Improvements
+
+### [CPI - Mod Patches](https://www.nexusmods.com/newvegas/mods/65046)
+
+Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberware. We install this file very late in the guide to ensure it overwrites all the other mods in the guide and we can see all of its icons.
+
+#### Installation:
+
+- Main File - 3. CPI - Mod Patches
+  - In the Installer just click Install
+
 ### [Improved LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/46451)
 
 Makes distant land textures less ugly.
@@ -102,14 +114,13 @@ PAVE is a retexture pack for all power armors in FNV and F3/TTW.
 - Update File - PAVE Compatiblity Plugins
   - Double-click the mod in the left pane & use the Optional ESPs menu to hide `PAVE_NV.esp`
 
-### [CPI - Mod Patches](https://www.nexusmods.com/newvegas/mods/65046)
+### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
-Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberware. We install this file very late in the guide to ensure it overwrites all the other mods in the guide and we can see all of its icons.
+Upscaled grass texture, improving visual quality with negligible performance impact.
 
 #### Installation:
 
-- Main File - 3. CPI - Mod Patches
-  - In the Installer just click Install
+Main File - Simply Upscaled Grass
 
 ## Lighting & Weather
 

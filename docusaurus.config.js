@@ -66,7 +66,7 @@ const config = {
             title: "Wasteland Survival Guide",
             logo: {
                 alt: "Wasteland Survival Guide Logo",
-                src: "img/logo.svg",
+                src: "img/wsg.webp",
             },
             items: [{
                     type: "doc",
@@ -130,6 +130,11 @@ const config = {
                     ],
                 },
             ],
+            logo: {
+                alt: 'Tale of Two Wastelands Logo',
+                src: 'img/ttw.png',
+                href: 'https://taleoftwowastelands.com',
+            },
             copyright: `Copyright © ${new Date().getFullYear()} Wasteland Survival Guide`,
         },
         prism: {

@@ -77,6 +77,21 @@ and submit a pull request with your changes. Thanks for helping out!
 
 Install the [DirectX Runtime Libraries](intro#requirements).
 
+### `loadorder.txt` has mods I didn't install
+
+No need to worry; this is actually intentional. MO2 reads the file line-by-line and compares it to your modlist,
+and when any given mod is missing, MO2 simply skips it and goes to the next line. The mods that *are* present will
+be ordered correctly and anything absent will be ignored.
+Some mods that were included in older versions of the guide, or other popular mods which may cause problems with
+mods in the guide if they were in the wrong place, are therefore included in the file to cover edge cases 
+or outdated installs. This is no cause for concern. As is stressed on the [Final Steps](finish) and in the 
+comments at the top of the file itself, there isn't any need for you to read through or modify the file.
+
+The only time the loadorder.txt might fail to properly order your mods is if you added mods on your own that aren't 
+in the guide. Those mods will need to be manually reordered to the appropriate spot in your loadorder, so if you 
+aren't familiar with how to determine the correct spot, how to make patches in xEdit and so on, then it may not be 
+a good idea to add additional mods.
+
 ### Merge, Rename, Replace?
 
 When installing multiple mods from the same page through MO2, you should **Rename** to the **file name**

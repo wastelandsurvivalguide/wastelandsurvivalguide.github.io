@@ -245,7 +245,7 @@ Features new armors, weapons, quests, perks, NPCs, and a recruitment system.
 #### Installation:
 
 - Main File - Rebuild the Capital
-  - In the FOMOD check No Pony Express Boxes (& PAVE Patch if you use Power Armor Visual Enhancement) then click _Install_.
+  - In the FOMOD check No Pony Express Boxes then click _Install_.
 - Patch File - [Rebuild the Capital - A World of Pain for Fallout 3 Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
 ### [ROOG](https://www.nexusmods.com/newvegas/mods/75599)
