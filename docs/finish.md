@@ -2,8 +2,8 @@
 ---
 
 This section ensures that your load order is correct for the guide by overwriting 
-MO2's `loadorder.txt` file. If you're a bit confused about how this is supposed to work, 
-there is a brief explanation in the FAQ.
+MO2's `loadorder.txt` file. It's fine if you skipped any number of mods in the guide; 
+this process will still work.
 
 Click the ![MO2 folder button](../static/img/mo2%20folders.webp) button at the top of MO2 and select
 **Open Profile Folder**. Double-click `loadorder.txt` to open it in your text editor of choice and
