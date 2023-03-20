@@ -132,7 +132,7 @@ const config = {
             ],
             logo: {
                 alt: 'Tale of Two Wastelands Logo',
-                src: 'img/ttw.png',
+                src: 'img/TTW.png',
                 href: 'https://taleoftwowastelands.com',
             },
             copyright: `Copyright © ${new Date().getFullYear()} Wasteland Survival Guide`,
