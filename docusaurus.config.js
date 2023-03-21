@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
     title: "Wasteland Survival Guide",
     tagline: "A Tale of Two Wastelands Modding Guide",
-    favicon: "img/favicon.ico",
+    favicon: "img/wsg.webp",
     url: "https://wastelandsurvivalguide.com",
     baseUrl: "/",
     organizationName: "wastelandsurvivalguide",
@@ -47,14 +47,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
         stylesheets: ["https://fonts.googleapis.com/icon?family=Material+Icons"],
-        // algolia: {
-        //     appId: 'PGDR3J962U',
-        //     apiKey: 'a62240650a1665512559c9fd6006d035',
-        //     indexName: 'wastelandsurvivalguide',
-        // },
+        algolia: {
+            appId: 'PGDR3J962U',
+            apiKey: 'a62240650a1665512559c9fd6006d035',
+            indexName: 'wastelandsurvivalguide',
+        },
         colorMode: {
             defaultMode: "dark",
-            respectPrefersColorScheme: true,
+            respectPrefersColorScheme: false,
         },
         docs: {
             sidebar: {
@@ -113,6 +113,22 @@ const config = {
                     ],
                 },
                 {
+                    title: "Information",
+                    items: [{
+                            label: "GECKWiki",
+                            href: "https://geckwiki.com/index.php/Main_Page",
+                        },
+                        {
+                            label: "Independent Fallout Wiki",
+                            href: "https://fallout.wiki",
+                        },
+                        {
+                            label: "Tome of xEdit",
+                            href: "https://tes5edit.github.io/docs/6-themethod.html",
+                        },
+                    ],
+                },
+                {
                     title: "Community",
                     items: [{
                             label: "TTW Discord",
@@ -122,10 +138,6 @@ const config = {
                         {
                             label: "xNVSE Discord",
                             href: "https://discord.gg/EebN93s",
-                        },
-                        {
-                            label: "GECKWiki",
-                            href: "https://geckwiki.com/index.php/Main_Page",
                         },
                     ],
                 },
