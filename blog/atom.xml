@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wastelandsurvivalguide.com/blog"/>
     <subtitle>Wasteland Survival Guide Blog</subtitle>
-    <icon>https://wastelandsurvivalguide.com/img/favicon.ico</icon>
+    <icon>https://wastelandsurvivalguide.com/img/wsg.webp</icon>
     <entry>
         <title type="html"><![CDATA[Redesign]]></title>
         <id>https://wastelandsurvivalguide.com/blog/2023/02/23/redesign</id>
