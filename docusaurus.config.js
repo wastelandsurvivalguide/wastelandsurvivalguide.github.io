@@ -51,6 +51,7 @@ const config = {
             appId: 'PGDR3J962U',
             apiKey: 'a62240650a1665512559c9fd6006d035',
             indexName: 'wastelandsurvivalguide',
+            contextualSearch: false,
         },
         colorMode: {
             defaultMode: "dark",
@@ -89,8 +90,10 @@ const config = {
                 { to: "/blog", label: "Changelog", position: "left" },
                 {
                     href: "https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io",
-                    label: "GitHub",
+                    //label: "GitHub",
                     position: "right",
+                    className: 'header-github-link',
+                    'aria-label': 'GitHub repository',
                 },
             ],
         },
