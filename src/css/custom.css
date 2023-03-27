@@ -39,6 +39,7 @@ pre {
 .hero__title,
 .title_f1Hy {
     font-family: "Roboto Slab", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 6vmin;
 }
 
 .header-github-link:hover {
