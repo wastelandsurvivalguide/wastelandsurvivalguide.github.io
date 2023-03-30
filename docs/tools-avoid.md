@@ -71,8 +71,11 @@ Breaks many textures by needlessly converting/adding/resizing alpha channels, cu
 
 ### Wrye Bash/Flash and Mator Smash
 
-These programs are fully automated, and without the oversight of a human being they are liable to misidentify
-intentional overwrites as "conflicts" that need to be solved. Actual critical conflicts are often missed too.
+These programs have their use cases and in skilled hands can save a tremendous amount of time. It's not that they
+should be completely avoided period. However, like some of the other aforementioned tools, they are fully automated, 
+and without the oversight of a human being they are liable to misidentify intentional overwrites as "conflicts" that 
+need to be solved. Actual critical conflicts are often missed too. For this reason, it's only recommended to use them
+if you are both capable and willing to comb over the results by hand after processing the automated batch.
 
 ### zEdit/zClean
 
