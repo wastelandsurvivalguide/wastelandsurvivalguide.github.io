@@ -29,14 +29,21 @@ Mod3.esp
 
 In Mod Organizer 2, this is as easy as it gets - simply drag the files into the desired order.
 Vortex, on the other hand, provides no  straightforward way to do this. Instead it relies an on overly
-complex and frequently confusing system of "rules" which need to be painstakingly created one-at-a-time.
+convoluted and frequently confusing system of "rules" which need to be painstakingly created one-at-a-time.
+Nobody wants to deal with this:
+
+![Vortex conflicts](https://media.discordapp.net/attachments/766115316333150290/1091117196534616284/image.png)
+
 
 This conflict management system is cumbersome and inconvenient enough to be a dealbreaker when it comes 
 to the kind of workflow we are aiming for, where we have granular control over our game and the order in
-which it loads content. Additionally, Vortex doesn't track generated files, and is slower than MO2.
+which it loads content. We also need to be able to easily get an overview of the current conflict situation,
+and the incomprehensible web of nightmares that Vortex provides for this is unsuitable:
 
-![Vortex moment](https://cdn.discordapp.com/attachments/267355049666019329/1084050657574658068/unknown.jpg)
-_This utterly incomprehensible web of nightmares is what Vortex considers conflict resolution_
+![Vortex web of nightmares](https://cdn.discordapp.com/attachments/267355049666019329/1084050657574658068/unknown.jpg)
+
+Vortex also doesn't track generated files, is slower than MO2, and relies on hardlinks which results in higher
+measured disk space usage.
 
 ## Modding Tools to Avoid
 
