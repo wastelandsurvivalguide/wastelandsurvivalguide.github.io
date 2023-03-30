@@ -12,7 +12,7 @@ Increased NPC population in all 3 Casinos: 80+ across Gomorrah, 55+ across The T
 - Main File - Casino Crowds
 - Patch File - [Casino Crowds - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
-:::info Perk Every Level
+:::info
 
 If you install FPGE as instructed below, then you can remove or disable the Casino Crowds - TTW Patch since it will be redundant.
 
