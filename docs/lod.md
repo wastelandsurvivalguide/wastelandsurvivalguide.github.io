@@ -31,7 +31,11 @@ This mod will eventually be merged into TTW.
 1. Once the program has loaded, right-click in the left pane and click **Select All**.
 1. In the right pane, check **Objects LOD** but leave **Trees LOD** unchecked.
 
+:::info
+
 Tree LOD is not functional in New Vegas. LOD for trees is covered in Object LOD.
+
+:::
 
 4. Under the **Objects LOD** section, change the **Atlas size** option to **8192** x **8192**.
 5. Select **Generate**.
