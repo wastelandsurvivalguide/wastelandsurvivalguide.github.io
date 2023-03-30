@@ -142,7 +142,7 @@ distributing weapon mods to NPCs.
 
 #### Installation:
 
-Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Paste in:
+Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Paste in the following, replacing the existing contents:
 
 ```ini showLineNumbers title="jip_nvse.ini"
 [GamePatches]
