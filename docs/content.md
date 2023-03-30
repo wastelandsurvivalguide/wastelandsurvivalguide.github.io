@@ -12,6 +12,12 @@ Increased NPC population in all 3 Casinos: 80+ across Gomorrah, 55+ across The T
 - Main File - Casino Crowds
 - Patch File - [Casino Crowds - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
+:::info
+
+If you install FPGE as instructed below, then you can remove or disable the Casino Crowds - TTW Patch since it will be redundant.
+
+:::
+
 ### [FPGE](https://www.nexusmods.com/newvegas/mods/66726)
 
 ##### Functional Post-Game Ending
@@ -22,7 +28,7 @@ Adds a fully functional post-game world that reflects the consequences of player
 
 - Main File - Functional Post Game Ending
   - You will be prompted with a FOMOD installer; select only the Tale of Two Wastelands Patch then click Next and Install
-- Optional File - [FPGE - Casino Crowds Patch](../static/dl/FPGE%20-%20Casino%20Crowds%20Patch.7z)
+- Optional File - [FPGE - Casino Crowds Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [N.V. Truce Series](https://www.nexusmods.com/newvegas/users/78355343?tab=user+files)
 
@@ -75,9 +81,9 @@ These versions are patched for TTW and FPGE by Kazopert.
 
 Main Files:
 
-- [Uncut Wasteland](../static/dl/Uncut%20Wasteland.7z)
-- [Uncut Extra Collection](../static/dl/Uncut%20Extra%20Collection.7z)
-- Patch File - [FPGE - Uncut Wasteland & Extra Collection Patch](../static/dl/FPGE%20-%20Uncut%20Wasteland%20&%20Extra%20Collection%20Patch.7z)
+- [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005)
+- [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
+- Patch File - [FPGE - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
 
