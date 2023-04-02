@@ -6,6 +6,7 @@ detailed logs going forward as things slow down.
 
 ### General Changes & Improvements
 - All pages now have an "Edit this page" link so users can conveniently fork the guide and submit corrections or additions as a pull request.
+- New functionalities: search bar, zoomable images.
 - INIs and loadorder.txt are now just copy/pasted from the guide instead of downloaded and installed.
 - Updated loadorder.txt.
 - Added Incompatible Mods page ported from TTW forum.
@@ -13,7 +14,6 @@ detailed logs going forward as things slow down.
 - Updated the FAQ.
 - Updated Contributors page.
 - Moved some patches from in-house downloads to Nexus pages (thanks Vish).
-- Zoomable images.
 - Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience.
 
 ### Core Guide
