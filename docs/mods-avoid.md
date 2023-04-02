@@ -45,9 +45,8 @@ As mentioned earlier with ENBoost, ENBs were never fully developed for New Vegas
 the author. They have a ton of bugs and performance issues, such as broken anti-aliasing, transparent objects,
 and glowing objects. They also use a lot of [vision-obscuring effects](https://imgur.com/a/8UT356J) like depth
 of field, lens flares, bloom, and chromatic aberration to obscure the broken Anti-aliasing, which makes them
-very hard to play with. If you need some kind of visual effects we recommend using a ReShade preset instead,
-such as [Vibrance](https://www.nexusmods.com/newvegas/mods/76715) or
-[Vanilla Plus ReShade Preset](https://www.nexusmods.com/newvegas/mods/71772).
+very hard to play with. If you need some kind of visual effects we recommend Reshade, but offer no support or 
+advice regarding it.
 
 ### Oversized textures
 
@@ -83,7 +82,8 @@ One of the most notoriously broken-yet-popular mods out there, FCO suffers from 
   be used, full stop. Instead, mod authors must provide FaceGen data and pack it with their mod.
 - Overwrites many (YUP)TTW fixes for NPCs, meaning it would need extensive patching with xEdit.
   We recommend [Two Wastelands Redesigned](https://www.nexusmods.com/newvegas/mods/73667) instead, which
-  covers all NPCs in both the Capital Wasteland and the Mojave Wasteland.
+  covers all NPCs in both the Capital Wasteland and the Mojave Wasteland. Note that this mod will require
+  patching to work correctly with the other mods in the WSG though.
 
 ### Handheld Pip-Boys, such as the 2500
 
@@ -123,9 +123,7 @@ Very poor scripting, will cause massive performance issues and save bloat. If yo
 
 ### Project Nevada
 
-A "kitchen sink" mod that was on top of the world a decade ago, but
-
-- it has a lot of features thrown in, but they work better as individual mods. Some of the functions don't even work properly, like the sneaking feature which has a scripting issue causing infinite stacking. The chargeable energy weapons don't even do more damage, and other stealth-related features break the ghosts and Lanius. There's also a bug in FO3's FWE which causes Liberty Prime to wander off.
+A "kitchen sink" mod that was on top of the world a decade ago with a lot of features thrown in, but they work better as individual mods. Some of the functions don't even work properly, like the sneaking feature which has a scripting issue causing infinite stacking. The chargeable energy weapons don't even do more damage, and other stealth-related features break the ghosts and Lanius. There's also a bug in FO3's FWE which causes Liberty Prime to wander off.
 
 #### Replacing Project Nevada:
 
@@ -136,12 +134,13 @@ Although it may seem counterproductive to install a bunch of small mods to repla
 - Dynamic Crosshair, Bullet Time, Sprint, and more: [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 - Grenade Hotkey: [Quick Grenade Hotkey](https://www.nexusmods.com/newvegas/mods/64874) and [Quick Grenade Hotkey Tweaks](https://www.nexusmods.com/newvegas/mods/79358)
 - Headwear Overlay: [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
-- Variable Zoom and Slower Backpedaling: [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347) (Enable ### bAdjustableScopeZoom### and ### bMovementPenalties### in the INI)
+- Variable Zoom and Slower Backpedaling: [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347)
+  - Enable **Adjustable Scope Zoom** and **Movement Penalties** in the Tweaks menu
 - Immersive Health Visuals: [Custom Health and AP Visuals](https://www.nexusmods.com/newvegas/mods/67696)
 - Enhanced Vision: [Enhanced Vision](https://eddoursul.win/mods/enhanced-vision/)
 - Explosive Entry: [Simple Explosive Entry](https://www.nexusmods.com/newvegas/mods/66992)
 - Immersive Primary Needs: [Immersive Primary Needs](https://eddoursul.win/mods/immersive-primary-needs/)
-- Inventory Sorter: [Universal Item Sorter](https://www.nexusmods.com/newvegas/mods/63867)
+- Inventory Sorter: [ySI - Sorting Ycons](ui#ysi---sorting-ycons)
 
 ##### Cyberware Module:###
 
@@ -180,7 +179,7 @@ Poorly made mod with many dirty edits/ITMs/UDRs. The engine also can't handle th
 
 ### Freeside Open
 
-Suffers from the same engine limitations as Populated Casinos. Adds many new NPCs and pieces of unpolished restored content that cause many bugs and performance drops and lacks any sort of performance optimization. I recommend [Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/73128) instead.
+Suffers from the same engine limitations as Populated Casinos. Adds many new NPCs and pieces of unpolished restored content that cause many bugs and performance drops and lacks any sort of performance optimization. I recommend [Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/73128) instead; be aware it will require patching for TTW.
 
 ### Strip Open
 
@@ -214,7 +213,7 @@ Vanilla AI packages and scripts are based on the vanilla timescale, and can brea
 
 ### Weapon Mods Expanded/Extended
 
-Overwrites Weapon Mesh Improvement Mod's mesh fixes and requires conflict resoluton with any mods that edit weapon records. Also very unbalanced in my opinion, since many of the mods are either silencers or damage increases.
+Overwrites TTW/Weapon Mesh Improvement Mod's mesh fixes and requires conflict resoluton with any mods that edit weapon records. Also very unbalanced in my opinion, since many of the mods are either silencers or damage increases.
 
 ### More Perks
 
@@ -224,9 +223,9 @@ Made in 2010 without the use of any script extenders, so many of the perks are b
 
 Broken, use [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) or [FPGE Lite](https://www.nexusmods.com/newvegas/mods/73668) instead.
 
-### NV Interiors Project
+### TTW Interios / NV Interiors
 
-Causes save bloat due to the large amount of havok-enabled items that all have their individual positions stored on the save when you enter an interior. Use [NV Interiors Remastered](https://www.nexusmods.com/newvegas/mods/71228) instead.
+Causes save bloat due to the large amount of havok-enabled items that all have their individual positions stored on the save when you enter an interior. Use [NV Interiors Remastered](https://www.nexusmods.com/newvegas/mods/71228) instead, or run [Simple Cell Save Bloat Fixer](https://www.nexusmods.com/newvegas/mods/72872) on the original mod.
 
 ### Classic Fallout Weapons
 
@@ -235,5 +234,3 @@ Countless broken meshes and leveled lists, will cause crashes. I recommend [Clas
 ### Honest Hearts Reborn
 
 Re-compiles every script in the game, so if you want to use it you must clean it in FNVEdit first. It will still have many bugs after cleaning though.
-
----
