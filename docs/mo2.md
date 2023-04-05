@@ -58,6 +58,17 @@ or press **Ctrl+P** to open the Profiles menu. Enable:
 
 ![MO2 Profile Settings](../static/img/mo2%20profile%20settings.webp)
 
+Finally, open the *Edit Executables* menu by clicking the ![MO2 Edit executables](../static/img/mo2%20executabes.webp) button on the toolbar.
+You can also get here by pressing the hotkey **Ctrl+E** or using the `<Edit...>` button in the dropdown by the Play button:
+
+![MO2 Edit Executables dropdown](../static/img/mo2%20edit%20executables.webp)
+
+Select *NVSE* and click the minus-sign button to remove the NVSE loader from the list of executables. We do this to prevent accidentally running 
+the game via the `nvse_loader.exe`, which isn't needed anymore. The 4GB patcher we installed earlier loads NVSE automatically - in a safer way - 
+when we launch the game normally via the *Tale of Two Wastelands* option.
+
+![MO2 Remove NVSE Loader](../static/img/mo2%20hide%20nvse.webp)
+
 ## FalloutCustom.ini
 
 Click the ![MO2 INI Button](../static/img/mo2%20ini.png) button at the top of MO2 and select _INI Editor_.
