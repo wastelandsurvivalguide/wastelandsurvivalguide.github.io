@@ -6,7 +6,7 @@
 - [Audley](https://www.nexusmods.com/newvegas/users/3644561)
 - [Audixas](https://ko-fi.com/audixas)
 - [Callen](https://www.nexusmods.com/newvegas/users/3370112)
-- [Cloudisms](https://www.youtube.com/c/Cloudisms)
+- [Cloudisms](https://www.nexusmods.com/users/2389150)
 - [litbeep](https://github.com/litbeep)
 - [Matt](https://www.patreon.com/mdbakpo)
 - [Salamand3r](https://salamand3r.fail/)
