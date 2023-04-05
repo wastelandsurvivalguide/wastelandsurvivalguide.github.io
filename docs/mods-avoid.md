@@ -148,8 +148,8 @@ Although it may seem counterproductive to install a bunch of small mods to repla
 
 ##### Rebalance Module
 
-- Better character progression/combat: [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592) (Enable `bSurvivalModeDamage` in the INI)
-- Item rarity changes: [Famine](https://www.nexusmods.com/newvegas/mods/74985)
+- Better character progression/combat: [SawyerBatty](overhauls#sawyerbatty)
+- Item rarity changes: [Unfound Loot](https://eddoursul.win/mods/unfound-loot/)
 - Lethal headshots: [JIP LN NVSE](https://www.nexusmods.com/newvegas/mods/58277) (Enable `bLocalizedDTDR` in the INI)
 - Alternate repairing system: [Repair Tools](https://www.nexusmods.com/newvegas/mods/74884) or
   [Alternative Repairing](https://www.nexusmods.com/newvegas/mods/52510)
@@ -187,11 +187,11 @@ Same deal as Freeside Open, it pushes the engine to its limit with the large wor
 
 ### Increased Wasteland Spawns
 
-Causes save bloat due to using the ### PlaceAtMe### function. I recommend [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) (I recommend the ### Vanilla No Chanced Spawns Version### version, though any version will work) and [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623) (already in the guide) instead.
+Causes save bloat due to using the **PlaceAtMe** function.
 
 ### True Wasteland Economy
 
-Incredibly script-heavy, will cause save bloat and deteriorate performance over time. I recommend [Economy Overhaul](https://www.nexusmods.com/newvegas/mods/62899) or [New Vegas Improved Economy](https://www.nexusmods.com/newvegas/mods/71604) instead.
+Incredibly script-heavy, will cause save bloat and deteriorate performance over time. Moreover, TTW already overhauls the economy, so no mod is needed here.
 
 ### DUST
 
