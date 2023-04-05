@@ -153,7 +153,7 @@ Although it may seem counterproductive to install a bunch of small mods to repla
 - Lethal headshots: [JIP LN NVSE](https://www.nexusmods.com/newvegas/mods/58277) (Enable `bLocalizedDTDR` in the INI)
 - Alternate repairing system: [Repair Tools](https://www.nexusmods.com/newvegas/mods/74884) or
   [Alternative Repairing](https://www.nexusmods.com/newvegas/mods/52510)
-- Miscellaneous gameplay changes: [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347) (Enable ### bMovementPenalties### , ### bNoKarmaMessages### , and ### bRemoveSneakLabel### in the INI)
+- Miscellaneous gameplay changes: [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347) (Enable **bMovementPenalties** , **bNoKarmaMessages** , and **bRemoveSneakLabel** in the INI)
 
 ##### Equipment Module
 
@@ -229,8 +229,7 @@ Causes save bloat due to the large amount of havok-enabled items that all have t
 
 ### TTW Interiors
 
-Same issues as NV interiors above, but even if you apply the save bloat fix, it still won't be compatible with TTW 3.3, so unfortunately it must  
-be avoided altogether.
+Same issues as NV Interiors above, but even if you were to apply the save bloat fix, it still won't be compatible with TTW 3.3. Avoid this one altogether for now.
 
 ### Classic Fallout Weapons
 
