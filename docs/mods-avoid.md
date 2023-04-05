@@ -223,9 +223,14 @@ Made in 2010 without the use of any script extenders, so many of the perks are b
 
 Broken, use [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) or [FPGE Lite](https://www.nexusmods.com/newvegas/mods/73668) instead.
 
-### TTW Interios / NV Interiors
+### NV Interiors
 
 Causes save bloat due to the large amount of havok-enabled items that all have their individual positions stored on the save when you enter an interior. Use [NV Interiors Remastered](https://www.nexusmods.com/newvegas/mods/71228) instead, or run [Simple Cell Save Bloat Fixer](https://www.nexusmods.com/newvegas/mods/72872) on the original mod.
+
+### TTW Interiors
+
+Same issues as NV interiors above, but even if you apply the save bloat fix, it still won't be compatible with TTW 3.3, so unfortunately it must  
+be avoided altogether.
 
 ### Classic Fallout Weapons
 
