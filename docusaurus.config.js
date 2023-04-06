@@ -126,7 +126,7 @@ const config = {
                         },
                         {
                             label: "Viva New Vegas",
-                            href: "https://vivanewvegas.github.io/",
+                            href: "http://vivanewvegas.moddinglinked.com/",
                         },
                     ],
                 },
