@@ -15,7 +15,7 @@ of competence using a computer, and to carefully read and follow all instruction
 
 :::info Continuing from _The Best of Times_?
 
-If you are continuing from the official [**TTW Installation Guide**](https://thebestoftimes.github.io/),
+If you are continuing from the official [**TTW Installation Guide**](http://thebestoftimes.moddinglinked.com/),
 you should start this guide at the [Utilities](utilities) section. You should already have
 nearly everything there with the exception of **AnhNVSE**.
 
