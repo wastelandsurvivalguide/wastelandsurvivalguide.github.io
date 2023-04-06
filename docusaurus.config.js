@@ -77,7 +77,7 @@ const config = {
                 hideable: true,
             },
         },
-        image: "img/social.png",
+        image: "img/social.jpg",
         navbar: {
             title: "Wasteland Survival Guide",
             logo: {
