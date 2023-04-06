@@ -24,13 +24,14 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 - Main File - The Mod Configuration Menu
 - Update File - MCM Bugfix 2 **(Do not skip this!)**
 
-### [Vanilla UI Plus](./../static/dl/Vanilla%20UI%20Plus%209.47%20-%20TTW.7z)
+### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
 
 #### Installation:
 
 Install from archive in MO2 ([How To Install Mods](mo2#how-to-install-mods))
+  - Use the default settings.
 
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
