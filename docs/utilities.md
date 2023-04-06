@@ -27,6 +27,19 @@ to the game's [Root folder](./setup/#important-locations). Note that even if you
 you still need to include `nvse_steam_loader.dll`.
 ![xNVSE post-install root folder](../static/img/root.webp)
 
+#### Hiding nvse_loader
+
+Close Mod Organizer 2, re-open it, and enter the *Edit Executables* menu by clicking the ![MO2 Edit executables](../static/img/mo2%20executabes.webp) button on the toolbar.
+You can also get here by pressing the hotkey **Ctrl+E** or using the `<Edit...>` button in the dropdown by the Play button:
+
+![MO2 Edit Executables dropdown](../static/img/mo2%20edit%20executables.webp)
+
+Select *NVSE* and click the minus-sign button to remove the NVSE loader from the list of executables. We do this to prevent accidentally running 
+the game via the `nvse_loader.exe`, which isn't needed anymore. The 4GB patcher we installed earlier loads NVSE automatically - in a safer way - 
+when we launch the game normally via the *Tale of Two Wastelands* option.
+
+![MO2 Remove NVSE Loader](../static/img/mo2%20hide%20nvse.webp)
+
 ### [New Vegas Heap Replacer](https://www.nexusmods.com/newvegas/mods/69779)
 
 An optimized replacement for the game's [heap](<https://en.wikipedia.org/wiki/Heap_(data_structure)>)

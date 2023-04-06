@@ -110,9 +110,19 @@ PAVE is a retexture pack for all power armors in FNV and F3/TTW.
 #### Installation:
 
 - Main File - Power Armor Visual Enhancement 2K
-  - Double-click the mod in the left pane & use the Optional ESPs menu to hide `PAVE_NV.esp`
+  - Double-click the mod in the left pane & use the Optional ESPs menu to hide `PAVE_NV.esp`.
+    - Select the file from *Available ESPs*, then click the ⬅️ button to move it into *Optional ESPs*.
+  - Use the Filetree menu to find the file `meshes\armor\PAVE\T45PAPink\OutfitGO.nif`.
+    - Select the file and press F2 to **Rename** it to `OutfitArmyGO.nif`:
+  ```
+  📁meshes
+   └📁armor
+     └📁PAVE
+       └📁T45PAPink
+         └📄OutfitArmyGO.nif   <-- renamed from OutfitGO.nif!
+  ```
 - Update File - PAVE Compatiblity Plugins
-  - Double-click the mod in the left pane & use the Optional ESPs menu to hide `PAVE_NV.esp`
+  - Just as with the main file, hide `PAVE_NV.esp` using the *Optional ESPs* menu.
 
 ### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
