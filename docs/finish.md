@@ -39,6 +39,7 @@ Functional Post Game Ending - TTW Patch.esm
 Uncut Wasteland.esm
 Uncut Extra Collection.esm
 Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch.esm
+Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
 Rebuild the Capital.esm
 TTW Reputations.esm
 TTW New Vegas Speech Checks.esm
