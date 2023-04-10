@@ -141,6 +141,9 @@ iSize W=3440
 iSize H=1440
 ```
 
+Then, in-game, go to Settings/Tweaks and type "ultrawide" in the search bar. Enable the Ultrawide Support tweak by clicking it 
+in the panel on the lefthand side, then exit and restart the game so it takes effect.
+
 ### What do these installation instructions mean?
 
 Review the [How to Install Mods](mo2#how-to-install-mods) section for how the guide presents
