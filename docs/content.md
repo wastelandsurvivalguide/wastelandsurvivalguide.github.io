@@ -101,6 +101,14 @@ A player home located in Springvale by the Red Rocket Pitstop.
 
 Main File - Abandoned Safehouse TTW
 
+### [Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html)
+
+Capital Wasteland Hideouts are small way station player homes (10 locations in total) that offer places to safely store your stuff until you can get to your main base (or until you can acquire one). 
+
+#### Installation:
+
+Main File - DOWNLOAD
+
 ### [Bonnie Springs Bunker](https://www.sublevel3.com/mmtv/fnv/ttw-bonnie-springs-bunker.html)
 
 Located behind the ruined house adjacent to Spring Mountain Ranch State Park, this is a simple, small player
@@ -183,14 +191,6 @@ as your main base even after completing the Old World Blues DLC.
 
 - Main File - MAIN FILE: for TTW v3.3.2 or higher
 - Optional File - Compatibility patch for SawyerBatty TTW
-
-### [Utility Bunker A12](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html)
-
-[SATCOM Utility Bunker A12](https://imgur.com/a/bAVvLPw) is located slightly northwest of Shalebridge and west of the Abandoned Car Fort. The entrance is through a sewer grate that leads to an abandoned utility tunnel that connects to the bunker.
-
-#### Installation:
-
-Main File - DOWNLOAD
 
 ## Player Home Improvements
 
