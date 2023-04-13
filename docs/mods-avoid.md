@@ -4,7 +4,20 @@
 In this section we will go list some of the popular mods that shouldn't be used for Fallout New Vegas or
 Tale of Two Wastelands, along with an explanation of the issue(s), and what to use instead.
 
+## Any Bugfix/Unoffical Patch Mod
+
+Note that this only applies to TTW. If playing FNV, you need YUP and UPNVSE+. TTW however already contains its 
+own bugfixes and has its own unofficial patch (YUPTTW). As a result, the FNV bugfix mods like YUP, Unofficial 
+Patch NVSE, etc. will conflict with or break the fixes already included in TTW.
+
 ## Utilities to Avoid
+
+### ENBoost
+
+New Vegas Tick Fix has much better memory management than ENBoost, and will increase performance/decrease
+stuttering more. ENBoost also needs a lot of system-specific configuration to work properly and can degrade
+performance without proper tweaking. ENB in general for New Vegas has been more or less abandoned in favor
+of Skyrim and Fallout 4.
 
 ### New Vegas Stutter Remover
 
@@ -15,12 +28,9 @@ Every single feature from NVSR has been replaced in a modern manner by the combi
 [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347). These mods also have many great features
 that NVSR never had, like the high FPS physics fix. There is no reason to use NVSR, even on Windows 7.
 
-### ENBoost
+### Save Cleaner:
 
-New Vegas Tick Fix has much better memory management than ENBoost, and will increase performance/decrease
-stuttering more. ENBoost also needs a lot of system-specific configuration to work properly and can degrade
-performance without proper tweaking. ENB in general for New Vegas has been more or less abandoned in favor
-of Skyrim and Fallout 4.
+Works by going through your save file and deleting every REFR file, which will most likely break your save.
 
 ### Zan AutoPurge Crash Protector/PCB Hotkey
 
@@ -28,16 +38,52 @@ The script command used by these mods is a leftover command from development tha
 cells from memory, which can lead to unforeseen consequences. Essentially the same function is performed
 safely by the INI tweaks in the guide.
 
-### Save Cleaner:
 
-Works by going through your save file and deleting every REFR file, which will most likely break your save.
 
-## Any Bugfix/Unoffical Patch Mod
-
-TTW already contains its own bugfixes and has its own unofficial patch (YUPTTW). As a result, the FNV
-bugfix mods like YUP, Unofficial Patch NVSE, etc. will conflict with or break the fixes already included in TTW.
 
 ## Visual Mods to Avoid
+
+### Asset rips that aren't optimized for games
+
+These assets are either taken from far more recent games like Call of Duty or Fallout 4, or from ArtStation, DeviantArt 
+and other sources which showcase 3D models that are meant for 3D animation. In the majority of cases they are *not* 
+optimized for a game context, and even the ones which are intended to be game-ready are not intended to be used in a
+game as old as Fallout New Vegas. FNV runs on Direct3D 9, a graphics API that received its final update nearly 
+**two decades ago**. As such, FNV has a very narrow "pipeline" for draw calls, and having a more powerful computer
+cannot overcome this limitation. The tri count for the models in these mods tends to be exponentially higher than anything 
+that would normally appear in the game and these mods have been documented to cause performance loss, instability and 
+crashing. Providing an exhaustive list of all such mods would be extremely difficult, however here are some of the 
+most noteworthy:
+
+- WAP/WWP and other mods from *anonx1987*
+- Call of Duty rips such as "MWRWP" and other mods from *nickheggo*
+- Physically Based ___ and other mods from *Balebandr0*
+- MWRWP and other mods from *Chinpoko117*
+- Anything with "F4NV" in the title
+
+It is recommended to look into modding Fallout 4 instead if one wishes to import a bunch of hi-poly assets. As a 
+DirectX 11 game, it may be able such things more effectively.
+
+### Borderlands Inspired Numeric Damage
+
+BLIND does not properly destroy the data it creates which will cause your save file to balloon in size and
+eventually become unusable. It's also highly performance-intensive and has major bugs causing NPCs to teleport.
+
+### Charge's HD Texture Pack/other AI-upscaled texture packs
+
+Mods upscaled with AI or other lazy techniques generally are not worth the resolution increase. Charge's in
+particular upscales files it shouldn't such as normal maps and glow maps, and has textures with
+[major artifacting](https://imgur.com/a/9VhuCkm).
+
+### Dragbody 10 Year Anniversary Pack and any other armor replacers
+
+Breaks fixes from YUP & TTW and causes crashing in TTW.
+
+### Electro City
+
+Has broken LOD that can cause crashing. Also includes
+[unnecessary bloat and leftover features from a planned quest](https://imgur.com/a/spSSCZD). I recommend
+[A Little More Lamplight](https://www.nexusmods.com/newvegas/mods/69226) instead (already in the guide).
 
 ### ENB
 
@@ -48,32 +94,13 @@ of field, lens flares, bloom, and chromatic aberration to obscure the broken Ant
 very hard to play with. If you need some kind of visual effects we recommend Reshade, but offer no support or 
 advice regarding it.
 
-### Oversized textures
-
-Based on the object size and how the texture is wrapped around it, you should pick textures with a reasonable
-resolution and avoid the very big ones also based on your display resolution. Keep in mind that the textures
-will not be displayed with their full resolution at all times, in fact they will be scaled down because of
-[mipmaps](https://imgsli.com/MTMwNjU2) based on distance and other factors, as shown with these sliders.
-Just for reference, a maximum of 2K at 1080p is a pretty safe bet in terms of balance.
-
-### Charge's HD Texture Pack/other AI-upscaled texture packs
-
-Mods upscaled with AI or other lazy techniques generally are not worth the resolution increase. Charge's in
-particular upscales files it shouldn't such as normal maps and glow maps, and has textures with
-[major artifacting](https://imgur.com/a/9VhuCkm).
-
-### Borderlands Inspired Numeric Damage
-
-BLIND does not properly destroy the data it creates which will cause your save file to balloon in size and
-eventually become unusable. It's also highly performance-intensive and has major bugs causing NPCs to teleport.
-
 ### Fallout Character Overhaul
 
 One of the most notoriously broken-yet-popular mods out there, FCO suffers from a plethora of issues:
 
 - Incorrect file paths cause missing meshes (i.e. "those red triangles"), and pink textures.
 - Thoroughly broken installer selects patches for mods you don't have installed and installs
-  patches you didn't select
+  patches you didn't select.
 - Glowing Ghouls file which causes massive performance drops and save bloat.
 - Doesn't cover **any** Capital Wasteland NPC, any NPC from a mod, or even every regular NPC in FNV, which
   makes [uncovered NPCs look very out of place](https://imgur.com/a/jMgRjBO).
@@ -94,15 +121,29 @@ mostly been removed with [Handheld Fixes](https://www.nexusmods.com/newvegas/mod
 recommend either the [2500a](https://www.nexusmods.com/newvegas/mods/49732) or
 [2000 Mk VI](https://www.nexusmods.com/newvegas/mods/65980) for wrist-mounted Pip-Boys.
 
-### Electro City
+### New Vegas Landscape Overhaul Remastered
 
-Has broken LOD that can cause crashing. Also includes
-[unnecessary bloat and leftover features from a planned quest](https://imgur.com/a/spSSCZD). I recommend
-[A Little More Lamplight](https://www.nexusmods.com/newvegas/mods/69226) instead (already in the guide).
+Has broken navmeshes, deleted objects with the `Has Tree LOD` flag (Which can cause crashing), many 
+floating/clipping objects, and bad balance. I recommend 
+[New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) instead. 
+Be aware that the mod is still pretty performance-intensive and should be avoided on weaker systems.
+
+### Oversized textures
+
+Based on the object size and how the texture is wrapped around it, you should pick textures with a reasonable
+resolution and avoid the very big ones also based on your display resolution. Keep in mind that the textures
+will not be displayed with their full resolution at all times, in fact they will be scaled down because of
+[mipmaps](https://imgsli.com/MTMwNjU2) based on distance and other factors, as shown with these sliders.
+Just for reference, a maximum of 2K at 1080p is a pretty safe bet in terms of balance.
+
+### Project Reality
+
+Very poor scripting, will cause massive performance issues and save bloat. If you want a different weather mod than DN Weathers, I recommend either [Altitude](https://www.nexusmods.com/newvegas/mods/71404), [Yellow Goodbye](https://www.nexusmods.com/newvegas/mods/67277), or [Clarity](https://www.nexusmods.com/newvegas/mods/62481) instead.
 
 ### Unnecessary Physics
 
 Causes save bloat since the game has to save the position of every individual part of every object you move.
+Also very buggy. If you don't believe me try picking up a rubber tire and throwing it around.
 
 ### Vault 22 Flora Overhaul
 
@@ -111,23 +152,50 @@ bloat such as new weapons, enemies, poison effects, skill books, and more. I rec
 [Vault 22 Flora Overhaul Remastered](https://www.nexusmods.com/newvegas/mods/71521) instead. Be aware
 that the mod is still pretty performance-intensive and should be avoided on weaker systems.
 
-### New Vegas Landscape Overhaul Remastered
-
-Has broken navmeshes, deleted objects with the `Has Tree LOD` flag (Which can cause crashing), many floating/clipping objects, and bad balance. I recommend [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) instead. Be aware that the mod is still pretty performance-intensive and should be avoided on weaker systems.
-
-### Project Reality
-
-Very poor scripting, will cause massive performance issues and save bloat. If you want a different weather mod than DN Weathers, I recommend either [Altitude](https://www.nexusmods.com/newvegas/mods/71404), [Yellow Goodbye](https://www.nexusmods.com/newvegas/mods/67277), or [Clarity](https://www.nexusmods.com/newvegas/mods/62481) instead.
-
 ## Gameplay Mods to Avoid
+
+### Any AI mods
+
+AI mods generally just edit gamesettings, which can both break set scenes (such as Liberty Prime, the vault in Dead Money, 
+and saving the Goodsprings settler in the tutorial mission) and make combat more frustrating than realistic. Enemies can 
+sometimes detect you the second you enter an interior, so they will all rush you at the entrance.
+
+### Any mods that edit timescale
+
+Vanilla AI packages and scripts are based on the vanilla timescale, and can break and/or run when they aren't supposed to if the timescale is changed.
+
+### DUST
+
+Poorly made mod with almost 1000 errors in FNVEdit. Has a combination of deleted records, null references, missing records, and more.
+
+### FOOK, New Vegas Enhanced Content, and Mission Mojave Ultimate Edition
+
+Massive compilation mods like these eventually get outdated and break other mods, including TTW.
+For example, NVEC includes the old version of the Burning Campfires that causes save bloat, an old version of EVE
+that is even more performance-intensive than the current one, outdated bug fixes that break YUPTTW, and much more.
+
+### Freeside Open
+
+Suffers from the same engine limitations as Populated Casinos. Adds many new NPCs and pieces of unpolished restored 
+content that cause many bugs and performance drops and lacks any sort of performance optimization. 
+I recommend [Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/73128) instead; 
+be aware it will require patching for TTW due to the train station being in Freeside.
+
+### Increased Wasteland Spawns
+
+Causes save bloat due to using the **PlaceAtMe** function.
 
 ### Project Nevada
 
-A "kitchen sink" mod that was on top of the world a decade ago with a lot of features thrown in, but they work better as individual mods. Some of the functions don't even work properly, like the sneaking feature which has a scripting issue causing infinite stacking. The chargeable energy weapons don't even do more damage, and other stealth-related features break the ghosts and Lanius. There's also a bug in FO3's FWE which causes Liberty Prime to wander off.
+A "kitchen sink" mod that was on top of the world a decade ago with a lot of features thrown in, but they work better as individual mods. 
+Some of the functions don't even work properly, like the sneaking feature which has a scripting issue causing infinite stacking. The chargeable 
+energy weapons don't even do more damage, and other stealth-related features break the Dead Money ghosts and Lanius. 
+There's also a bug in FO3's FWE which causes Liberty Prime to wander off, breaking the main quest.
 
 #### Replacing Project Nevada:
 
-Although it may seem counterproductive to install a bunch of small mods to replace one big mod, these alternatives are all more efficient and performance friendly. They are 100% safe to use, and actually work, unlike Project Nevada:
+Although it may seem counterproductive to install a bunch of small mods to replace one big mod, these alternatives are all more efficient 
+and performance friendly. They are 100% safe to use, and actually work fully as intended, unlike Project Nevada:
 
 ##### Core Module
 
@@ -142,9 +210,14 @@ Although it may seem counterproductive to install a bunch of small mods to repla
 - Immersive Primary Needs: [Immersive Primary Needs](https://eddoursul.win/mods/immersive-primary-needs/)
 - Inventory Sorter: [ySI - Sorting Ycons](ui#ysi---sorting-ycons)
 
-##### Cyberware Module:###
+##### Cyberware Module
 
 - [Cyberware 2281](https://eddoursul.win/mods/cyberware-2281/)
+
+##### Equipment Module
+
+- Fallout 3 Weapons: **Tale of Two Wastelands**
+- Classic Fallout Weapons: [Classic Fallout Weapons Remastered](https://www.nexusmods.com/newvegas/mods/73805)
 
 ##### Rebalance Module
 
@@ -153,18 +226,25 @@ Although it may seem counterproductive to install a bunch of small mods to repla
 - Lethal headshots: [JIP LN NVSE](https://www.nexusmods.com/newvegas/mods/58277) (Enable `bLocalizedDTDR` in the INI)
 - Alternate repairing system: [Repair Tools](https://www.nexusmods.com/newvegas/mods/74884) or
   [Alternative Repairing](https://www.nexusmods.com/newvegas/mods/52510)
-- Miscellaneous gameplay changes: [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347) (Enable **bMovementPenalties** , **bNoKarmaMessages** , and **bRemoveSneakLabel** in the INI)
+- Miscellaneous gameplay changes: [lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347)
+  - Enable **bMovementPenalties** , **bNoKarmaMessages** , and **bRemoveSneakLabel** in the INI
 
-##### Equipment Module
+### Populated Casinos
 
-- Fallout 3 Weapons: **Tale of Two Wastelands**
-- Classic Fallout Weapons: [Classic Fallout Weapons Remastered](https://www.nexusmods.com/newvegas/mods/73805)
+Poorly made mod with many dirty edits/ITMs/UDRs. The engine also can't handle that many NPCs in the same area without performance loss. 
+I recommend [Casino Crowds](https://www.nexusmods.com/newvegas/mods/71037) instead.
 
-### FOOK, New Vegas Enhanced Content, and Mission Mojave Ultimate Edition
+### Sinitar's Gameplay Overhaul (Or anything made by Sinitar)
 
-Massive compilation mods like these eventually get outdated and break other mods, including TTW.
-For example, NVEC includes the old version of the Burning Campfires that causes save bloat, an old version of EVE
-that is even more performance-intensive than the current one, outdated bug fixes that break YUPTTW, and much more.
+Sinitar knows nothing about modding, as shown by his guide that includes most of the mods on this list. SGO is full of bugs, broken features, awful balance, and Sinitar's trademark typos. Avoid anything he makes at all costs. If you have a few hours and want more information about Sinitar's lies, scamming, and lack of modding knowledge, check out [this](https://docs.google.com/document/d/1F1-6lF8dI4i2Zz8iT-bv_Ci1VO9MSU4MiSUrT5JqgHA/edit) _twenty-eight_ page essay that goes into excruciating detail about it.
+
+### Strip Open
+
+Same deal as Freeside Open, it pushes the engine to its limit with the large worldspace and added NPCs without any performance optimization. I recommend [Simple Open Strip](https://www.nexusmods.com/newvegas/mods/73127) instead.
+
+### True Wasteland Economy
+
+Incredibly script-heavy, will cause save bloat and deteriorate performance over time. Moreover, TTW already overhauls the economy, so no mod is needed here.
 
 ### Unlimited Companions (Or any other companion-related mods)
 
@@ -173,55 +253,26 @@ or other companion-related features like equipment managing, infinite ammo, comb
 use [JIP Companions Command and Control](https://www.nexusmods.com/newvegas/mods/50468). Before installing any mods
 that edit companion behavior, you should check if JIP CCC already does it.
 
-### Populated Casinos
-
-Poorly made mod with many dirty edits/ITMs/UDRs. The engine also can't handle that many NPCs in the same area without performance loss. I recommend [Casino Crowds](https://www.nexusmods.com/newvegas/mods/71037) instead.
-
-### Freeside Open
-
-Suffers from the same engine limitations as Populated Casinos. Adds many new NPCs and pieces of unpolished restored content that cause many bugs and performance drops and lacks any sort of performance optimization. I recommend [Simple Open Freeside](https://www.nexusmods.com/newvegas/mods/73128) instead; be aware it will require patching for TTW.
-
-### Strip Open
-
-Same deal as Freeside Open, it pushes the engine to its limit with the large worldspace and added NPCs without any performance optimization. I recommend [Simple Open Strip](https://www.nexusmods.com/newvegas/mods/73127) instead.
-
-### Increased Wasteland Spawns
-
-Causes save bloat due to using the **PlaceAtMe** function.
-
-### True Wasteland Economy
-
-Incredibly script-heavy, will cause save bloat and deteriorate performance over time. Moreover, TTW already overhauls the economy, so no mod is needed here.
-
-### DUST
-
-Poorly made mod with almost 1000 errors in FNVEdit. Has a combination of deleted records, null references, missing records, and more.
-
-### Sinitar's Gameplay Overhaul (Or anything made by Sinitar)
-
-Sinitar knows nothing about modding, as shown by his guide that includes most of the mods on this list. SGO is full of bugs, broken features, awful balance, and Sinitar's trademark typos. Avoid anything he makes at all costs. If you have a few hours and want more information about Sinitar's lies, scamming, and lack of modding knowledge, check out [this](https://docs.google.com/document/d/1F1-6lF8dI4i2Zz8iT-bv_Ci1VO9MSU4MiSUrT5JqgHA/edit) _twenty-eight_ page essay that goes into excruciating detail about it.
-
-### Any AI mods
-
-AI mods generally just edit gamesettings, which can both break set scenes (such as the vault in Dead Money and saving the Goodsprings settler in the tutorial mission) and make combat more frustrating than realistic. Enemies can sometimes detect you the second you enter an interior, so they will all rush you at the entrance.
-
-### Any mods that edit timescale
-
-Vanilla AI packages and scripts are based on the vanilla timescale, and can break and/or run when they aren't supposed to if the timescale is changed.
-
 ## Content Mods to Avoid
-
-### Weapon Mods Expanded/Extended
-
-Overwrites TTW/Weapon Mesh Improvement Mod's mesh fixes and requires conflict resoluton with any mods that edit weapon records. Also very unbalanced in my opinion, since many of the mods are either silencers or damage increases.
-
-### More Perks
-
-Made in 2010 without the use of any script extenders, so many of the perks are broken or have poor implementation. Use [More Perks Reimagined](https://www.nexusmods.com/newvegas/mods/76584) instead.
 
 ### CAGE - Continue After Games Ending
 
-Broken, use [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) or [FPGE Lite](https://www.nexusmods.com/newvegas/mods/73668) instead.
+Broken, use [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) 
+or [FPGE Lite](https://www.nexusmods.com/newvegas/mods/73668) instead.
+
+### Classic Fallout Weapons
+
+Countless broken meshes and leveled lists, will cause crashes. I recommend 
+[Classic Fallout Weapons Remastered](https://www.nexusmods.com/newvegas/mods/73805) instead.
+
+### Honest Hearts Reborn
+
+Re-compiles every script in the game, so if you want to use it you must clean it in FNVEdit first. It will still have many bugs after cleaning though.
+
+### More Perks
+
+Made in 2010 without the use of any script extenders, so many of the perks are broken or have poor implementation. 
+Use [More Perks Reimagined](https://www.nexusmods.com/newvegas/mods/76584) instead.
 
 ### NV Interiors
 
@@ -231,10 +282,8 @@ Causes save bloat due to the large amount of havok-enabled items that all have t
 
 Same issues as NV Interiors above, but even if you were to apply the save bloat fix, it still won't be compatible with TTW 3.3. Avoid this one altogether for now.
 
-### Classic Fallout Weapons
+### Weapon Mods Expanded/Extended
 
-Countless broken meshes and leveled lists, will cause crashes. I recommend [Classic Fallout Weapons Remastered](https://www.nexusmods.com/newvegas/mods/73805) instead.
-
-### Honest Hearts Reborn
-
-Re-compiles every script in the game, so if you want to use it you must clean it in FNVEdit first. It will still have many bugs after cleaning though.
+Overwrites TTW/Weapon Mesh Improvement Mod's mesh fixes and requires conflict resoluton with any mods 
+that edit weapon records. Also very unbalanced in my opinion, since many of the mods are either silencers 
+or damage increases.
