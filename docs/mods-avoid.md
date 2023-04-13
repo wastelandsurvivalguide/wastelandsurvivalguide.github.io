@@ -52,17 +52,10 @@ game as old as Fallout New Vegas. FNV runs on Direct3D 9, a graphics API that re
 **two decades ago**. As such, FNV has a very narrow "pipeline" for draw calls, and having a more powerful computer
 cannot overcome this limitation. The tri count for the models in these mods tends to be exponentially higher than anything 
 that would normally appear in the game and these mods have been documented to cause performance loss, instability and 
-crashing. Providing an exhaustive list of all such mods would be extremely difficult, however here are some of the 
-most noteworthy:
-
-- WAP/WWP and other mods from *anonx1987*
-- Call of Duty rips such as "MWRWP" and other mods from *nickheggo*
-- Physically Based ___ and other mods from *Balebandr0*
-- MWRWP and other mods from *Chinpoko117*
-- Anything with "F4NV" in the title
+crashing.
 
 It is recommended to look into modding Fallout 4 instead if one wishes to import a bunch of hi-poly assets. As a 
-DirectX 11 game, it may be able such things more effectively.
+DirectX 11 game, it may be better able to handle such things.
 
 ### Borderlands Inspired Numeric Damage
 
