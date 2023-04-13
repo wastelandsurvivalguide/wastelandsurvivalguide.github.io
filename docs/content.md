@@ -107,7 +107,8 @@ Capital Wasteland Hideouts are small way station player homes (10 locations in t
 
 #### Installation:
 
-Main File - DOWNLOAD
+- Main File
+- Optional File - Compatibility patch for SawyerBatty TTW
 
 ### [Bonnie Springs Bunker](https://www.sublevel3.com/mmtv/fnv/ttw-bonnie-springs-bunker.html)
 
