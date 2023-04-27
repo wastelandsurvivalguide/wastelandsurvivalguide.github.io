@@ -28,14 +28,6 @@ Fixes a bug that would cause certain particles to appear black.
 
 Main File - Exterior Emittance Fix
 
-### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
-
-Fixes alpha rendering issues related to transparency multisampling.
-
-#### Installation:
-
-Main File - Fallout Alpha Rendering Tweaks
-
 ### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.

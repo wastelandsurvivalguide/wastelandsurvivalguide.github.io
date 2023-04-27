@@ -146,6 +146,15 @@ Always **check Settings/Tweaks** in the pause menu before installing additional 
 - Main File - Stewie Tweaks
 - Main File - [Stewie Tweaks Essentials INI](https://www.nexusmods.com/newvegas/mods/76522)
 
+### [ActorCause Save Bloat Fix](https://www.nexusmods.com/newvegas/mods/80666)
+
+Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.
+
+#### Installation:
+
+Main File - ActorCause Save Bloat Fix
+
+
 ### [Mod Limit Fix](https://www.nexusmods.com/newvegas/mods/68714)
 
 Greatly increases the plugin limit by fixing a vanilla bug.
