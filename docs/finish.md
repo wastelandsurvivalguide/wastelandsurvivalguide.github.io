@@ -47,28 +47,16 @@ TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
 Tale of Bi Wastelands + TTW Reputations Patch.esm
-A Very Uncreative Jacobstown Bungalow.esm
-Abandoned Safehouse TTW.esm
-CompletePlayerHomeUpgradesTTW.esm
 Home and Safehouse Tweaks.esm
 MMTV_Sink_Redux_TTW.esm
-MMTV_BonnieSprings_MiniBunker_TTW.esm
 RRTV_FO3_CapitalWasteland_Hideouts_TTW.esm
-RRTV_Nellis_Home.esm
-RRTV_OutcastBunker_FNV_TTW.esm
-RRTV_ScavBunker_FO3_TTW.esm
-SD_Transporters.esp
-SD Transporters - AWOP FO3 Patch.esp
 SpringvaleGarage.esm
-Harder New Vegas Strip Access.esm
 Main And Pause Menus Overhaul.esm
-Configurable Pip-Boy Light Color.esm
 MTB.esm
 Securitrons On Alert.esm
 DynamicWeaponDisplays.esm
 WashingtonsMalevolence.esm
 AnotherInteriorMod.esm
-TLD_Travelers.esm
 The Living Desert - TTW Patch.esp
 A Trail of Crumbs.esm
 Regulators.esm
@@ -76,17 +64,6 @@ AWorldOfPainFO3.esm
 AWOP FO3 - TTW Patch.esp
 Rebuild the Capital - A World of Pain for Fallout 3 Patch.esp
 Cyberware.esm
-Brotherhood and House Truce.esm
-Brotherhood and Legion Truce.esm
-Hardin and NCR Truce.esm
-House and Fiends Truce.esm
-House and Followers Truce.esm
-House and Kings Truce.esm
-House and NCR Truce.esm
-Legion and Powder Ganger Truce.esm
-Three Families Alliances.esm
-Papa Khan and NCR Truce.esm
-Friendly Securitrons.esm
 SomeguySeries.esm
 NewVegasBounties.esm
 Badmothafucka.esm
@@ -101,37 +78,15 @@ Vanilla UI Plus.esp
 AidUI.esp
 B42Inertia.esp
 BLEED.esp
-Burden to Bear Armor.esp
-Casino Crowds.esp
-Casino Crowds - TTW Patch.esp
 Casino Exchange All.esp
-CIBS.esp
-DLC Enhancements.esp
-DWD-New Vegas Pack.esp
-Dynamic Weapon Displays - New Vegas Pack - TTW Patch.esp
-DWD-Jacobstown Bungalow.esp
-DWD - TTW Pack.esp
-DWD-Wasteland Survival Guide.esp
 Enhanced Vision.esp
 YourBuddyIsDead.esp
 FOVSlider.esp
 Hitstop.esp
-InfirmaryOverhaulTTW.esp
-Infirmary Overhaul V3.esp
 JIP Companions Command & Control.esp
-JIP MiniMap.esp
 JustAssortedMods.esp
 CyberJAM.esp
-GRA Scavenger Hunt Unbalanced.esp
-gra scavenger hunt unbalanced - ttw patch.esp
 GRA Unique Weapons Relocated - TTW Patch.esp
-Little More Lamplight.esp
-Mojave Raiders.esp
-Mojave Wildlife (FO3-Style).esp
-NoPeepSights.esp
-Player Combat Priority.esp
-RAD.esp
-Real Unique Gehenna.esp
 rockbiter_AnimationSounds.esp
 Root 'n Loot.esp
 Stash Organizer.esp
@@ -140,42 +95,21 @@ SimpleDiseases.esp
 ThreePerkBounty.esp
 Tutorial Killer.esp
 Benny Humbles You and Steals Your Stuff.esp
-AWOPR - Underpass Patch.esp
-ClaimtheMojaveFPGE.esp
-ClaimtheMojaveMojaveRaiders.esp
-ClaimtheMojaveRebuildtheCapital.esp
-ClaimtheMojaveSquads.esp
-ClaimtheMojaveTLD.esp
 Cyberware OWB.esp
 Cyberware TTW.esp
-immerisve nvg.esp
-Mojave Raiders - TLD Patch.esp
-Mojave Wildlife (FO3-Style) - TTW Patch.esp
-FPGE Patch - AWOP Revised.esp
-FPGE Patch - Casino Crowds.esp
-FPGE Patch - Mojave Raiders.esp
-ttw - mojave raiders patch.esp
-Ragdolls TTW Patch.esp
 MTB Megaton Mover.esp
-TTW-MTB-Transporters-Patch.esp
 NewVegasBountiesTTW.esp
 BMF_TTW.esp
 NewVegasKiller - TTW.esp
-Reload Reloaded.esp
-TTW AWOP4FO3 - No Starter Terminal.esp
 TTW Quick Start.esp
-TTW Quick Start Item Remover.esp
 TTWTransportalponderEx.esp
 TTWMergedQuests.esp
-TTWNoFactionArmors.esp
 TTWZetaRewards.esp
 TTW Unlock Hardcore Perk Rate.esp
 Wasteland Starting Gear DC.esp
 WeaponRequirementSystem.esp
 BURN - Hardcore Fire Effects.esp
-Wild Wasteland Prompt.esp
 DelayDLCRedux.esp
-Metro Ghoul and Tenpenny Residents Truce.esp
 ROOG.esp
 sawyerbattyROOG.esp
 TTW-ROOG-RTC-Patch.esp
@@ -188,11 +122,7 @@ Hardcore Zeta - Delay DLC Redux Patch.esp
 S6S Perks.esp
 PAVE_NV_TTW.esp
 Rebuild the Capital-PAVE.esp
-PlayerHomeUpgradesTTWReputationsPatch.esp
-Goodsprings and Powder Gangers Truce.esp
-House and NCR Truce FPGE Patch.esp
 SaveRestrictions.esp
-Supplemental Ammo Crafting.esp
 TTW FaceGen Fix.esp
 CPI Icons.esp
 Skill Book Checklist.esp

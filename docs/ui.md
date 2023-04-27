@@ -42,7 +42,7 @@ that noticeable on its own without [ySI - Sorting Icons](#ysi---sorting-ycons).
 
 Main File - yUI
 
-- After install, double-click the mod and go to **INI Editor**. Paste in:
+- After install, double-click the mod and go to **INI Editor**. Paste in the following, replacing the existing contents:
 
 ```ini title="yUI.ini" showLineNumbers
 [General]

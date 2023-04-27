@@ -1,14 +1,8 @@
 ﻿# Mods to Avoid
 ---
 
-In this section we will go list some of the popular mods that shouldn't be used for Fallout New Vegas or
+In this section we will go over some of the popular mods that shouldn't be used for Fallout New Vegas or
 Tale of Two Wastelands, along with an explanation of the issue(s), and what to use instead.
-
-## Any Bugfix/Unoffical Patch Mod
-
-Note that this only applies to TTW. If playing FNV, you need YUP and UPNVSE+. TTW however already contains its 
-own bugfixes and has its own unofficial patch (YUPTTW). As a result, the FNV bugfix mods like YUP, Unofficial 
-Patch NVSE, etc. will conflict with or break the fixes already included in TTW.
 
 ## Utilities to Avoid
 
@@ -37,8 +31,6 @@ Works by going through your save file and deleting every REFR file, which will m
 The script command used by these mods is a leftover command from development that forcefully clears buffered
 cells from memory, which can lead to unforeseen consequences. Essentially the same function is performed
 safely by the INI tweaks in the guide.
-
-
 
 
 ## Visual Mods to Avoid
@@ -131,7 +123,7 @@ Just for reference, a maximum of 2K at 1080p is a pretty safe bet in terms of ba
 
 ### Project Reality
 
-Very poor scripting, will cause massive performance issues and save bloat. If you want a different weather mod than DN Weathers, I recommend either [Altitude](https://www.nexusmods.com/newvegas/mods/71404), [Yellow Goodbye](https://www.nexusmods.com/newvegas/mods/67277), or [Clarity](https://www.nexusmods.com/newvegas/mods/62481) instead.
+Very poor scripting, will cause massive performance issues and save bloat.
 
 ### Unnecessary Physics
 

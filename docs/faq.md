@@ -29,11 +29,9 @@ fOriginalGroundHeightMS=0
 
 <details>
 <summary>Not really.</summary>
-<p>The guide is oriented completely towards MO2 and takes advantage of a number of its exclusive features.
-We are neither willing nor able to provide support for Vortex, as nobody in the modding community uses it. 
-You should use whatever mod manager you like, but asking for Vortex support on the Discord is not permitted
-at this time. If using MO2 is a dealbreaker for you, we recommend 
-<a href="https://youtu.be/Zts-tF0nYIk" target="_blank">Gopher's video tutorial</a> instead of this guide.</p>
+<p>The guide is oriented completely towards MO2 and takes advantage of a number of its exclusive features. 
+You should use whatever mod manager you like, but we are unable to accomodate Vortex users looking for support, as none of us use it.
+If using MO2 is a dealbreaker for you, we recommend <a href="https://youtu.be/Zts-tF0nYIk" target="_blank">Gopher's video tutorial</a> instead of this guide.</p>
 </details>
 
 ### DarN instead of VUI+
@@ -132,7 +130,7 @@ Tribal Pack - Back porch of house near Springvale School</p>
 ### Ultrawide resolution
 
 In MO2, open **Tools > INI Editor** and make sure you are in the **FalloutCustom.ini** tab and NOT the **Custom.ini** tab.
-Paste in the following, then save and exit.
+Add the following lines:
 
 ```ini
 [Display]
