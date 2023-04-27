@@ -109,29 +109,7 @@ the Big MT - just like all the other unique weapons.
 #### Installation:
 
 - Main File - GUWR Unbalanced
-- Patch File - [GRA Unique Weapons Relocated - TTW
-  Patch](https://www.nexusmods.com/newvegas/mods/77945)
-
-### [Harder Strip Access](https://www.nexusmods.com/newvegas/mods/71643)
-
-Makes it harder to access The Strip in New Vegas, forcing the player to engage with the early game.
-
-🌶️〰️〰️〰️〰️
-
-#### Installation:
-
-Main File - Harder New Vegas Strip Access
-
-### [Infirmary Overhaul](https://www.nexusmods.com/newvegas/mods/73435)
-
-Changes the infirmary. No limitless healing, rad removing or limb fixing. Your skill in medicine
-will greatly affect the amount healed or rads removed.
-
-🌶️〰️〰️〰️〰️
-
-#### Installation:
-
-Main File - Infirmary Overhaul TTW
+- Patch File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
 ### JIP LN Tweaks
 
@@ -221,20 +199,6 @@ bCreatureSpreadFix=1
 ;	certainly a bug and an oversight of the game devs, this fix will make certain enemies much deadlier and may affect game balance.
 ```
 
-### [RAD](https://www.nexusmods.com/newvegas/mods/71541)
-
-Radiation now damages your health at a rate of 1% HP per 10 rads until it is removed; the UI
-reflects the affected portion in red like in Fallout 4. With hardcore mode enabled, your primary
-needs will decrease your AP as well; dehydration penalties are twice as severe.
-
-🌶️🌶️〰️〰️〰️
-
-#### Installation:
-
-Main File - RAD - Overhaul
-
-- Make sure you enable the "JSawyer" setting in the MCM if you are also using SawyerBatty.
-
 ### [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030)
 
 Expand the Brotherhood of Steel and their role in the wasteland following the events of Broken Steel.
@@ -309,16 +273,6 @@ level.
 #### Installation:
 
 Main File - Three Perk Bounty
-
-### [Transporters](https://www.nexusmods.com/newvegas/mods/77645)
-
-Take on the Wastelands with a new alternative form of Fast-Travel, with over 37+ travel destinations! It is strongly recommended to disable fast travel when using this mod, which it enables you to do easily via the MCM.
-
-- Main File - SD_Transporters FOMOD
-  - Select Tale of Two Wastelands in the FOMOD installer
-- Patch File - [SD Transporters - AWOP FO3 Patch](https://www.nexusmods.com/newvegas/mods/77945)
-
-〰️〰️〰️〰️〰️
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
