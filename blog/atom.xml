@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wastelandsurvivalguide.com/blog</id>
     <title>Wasteland Survival Guide Blog</title>
-    <updated>2023-04-01T00:00:00.000Z</updated>
+    <updated>2023-04-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wastelandsurvivalguide.com/blog"/>
     <subtitle>Wasteland Survival Guide Blog</subtitle>
     <icon>https://wastelandsurvivalguide.com/img/wsg.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - April 2023]]></title>
+        <id>https://wastelandsurvivalguide.com/blog/2023/04/27/changelog</id>
+        <link href="https://wastelandsurvivalguide.com/blog/2023/04/27/changelog"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spring cleaning update; removed some clutter. There is nothing wrong with these mods; keep using them if you like them.]]></summary>
+        <content type="html"><![CDATA[<p>Spring cleaning update; removed some clutter. There is nothing wrong with these mods; keep using them if you like them.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="content">Content<a href="#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content">​</a></h3><p>Removed:</p><ul><li>Casino Crowds</li><li>NV Truce Series</li><li>Abandoned Safehouse TTW</li><li>Bonnie Springs Bunker</li><li>Jacobstown Bungalow</li><li>Nellis Quonset Hut</li><li>Outcast's Hideout</li><li>Scavenger's Safehouse</li><li>Complete Player Home Upgrades</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="gameplay">Gameplay<a href="#gameplay" class="hash-link" aria-label="Direct link to Gameplay" title="Direct link to Gameplay">​</a></h3><p>Removed:</p><ul><li>Configurable Pip-Boy Light</li><li>New Vegas Truce Series</li><li>Supplemental Ammo Crafting</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="overhauls">Overhauls<a href="#overhauls" class="hash-link" aria-label="Direct link to Overhauls" title="Direct link to Overhauls">​</a></h3><p>Removed:</p><ul><li>Harder Strip Access</li><li>Infirmary Overhaul</li><li>RAD</li><li>Transporters</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="finish">Finish<a href="#finish" class="hash-link" aria-label="Direct link to Finish" title="Direct link to Finish">​</a></h3><ul><li>Updated loadorder.txt.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="general-changes">General Changes<a href="#general-changes" class="hash-link" aria-label="Direct link to General Changes" title="Direct link to General Changes">​</a></h3><ul><li>Simplified some instructions, as allowed for by this cleanup update.</li><li>Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience.</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - March 2023]]></title>
         <id>https://wastelandsurvivalguide.com/blog/2023/04/01/changelog</id>
@@ -16,14 +24,6 @@
         <content type="html"><![CDATA[<p>This was a fairly turbulent month with the guide being dramatically overhauled from a static site written in raw HTML to a
 dynamically generated one running on the <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a> framework. As much of our attention was devoted to this transition process, please understand that these changelogs might not be as specific or as thoroughly complete as they could be. We will try to keep more
 detailed logs going forward as things slow down.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="general-changes--improvements">General Changes &amp; Improvements<a href="#general-changes--improvements" class="hash-link" aria-label="Direct link to General Changes &amp; Improvements" title="Direct link to General Changes &amp; Improvements">​</a></h3><ul><li>All pages now have an "Edit this page" link so users can conveniently fork the guide and submit corrections or additions as a pull request.</li><li>New functionalities: search bar, zoomable images.</li><li>INIs and loadorder.txt are now just copy/pasted from the guide instead of downloaded and installed.</li><li>Updated loadorder.txt.</li><li>Added Incompatible Mods page ported from TTW forum.</li><li>Added Mods to Avoid &amp; Tools to Avoid pages. These are adapted from VNV/TBOT but with a lot of editing and rewrites.</li><li>Updated the FAQ.</li><li>Updated Contributors page.</li><li>Moved some patches from in-house downloads to Nexus pages (thanks Vish).</li><li>Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="core-guide">Core Guide<a href="#core-guide" class="hash-link" aria-label="Direct link to Core Guide" title="Direct link to Core Guide">​</a></h3><ul><li>Rewrote and edited pretty much everything for brevity and clarity.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="modding-guide">Modding Guide<a href="#modding-guide" class="hash-link" aria-label="Direct link to Modding Guide" title="Direct link to Modding Guide">​</a></h3><ul><li>Moved some mods to more appropriate sections, such as Rebuild the Capital to Overhauls.</li><li>Rewrote or edited some instructions.</li><li>Made some changes to mod subcategories in various sections e.g. UI, Animations, Visuals.</li><li>Added spice meter to Overhauls section.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="animations">Animations<a href="#animations" class="hash-link" aria-label="Direct link to Animations" title="Direct link to Animations">​</a></h3><ul><li>Added Wasteland Warrior.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="overhauls">Overhauls<a href="#overhauls" class="hash-link" aria-label="Direct link to Overhauls" title="Direct link to Overhauls">​</a></h3><ul><li>Added Your Buddy is Dead.<ul><li>This may have been slightly before March but was never noted in changelog prior.</li></ul></li><li>Added a "spice meter" for users to gauge difficulty level.</li></ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redesign]]></title>
-        <id>https://wastelandsurvivalguide.com/blog/2023/02/23/redesign</id>
-        <link href="https://wastelandsurvivalguide.com/blog/2023/02/23/redesign"/>
-        <updated>2023-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr><p>The guide has been redesigned! Going forward, changelogs will be posted here in this "blog" format. The old changelog has been ported over too; click "Read more" to see the full list of historical changes for the given month.</p><hr>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - January 2023]]></title>
