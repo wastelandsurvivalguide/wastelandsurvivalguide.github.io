@@ -110,10 +110,6 @@ fGrassStartFadeDistance=11200
 ; Increases time interval between background slides
 fMainMenuBkgdUpdateInterval=60.0000
 
-[Menu]
-; Changes console font
-iConsoleFont=3
-
 [PipBoy]
 ; Fixes flicker when opening Pip-Boy when its light is on
 fLightEffectFadeDuration=400
