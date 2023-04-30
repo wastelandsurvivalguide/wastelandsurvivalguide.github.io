@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wastelandsurvivalguide.com/blog</id>
     <title>Wasteland Survival Guide Blog</title>
-    <updated>2023-04-29T00:00:00.000Z</updated>
+    <updated>2023-05-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wastelandsurvivalguide.com/blog"/>
     <subtitle>Wasteland Survival Guide Blog</subtitle>
     <icon>https://wastelandsurvivalguide.com/img/wsg.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - May 2023]]></title>
+        <id>https://wastelandsurvivalguide.com/blog/2023/05/01/changelog</id>
+        <link href="https://wastelandsurvivalguide.com/blog/2023/05/01/changelog"/>
+        <updated>2023-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Overhauls]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="overhauls">Overhauls<a href="#overhauls" class="hash-link" aria-label="Direct link to Overhauls" title="Direct link to Overhauls">​</a></h3><ul><li>Removed Your Buddy Is Dead until some issues are fixed.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="finish">Finish<a href="#finish" class="hash-link" aria-label="Direct link to Finish" title="Direct link to Finish">​</a></h3><ul><li>Updated loadorder.txt.</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - April 2023]]></title>
         <id>https://wastelandsurvivalguide.com/blog/2023/04/29/changelog</id>
