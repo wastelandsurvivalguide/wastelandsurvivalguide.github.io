@@ -180,13 +180,9 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   ;The ini by default only has the safest options enabled now.
 
   ; NVTF.ini file redesign by Audley - v2.1
-
   ; [nexusmods.com/newvegas/mods/66537]
-
   ; Report any bugs and performance issues to the Nexus page.
-
   ; NOTE: Default settings here will work fine for most setups.
-
 
   [Main]
 
@@ -208,7 +204,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   ; Used for debugging. Do not use unless you know what you're doing. 
   bAllowDirectXDebugging = 0
 
-
   [GTC]
 
   ; Allows you to run the game at framerates beyond 60 without encountering physics issues.
@@ -220,7 +215,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   ; This removes the GTC limits. It should only be used if your game is running at the wrong speeds.
   ; You will need to cap your framrate manually with this enabled.
   bRemoveGTCLimits = 0
-
 
   [ThreadingTweaks]
 
@@ -235,7 +229,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
 
   ;Possible fix for randomly occuring freeze and crash (most noticeable in TTW)
   bReplaceDeadlockCSWithWaitAndSleep = 1
-
 
   [FPSFix]
 
@@ -253,7 +246,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   ; Fix for the "spider hands" bug.
   bSpiderHandsFix = 1
 
-
   [DirectX]
 
   ; This prevents textures from getting mirrored into RAM and reduces overall memory usage.
@@ -263,12 +255,10 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   ; Enables triple buffering which can provide smoother and more consistent FPS. Disabled by default because it adds an extra backbuffer, potentially increasing input lag.
   bToggleTripleBuffering = 1
 
-
   [Hashtables]
 
   ; Resizes the hashtable bucket space.
   bResizeHashtables = 1
-
 
   ;Patches that I wouldn't call "proper fixes" but work
   [Hacks]
