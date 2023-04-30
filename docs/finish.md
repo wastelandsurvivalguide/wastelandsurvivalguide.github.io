@@ -116,7 +116,6 @@ SimpleDiseases.esp
 ThreePerkBounty.esp
 WeaponRequirementSystem.esp
 Weapon Requirements System - TTW Patch.esp
-YourBuddyIsDead.esp
 TTW FaceGen Fix.esp
 PAVE_NV_TTW.esp
 B42Inertia.esp

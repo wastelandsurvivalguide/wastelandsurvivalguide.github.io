@@ -277,14 +277,3 @@ significant dynamic penalties for those you aren't proficient with.
 
 - Main File - Weapon Requirements System
 - Patch File - [Weapon Requirements System - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
-
-### [Your Buddy Is Dead](https://www.nexusmods.com/newvegas/mods/79635)
-
-NPCs react to encountering the dead bodies of their friends for a short while after death, and for a
-brief window will put two and two together to conclude the player had killed a friendly.
-
-🌶️〰️〰️〰️〰️
-
-#### Installation:
-
-Main File - Your Buddy Is Dead
