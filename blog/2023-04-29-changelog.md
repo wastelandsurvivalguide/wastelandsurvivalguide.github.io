@@ -1,7 +1,7 @@
 # Changelog - April 2023
 
 ### General Changes & Improvements
-- A handful of mods and TTW patches received updates to correct small issues.
+- A handful of mods and patches received updates to correct small issues.
 
 ### Tale of Two Wastelands
 - Added the Dead Money Hotfix.
