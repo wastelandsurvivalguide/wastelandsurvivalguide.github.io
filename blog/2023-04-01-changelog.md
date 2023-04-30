@@ -13,7 +13,7 @@ detailed logs going forward as things slow down.
 - Added Mods to Avoid & Tools to Avoid pages. These are adapted from VNV/TBOT but with a lot of editing and rewrites.
 - Updated the FAQ.
 - Updated Contributors page.
-- Moved some patches from in-house downloads to Nexus pages (thanks Vish).
+- Moved some patches from in-house downloads to Nexus pages.
 - Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience.
 
 ### Core Guide

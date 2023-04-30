@@ -87,6 +87,22 @@ The Medicine Bobblehead is not given at the start, you can pick it up later duri
 
 Main File - TTW Quick Start
 
+### [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
+
+This mod provides you with a greater choice regarding what items to receive at the beginning of the game when using TTW Quick Start.
+
+#### Installation:
+
+Main File - TTW Quick Start Item Remover
+
+### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
+
+Provides you stat based starting gear at the beginning of your TTW playthrough, only instead of being confined to items that could be in the vault, this mod stages a mock battle near Vault 101's exit door, and adds the gear to the dead combatants for you to loot. Requires the 2 mods above.
+
+#### Installation:
+
+Main File - Wasteland Starting Gear DC
+
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934/)
 
 A collection of miscellaneous tweaks for TTW, customizable via config file.

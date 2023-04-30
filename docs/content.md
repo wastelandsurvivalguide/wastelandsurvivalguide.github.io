@@ -91,7 +91,6 @@ For players who started in the Mojave, check Gibson Scrapyard instead.
 - Optional File - [Mobile Truck Base SFX Enhancer](https://www.nexusmods.com/newvegas/mods/77110)
 - Optional File - [TTW - Mobile Truck Base Megaton Mover](https://www.nexusmods.com/newvegas/mods/77160)
   (strongly recommended if you plan to use Springvale Garage)
-- Optional File - [TTW - Mobile Truck Base - Transporters Patch](https://www.nexusmods.com/newvegas/mods/77602)
 
 ### [Springvale Garage](https://www.nexusmods.com/newvegas/mods/76503)
 
@@ -103,16 +102,7 @@ A lore-friendly and balanced player home/quest mod for TTW that sees you renovat
 - Optional File - Patch for ySI
 - Optional File - [Rebuild the Capital - Springvale Garage Terminal](https://www.nexusmods.com/newvegas/mods/77928)
 
-
-### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
-
-A large-scale upgrade for the Sink to turn it into a fully functional player home suitable
-as your main base even after completing the Old World Blues DLC.
-
-- Main File - MAIN FILE: for TTW v3.3.2 or higher
-- Optional File - Compatibility patch for SawyerBatty TTW
-
-## Player Home Improvements
+## [Player Home Upgrades](https://www.nexusmods.com/newvegas/mods/77339)
 
 #### Installation:
 
@@ -128,6 +118,14 @@ Adds crafting stations and additional containers to several vanilla player homes
 Main File - Home and Safehouse Tweaks
  - Customize the settings in the INI if desired.
 
+### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
+
+A large-scale upgrade for the Sink to turn it into a fully functional player home suitable
+as your main base even after completing the Old World Blues DLC.
+
+- Main File - MAIN FILE: for TTW v3.3.2 or higher
+- Optional File - Compatibility patch for SawyerBatty TTW
+
 ### [Dynamic Weapon Displays](https://www.nexusmods.com/newvegas/mods/73882)
 
 Adds Skyrim-esque weapon displays. Fully compatible with weapons from all the DLC and weapons
@@ -135,3 +133,5 @@ added by other mods. Contains a patch for TTW & WSG.
 
 - Main File - Dynamic Weapon Displays
   - In the FOMOD installer select any patches for mods you installed, and choose a display model.
+- Patch File - [Dynamic Weapon Displays - New Vegas Pack - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
+- Patch File - [Dynamic Weapon Displays - New Vegas Pack - MMTV Sink Redux Patch](https://www.nexusmods.com/newvegas/mods/79005)

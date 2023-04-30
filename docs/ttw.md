@@ -36,9 +36,11 @@ files installed to and move them to the `C:\Users\**YOUR USERNAME**\AppData\Loca
 you created earlier. Activate the Tale of Two Wastelands mod by checking its box in the left pane, and the right
 pane should fill with plugins.
 
-## Installing the Hotfix
+## Installing the Hotfixes
 
-Download and install the [3.3.2 Hotfix](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
-normally in MO2. Refer to the [How to Install Mods](./mo2#how-to-install-mods) section if you do not know what these
+Download and install the [3.3.2 Hotfix](https://cdn.discordapp.com/attachments/1021761039987130440/1101974858042196058/TTW_3.3.2_Hotfix.7z)
+normally in MO2. Also install the [Dead Money Hotfix](https://cdn.discordapp.com/attachments/1021761039987130440/1101975191833297046/Dead_Money_Hotfix.7z) the same way.
+
+Refer to the [How to Install Mods](./mo2#how-to-install-mods) section if you do not know what these
 instructions mean. Once installed, drag it below **Tale of Two Wastelands** in the left pane.
 Click the checkbox next to it in the left pane to activate it.

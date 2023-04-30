@@ -172,70 +172,108 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
 
 #### Installation:
 
-- Main File - NVTF
+- Update Files - NVTF BETA
   - After installation, double-click NVTF and go to **INI Files** tab. Paste in the following, replacing the existing contents:
   ```ini title="NVTF.ini" showLineNumbers
   ;This plugin now requires Windows 7 or above.
   ;Only enable options if you know what you're doing.
   ;The ini by default only has the safest options enabled now.
+
   ; NVTF.ini file redesign by Audley - v2.1
+
   ; [nexusmods.com/newvegas/mods/66537]
+
   ; Report any bugs and performance issues to the Nexus page.
+
   ; NOTE: Default settings here will work fine for most setups.
+
+
   [Main]
+
   ; Fixes the 64hz microstutter issue. Settings are under [GTC].
   bGTCFix = 1
+
   ; Prevents the game from hanging on exit.
   bFastExit = 1
+
   ; Optimizes the game's hashtables which reduces menu lag. Settings are under [Hashtables].
   bRedoHashtables = 1
+
   ; Modifies the vanilla DirectX 9 behavior. Settings are under [DirectX].
   bModifyDirectXBehavior = 1
+
   ; Miscellaneous threading tweaks which improve overall performance. Settings are under [ThreadingTweaks].
   bEnableThreadingTweaks = 1
-  ; Used for debugging. Do not use unless you know what you're doing.
+
+  ; Used for debugging. Do not use unless you know what you're doing. 
   bAllowDirectXDebugging = 0
+
+
   [GTC]
+
   ; Allows you to run the game at framerates beyond 60 without encountering physics issues.
   bFPSFix = 1
+
   ; Alternate GTC fix which is more compatible with older systems, but not as accurate.
-  bAlternateGTCFix = 1
+  bAlternateGTCFix = 0
+
   ; This removes the GTC limits. It should only be used if your game is running at the wrong speeds.
   ; You will need to cap your framrate manually with this enabled.
   bRemoveGTCLimits = 0
+
+
   [ThreadingTweaks]
+
   ; Improves overall performance.
-  ;Setting this option to 2 will make the game smoother but potentially more unstable
-  iTweakRCSafeGuard = 1
+  ;Set this to 1 if you're experiencing crashes, mode 1 is safer but it might be more stuttery (less so than vanilla though)
+  iTweakRCSafeGuard = 2 
   ;Even more performance tweaks
   bTweakMiscRendererSafeGuard = 1
+
   ; Extra critical section tweaks.
   bTweakMiscCriticalSections = 1
+
   ;Possible fix for randomly occuring freeze and crash (most noticeable in TTW)
-  bReplaceDeadlockCSWithWaitAndSleep=1
+  bReplaceDeadlockCSWithWaitAndSleep = 1
+
+
   [FPSFix]
+
   ; Warning: This is a threshold and does NOT cap your frame rate.
   ; Maximum tolerance for the high FPS fix. Ensure your FPS does not exceed this setting.
   ; Leave it alone unless you know what you're doing
   iMaxFPSTolerance = 500
+
   ; Minimum tolerance for the high FPS fix. Leave alone unless you know what you're doing.
   iMinFPSTolerance = 10
+
   ; Fix for physics issues caused by high FPS.
   bfMaxTime = 1
+
   ; Fix for the "spider hands" bug.
   bSpiderHandsFix = 1
+
+
   [DirectX]
+
   ; This prevents textures from getting mirrored into RAM and reduces overall memory usage.
   ; Using OneTweak (windowed mode) or DXVK is recommended with this setting enabled, otherwise you won't be able to alt-tab back into the game.
   bUseDefaultPoolForTextures = 1
+
   ; Enables triple buffering which can provide smoother and more consistent FPS. Disabled by default because it adds an extra backbuffer, potentially increasing input lag.
-  bToggleTripleBuffering = 0
+  bToggleTripleBuffering = 1
+
+
   [Hashtables]
+
   ; Resizes the hashtable bucket space.
   bResizeHashtables = 1
+
+
   ;Patches that I wouldn't call "proper fixes" but work
   [Hacks]
-  ;Patch for the water LOD bug
+
+  ;Patch for the water LOD bug 
   bWaterLODPatch = 1
   ```
 

@@ -11,7 +11,7 @@
 - [Matt](https://www.patreon.com/mdbakpo)
 - [Salamand3r](https://salamand3r.fail/)
 - [The Many](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
-- [VishVadeva50](https://www.nexusmods.com/users/98644723)
+- [VishVadeva](https://www.nexusmods.com/users/98644723)
 - [Wall_SoGB](https://www.nexusmods.com/users/22363364)
 - [very](https://www.nexusmods.com/users/163915398)
 

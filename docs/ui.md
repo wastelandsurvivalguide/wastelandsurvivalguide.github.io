@@ -22,7 +22,7 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 #### Installation:
 
 - Main File - The Mod Configuration Menu
-- Update File - MCM Bugfix 2 **(Do not skip this!)**
+- Update File - MCM Bugfix 2 **(Do not skip this file!)**
 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
@@ -46,23 +46,34 @@ Main File - yUI
 
 ```ini title="yUI.ini" showLineNumbers
 [General]
+
 ; fix the issue where items with different conditions would 'jump around' on update
 bFixIndefiniteSorting = 1
+
 ; fix the issue where Container Menu would display only a single dropped item at a time
 bFixDroppedItems = 1
+
 ; fix the issue where Inventory Menu tabline shows up with buttons already selected
 bFixTablineSelected = 1
+
 ; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI installed unless you know what you are doing
 bSortingIcons = 1
+
 ; match cursor color to HUD color
 bMatchingCursor = 1
+
+
 [Sorting and Icons]
+
 ; sort inventory according to tag names supplied in .json
 bSortInventory = 1
+
 ; add ycons to inventory, container and barter menus
 bAddInventoryIcons = 1
+
 ; replace hotkey icons with ycons
 bReplaceHotkeyIcons = 1
+
 ; enable keyring-like clickable categories (this destroys vanilla keyring, so you have to have .json files supplying a new keyring category, i.e. ySI.json)
 bEnableCategories = 1
 ```
@@ -92,7 +103,7 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 - Optional File - Cursor Unilaterally Matched - Patch
   - You do **not** need to install "Cursor Unilaterally Matched";
     it is already built into [yUI](#yui---user-ynterface).
-- Optional File - [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
+- Optional File - [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
 - Optional File - [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 - Optional FIle - [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
 
@@ -104,7 +115,7 @@ High-quality icons.
 
 - Main File - 1. Consistent Pip-boy Icons
 - Main File - 2. Consistent Addon Icons
-  - Enable all Addons and click Install
+  - Use the default settings.
 - Main File - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
   - Enable all Extensions and click Install
 
@@ -146,6 +157,7 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause menu to configure MAPMO's settings
+- Optional Files - Extras - Stewie's Tweaks Sorting Icons Replacer
 
 :::caution
 

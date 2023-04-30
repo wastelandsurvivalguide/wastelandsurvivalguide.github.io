@@ -34,97 +34,94 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
-Functional Post Game Ending.esm
-Functional Post Game Ending - TTW Patch.esm
-Uncut Wasteland.esm
-Uncut Extra Collection.esm
-Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch.esm
-Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
-Rebuild the Capital.esm
+TTW 3.3.2 Hotfix.esp
+Main And Pause Menus Overhaul.esm
+TweaksTTW.esm
+Tale of Bi Wastelands.esm
 TTW Reputations.esm
+Tale of Bi Wastelands + TTW Reputations Patch.esm
 TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
-Tale of Bi Wastelands.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
-Tale of Bi Wastelands + TTW Reputations Patch.esm
-Home and Safehouse Tweaks.esm
-MMTV_Sink_Redux_TTW.esm
-RRTV_FO3_CapitalWasteland_Hideouts_TTW.esm
-SpringvaleGarage.esm
-Main And Pause Menus Overhaul.esm
 MTB.esm
-Securitrons On Alert.esm
-DynamicWeaponDisplays.esm
-WashingtonsMalevolence.esm
-AnotherInteriorMod.esm
+Functional Post Game Ending.esm
+Functional Post Game Ending - TTW Patch.esm
+TLD_Travelers.esm
 The Living Desert - TTW Patch.esp
-A Trail of Crumbs.esm
-Regulators.esm
-AWorldOfPainFO3.esm
-AWOP FO3 - TTW Patch.esp
-Rebuild the Capital - A World of Pain for Fallout 3 Patch.esp
-Cyberware.esm
 SomeguySeries.esm
 NewVegasBounties.esm
 Badmothafucka.esm
 NewVegasKiller.esm
-Simple Open Freeside - TTW + Uncut Wasteland + NVBI LE Patch.esm
-SOF-NVBILE Patch.esm
-TweaksTTW.esm
-TTW 3.3.2 Hotfix.esp
+A Trail of Crumbs.esm
+AnotherInteriorMod.esm
+Regulators.esm
+Uncut Wasteland.esm
+Uncut Extra Collection.esm
+Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
+WashingtonsMalevolence.esm
+RRTV_FO3_CapitalWasteland_Hideouts_TTW.esm
+SpringvaleGarage.esm
+CompletePlayerHomeUpgradesTTW.esm
+Home and Safehouse Tweaks.esm
+MMTV_Sink_Redux_TTW.esm
+DynamicWeaponDisplays.esm
+Cyberware.esm
+Rebuild the Capital.esm
 The Mod Configuration Menu.esp
-DarNifiedUINV.esp
 Vanilla UI Plus.esp
+CPI Icons.esp
 AidUI.esp
-B42Inertia.esp
-BLEED.esp
-Casino Exchange All.esp
-Enhanced Vision.esp
-YourBuddyIsDead.esp
 FOVSlider.esp
-Hitstop.esp
-JIP Companions Command & Control.esp
-JustAssortedMods.esp
-CyberJAM.esp
-GRA Unique Weapons Relocated - TTW Patch.esp
-rockbiter_AnimationSounds.esp
+Tutorial Killer.esp
+Casino Exchange All.esp
+DelayDLCRedux.esp
 Root 'n Loot.esp
 Stash Organizer.esp
-sawyerbatty.esp
-SimpleDiseases.esp
-ThreePerkBounty.esp
-Tutorial Killer.esp
-Benny Humbles You and Steals Your Stuff.esp
-Cyberware OWB.esp
-Cyberware TTW.esp
-MTB Megaton Mover.esp
+TTW Quick Start.esp
+TTW Quick Start Item Remover.esp
+Wasteland Starting Gear DC.esp
+JIP Companions Command & Control.esp
+JustAssortedMods.esp
+TTWZetaRewards.esp
+S6S Perks.esp
+TTWTransportalponderEx.esp
 NewVegasBountiesTTW.esp
 BMF_TTW.esp
 NewVegasKiller - TTW.esp
-TTW Quick Start.esp
-TTWTransportalponderEx.esp
-TTWMergedQuests.esp
-TTWZetaRewards.esp
-TTW Unlock Hardcore Perk Rate.esp
-Wasteland Starting Gear DC.esp
-WeaponRequirementSystem.esp
+MTB Megaton Mover.esp
+PlayerHomeUpgradesTTWReputationsPatch.esp
+DWD-New Vegas Pack.esp
+Dynamic Weapon Displays - New Vegas Pack - TTW Patch.esp
+Dynamic Weapon Displays - New Vegas Pack - MMTV Sink Redux Patch.esp
+DWD - TTW Pack.esp
+DWD-Springville Garage.esp
+Benny Humbles You and Steals Your Stuff.esp
+BLEED.esp
+BLEED TTW - TTW Patch.esp
 BURN - Hardcore Fire Effects.esp
-DelayDLCRedux.esp
-ROOG.esp
-sawyerbattyROOG.esp
-TTW-ROOG-RTC-Patch.esp
-HardcoreZeta.esp
-Hardcore Zeta - Delay DLC Redux Patch.esp
-S6S Perks.esp
-PAVE_NV_TTW.esp
-Rebuild the Capital-PAVE.esp
-SaveRestrictions.esp
-TTW FaceGen Fix.esp
-CPI Icons.esp
-RRTV_CW_Hideouts_SawyerBatty_Patch.esp
-MMTV_SinkRedux_SawyerBatty_Patch.esp
-RTC-SpringvaleGarageTerminal.esp
+CyberJAM.esp
+Cyberware OWB.esp
+Cyberware TTW.esp
+GRA Scavenger Hunt Unbalanced.esp
+GRA Unique Weapons Relocated - TTW Patch.esp
 Rebuild the Capital - No Pony Express Boxes.esp
+SaveRestrictions.esp
+sawyerbatty.esp
+SawyerBatty TTW - TTW Patch.esp
+SawyerBatty TTW - Uncut Wasteland Patch.esp
+RRTV_CW_Hideouts_SawyerBatty_Patch.esp
+RTC-SpringvaleGarageTerminal.esp
+MMTV_SinkRedux_SawyerBatty_Patch.esp
+SimpleDiseases.esp
+ThreePerkBounty.esp
+WeaponRequirementSystem.esp
+Weapon Requirements System - TTW Patch.esp
+YourBuddyIsDead.esp
+TTW FaceGen Fix.esp
+PAVE_NV_TTW.esp
+B42Inertia.esp
+rockbiter_AnimationSounds.esp
+Hitstop.esp
 Atmospheric Lighting Tweaks TTW.esp
 DNWeathers.esp
 ```

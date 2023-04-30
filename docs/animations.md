@@ -88,7 +88,7 @@ A solid base for adding other animations on top.
 #### Installation
 
 - Main File - FNV Clean Animations
-- Update File - FNV Clean Animations - Update
+- Update File - FNV Clean Animations - Update 2.2.2
 
 ### [Hit's Anims](https://www.nexusmods.com/newvegas/mods/73856)
 
