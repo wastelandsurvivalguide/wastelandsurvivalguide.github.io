@@ -185,7 +185,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   ; NOTE: Default settings here will work fine for most setups.
 
   [Main]
-
   ; Fixes the 64hz microstutter issue. Settings are under [GTC].
   bGTCFix = 1
 
@@ -205,7 +204,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   bAllowDirectXDebugging = 0
 
   [GTC]
-
   ; Allows you to run the game at framerates beyond 60 without encountering physics issues.
   bFPSFix = 1
 
@@ -217,24 +215,23 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   bRemoveGTCLimits = 0
 
   [ThreadingTweaks]
-
   ; Improves overall performance.
-  ;Set this to 1 if you're experiencing crashes, mode 1 is safer but it might be more stuttery (less so than vanilla though)
+  ;Set this to 1 if you're experiencing crashes, mode 1 is safer but it might be more stuttery (less so than vanilla though).
   iTweakRCSafeGuard = 2 
-  ;Even more performance tweaks
+
+  ;Even more performance tweaks.
   bTweakMiscRendererSafeGuard = 1
 
   ; Extra critical section tweaks.
   bTweakMiscCriticalSections = 1
 
-  ;Possible fix for randomly occuring freeze and crash (most noticeable in TTW)
+  ;Possible fix for randomly occuring freeze and crash (most noticeable in TTW).
   bReplaceDeadlockCSWithWaitAndSleep = 1
 
   [FPSFix]
-
   ; Warning: This is a threshold and does NOT cap your frame rate.
   ; Maximum tolerance for the high FPS fix. Ensure your FPS does not exceed this setting.
-  ; Leave it alone unless you know what you're doing
+  ; Leave it alone unless you know what you're doing.
   iMaxFPSTolerance = 500
 
   ; Minimum tolerance for the high FPS fix. Leave alone unless you know what you're doing.
@@ -247,7 +244,6 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   bSpiderHandsFix = 1
 
   [DirectX]
-
   ; This prevents textures from getting mirrored into RAM and reduces overall memory usage.
   ; Using OneTweak (windowed mode) or DXVK is recommended with this setting enabled, otherwise you won't be able to alt-tab back into the game.
   bUseDefaultPoolForTextures = 1
@@ -256,14 +252,12 @@ NVTF's memory patches disable Alt-Tab functionality. Follow the
   bToggleTripleBuffering = 1
 
   [Hashtables]
-
   ; Resizes the hashtable bucket space.
   bResizeHashtables = 1
 
-  ;Patches that I wouldn't call "proper fixes" but work
+  ;Patches that I wouldn't call "proper fixes" but work.
   [Hacks]
-
-  ;Patch for the water LOD bug 
+  ;Patch for the water LOD bug.
   bWaterLODPatch = 1
   ```
 
