@@ -38,9 +38,9 @@ pane should fill with plugins.
 
 ## Installing the Hotfixes
 
-Download and install the [3.3.2 Hotfix](https://cdn.discordapp.com/attachments/1021761039987130440/1101974858042196058/TTW_3.3.2_Hotfix.7z)
-normally in MO2. Also install the [Dead Money Hotfix](https://cdn.discordapp.com/attachments/1021761039987130440/1101975191833297046/Dead_Money_Hotfix.7z) the same way.
+Download and install the [TTW 3.3.2 Hotfix](https://thebestoftimes.moddinglinked.com/files/TTW 3.3.2 Hotfix.zip) manually in MO2. Also install the [Dead Money Hotfix](https://thebestoftimes.moddinglinked.com/files/Dead Money Hotfix.zip) the same way.
 
 Refer to the [How to Install Mods](./mo2#how-to-install-mods) section if you do not know what these
-instructions mean. Once installed, drag it below **Tale of Two Wastelands** in the left pane.
-Click the checkbox next to it in the left pane to activate it.
+instructions mean.
+
+Make sure they are both ordered below <strong>Tale of Two Wastelands</strong> and enable them.
