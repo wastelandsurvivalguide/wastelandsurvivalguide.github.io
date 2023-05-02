@@ -30,7 +30,7 @@ Steam, GOG or Epic Game Store.
   - You may "mix and match" Steam, GOG and Epic versions; e.g. FO3 on Epic and FNV on Steam is supported.
   - Xbox Game Pass version is **not supported** (unmoddable).
 - ~30 GB of free space for installation.
-- Windows 7 or higher (64-bit).
+- Windows 8 or higher (64-bit).
 - [DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
   - Extract the archive to any location and run `DXSETUP.exe`.
 - [VC++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
