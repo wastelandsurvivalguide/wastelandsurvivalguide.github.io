@@ -222,10 +222,7 @@ Allows you to set various restrictions on when the game can be saved.
 
 #### Installation:
 
-Main File - Save Restrictions
-
-- Double-click the mod in the left pane, select **INI Files** and set your desired restrictions
-  in `Config\SaveRestrictions\SR.ini`
+After installing the Main File, double-click the mod in the left pane & select **INI Files** to set desired restrictions.
 
 ### [SawyerBatty](https://www.nexusmods.com/newvegas/mods/75598)
 
@@ -250,10 +247,6 @@ attacks.
 
 🌶️🌶️〰️〰️〰️
 
-#### Installation:
-
-Main File - Simple Diseases
-
 ### [Three Perk Bounty](https://www.nexusmods.com/newvegas/mods/77783)
 
 Presents a random selection of 3 perks to choose from instead of the full perk list. You may re-roll
@@ -261,10 +254,6 @@ up to three times, but with bad luck you may receive a negative "curse" perk whi
 level.
 
 🌶️🌶️〰️〰️〰️
-
-#### Installation:
-
-Main File - Three Perk Bounty
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 

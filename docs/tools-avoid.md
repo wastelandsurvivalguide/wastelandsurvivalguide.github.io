@@ -61,13 +61,11 @@ A little bit more about LOOT and its limitations, taken from
 > LOOT does not, in fact, work miracles. The load order it applies is based on a master list compiled by various contributors. 
 > That means, theoretically, to work as well as some people think it does, the master list would have to be aware of every conflict 
 > between every combination of plugins. Of which there are hundreds of thousands. This is literally not possible.
-
 > So LOOT sorts to the best of its ability, and the resulting load order will probably be better than not sorting at all. 
 > It doesn’t even approach being sufficient though. Some people, like Lexy, use LOOT with a ton of LOOT rules (that define where 
 > certain plugins and groups of plugins should be placed), but how did she find out where these plugins should be put in the first
 > place? By checking them in xEdit for their conflicts, of course. Using LOOT with custom rules is a viable option but only if you
 > use xEdit to determine the correct order in the first place.
-
 > The notifications LOOT shows you (errors, missing records etc.) are once again drawn from the aforementioned master list which may,
 > for example, include a link to a missing patch. This works by checking your load order for the specific plugin name of that patch 
 > and alert you if it didn’t find it. What if the plugin was renamed, or merged, or you actually fixed what that patch does in a custom 

@@ -11,10 +11,6 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 Automatically ensures that multiple HUD extensions work together.
 **Required** to use the following UI mods.
 
-#### Installation:
-
-Main File - User Interface Organizer
-
 ### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
 
 Adds a settings menu to configure mods in-game. **Required** for many mods.
@@ -28,21 +24,14 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
 
-#### Installation:
-
-Install from archive in MO2 ([How To Install Mods](mo2#how-to-install-mods))
-  - Use the default settings.
-
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
 NVSE plugin that aims to fix UI bugs and add new UI features. Doesn't do anything
-that noticeable on its own without [ySI - Sorting Icons](#ysi---sorting-ycons).
+that noticeable on its own without [ySI - Sorting Ycons](#ysi---sorting-ycons).
 
 #### Installation:
 
-Main File - yUI
-
-- After install, double-click the mod and go to **INI Editor**. Paste in the following, replacing the existing contents:
+After installing the Main File, double-click the mod and go to **INI Editor**. Paste in the following, replacing the existing contents:
 
 ```ini title="yUI.ini" showLineNumbers
 [General]
@@ -103,9 +92,9 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 - Optional File - Cursor Unilaterally Matched - Patch
   - You do **not** need to install "Cursor Unilaterally Matched";
     it is already built into [yUI](#yui---user-ynterface).
-- Optional File - [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
-- Optional File - [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
-- Optional FIle - [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
+- [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
+- [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
+- [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
 
 ### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
 
@@ -126,25 +115,13 @@ High-quality icons.
 Adds HUD widgets showing the duration of consumed Aid items. Configure in the MCM;
 I prefer the Bars mode over the default Icons mode.
 
-#### Installation:
-
-Main File - AidUI
-
 ### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
 
 Allows persistent field-of-view adjustments via the MCM.
 
-#### Installation:
-
-Main File - FOV Slider
-
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
-A completely reworked re-imagining of the TTW main menu image.
-
-#### Installation:
-
-Main File - Main Menu Redone - TTW - <_YOUR RESOLUTION_>
+A completely reworked re-imagining of the TTW main menu image. Choose the file that matches your resolution.
 
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
@@ -154,6 +131,7 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
+- First install [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012); this is a prerequisite for MAPMO.
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause menu to configure MAPMO's settings
@@ -170,25 +148,13 @@ You will have to access the MCM by pressing the **M** key.
 
 Hybrid Fallout 4/New Vegas-style HUD.
 
-#### Installation:
-
-Main File - Simplified FO4 HUD
-
 ### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
 
 Removes message boxes that pop up during the tutorial, as well as those that occur once
 during a new game, and repeating corner-messages.
-
-#### Installation:
-
-Main File - Tutorial Killer
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
 Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
 management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
 (it should be if following the guide).
-
-#### Installation:
-
-Main File - ySI - Sorting Icons

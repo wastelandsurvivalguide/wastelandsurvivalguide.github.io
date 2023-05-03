@@ -7,12 +7,8 @@
 
 ##### Functional Post-Game Ending
 
-Adds a fully functional post-game world that reflects the consequences of player choices & ending.
-
-#### Installation:
-
-- Main File - Functional Post Game Ending
-  - You will be prompted with a FOMOD installer; select **only the Tale of Two Wastelands Patch**.
+Adds a fully functional post-game world that reflects the consequences of player choices & ending. 
+Select **only the Tale of Two Wastelands Patch** in the FOMOD installer.
 
 ### [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)
 
@@ -38,11 +34,6 @@ This master file allows you to play mods in the Someguy series, which are being 
 ### TTW Quest Conversions
 
 A series of Fallout 3 quests from various authors which add many new locations to the game, converted for TTW by RoyBatty.
-
-#### Installation:
-
-Main Files:
-
 - [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
 - [TTW Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611)
 - [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
@@ -62,20 +53,20 @@ Main Files:
 
 ### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
 
-A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches. Players will also get to explore multiple locations around the island with interesting backstories and meet plenty of different personalities that are sure to leave an impression that lasts.
-
-Main File - Washington's Malevolence TTW
+A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, 
+a pre-War bank that is said to contain untold riches.
 
 ## Player Homes
 
 ### [Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html)
 
-Capital Wasteland Hideouts are small way station player homes (10 locations in total) that offer places to safely store your stuff until you can get to your main base (or until you can acquire one). 
+Capital Wasteland Hideouts are small way station player homes (10 locations in total) that offer places to safely 
+store your stuff until you can get to your main base (or until you can acquire one). **Install the SawyerBatty patch
+if you're using SawyerBatty.**
 
-#### Installation:
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
-- Main File
-- Optional File - Compatibility patch for SawyerBatty TTW
+Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI if desired.
 
 ### [Mobile Truck Base](https://www.nexusmods.com/newvegas/mods/79005/?tab=files)
 
@@ -92,6 +83,12 @@ For players who started in the Mojave, check Gibson Scrapyard instead.
 - Optional File - [TTW - Mobile Truck Base Megaton Mover](https://www.nexusmods.com/newvegas/mods/77160)
   (strongly recommended if you plan to use Springvale Garage)
 
+### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
+
+A large-scale upgrade for the Sink to turn it into a fully functional player home suitable
+as your main base even after completing the Old World Blues DLC. **Install the SawyerBatty patch 
+if you're using SawyerBatty.**
+
 ### [Springvale Garage](https://www.nexusmods.com/newvegas/mods/76503)
 
 A lore-friendly and balanced player home/quest mod for TTW that sees you renovate the ruin of the garage at Springvale Red Rocket into a fully functional and capable home for yourself. Clean up, restore power and water, salvage furniture, and purchase or scavenge powerful upgrades for your home.
@@ -101,30 +98,6 @@ A lore-friendly and balanced player home/quest mod for TTW that sees you renovat
 - Main File - TTW - Springvale Garage
 - Optional File - Patch for ySI
 - Optional File - [Rebuild the Capital - Springvale Garage Terminal](https://www.nexusmods.com/newvegas/mods/77928)
-
-## [Player Home Upgrades](https://www.nexusmods.com/newvegas/mods/77339)
-
-#### Installation:
-
-- Main File - TTW Complete Player Home Upgrades
-- Optional File - TTW Reputations Patch
-
-### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
-
-Adds crafting stations and additional containers to several vanilla player homes.
-
-#### Installation:
-
-Main File - Home and Safehouse Tweaks
- - Customize the settings in the INI if desired.
-
-### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
-
-A large-scale upgrade for the Sink to turn it into a fully functional player home suitable
-as your main base even after completing the Old World Blues DLC.
-
-- Main File - MAIN FILE: for TTW v3.3.2 or higher
-- Optional File - Compatibility patch for SawyerBatty TTW
 
 ### [Dynamic Weapon Displays](https://www.nexusmods.com/newvegas/mods/73882)
 

@@ -154,6 +154,6 @@ You now run the game using the **Tale of Two Wastelands** option in MO2 - *not* 
 # Finishing Notes
 
 Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. For additional resources such as
-incompatible mods, performance tips, frequently asked questionsand more, see the [Appendix](appendix). Remember
+incompatible mods, performance tips, frequently asked questions and more, see the [Appendix](appendix). Remember
 to join the [TTW Discord](https://discord.gg/taleoftwowastelands) if you have any additional questions about the
 guide, modding, or just to chill.
