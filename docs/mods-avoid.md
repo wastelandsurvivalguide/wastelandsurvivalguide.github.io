@@ -97,15 +97,6 @@ One of the most notoriously broken-yet-popular mods out there, FCO suffers from 
   covers all NPCs in both the Capital Wasteland and the Mojave Wasteland. Note that this mod will require
   patching to work correctly with the other mods in the WSG though.
 
-### Handheld Pip-Boys, such as the 2500
-
-All hand-held Pip-Boys share the [same common visual bugs](https://imgur.com/a/3NBafn5) that occur if
-you enter/exit your Pip-Boy too fast. The methods these mods use to hide the Pip-Boy in third person
-are also quite janky, as they were made before NVSE extensions like JIP LN. These bugs and quirks have
-mostly been removed with [Handheld Fixes](https://www.nexusmods.com/newvegas/mods/76009) though. I still
-recommend either the [2500a](https://www.nexusmods.com/newvegas/mods/49732) or
-[2000 Mk VI](https://www.nexusmods.com/newvegas/mods/65980) for wrist-mounted Pip-Boys.
-
 ### New Vegas Landscape Overhaul Remastered
 
 Has broken navmeshes, deleted objects with the `Has Tree LOD` flag (Which can cause crashing), many 
@@ -225,7 +216,8 @@ Sinitar knows nothing about modding, as shown by his guide that includes most of
 
 ### Strip Open
 
-Same deal as Freeside Open, it pushes the engine to its limit with the large worldspace and added NPCs without any performance optimization. I recommend [Simple Open Strip](https://www.nexusmods.com/newvegas/mods/73127) instead.
+Same deal as Freeside Open; it pushes the engine to its limit with the large worldspace and added NPCs without any performance optimization. 
+I recommend [Simple Open Strip](https://www.nexusmods.com/newvegas/mods/73127) instead. It doesn't need any TTW patch unlike Freeside Open.
 
 ### True Wasteland Economy
 
