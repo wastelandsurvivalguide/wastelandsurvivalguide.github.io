@@ -38,7 +38,7 @@ Select *NVSE* and enable the *Hide in user interface* checkbox to hide the NVSE 
 the game via the `nvse_loader.exe`, which isn't needed anymore. The 4GB patcher we installed earlier loads NVSE automatically - in a safer way - 
 when we launch the game normally via the *Tale of Two Wastelands* option.
 
-<!-- [MO2 Remove NVSE Loader](../static/img/mo2%20hide%20nvse.webp) -->
+[MO2 Hide NVSE Loader](../static/img/mo2%20hide%20nvse.webp)
 
 ### [New Vegas Heap Replacer](https://www.nexusmods.com/newvegas/mods/69779)
 
