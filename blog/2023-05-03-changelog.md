@@ -7,7 +7,7 @@
 - Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience.
 
 ### Visuals
-- Moved Anniversary Anims, B42 Inertia and Compatibility Skeleton here from the now-defunct Animations section.
+- Moved ISControl Enabler, Anniversary Anims, B42 Inertia and Compatibility Skeleton here from the now-defunct Animations section.
 
 ### Animations
 - Removed this section entirely. The mods that survived have been moved to the Visuals section.

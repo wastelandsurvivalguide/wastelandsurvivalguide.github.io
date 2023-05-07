@@ -38,6 +38,10 @@ Increases resolution of local maps, resulting in a sharper and clearer image.
 
 ## Visual Improvements
 
+### [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417)
+
+Removes the requirement to patch weapons manually for ISControl nodes of animations. **Required** for Anniversary Anim Pack.
+
 ### [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158)
 
 Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion,
