@@ -84,7 +84,7 @@ FO4-style Loot Menu, Sprint, Bullet Time, and much more.
 #### Installation:
 
 - Main File - Just Assorted Mods
-  - Toggle/configure features in the MCM
+  - Toggle/configure features in the MCM. In particular, make sure you turn off 
 - Optional File - [Clean Just Weapons Hweel](https://www.nexusmods.com/newvegas/mods/76357)
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
