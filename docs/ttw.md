@@ -38,7 +38,7 @@ pane should fill with plugins.
 
 ## Installing the Hotfixes
 
-Download and install the [TTW 3.3.2 Hotfix](https://github.com/WallSoGB/The-Best-of-Times/blob/master/files/TTW_3.3.2_Hotfix.7z) manually in MO2.
+Download and install the [TTW 3.3.2 Hotfix](https://github.com/WallSoGB/The-Best-of-Times/raw/master/files/TTW_3.3.2_Hotfix.7z) manually in MO2.
 
 Refer to the [How to Install Mods](./mo2#how-to-install-mods) section if you do not know what these
 instructions mean.
