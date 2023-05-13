@@ -9,7 +9,9 @@ These are some of the terms you'll need to know:
 - Override: Taking an existing record in a plugin and then editing it in another plugin.
 - Conflict: These happen once you start adding >=2 unique edits to that record (so for example you have the original record in vanilla, then a mod changing it, then another mod editing it to something different from the previous 2). xEdit will represent these conflicts based on their type and with different colors both for the background of that record and for the text (Theres a legend for this).
 
-:::danger The colors of a record do **NOT** indicate whether you need to act or not, it's simply a classification of the type of conflict. Green does not mean good and red does not mean bad.
+:::danger
+The colors of a record do **NOT** indicate whether you need to act or not, it's simply a classification of the type of conflict. Green does not mean good and red does not mean bad.
+:::
 
 - Forwarding: If you want a change in a specific plugin to also be contained in another plugin, then you can drag that value or container of values into the other plugin. For example if a mod does not include a fix from the unofficial patch but it edits that record elsewhere, you can forward the fix and have both changes at once. Generally it is not recommended to forward or edit things directly in the mod plugins, you should always override into a new plugin that acts as a patch.
 
@@ -27,7 +29,9 @@ These are some of the terms you'll need to know:
 
 Any plugin will be loaded by the game as long as it is properly structured (created by tools such as xEdit or GECK) and if its extension is "ESP" or "ESM". The basic content of a plugin is its own header, which defines info such as the version of that plugin (has to match what the game uses for proper functionality, this is especially important if you want to port a mod from Fallout 3 to FNV/TTW). There is also information more important to an editor such as the author, description of that plugin, the number of records it contains (any record, even overrides) and the flags assigned to the plugin (you'll mostly see "ESM" here).
 
-:::note Remember that for a plugin to be an ESM, it is almost always preferable to only flag it as such in the header. Changing extension to ESM is just an alternative that will **always** force the ESM flag on runtime, this means that in order to get rid of the flag from a plugin with the esm extension, you'd break any other mods that have such plugin in their masterlist (since the removal involves renaming the plugin).
+:::note
+Remember that for a plugin to be an ESM, it is almost always preferable to only flag it as such in the header. Changing extension to ESM is just an alternative that will **always** force the ESM flag on runtime, this means that in order to get rid of the flag from a plugin with the esm extension, you'd break any other mods that have such plugin in their masterlist (since the removal involves renaming the plugin).
+:::
 
 You can view plugins as a list of objects in unique containers that specify which type of content is inside. For example a weapon record will be contained under the `Weapons category`. Each of these objects has it's own ID called FormID written in [HEX](https://en.wikipedia.org/wiki/Hexadecimal) which makes it unique, but there is also an **EditorID** which the game ignores and you can use for easier identification or filtering. Going back to the weapon example, you can have the weapon itself with its **BaseID** or you can have instances of that weapon placed in the game world which are called references, so they each have their own **RefID**.
 
