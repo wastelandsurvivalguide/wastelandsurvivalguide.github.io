@@ -6,11 +6,6 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Core HUD/UI Mods
 
-### [User Interface Organizer](https://www.nexusmods.com/newvegas/mods/57174)
-
-Automatically ensures that multiple HUD extensions work together.
-**Required** to use the following UI mods.
-
 ### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
 
 Adds a settings menu to configure mods in-game. **Required** for many mods.
