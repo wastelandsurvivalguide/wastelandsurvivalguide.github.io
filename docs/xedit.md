@@ -9,7 +9,7 @@ These are some of the terms you'll need to know:
 - Override: Taking an existing record in a plugin and then editing it in another plugin.
 - Conflict: These happen once you start adding >=2 unique edits to that record (so for example you have the original record in vanilla, then a mod changing it, then another mod editing it to something different from the previous 2). xEdit will represent these conflicts based on their type and with different colors both for the background of that record and for the text (Theres a legend for this).
 
-:::danger
+:::info
 The colors of a record do **NOT** indicate whether you need to act or not, it's simply a classification of the type of conflict. Green does not mean good and red does not mean bad.
 :::
 
@@ -23,13 +23,15 @@ The colors of a record do **NOT** indicate whether you need to act or not, it's 
 5. If you downloaded xEdit from the Discord server then you will need to add **"-FNV"** as command line argument for it to start in the right game mode. This is not required if you downloaded the tool from the game's Nexus or if you renamed the executable file to FNVEdit.exe.
 4. Run the program
 
-:::danger Do not use the x64 executable. It will introduce rounding errors, it only becomes required with huge amounts data being loaded (very unlikely on FNV) or very long sessions.
+:::caution
+Do not use the x64 executable. It will introduce rounding errors, it only becomes required with huge amounts data being loaded (very unlikely on FNV) or very long sessions.
+:::
 
 ## Plugin Structure
 
 Any plugin will be loaded by the game as long as it is properly structured (created by tools such as xEdit or GECK) and if its extension is "ESP" or "ESM". The basic content of a plugin is its own header, which defines info such as the version of that plugin (has to match what the game uses for proper functionality, this is especially important if you want to port a mod from Fallout 3 to FNV/TTW). There is also information more important to an editor such as the author, description of that plugin, the number of records it contains (any record, even overrides) and the flags assigned to the plugin (you'll mostly see "ESM" here).
 
-:::note
+:::info
 Remember that for a plugin to be an ESM, it is almost always preferable to only flag it as such in the header. Changing extension to ESM is just an alternative that will **always** force the ESM flag on runtime, this means that in order to get rid of the flag from a plugin with the esm extension, you'd break any other mods that have such plugin in their masterlist (since the removal involves renaming the plugin).
 :::
 
