@@ -21,7 +21,7 @@ The colors of a record do **NOT** indicate whether you need to act or not, it's 
 2. Extract the archive and place the files inside a folder of your choosing. Do **NOT** place it inside a system folder nor the game folder. Mod Organizer 2 by default will create a folder in your C drive called Modding, that is a good place for all your tools.
 3. Add xEdit to MO2 by pressing CTRL + E and `Add from file...`, then point it to the xEdit executable you placed in your modding folder before.
 5. If you downloaded xEdit from the Discord server then you will need to add **"-FNV"** as command line argument for it to start in the right game mode. This is not required if you downloaded the tool from the game's Nexus or if you renamed the executable file to FNVEdit.exe.
-4. Run the program
+4. Run the program.
 
 :::caution
 Do not use the x64 executable. It will introduce rounding errors, it only becomes required with huge amounts data being loaded (very unlikely on FNV) or very long sessions.
