@@ -93,9 +93,8 @@ iTexMipMapSkip=0
 [General]
 ; Forces faster cell unload to lessen memory usage
 bPreemptivelyUnloadCells=1
-; Spawns additional AI worker threads
+; Enables multithreaded AI
 bUseThreadedAI=1
-; Enables multithreading for most operations
 iNumHWThreads=3
 ; Sets TTW's starting quest
 SCharGenQuest=001FFFF8
