@@ -138,6 +138,18 @@ Only the radiant light cast _by_ the flashes is disabled - not the muzzle flashe
 
 By default, the Pip-Boy ignores external lights, making it appear oddly dark - especially in interiors. This mod fixes that.
 
+### [Depth of Field Fix - NVSE](https://www.nexusmods.com/newvegas/mods/81200)
+
+Fix for depth of field bleeding over onto player's viewmodel.
+
+### [Muzzle Flash Light Fix - NVSE](https://www.nexusmods.com/newvegas/mods/81201)
+
+Fixes muzzle flash lights not being culled after shot, leading to game still using them for illumination.
+
+### [Dynamic Pip-Boy Light - NVSE](https://www.nexusmods.com/newvegas/mods/81203)
+
+Attaches Pip-Boy light to the Pip-Boy making it able to move alongside with player animations.
+
 ### [Atmospheric Lighting Tweaks](https://www.nexusmods.com/newvegas/mods/79378)
 
 Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
