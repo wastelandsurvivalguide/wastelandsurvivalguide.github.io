@@ -4,10 +4,18 @@
         <title>Wasteland Survival Guide Blog</title>
         <link>https://wastelandsurvivalguide.com/blog</link>
         <description>Wasteland Survival Guide Blog</description>
-        <lastBuildDate>Wed, 03 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Changelog - May 2023]]></title>
+            <link>https://wastelandsurvivalguide.com/blog/2023/05/21/changelog</link>
+            <guid>https://wastelandsurvivalguide.com/blog/2023/05/21/changelog</guid>
+            <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Overhauls]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="overhauls">Overhauls<a href="#overhauls" class="hash-link" aria-label="Direct link to Overhauls" title="Direct link to Overhauls">​</a></h3><ul><li>Removed Your Buddy Is Dead until some issues are fixed.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="visuals">Visuals<a href="#visuals" class="hash-link" aria-label="Direct link to Visuals" title="Direct link to Visuals">​</a></h3><ul><li>Added Depth of Field Fix, Muzzle Flash Light Fix and Dynamic Pip-Boy Light.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="finish">Finish<a href="#finish" class="hash-link" aria-label="Direct link to Finish" title="Direct link to Finish">​</a></h3><ul><li>Updated loadorder.txt.</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Changelog - Mayday]]></title>
             <link>https://wastelandsurvivalguide.com/blog/2023/05/03/changelog</link>
@@ -15,14 +23,6 @@
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[General Changes]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="general-changes">General Changes<a href="#general-changes" class="hash-link" aria-label="Direct link to General Changes" title="Direct link to General Changes">​</a></h3><ul><li>WSG no longer covers game installation, MO2 setup, TTW installation, or essential utilities such as xNVSE and 4GB patch.<ul><li>In other words, we now assume/require that you have a working TTW installation via <a href="https://thebestoftimes.moddinglinked.com/" target="_blank" rel="noopener noreferrer">The Best of Times</a> before starting the guide.</li></ul></li><li>In keeping with this assumption, we also assume you know how to install mods in MO2, so the "Installation" steps for most mods have been removed, except where they are non-standard.</li><li>Further improvements to overall system stability and other minor adjustments have been made to enhance the user experience.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="visuals">Visuals<a href="#visuals" class="hash-link" aria-label="Direct link to Visuals" title="Direct link to Visuals">​</a></h3><ul><li>Moved ISControl Enabler, Anniversary Anims, B42 Inertia and Compatibility Skeleton here from the now-defunct Animations section.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="animations">Animations<a href="#animations" class="hash-link" aria-label="Direct link to Animations" title="Direct link to Animations">​</a></h3><ul><li>Removed this section entirely. The mods that survived have been moved to the Visuals section.</li></ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Changelog - May 2023]]></title>
-            <link>https://wastelandsurvivalguide.com/blog/2023/05/01/changelog</link>
-            <guid>https://wastelandsurvivalguide.com/blog/2023/05/01/changelog</guid>
-            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Overhauls]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="overhauls">Overhauls<a href="#overhauls" class="hash-link" aria-label="Direct link to Overhauls" title="Direct link to Overhauls">​</a></h3><ul><li>Removed Your Buddy Is Dead until some issues are fixed.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="finish">Finish<a href="#finish" class="hash-link" aria-label="Direct link to Finish" title="Direct link to Finish">​</a></h3><ul><li>Updated loadorder.txt.</li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Changelog - April 2023]]></title>
