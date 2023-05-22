@@ -73,7 +73,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### EVE
 
-- incompatible weapon meshes and animations. Try [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/68267) instead.
+- incompatible weapon meshes and animations. Try [Energy Visuals Plus 2.0](https://www.nexusmods.com/newvegas/mods/80000) instead.
 
 #### Enhanced NPC Awareness
 
