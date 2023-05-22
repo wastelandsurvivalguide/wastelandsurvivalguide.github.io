@@ -8,7 +8,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 Run your game directly through Steam once. You may also need to restart Steam and/or Mod Organizer 2.
 If that still doesn't work, place a copy of your Steam.exe (a copy, not a shortcut) into the game's
-[Root](setup#important-locations) folder.
+[Root](https://thebestoftimes.moddinglinked.com/setup.html#terms) folder.
 
 ### "Bouncing" NPCs
 
@@ -92,7 +92,7 @@ a good idea to add additional mods.
 ### Merge, Rename, Replace?
 
 When installing multiple mods from the same page through MO2, you should **Rename** to the **file name**
-of the file you downloaded, as described in [How to Install Mods](mo2#how-to-install-mods).
+of the file you downloaded, as described in [The Best of Times](https://thebestoftimes.moddinglinked.com/mo2.html#installation_instructions).
 
 ### MO2 reports overwritten loose files
 
