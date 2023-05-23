@@ -144,5 +144,4 @@ in the panel on the lefthand side, then exit and restart the game so it takes ef
 
 ### What do these installation instructions mean?
 
-Review the [How to Install Mods](mo2#how-to-install-mods) section for how the guide presents
-instructions on both _Mod Manager Download_ and _Manual Download_ formats.
+Review [The Best of Times](https://thebestoftimes.moddinglinked.com/mo2.html#installation_instructions) for how to install mods in both _Mod Manager Download_ and _Manual Download_ formats.
