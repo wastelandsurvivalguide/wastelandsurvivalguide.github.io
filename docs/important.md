@@ -19,5 +19,13 @@ Like helpful falling, but the opposite.
 Makes crouching immersive.
 ### [Lanius Gets Obliterated](https://www.nexusmods.com/newvegas/mods/74032)
 Overhauls the dialogue during the climax of the game.
+### [No More NVSE](https://www.nexusmods.com/newvegas/mods/75839)
+Using NVSE for such trivial fix is either overkill or worse, pure show off. This mod was conceived into much more friendly and much more simple manner, vanilla style way.
 ### [Pepe Glare](https://www.nexusmods.com/newvegas/mods/74984)
 For special Troopers.
+### [Punch the Mick and Ralph's Crier in the Face](https://www.nexusmods.com/newvegas/mods/71629)
+What's his problem anyway?
+### [Snig Bobbleheads](https://www.nexusmods.com/newvegas/mods/73956)
+Makes the bobbleheads look like some creep who dumps his girlfriend every time her brain finishes developing.
+### [Whose Smell is it Anyway?](https://www.nexusmods.com/newvegas/mods/73957)
+Nehred is normally pretty funny; what's with the fart joke? Must be a French thing.
