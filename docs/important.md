@@ -14,9 +14,7 @@ A texture pack except actually good.
 ### [Eat Books](https://www.nexusmods.com/newvegas/mods/80425)
 Eat books.
 ### [Exclamation Mark Error Replacer](https://www.nexusmods.com/newvegas/mods/76161)
-Prepare yourself for a career in politics by sweeping systemic failures under the rug and pretending they don't exist. Learning how to not break the game is boring and stupid anyway.
-### [Frogboy's Veronica Edit](https://www.nexusmods.com/newvegas/mods/74927)
-# ♡UωU♡⠀⠀⠀⠀⠀⠀⠀
+Prepare yourself for a career in politics by sweeping systemic failures under the rug and pretending they don't exist. Learning how to not break the game is boring and stupid anyway.⠀⠀
 ### [Get Fucked NVSE](https://www.nexusmods.com/newvegas/mods/72619)
 Greatly improves NPC interactions.
 ### [Gundrops and Icecream - Accidental Discharge](https://www.nexusmods.com/newvegas/mods/80586)
@@ -42,6 +40,8 @@ The ultimate arsenal.
 What's his problem anyway?
 ### [Snig Bobbleheads](https://www.nexusmods.com/newvegas/mods/73956)
 Makes the bobbleheads look like some creep who dumps his girlfriend every time her brain finishes developing.
+### [System Shock 2](https://store.steampowered.com/app/238210/System_Shock_2/)
+Submit to the biomass and your suffering will end.
 ### [Tetris](https://www.nexusmods.com/newvegas/mods/77779)
 Adds Tetris to the Pip-Boy so you can play a game that's actually fun while you're playing New Vegas.
 ### [Whose Smell is it Anyway?](https://www.nexusmods.com/newvegas/mods/73957)
