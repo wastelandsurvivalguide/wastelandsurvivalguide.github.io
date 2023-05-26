@@ -165,7 +165,7 @@ const config = {
                 src: 'img/TTW.png',
                 href: 'https://taleoftwowastelands.com',
             },
-            copyright: `Copyright <a href="docs/important">©</a> ${new Date().getFullYear()} Wasteland Survival Guide`,
+            copyright: `Copyright <a href="important">©</a> ${new Date().getFullYear()} Wasteland Survival Guide`,
         },
         prism: {
             theme: lightCodeTheme,
