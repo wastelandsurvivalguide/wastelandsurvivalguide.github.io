@@ -4,7 +4,7 @@ It's a nice tree.
 ### [Benny Clowns On You And Steals Your Bitches](https://www.nexusmods.com/newvegas/mods/75962)
 The ultimate difficulty mod.
 ### [Blackout ENB](https://www.nexusmods.com/newvegas/mods/48203)
-Hard requirement for every mod featured in the guide.
+[There are lots of great ENBs for a lot of games last time I played TTW back in the day I used Marcurio's. And it was solid. I think most of these ENB critics have never played with one that was configured for gameplay instead of screenarchery. Or they're just haters playing on potatos that don't have the power for extra post-processing. Anyone that says ENBs look like shit are just exposing themselves as failures implementing it.](https://imgur.com/a/U2CikSN)
 ### [Bruhmin Sound Replacer](https://www.nexusmods.com/newvegas/mods/72795)
 Bruh
 ### [Buddy Chicken Companion](https://www.nexusmods.com/newvegas/mods/61686)
@@ -39,7 +39,7 @@ The ultimate arsenal.
 ### [Punch the Mick and Ralph's Crier in the Face](https://www.nexusmods.com/newvegas/mods/71629)
 What's his problem anyway?
 ### [Snig Bobbleheads](https://www.nexusmods.com/newvegas/mods/73956)
-Makes the bobbleheads look like some creep who dumps his girlfriend every time her brain finishes developing.
+Makes the bobbleheads look like some creep who dumps his girlfriend every time her brain finishes developing, doing a Jack Nicholson impression.
 ### [System Shock 2](https://store.steampowered.com/app/238210/System_Shock_2/)
 Submit to the biomass and your suffering will end.
 ### [Tetris](https://www.nexusmods.com/newvegas/mods/77779)
