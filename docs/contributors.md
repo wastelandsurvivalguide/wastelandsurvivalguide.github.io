@@ -37,4 +37,5 @@
 - [TheKraken](https://www.nexusmods.com/newvegas/users/31380295)
 - [very](https://www.nexusmods.com/users/163915398)
 - [Wall_SoGB](https://www.nexusmods.com/users/22363364)
+
 **Thank you** to the TTW team and everyone in the FNV & TTW modding communities!
