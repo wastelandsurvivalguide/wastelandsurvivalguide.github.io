@@ -44,6 +44,7 @@ use LOOT on TTW. For all intents and purposes you might as well be randomizing y
 MO2 is in TTW mode for good reason, although you shouldn't use it for FNV either.
 
 A little bit more about LOOT and its limitations, taken from *[On Sinitar](https://docs.google.com/document/d/1F1-6lF8dI4i2Zz8iT-bv_Ci1VO9MSU4MiSUrT5JqgHA/edit#)* by Phoenix (a Skyrim modder):
+
 > *LOOT does not, in fact, work miracles. The load order it applies is based on a master list compiled by various contributors. 
 > That means, theoretically, to work as well as some people think it does, the master list would have to be aware of every conflict 
 > between every combination of plugins. Of which there are hundreds of thousands. This is literally not possible.*
@@ -60,6 +61,7 @@ A little bit more about LOOT and its limitations, taken from *[On Sinitar](https
 > plugin? LOOT has no way to tell. LOOT only knows what has been entered into its database. And that database is filled by a handful of 
 > people as a hobby. It doesn’t even approach comprehensive. Don’t get me wrong, I respect the people working on it! But I know I cannot
 > trust them with fixing my load order for me because they are human and not omnipotent.*
+
 ### Merge Plugins Standalone/zMerge
 Automated merging can potentially cause major breakage in mods, especially heavily-scripted ones.
 ### New Vegas Configator
