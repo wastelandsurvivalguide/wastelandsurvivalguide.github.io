@@ -14,11 +14,15 @@ TTW already grants a perk every level in non-Hardcore mode. If you want a perk e
 :::
 ### [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378)
 Replaces all static (non-interactive) containers with lootable equivalents.
-### [Stash Organizer](https://eddoursul.win/mods/stash-organizer/)
+### [Stash Organizer](https://eddoursul.win/mods/stash-organizer)
 Automatically organizes your items in any interior cell, modded or vanilla. **Read the description** so you understand how to use it!
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. The Medicine Bobblehead is not given at the start; you can pick it up later during _Trouble on the Homefront_.
-### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934/)
+### [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
+Povides you with a greater choice regarding what items to receive at the beginning of the game when using TTW Quick Start.
+### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
+A successor to Vault Starting Gear DC, this is a small mod that provides you stat based starting gear at the beginning of your TTW playthrough, only instead of being confined to items that could be in the vault, this mod stages a mock battle near Vault 101's exit door, and adds the gear to the dead combatants for you to loot.
+### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 A collection of miscellaneous tweaks for TTW. After installing the Main File, double-click the mod in the left pane and go to **INI Files** & customize to your liking.
 ## New Features
 ### [JIP Companions](https://www.nexusmods.com/newvegas/mods/50468)
