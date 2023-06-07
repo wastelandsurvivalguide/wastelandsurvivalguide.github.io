@@ -45,7 +45,7 @@ Breaks fixes from YUP & TTW and causes crashing in TTW.
 ### Electro City
 Has broken LOD that can cause crashing. Also includes
 [unnecessary bloat and leftover features from a planned quest](https://imgur.com/a/spSSCZD). I recommend
-[A Little More Lamplight](https://www.nexusmods.com/newvegas/mods/69226) instead (already in the guide).
+[A Little More Lamplight](https://www.nexusmods.com/newvegas/mods/69226) instead.
 ### ENB
 As mentioned earlier with ENBoost, ENBs were never fully developed for New Vegas and have been abandoned by
 the author. They have a ton of bugs and performance issues, such as broken anti-aliasing, transparent objects,
