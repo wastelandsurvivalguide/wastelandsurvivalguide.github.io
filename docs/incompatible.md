@@ -271,7 +271,3 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 - Ghoul doctor from Caruthers Canyon will walk to and appear in Underworld due to reused marker/package
 - Someguy's mods are all being [remastered](content#the-someguy-series-le) with TTW patches.
-
-#### VUI+ (non-TTW edition)
-
-- Gives user message to install YUP. Don't install YUP; TTW comes with TTWYUP.
