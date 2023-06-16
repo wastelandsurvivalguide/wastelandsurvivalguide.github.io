@@ -108,6 +108,7 @@ GRA Scavenger Hunt Unbalanced.esp
 GRA Unique Weapons Relocated - TTW Patch.esp
 Rebuild the Capital - No Pony Express Boxes.esp
 SaveRestrictions.esp
+DelayDLCReduxPOPP.esp
 sawyerbatty.esp
 SawyerBatty TTW - TTW Patch.esp
 SawyerBatty TTW - Uncut Wasteland Patch.esp
