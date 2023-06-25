@@ -44,7 +44,11 @@ const sidebars = {
         "contributors",
         "dogma",
         "incompatible",
-        "lod",
+        {
+          type: "link",
+          label: "LOD Guide",
+          href: "https://vivanewvegas.moddinglinked.com/lod.html",
+        },
         "mods-avoid",
         "tools-avoid",
         "xedit",
