@@ -7,7 +7,7 @@ Meet the team and other contributors who helped make the guide what it is today.
 Bad modding information floating around the internet that you should be aware of.
 ### [Incompatible Mods](incompatible)
 A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or outright broken).
-### [LOD Guide](lod)
+### [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html)
 How to to generate object LOD with xLODGen (usually not required if you don't add extra mods).
 ### [Mods to Avoid](mods-avoid)
 A list of popular mods that should be avoided, and what to use instead.
