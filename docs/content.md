@@ -31,6 +31,9 @@ Main Files:
 - Patch File - [FPGE - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
 ### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
 A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches.
+#### Installation:
+- Main File Washington's Malevolence TTW
+- Update File - Washington's Malevolence TTW - Update 4.0.7
 ## Player Homes
 ### [Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html)
 Capital Wasteland Hideouts are small way station player homes (10 locations in total) that offer places to safely store your stuff until you can get to your main base (or until you can acquire one).
