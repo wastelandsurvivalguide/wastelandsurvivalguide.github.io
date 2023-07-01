@@ -110,6 +110,7 @@ GRA Unique Weapons Relocated - TTW Patch.esp
 Rebuild the Capital - No Pony Express Boxes.esp
 RtC-RootnLoot.esp
 SaveRestrictions.esp
+DelayDLCReduxPOPP.esp
 sawyerbatty.esp
 SawyerBatty TTW - TTW Patch.esp
 SawyerBatty TTW - Uncut Wasteland Patch.esp
