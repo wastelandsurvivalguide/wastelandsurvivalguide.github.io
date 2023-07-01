@@ -69,6 +69,7 @@ MMTV_Sink_Redux_TTW.esm
 DynamicWeaponDisplays.esm
 Cyberware.esm
 Rebuild the Capital.esm
+RtC-AnotherInterior.esm
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 CPI Icons.esp
@@ -107,6 +108,7 @@ Cyberware TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
 GRA Unique Weapons Relocated - TTW Patch.esp
 Rebuild the Capital - No Pony Express Boxes.esp
+RtC-RootnLoot.esp
 SaveRestrictions.esp
 sawyerbatty.esp
 SawyerBatty TTW - TTW Patch.esp
