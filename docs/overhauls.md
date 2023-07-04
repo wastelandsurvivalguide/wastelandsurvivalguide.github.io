@@ -136,8 +136,9 @@ Expand the Brotherhood of Steel and their role in the wasteland following the ev
 #### Installation:
 - Main File - Rebuild the Capital 2.35
 In the FOMOD check **No Pony Express Boxes** then click <button>Install</button>.
-- Patch File - [Another Interior Patch](https://www.nexusmods.com/newvegas/mods/68030)
-- Patch File - [Root n Loot Patch](https://www.nexusmods.com/newvegas/mods/68030)
+- Patch File - Another Interior Patch
+- Patch File - Desert Natural Weathers Patch
+- Patch File - Root n Loot Patch
 ### [Save Restrictions](https://www.nexusmods.com/newvegas/mods/72672)
 Allows you to set various restrictions on when the game can be saved. Double-click the mod in the left pane & select **INI Files** to set desired restrictions.
 ### [SawyerBatty](https://www.nexusmods.com/newvegas/mods/75598)
