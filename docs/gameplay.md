@@ -35,6 +35,8 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
     - No Attacker: Nothing
     - Self-Damage: Nothing
 - Optional File - [Clean Just Weapons Hweel](https://www.nexusmods.com/newvegas/mods/76357)
+- Optional File - [Clean Just Visual Objectives](https://www.nexusmods.com/newvegas/mods/80523)
+- Optional File - [Clean Just Dynamic Crosshair](https://www.nexusmods.com/newvegas/mods/81625)
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 Adds a container upon completing Mothership Zeta, it will be populated with the items from any abductees you decided to keep alive during your playthrough. Think Honest Hearts, but better!
 ### [Sweet6Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
