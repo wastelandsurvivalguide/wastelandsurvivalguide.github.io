@@ -127,6 +127,7 @@ B42Inertia.esp
 rockbiter_AnimationSounds.esp
 Hitstop.esp
 Atmospheric Lighting Tweaks TTW.esp
+RTC-DNWeathers.esp
 DNWeathers.esp
 ```
 
