@@ -113,7 +113,7 @@ I prefer the Bars mode over the default Icons mode.
 #### Installation:
 
 - Main File - AidUI
-- Main File - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)
+- Optional Files - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)
 
 ### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
 
