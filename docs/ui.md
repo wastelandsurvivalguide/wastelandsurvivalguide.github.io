@@ -110,6 +110,11 @@ High-quality icons.
 Adds HUD widgets showing the duration of consumed Aid items. Configure in the MCM;
 I prefer the Bars mode over the default Icons mode.
 
+#### Installation:
+
+- Main File - AidUI
+- Main File - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)
+
 ### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
 
 Allows persistent field-of-view adjustments via the MCM.
