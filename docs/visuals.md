@@ -111,14 +111,6 @@ Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion,
 
 Fixed camera jumps, animation snapping, movement lock, broken aim in 3rd person. Install the **Bonus Patch** too.
 
-### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
-
-Makes weapon movement feel more natural and realistic. Watch the provided video to see.
-
-### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
-
-Allows multiple mods that edit the skeleton mesh to work together; required for B42 Weapon Inertia. Choose "Vanilla Weights" when installing.
-
 ## Lighting & Weather
 
 ### [Atmospheric Lighting Tweaks](https://www.nexusmods.com/newvegas/mods/79378)
@@ -128,10 +120,6 @@ Makes changes to Image Spaces and Lighting Templates to give interiors a more dy
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
 An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support. Make sure you install the TTW version, not the FNV one.
-
-### [Dusty Distance Redone](https://www.nexusmods.com/newvegas/mods/75183)
-
-Applies a subtle "distant fog" effect that looks nice and can hide ugly LOD, z-fighting and other engine bugs without feeling intrusive. I prefer the 39k version, but choose whichever you like.
 
 ### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
