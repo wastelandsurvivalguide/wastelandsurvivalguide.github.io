@@ -122,6 +122,9 @@ ThreePerkBounty.esp
 WeaponRequirementSystem.esp
 Weapon Requirements System - TTW Patch.esp
 TTW FaceGen Fix.esp
+NVCollectiblesMerged.esp
+TTWMergedQuests.esp
+BakaSkillBookScanner.esp
 PAVE_NV_TTW.esp
 B42Inertia.esp
 rockbiter_AnimationSounds.esp

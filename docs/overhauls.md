@@ -1,44 +1,65 @@
 ﻿# Overhauls
+
 ---
+
 :::danger Spicy Mods Ahead
 The mods in this section may change the game dramatically, and some are **very challenging**. Don't overdo it and remember that everything is **optional**!
 :::
+
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
-Resets the player's Level, XP, Skills, Perks and Karma upon travelling from the CW to the Mojave for the first time; optionally confiscates gear as well. 
+
+Resets the player's Level, XP, Skills, Perks and Karma upon travelling from the CW to the Mojave for the first time; optionally confiscates gear as well.
+
 #### Installation:
+
 - Main File - Benny Humbles You and Steals Your Stuff
   - After install, double-click (Benny Humbles You) and Steals Your Stuff in the left pane, choose INI Files & configure the mod to your preferences
-- Recommended Optional File - [Nail Gun Semi Auto  Rework](https://www.nexusmods.com/newvegas/mods/74465)
-### [BLEED](https://www.nexusmods.com/newvegas/mods/61141)
-Overhauls how damage and force is applied, making combat much more unforgiving and closer to classic Fallout. Crippled limbs on crit, burning and bleeding effects and more. 
-#### Installation:
-- Main File - BLEED
-- Patch File - [BLEED TTW - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
+- Recommended Optional File - [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
+
 ### [BURN](https://www.nexusmods.com/newvegas/mods/76060)
-Causes unprotected humans and flammable creatures to panic and flee when set on fire, adding an extra gameplay mechanic for incendiary weapons and ammo. This mod restores some companion screams cut from FNV which some people find disturbing. Give this one a skip if realistic screams of pain would be a trigger for you. 
+
+Causes unprotected humans and flammable creatures to panic and flee when set on fire, adding an extra gameplay mechanic for incendiary weapons and ammo. This mod restores some companion screams cut from FNV which some people find disturbing. Give this one a skip if realistic screams of pain would be a trigger for you.
+
 #### Installation:
+
 - Main File - BURN - Hardcore Fire Effects
 - Patch File - BURN - TTW Patch (Script Runner)
-- Optional File - [BLEED and BURN Scriptrunner Patch](https://www.nexusmods.com/newvegas/mods/76489)
+
 ### [Charisma Tweaks](https://www.nexusmods.com/newvegas/mods/71310)
+
 Barter and speech checks (And optionally, ALL skill checks) take into account both your charisma and the intelligence of the person you're speaking to. Optionally, it can use the charisma of the person you're speaking to instead.
+
 ### [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655)
-Integrates Cyberware 2281 and Just Assorted Mods, allowing them to interact like the old PN Core and Cyberware modules. Reintroduces and expands upon the cut Wired Synapses implant. 
+
+Integrates Cyberware 2281 and Just Assorted Mods, allowing them to interact like the old PN Core and Cyberware modules. Reintroduces and expands upon the cut Wired Synapses implant.
+
 #### Installation:
+
 - Main File - CyberJAM
 - Optional File - CyberJAM INI File
+
 ### [Cyberware 2281](https://eddoursul.win/mods/cyberware-2281/)
+
 Recreates the functionality of the Cyberware implants from Project Nevada, without all the problems caused by that ancient mod.
+
 #### Installation:
+
 - Main File - Cyberware 2281
 - Patch File - Cyberware 2281 TTW Patch
+
 ### [GRA Uniques Relocated](https://www.nexusmods.com/newvegas/mods/68153)
-Makes the GRA unique weapons unavailable for purchase and scatters them across the Mojave, Zion, and the Big MT - just like all the other unique weapons. 
+
+Makes the GRA unique weapons unavailable for purchase and scatters them across the Mojave, Zion, and the Big MT - just like all the other unique weapons.
+
 #### Installation:
+
 - Main File - GUWR Unbalanced
 - Patch File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
+
 ### JIP LN INI Tweaks
+
 Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by distributing weapon mods to NPCs. Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Paste in the following, replacing the existing contents:
+
 ```ini showLineNumbers title="jip_nvse.ini"
 [GamePatches]
 bIgnoreDTDRFix=1
@@ -131,28 +152,42 @@ bCreatureSpreadFix=1
 ;	due to not having weapon aiming animations, and therefore not technically being able to aim. Note that although this is almost
 ;	certainly a bug and an oversight of the game devs, this fix will make certain enemies much deadlier and may affect game balance.
 ```
+
 ### [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030)
+
 Expand the Brotherhood of Steel and their role in the wasteland following the events of Broken Steel. Features new armors, weapons, quests, perks, NPCs, and a recruitment system.
+
 #### Installation:
+
 - Main File - Rebuild the Capital 2.35
-In the FOMOD check **No Pony Express Boxes** then click <button>Install</button>.
+  In the FOMOD check **No Pony Express Boxes** then click <button>Install</button>.
 - Patch File - Another Interior Patch
 - Patch File - Desert Natural Weathers Patch
 - Patch File - Root n Loot Patch
+
 ### [Save Restrictions](https://www.nexusmods.com/newvegas/mods/72672)
+
 Allows you to set various restrictions on when the game can be saved. Double-click the mod in the left pane & select **INI Files** to set desired restrictions.
+
 ### [SawyerBatty](https://www.nexusmods.com/newvegas/mods/75598)
+
 TTW version of the famous [JSawyer](https://fallout-archive.fandom.com/wiki/JSawyer#Main_features) mod by FNV's director Josh Sawyer. Changes to carry weight, level cap & Logan's Loophole were reverted. The pre-order packs are placed in logical areas around Springvale and Megaton when you start in DC.
+
 #### Installation:
+
 - Main File - TTWSawyerBatty
 - Patch File - [SawyerBatty TTW - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 - Patch File - [SawyerBatty TTW - Uncut Wasteland Patch](https://www.nexusmods.com/newvegas/mods/79005)
-### [Simple Diseases](https://www.nexusmods.com/newvegas/mods/74802)
-A simple and modular disease system for Fallout New Vegas. Adds a chance to get sick from eating bad food and drinking untreated water as well as the risk of contracting diseases from wild animal attacks.
+
 ### [Three Perk Bounty](https://www.nexusmods.com/newvegas/mods/77783)
+
 Presents a random selection of 3 perks to choose from instead of the full perk list. You may re-roll up to three times, but with bad luck you may receive a negative "curse" perk which lasts until next level.
+
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
+
 Makes weapon Strength and Skill requirements matter, allowing you to equip any weapon but assigning significant dynamic penalties for those you aren't proficient with.
+
 #### Installation:
+
 - Main File - Weapon Requirements System
 - Patch File - [Weapon Requirements System - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)

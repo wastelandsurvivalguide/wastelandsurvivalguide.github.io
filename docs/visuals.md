@@ -3,9 +3,7 @@
 ---
 
 :::note Where are all the texture mods?
-WSG keeps things very light on textures, but please check out
-[Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide) if it's something you
-are looking to add to your game.
+We don't really like the majority of texture mods, but feel free to check out [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide). Note that we cannot offer support for it.
 :::
 
 ## Visual Fixes & Optimizations
@@ -40,9 +38,9 @@ Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dar
 
 Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberware. In the installer just click **Install**.
 
-### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
+<!-- ### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
-Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm.
+Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm. -->
 
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
@@ -67,10 +65,6 @@ Makes distant land textures less ugly.
 ### [Metro Map Replacer](https://taleoftwowastelands.com/viewtopic.php?f=55&t=7779)
 
 Texture replacers for the underground metro maps, making them actually useful for navigation.
-
-### [Mostly Fixed Facegen Tints](https://www.nexusmods.com/newvegas/mods/71577)
-
-Removes unsightly green tint from NPC face textures. Note that this is a pretty large download, if you care about that.
 
 ### [Power Armor Visual Enhancement](https://www.nexusmods.com/newvegas/mods/74786)
 
@@ -110,6 +104,18 @@ Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion,
 ### [Anniversary Anim General Bugfix](https://www.nexusmods.com/newvegas/mods/72320)
 
 Fixed camera jumps, animation snapping, movement lock, broken aim in 3rd person. Install the **Bonus Patch** too.
+
+### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
+
+Gives weapons realistic inertia movement.
+
+### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
+
+#### Installation:
+
+- Optional Files - NVCS Vanilla Weights
+
+Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia. Read the description if you plan on adding any other mods which edit the skeleton.
 
 ## Lighting & Weather
 

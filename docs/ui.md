@@ -2,6 +2,7 @@
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 # User Interface & HUD
+
 ---
 
 ## Core HUD/UI Mods
@@ -18,6 +19,87 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
+
+### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
+
+Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
+
+#### Installation:
+
+- Main File - Clean Vanilla Hud
+  - Main Mod:
+    - [x] Main Files
+    - [x] Clean Fonts
+    - [x] Clean Map Icons
+    - [x] Clean Radiation Bar
+    - [x] Clean Shared Interface
+  - Clean Roulette Loading Wheel:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
+  - Patches:
+    - [x] Vanilla UI+ Patch
+    - [x] I am not a Height Indicator User
+    - [x] Alternative Just Hit Indicator
+    - [ ] Clean Fonts for DarnUI
+- Optional File - Cursor Unilaterally Matched - Patch
+  - You do **not** need to install "Cursor Unilaterally Matched";
+    it is already built into [yUI](#yui---user-ynterface).
+- [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
+- [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
+- [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
+
+### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
+
+High-quality icons.
+
+#### Installation:
+
+- Main File - 1. Consistent Pip-boy Icons
+- Main File - 2. Consistent Addon Icons
+  - Use the default settings.
+- Main File - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
+  - Enable all Extensions and click Install
+
+### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
+
+Adds HUD widgets showing the duration of consumed Aid items. Configure in the MCM;
+I prefer the Bars mode over the default Icons mode.
+
+#### Installation:
+
+- Main File - AidUI
+- Main File - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)
+
+### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
+
+A completely reworked re-imagining of the TTW main menu image. Choose the file that matches your resolution.
+
+### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
+
+##### Main & Pause Menus Overhaul
+
+Adds a bunch of features to the Main and Pause menus. Fully customizable.
+
+#### Installation:
+
+- First install [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012); this is a prerequisite for MAPMO.
+- Main File - Main And Pause Menus Overhaul
+  - Press **M** from the pause menu to access the MCM
+  - Press **N** from the pause menu to configure MAPMO's settings
+- Optional Files - Extras - Stewie's Tweaks Sorting Icons Replacer
+
+:::caution
+
+With this mod installed, the **Mod Configuration Menu** button in the pause menu will be hidden!
+You will have to access the MCM by pressing the **M** key.
+
+:::
+
+### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
+
+Removes message boxes that pop up during the tutorial, as well as those that occur once
+during a new game, and repeating corner-messages.
 
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
@@ -61,97 +143,6 @@ bReplaceHotkeyIcons = 1
 ; enable keyring-like clickable categories (this destroys vanilla keyring, so you have to have .json files supplying a new keyring category, i.e. ySI.json)
 bEnableCategories = 1
 ```
-
-### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
-
-Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
-
-#### Installation:
-
-- Main File - Clean Vanilla Hud
-  - Main Mod:
-    - [x] Main Files
-    - [x] Clean Fonts
-    - [x] Clean Map Icons
-    - [x] Clean Radiation Bar
-    - [x] Clean Shared Interface
-  - Clean Roulette Loading Wheel:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
-  - Patches:
-    - [x] Vanilla UI+ Patch
-    - [x] I am not a Height Indicator User
-    - [x] Alternative Just Hit Indicator
-    - [ ] Clean Fonts for DarnUI
-- Optional File - Cursor Unilaterally Matched - Patch
-  - You do **not** need to install "Cursor Unilaterally Matched";
-    it is already built into [yUI](#yui---user-ynterface).
-- [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
-- [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
-- [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
-
-### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
-
-High-quality icons.
-
-#### Installation:
-
-- Main File - 1. Consistent Pip-boy Icons
-- Main File - 2. Consistent Addon Icons
-  - Use the default settings.
-- Main File - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
-  - Enable all Extensions and click Install
-
-## Add-on/Optional UI Mods
-
-### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
-
-Adds HUD widgets showing the duration of consumed Aid items. Configure in the MCM;
-I prefer the Bars mode over the default Icons mode.
-
-#### Installation:
-
-- Main File - AidUI
-- Main File - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)
-
-### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
-
-Allows persistent field-of-view adjustments via the MCM.
-
-### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
-
-A completely reworked re-imagining of the TTW main menu image. Choose the file that matches your resolution.
-
-### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
-
-##### Main & Pause Menus Overhaul
-
-Adds a bunch of features to the Main and Pause menus. Fully customizable.
-
-#### Installation:
-
-- First install [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012); this is a prerequisite for MAPMO.
-- Main File - Main And Pause Menus Overhaul
-  - Press **M** from the pause menu to access the MCM
-  - Press **N** from the pause menu to configure MAPMO's settings
-- Optional Files - Extras - Stewie's Tweaks Sorting Icons Replacer
-
-:::caution
-
-With this mod installed, the **Mod Configuration Menu** button in the pause menu will be hidden!
-You will have to access the MCM by pressing the **M** key.
-
-:::
-
-### [Simplified FO4 HUD](https://www.nexusmods.com/newvegas/mods/75634)
-
-Hybrid Fallout 4/New Vegas-style HUD.
-
-### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
-
-Removes message boxes that pop up during the tutorial, as well as those that occur once
-during a new game, and repeating corner-messages.
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
