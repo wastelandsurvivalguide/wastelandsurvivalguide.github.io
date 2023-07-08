@@ -130,13 +130,13 @@ B42Inertia.esp
 rockbiter_AnimationSounds.esp
 Hitstop.esp
 Atmospheric Lighting Tweaks TTW.esp
-RTC-DNWeathers.esp
 DNWeathers.esp
+RTC-DNWeathers.esp
 ```
 
 Press F5 to refresh MO2 and if everything went correctly, the final plugin in MO2's right pane should be:
 
-- [x] DN Weathers.esp
+- [x] RTC-DNWeathers.esp
 
 Click the <button>**Create a Backup**</button> button so if something ever goes wrong you can instantly restore this load order:
 
