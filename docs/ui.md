@@ -20,6 +20,55 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
 
+### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
+
+NVSE plugin that aims to fix UI bugs and add new UI features. Doesn't do anything
+that noticeable on its own without [ySI - Sorting Ycons](#ysi---sorting-ycons).
+
+#### Installation:
+
+After installing the Main File, double-click the mod and go to **INI Editor**. Paste in the following, replacing the existing contents:
+
+```ini title="yUI.ini" showLineNumbers
+[General]
+
+; fix the issue where items with different conditions would 'jump around' on update
+bFixIndefiniteSorting = 1
+
+; fix the issue where Container Menu would display only a single dropped item at a time
+bFixDroppedItems = 1
+
+; fix the issue where Inventory Menu tabline shows up with buttons already selected
+bFixTablineSelected = 1
+
+; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI installed unless you know what you are doing
+bSortingIcons = 1
+
+; match cursor color to HUD color
+bMatchingCursor = 1
+
+
+[Sorting and Icons]
+
+; sort inventory according to tag names supplied in .json
+bSortInventory = 1
+
+; add ycons to inventory, container and barter menus
+bAddInventoryIcons = 1
+
+; replace hotkey icons with ycons
+bReplaceHotkeyIcons = 1
+
+; enable keyring-like clickable categories (this destroys vanilla keyring, so you have to have .json files supplying a new keyring category, i.e. ySI.json)
+bEnableCategories = 1
+```
+
+### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
+
+Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
+management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
+(it should be if following the guide).
+
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
 Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
@@ -100,52 +149,3 @@ You will have to access the MCM by pressing the **M** key.
 
 Removes message boxes that pop up during the tutorial, as well as those that occur once
 during a new game, and repeating corner-messages.
-
-### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
-
-NVSE plugin that aims to fix UI bugs and add new UI features. Doesn't do anything
-that noticeable on its own without [ySI - Sorting Ycons](#ysi---sorting-ycons).
-
-#### Installation:
-
-After installing the Main File, double-click the mod and go to **INI Editor**. Paste in the following, replacing the existing contents:
-
-```ini title="yUI.ini" showLineNumbers
-[General]
-
-; fix the issue where items with different conditions would 'jump around' on update
-bFixIndefiniteSorting = 1
-
-; fix the issue where Container Menu would display only a single dropped item at a time
-bFixDroppedItems = 1
-
-; fix the issue where Inventory Menu tabline shows up with buttons already selected
-bFixTablineSelected = 1
-
-; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI installed unless you know what you are doing
-bSortingIcons = 1
-
-; match cursor color to HUD color
-bMatchingCursor = 1
-
-
-[Sorting and Icons]
-
-; sort inventory according to tag names supplied in .json
-bSortInventory = 1
-
-; add ycons to inventory, container and barter menus
-bAddInventoryIcons = 1
-
-; replace hotkey icons with ycons
-bReplaceHotkeyIcons = 1
-
-; enable keyring-like clickable categories (this destroys vanilla keyring, so you have to have .json files supplying a new keyring category, i.e. ySI.json)
-bEnableCategories = 1
-```
-
-### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
-
-Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
-management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
-(it should be if following the guide).

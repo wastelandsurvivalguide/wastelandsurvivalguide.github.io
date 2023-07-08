@@ -28,7 +28,7 @@ Modifies the Pip-Boy animation to be 2x or 3x faster than default. Works with mo
 
 Customizes some vanilla gamesettings with text files powered by Stewie's Tweaks. Select whatever you want in the installer; if you want to change your settings just reinstall the mod and select different options.
 :::info Perk Every Level
-TTW already grants a perk every level in non-Hardcore mode. If you want a perk every level in Harcore Mode, install _Hardcore Perk Every Level_ from [Wasteland Supplements](https://www.nexusmods.com/newvegas/mods/79005). The Perk Every Level gamesetting tweak included in Misc Gamesetting Tweaks won't actually affect TTW due to a technicality.
+This particular gamesetting tweak in this mod won't actually affect TTW due to a technicality, however TTW already grants a perk every level in non-Hardcore mode. If you want this for Harcore Mode, install [Hardcore Perk Every Level](overhauls#hardcore-perk-every-level).
 :::
 
 ### [NV Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/80939)

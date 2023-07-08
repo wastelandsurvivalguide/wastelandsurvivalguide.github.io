@@ -56,6 +56,10 @@ Makes the GRA unique weapons unavailable for purchase and scatters them across t
 - Main File - GUWR Unbalanced
 - Patch File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
+### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005)
+
+Changes TTW's Hardcore mode to grant perk every level, instead of every two.
+
 ### JIP LN INI Tweaks
 
 Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by distributing weapon mods to NPCs. Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Paste in the following, replacing the existing contents:
