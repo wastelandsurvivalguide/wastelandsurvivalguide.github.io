@@ -43,6 +43,7 @@ TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
 MTB.esm
+MMTV_MTB_Sorting_Addon.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
