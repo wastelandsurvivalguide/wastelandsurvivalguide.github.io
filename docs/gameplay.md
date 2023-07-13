@@ -108,5 +108,5 @@ Converts all Fallout 3 dialogue to use the New Vegas speech system; compatible w
 
 - Main File - TTW New Vegas Speech Checks
 - Optional File - TTW New Vegas Speech Checks - TTW Reputations Patch
-- Optional File - [TTW NV Speech Checks & Reputations - Tale of Bi Wastelands Patches](https://www.nexusmods.com/newvegas/mods/76206)
+- Main File - [TTW NV Speech Checks & Reputations - Tale of Bi Wastelands Patches](https://www.nexusmods.com/newvegas/mods/76206)
   - **Both patches** if you use both mods
