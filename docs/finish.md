@@ -125,6 +125,7 @@ TTW FaceGen Fix.esp
 NVCollectiblesMerged.esp
 TTWCollectiblesMerged.esp
 BakaSkillBookScanner.esp
+Chem_duration_revert.esp
 PAVE_NV_TTW.esp
 B42Inertia.esp
 rockbiter_AnimationSounds.esp
