@@ -117,52 +117,28 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Other Guides",
-            items: [
-              {
-                label: "Performance Guide",
-                href: "https://wallsogb.github.io/FalloutNV-Performance-Guide/",
-              },
-              {
-                label: "Texture Guide",
-                href: "https://salamand3r.fail/texture-guide",
-              },
-              {
-                label: "Viva New Vegas",
-                href: "https://vivanewvegas.moddinglinked.com/",
-              },
-            ],
+            label: "ModdingLinked",
+            href: "https://moddinglinked.com",
           },
           {
-            title: "Information",
-            items: [
-              {
-                label: "GECKWiki",
-                href: "https://geckwiki.com/index.php/Main_Page",
-              },
-              {
-                label: "Independent Fallout Wiki",
-                href: "https://fallout.wiki",
-              },
-              {
-                label: "Tome of xEdit",
-                href: "https://tes5edit.github.io/docs/6-themethod.html",
-              },
-            ],
+            label: "WallSoGB's Performance Guide",
+            href: "https://wallsogb.github.io/FalloutNV-Performance-Guide",
           },
           {
-            title: "Community",
-            items: [
-              {
-                label: "TTW Discord",
-                href: "https://discord.gg/taleoftwowastelands",
-              },
-
-              {
-                label: "xNVSE Discord",
-                href: "https://discord.gg/EebN93s",
-              },
-            ],
+            label: "Salamand3r's Texture Guide",
+            href: "https://salamand3r.fail/texture-guide",
+          },
+          {
+            label: "TTW Discord",
+            href: "https://discord.gg/taleoftwowastelands",
+          },
+          {
+            label: "GECK Wiki",
+            href: "https://geckwiki.com",
+          },
+          {
+            label: "Independent Fallout Wiki",
+            href: "https://fallout.wiki/wiki/Fallout_Wiki",
           },
         ],
         logo: {

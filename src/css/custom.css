@@ -29,7 +29,15 @@ html[data-theme="dark"] {
   --ifm-color-primary-lightest: #ffeaf6;
   --ifm-background-color: #282a3666;
   --ifm-background-surface-color: #282a36;
+  --ifm-footer-background-color: #282a36 !important;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #282a36;
+  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-title-color: var(--ifm-color-white);
 }
 
 pre {
