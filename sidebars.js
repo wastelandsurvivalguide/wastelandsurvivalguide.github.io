@@ -49,8 +49,16 @@ const sidebars = {
           label: "LOD Guide",
           href: "https://vivanewvegas.moddinglinked.com/lod.html",
         },
-        "mods-avoid",
-        "tools-avoid",
+        {
+          type: "link",
+          label: "Tools to Avoid",
+          href: "https://vivanewvegas.moddinglinked.com/avoid-tools.html",
+        },
+        {
+          type: "link",
+          label: "Mods to Avoid",
+          href: "https://vivanewvegas.moddinglinked.com/avoid-mods.html",
+        },
         "xedit",
         "themethod",
       ],

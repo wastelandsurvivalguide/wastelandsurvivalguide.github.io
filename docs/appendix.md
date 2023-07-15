@@ -20,13 +20,13 @@ A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or o
 
 How to to generate object LOD with xLODGen (usually not required if you don't add extra mods).
 
-### [Mods to Avoid](mods-avoid)
-
-A list of popular mods that should be avoided, and what to use instead.
-
-### [Tools to Avoid](tools-avoid)
+### [Tools to Avoid](https://vivanewvegas.moddinglinked.com/avoid-tools.html)
 
 A list of popular modding tools and mod managers that should be avoided, and what to use instead.
+
+### [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
+
+A list of popular mods that should be avoided, and what to use instead.
 
 ### [xEdit - The Basics](xedit)
 
