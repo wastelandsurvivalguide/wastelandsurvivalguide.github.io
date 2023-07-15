@@ -172,7 +172,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Project Nevada
 
-- Outdated, broken, obsolete. See [Mods to Avoid](mods-avoid) for what to use instead.
+- Outdated, broken, obsolete. See [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html) for what to use instead.
 
 #### Project Weaponry
 
