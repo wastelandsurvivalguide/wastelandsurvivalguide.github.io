@@ -16,7 +16,7 @@ Wasteland Survival Guide is a **modding guide** for Tale of Two Wastelands. It i
 The guide assumes you are already familiar with the skills you learned during [**The Best of Times**](https://thebestoftimes.moddinglinked.com/), such as how to install mods with Mod Organizer 2. If in doubt, review that guide.
 
 :::danger Not Vortex Compatible
-This guide uses [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) **exclusively**. The steps specifically pertain to MO2 features and cannot be completed on [Vortex](tools-avoid#vortex) or any other mod manager. Support will only be provided for MO2.
+This guide uses [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) **exclusively**. The steps specifically pertain to MO2 features and cannot be completed on any other mod manager. Support will only be provided for MO2.
 :::
 
 ## Installing Mods
