@@ -18,6 +18,7 @@
 - Added "Another Interior" and "Root n Loot" patches for RTC.
 - Added Hardcore Perk Every Level (was already mentioned as an aside in the Gameplay section)
 - Removed BLEED
+- Removed BURN
 - Removed Simple Diseases
 
 ### Visuals

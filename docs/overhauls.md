@@ -16,15 +16,6 @@ Resets the player's Level, XP, Skills, Perks and Karma upon travelling from the 
   - After install, double-click (Benny Humbles You) and Steals Your Stuff in the left pane, choose INI Files & configure the mod to your preferences
 - Recommended Optional File - [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
 
-### [BURN](https://www.nexusmods.com/newvegas/mods/76060)
-
-Causes unprotected humans and flammable creatures to panic and flee when set on fire, adding an extra gameplay mechanic for incendiary weapons and ammo. This mod restores some companion screams cut from FNV which some people find disturbing. Give this one a skip if realistic screams of pain would be a trigger for you.
-
-#### Installation:
-
-- Main File - BURN - Hardcore Fire Effects
-- Patch File - BURN - TTW Patch (Script Runner)
-
 ### [Charisma Tweaks](https://www.nexusmods.com/newvegas/mods/71310)
 
 Barter and speech checks (And optionally, ALL skill checks) take into account both your charisma and the intelligence of the person you're speaking to. Optionally, it can use the charisma of the person you're speaking to instead.
