@@ -159,6 +159,7 @@ Expand the Brotherhood of Steel and their role in the wasteland following the ev
 - Patch File - Another Interior Patch
 - Patch File - Desert Natural Weathers Patch
 - Patch File - Root n Loot Patch
+- Patch File - Trail of Crumbs Patch
 
 ### [Save Restrictions](https://www.nexusmods.com/newvegas/mods/72672)
 
