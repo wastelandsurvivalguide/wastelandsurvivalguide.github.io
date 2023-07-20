@@ -137,7 +137,7 @@ DNWeathers.esp
 RTC-DNWeathers.esp
 ```
 
-Press F5 to refresh MO2 and if everything went correctly, the final plugin in MO2's right pane should be:
+Press F5 to refresh MO2 and if everything went correctly, the final plugin in MO2's right pane could be:
 
 - [x] RTC-DNWeathers.esp
 
