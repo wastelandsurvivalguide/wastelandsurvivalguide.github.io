@@ -49,7 +49,7 @@ Main Files:
 
 - [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005)
 - [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
-- Main File - [FPGE - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
 
