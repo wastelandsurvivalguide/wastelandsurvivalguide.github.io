@@ -129,7 +129,11 @@ Makes changes to Image Spaces and Lighting Templates to give interiors a more dy
 
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
-An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support. Make sure you install the TTW version, not the FNV one.
+An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support.
+
+#### Installation:
+
+- Main File - Desert Natural Weathers TTW
 
 ### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
