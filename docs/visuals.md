@@ -113,7 +113,7 @@ Gives weapons realistic inertia movement.
 
 #### Installation:
 
-- Optional Files - NVCS Vanilla Weights
+- Optional File - NVCS Vanilla Weights
 
 Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia. Read the description if you plan on adding any other mods which edit the skeleton.
 
@@ -123,9 +123,17 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 
 Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
 
+#### Installation:
+
+- Main File - Atmospheric Lighting Tweaks - TTW
+
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
-An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support. Make sure you install the TTW version, not the FNV one.
+An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support.
+
+#### Installation:
+
+- Main File - Desert Natural Weathers TTW
 
 ### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
