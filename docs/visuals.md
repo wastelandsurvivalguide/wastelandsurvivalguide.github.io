@@ -121,7 +121,7 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 
 ### [Atmospheric Lighting Tweaks](https://www.nexusmods.com/newvegas/mods/79378)
 
-Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
+Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look. Make sure you install the TTW version, not the FNV one.
 
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
