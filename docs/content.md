@@ -51,15 +51,6 @@ Main Files:
 - [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
 - Main File - [Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
-### [Washington's Malevolence TTW](https://www.nexusmods.com/newvegas/mods/75027)
-
-A huge quest mod where the Lone Wanderer travels to the fictional Maddox Island in search of the Rocky Cape Bank, a pre-War bank that is said to contain untold riches.
-
-#### Installation:
-
-- Main File - Washington's Malevolence TTW
-- Update File - Washington's Malevolence TTW - Update 4.x
-
 ## Player Homes
 
 ### [Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html)
