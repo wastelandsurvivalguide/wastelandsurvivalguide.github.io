@@ -96,7 +96,7 @@ MTB Megaton Mover.esp
 PlayerHomeUpgradesTTWReputationsPatch.esp
 DWD-New Vegas Pack.esp
 Dynamic Weapon Displays - New Vegas Pack - TTW Patch.esp
-Dynamic Weapon Displays - New Vegas Pack - MMTV Sink Redux Patch.esp
+Dynamic_Weapon_Displays_-_New_Vegas_Pack_-_MMTV_Sink_Redux_Patch.esp
 DWD - TTW Pack.esp
 DWD-Springville Garage.esp
 Benny Humbles You and Steals Your Stuff.esp
@@ -116,6 +116,7 @@ DelayDLCReduxPOPP.esp
 sawyerbatty.esp
 SawyerBatty TTW - TTW Patch.esp
 SawyerBatty TTW - Uncut Wasteland Patch.esp
+MMTV_MTB_SortingAddon_SawyerBatty_Patch.esp
 RRTV_CW_Hideouts_SawyerBatty_Patch.esp
 RTC-SpringvaleGarageTerminal.esp
 MMTV_SinkRedux_SawyerBatty_Patch.esp
