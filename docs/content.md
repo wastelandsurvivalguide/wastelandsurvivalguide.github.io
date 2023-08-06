@@ -73,6 +73,7 @@ A mobile player home fueled by flamer ammo. This special edition of MTB can even
 - Main File - [Mobile Truck Base SFX Enhancer](https://www.nexusmods.com/newvegas/mods/77110)
 - Main File - [TTW - Mobile Truck Base Megaton Mover](https://www.nexusmods.com/newvegas/mods/77160) (strongly recommended if you plan to use Springvale Garage)
 - Main File - [Mobile Truck Base Sorting Add On - TTW](https://www.sublevel3.com/mmtv/fnv/ttw-mtb-sorting-addon.html)
+  - You should also install the **Compatibility patch for SawyerBatty TTW** if you plan to use [SawyerBatty](overhauls#sawyerbatty) (coming up in the next section). 
 
 ### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
 
@@ -97,4 +98,4 @@ Adds Skyrim-esque weapon displays. Fully compatible with weapons from all the DL
 - Main File - Dynamic Weapon Displays
   - In the FOMOD installer select any patches for mods you installed, and choose a display model. Do NOT install the Mobile Truck Base patch, that is for the New Vegas version by Qolore.
 - Main File - [Dynamic Weapon Displays - New Vegas Pack - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
-- Main File - [Dynamic Weapon Displays - New Vegas Pack - MMTV Sink Redux Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Dynamic Weapon Displays and MMTV Sink Redux Patch](https://www.nexusmods.com/newvegas/mods/79005)
