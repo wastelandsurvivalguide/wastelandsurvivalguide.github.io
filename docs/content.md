@@ -89,7 +89,7 @@ A lore-friendly and balanced player home/quest mod for TTW that sees you renovat
 
 - Main File - TTW - Springvale Garage
 - Optional File - Patch for ySI
-- Mrain File - [Rebuild the Capital - Springvale Garage Terminal](https://www.nexusmods.com/newvegas/mods/77928)
+- Main File - [Rebuild the Capital - Springvale Garage Terminal](https://www.nexusmods.com/newvegas/mods/77928)
 
 ### [Dynamic Weapon Displays](https://www.nexusmods.com/newvegas/mods/73882)
 
