@@ -4,7 +4,7 @@
 
 ### **10/11/22**
 
-- RESOURCES: Removed Destroyed Megaton LOD generation since it is apparently broken, you should ask sheson if you really want this bug fixed in xLODGen.
+- RESOURCES: Removed Destroyed Megaton LOD generation, this might be part of future LOD instructions.
 
 <!--truncate-->
 

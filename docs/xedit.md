@@ -17,8 +17,8 @@ The colors of a record do **NOT** indicate whether you need to act or not, it's 
 
 ## Setup
 
-1. Download the program. I use 4.0.4c, available in the [xEdit Discord server](https://discord.gg/5t8RnNQ). 4.0.4 on the game's Nexus page is fine.
-2. Extract the archive and place the files inside a folder of your choosing. Do **NOT** place it inside a system folder nor the game folder. Mod Organizer 2 by default will create a folder in your C drive called Modding, that is a good place for all your tools.
+1. Download the program. 4.0.4c is recommended, it's available in the [xEdit Discord server](https://discord.gg/5t8RnNQ). Alternatively, version [4.0.4 on Nexus](https://www.nexusmods.com/newvegas/mods/34703) will work as well.
+2. Extract the archive and place the files inside a folder of your choosing. Do **NOT** place it inside a system folder nor the game folder. Mod Organizer 2 by default will create a folder in your C drive called Modding, it serves as a good place for all your modding tools.
 3. Add xEdit to MO2 by pressing CTRL + E and `Add from file...`, then point it to the xEdit executable you placed in your modding folder before.
 5. If you downloaded xEdit from the Discord server then you will need to add **"-FNV"** as command line argument for it to start in the right game mode. This is not required if you downloaded the tool from the game's Nexus or if you renamed the executable file to FNVEdit.exe.
 4. Run the program from MO2 (it won't see your mods otherwise).

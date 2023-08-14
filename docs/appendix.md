@@ -18,7 +18,7 @@ A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or o
 
 ### [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html)
 
-How to to generate object LOD with xLODGen (usually not required if you don't add extra mods).
+Guide on how to generate LOD with FNVLODgen.
 
 ### [Tools to Avoid](https://vivanewvegas.moddinglinked.com/avoid-tools.html)
 

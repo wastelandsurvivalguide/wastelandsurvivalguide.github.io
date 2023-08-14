@@ -3,7 +3,7 @@
 ## Requirements
 ---
 
-- **Mod Organizer 2**: Preferably the Alpha 3 of version 2.4.5 which you can download [here](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE). Vortex is simply too slow and the way it handles load order just makes The Method a pain. In case you don't want to use the MO2 Alpha, keep in mind that plugins in your LO that are written in bold text (meaning they are ESM) will often have to be pushed manually for them to appear in their correct position, which is always above non-ESM plugins. This version also fixes the bug with the loadorder.txt file being reset to alphabetical order randomly. Basic knowledge of the tool is required since going into specific steps for everything would make this guide too long.
+- **Mod Organizer 2**: Preferably the Alpha 3 of version 2.4.5 which you can download [here](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE). Vortex is simply too slow and the way it handles load order just makes The Method a pain. In case you don't want to use the MO2 Alpha, keep in mind that plugins in your LO that are written in bold text (meaning they are ESM) will often have to be pushed manually for them to appear in their correct position, which is always above non-ESM plugins. This MO2 version also fixes the bug with the loadorder.txt file being reset to alphabetical order. Basic knowledge of the tool is required.
 - **xEdit and knowing how to use it**: A basic guide is available [here](xedit).
 - Plenty of **time**.
 
@@ -20,7 +20,7 @@ In order to make sure that all conflicts between your plugins are intended and/o
 
 ## First ModGroup
 
-1. After you get working install of the latest TTW, you will need to add xEdit to your MO2 list of executables with the argument -FNV. Then add it again but with -FNV -VQSC (You only need "-FNV" if your xEdit executable is not named FNVEdit.exe). The first one is for general use and the 2nd is for quick conflict checking, which we will soon need.
+1. After you get working install of the latest TTW, you will need to add xEdit to your MO2 list of executables with the argument -FNV. Then add it again but with -FNV -VQSC (you only need "-FNV" if your xEdit executable is not named FNVEdit.exe). The first one is for general use and the 2nd is for quick conflict checking, which we will soon need.
 1. The first ModGroup you will need to make is for the base game plugins conflicting between eachother and with TTW/YUPTTW.
 
    1. Load up xEdit with VQSC.
