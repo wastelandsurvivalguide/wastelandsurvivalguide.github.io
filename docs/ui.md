@@ -109,6 +109,7 @@ High-quality icons.
   - Use the default settings.
 - Main File - [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
   - Install the Recommended version.
+- Main File - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
 - Main File - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
   - Enable all Extensions and click Install
 
