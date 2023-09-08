@@ -39,7 +39,7 @@ Quest markers for collectible items from New Vegas (Snow Globes, S.S. Star Bottl
 
 Replaces all static (non-interactive) containers with lootable equivalents.
 
-### [Stash Organizer](https://eddoursul.win/mods/stash-organizer)
+### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer)
 
 Automatically organizes your items in any interior cell, modded or vanilla. **Read the description** so you understand how to use it!
 
