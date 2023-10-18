@@ -79,15 +79,6 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 
 Adds a container upon completing Mothership Zeta, it will be populated with the items from any abductees you decided to keep alive during your playthrough. Think Honest Hearts, but better!
 
-### [Sweet6Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
-
-Adds 60+ perks and 12+ traits in a vanilla friendly, immersive way.
-
-#### Installation:
-
-- Main File - Sweet 6 Shooter Perk Pack TTW Version
-- Optional File - NVB1Patch
-
 ### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
 
 Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay & lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
