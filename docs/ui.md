@@ -117,7 +117,6 @@ High-quality icons.
 - Main File - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
   - Enable all Extensions and click Install
 - Main File - [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/83476)
-  - Optional File - JustWeaponHweel Compatibility Patch
 
 ### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
 
