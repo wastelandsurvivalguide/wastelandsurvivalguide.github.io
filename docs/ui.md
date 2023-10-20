@@ -98,6 +98,10 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 - [Clean Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 - [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
 
+### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
+
+Needed for the following mod.
+
 ### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
 
 High-quality icons.
@@ -108,10 +112,12 @@ High-quality icons.
 - Main File - 2. Consistent Addon Icons
   - Use the default settings.
 - Main File - [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
-  - Install the Recommended version.
 - Main File - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
+- Main File - [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
 - Main File - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
   - Enable all Extensions and click Install
+- Main File - [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/83476)
+  - Optional File - JustWeaponHweel Compatibility Patch
 
 ### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
 
