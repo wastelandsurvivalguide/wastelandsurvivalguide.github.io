@@ -33,7 +33,7 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
-TTW 3.3.2 Hotfix.esp
+TTW 3.3.2a Hotfix.esp
 Main And Pause Menus Overhaul.esm
 TweaksTTW.esm
 Tale of Bi Wastelands.esm
