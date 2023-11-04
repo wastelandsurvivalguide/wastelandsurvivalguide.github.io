@@ -24,7 +24,7 @@ The colors of a record do **NOT** indicate whether you need to act or not, it's 
 4. Run the program from MO2 (it won't see your mods otherwise).
 
 :::caution
-Do not use the x64 executable. It will introduce rounding errors, it only becomes required with huge amounts data being loaded (very unlikely on FNV) or very long sessions.
+Avoid using the x64 executable as it may lead to rounding errors. It becomes necessary only when dealing with an extremely large volume of data (which is highly unlikely in the case of FNV) or during long sessions.
 :::
 
 ## Plugin Structure
