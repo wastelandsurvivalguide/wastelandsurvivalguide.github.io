@@ -67,7 +67,12 @@ bEnableCategories = 1
 
 Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
 management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
-(it should be if following the guide).
+(it should be if following the guide). Pick up the colorful icons too, looks really good in-game. Recommended with white HUD.
+
+#### Installation:
+
+- Main File - ySI - Sorting Icons
+- Main File - [Colorful Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674)
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
@@ -95,7 +100,6 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
   - You do **not** need to install "Cursor Unilaterally Matched";
     it is already built into [yUI](#yui---user-ynterface).
 - [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
-- [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
 
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
@@ -114,16 +118,6 @@ High-quality icons.
 :::note Where are all the new CPI mods?
 We felt that the amount of mod you have to download is too excessive to warrant including in the guide. Each one is perfectly fine for use, and is recommended if you aren't content with V4 on its own.
 :::
-
-### [AidUI](https://www.nexusmods.com/newvegas/mods/77782)
-
-Adds HUD widgets showing the duration of consumed Aid items. Configure in the MCM;
-I prefer the Bars mode over the default Icons mode.
-
-#### Installation:
-
-- Main File - AidUI
-- Main File - [Clean AidUI](https://www.nexusmods.com/newvegas/mods/81841)
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
