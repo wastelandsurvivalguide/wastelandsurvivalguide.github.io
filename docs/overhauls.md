@@ -162,7 +162,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul.
 
 ### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
 
-Featuring 16 new healing items and new Survival healing options, this mod is a nice addition to New Blood, adding items to deal with the actual bleed effect, among many others. All configurable via INI.
+Featuring 16 new healing items and new Survival healing options, this mod is a nice addition to New Blood, adding items to deal with the actual bleed effect, among many others. The INI below is our personal recommendations, but you may configure it yourself.
 
 ```ini showLineNumbers title="Aid Addon Config.ini"
 [Aid Addon Settings]
