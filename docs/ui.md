@@ -116,7 +116,7 @@ High-quality icons.
   - Use the default settings.
 
 :::note Where are all the new CPI mods?
-We felt that the amount of mod you have to download is too excessive to warrant including in the guide. Each one is perfectly fine for use, and is recommended if you aren't content with V4 on its own.
+We felt that the amount of mods you have to download is too excessive to warrant including in the guide. Each one is perfectly fine for use, and is recommended if you aren't content with V4 on its own.
 :::
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
