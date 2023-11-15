@@ -156,9 +156,14 @@ Makes weapon Strength and Skill requirements matter, allowing you to equip any w
 
 Standardizes all of the player's body part damage multipliers when using the setting `bLocalizedDTDR=1` in JIP LN NVSE, which is enabled in our INI recommendations. 
 
-### [New Blood](https://www.nexusmods.com/newvegas/mods/69161)
+### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
-Sweet's take on a lighter alternative to BLEED's damage overhaul.
+Sweet's take on a lighter alternative to BLEED's damage overhaul. Better Damage Multipliers from Bleedless is also recommend.
+
+#### Installation:
+
+- Main File - New Blood
+- Optional File - [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/75660)
 
 ### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
 
