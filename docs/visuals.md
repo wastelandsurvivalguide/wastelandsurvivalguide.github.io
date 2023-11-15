@@ -101,10 +101,6 @@ Removes the requirement to patch weapons manually for ISControl nodes of animati
 
 Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion, Iron Sights Recoil Animations, and Fire Animation Variants. Also includes some new previously unreleased animations.
 
-### [Anniversary Anim General Bugfix](https://www.nexusmods.com/newvegas/mods/72320)
-
-Fixed camera jumps, animation snapping, movement lock, broken aim in 3rd person. Install the **Bonus Patch** too.
-
 ### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
 
 Gives weapons realistic inertia movement.
