@@ -71,21 +71,19 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
   - Toggle/configure features in the MCM. In particular, make the following changes in the Just Hit Indicator section:
     - No Attacker: Nothing
     - Self-Damage: Nothing
-- Main File - [Clean Just Weapons Hweel](https://www.nexusmods.com/newvegas/mods/76357)
-- Main File - [Clean Just Visual Objectives](https://www.nexusmods.com/newvegas/mods/80523)
-- Main File - [Clean Just Dynamic Crosshair](https://www.nexusmods.com/newvegas/mods/81625)
+- Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
 Adds a container upon completing Mothership Zeta, it will be populated with the items from any abductees you decided to keep alive during your playthrough. Think Honest Hearts, but better!
 
-### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
-
-Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay & lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
-
 ### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
 Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
+
+### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
+
+Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay & lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
 
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
