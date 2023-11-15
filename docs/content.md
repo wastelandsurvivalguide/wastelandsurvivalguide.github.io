@@ -57,8 +57,6 @@ Main Files:
 
 Capital Wasteland Hideouts are small way station player homes (10 locations in total) that offer places to safely store your stuff until you can get to your main base (or until you can acquire one).
 
-- You should also install the **Compatibility patch for SawyerBatty TTW** if you plan to use [SawyerBatty](overhauls#sawyerbatty) (coming up in the next section).
-
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
 Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI if desired.
@@ -73,13 +71,10 @@ A mobile player home fueled by flamer ammo. This special edition of MTB can even
 - Main File - [Mobile Truck Base SFX Enhancer](https://www.nexusmods.com/newvegas/mods/77110)
 - Main File - [TTW - Mobile Truck Base Megaton Mover](https://www.nexusmods.com/newvegas/mods/77160) (strongly recommended if you plan to use Springvale Garage)
 - Main File - [Mobile Truck Base Sorting Add On - TTW](https://www.sublevel3.com/mmtv/fnv/ttw-mtb-sorting-addon.html)
-  - You should also install the **Compatibility patch for SawyerBatty TTW** if you plan to use [SawyerBatty](overhauls#sawyerbatty) (coming up in the next section). 
 
 ### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
 
 A large-scale upgrade for the Sink to turn it into a fully functional player home suitable as your main base even after completing the Old World Blues DLC.
-
-- You should also install the **Compatibility patch for SawyerBatty TTW** if you plan to use [SawyerBatty](overhauls#sawyerbatty) (coming up in the next section).
 
 ### [Springvale Garage](https://www.nexusmods.com/newvegas/mods/76503)
 
