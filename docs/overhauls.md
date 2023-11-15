@@ -51,9 +51,9 @@ Makes the GRA unique weapons unavailable for purchase and scatters them across t
 
 Changes TTW's Hardcore mode to grant perk every level, instead of every two.
 
-### JIP LN INI Tweaks
+### JIP LN Settings INI Tweaks
 
-Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by distributing weapon mods to NPCs. Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Paste in the following, replacing the existing contents:
+Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by distributing weapon mods to NPCs. Double-click **JIP LN Settings INI** in the left pane and click **INI Files**. Paste in the following, replacing the existing contents:
 
 ```ini showLineNumbers title="jip_nvse.ini"
 [GamePatches]
