@@ -114,6 +114,11 @@ RtC-TrailofCrumbs.esp
 SaveRestrictions.esp
 DelayDLCReduxPOPP.esp
 sawyerbatty.esp
+New Blood.esp
+New Blood TTW Patch.esp
+Sweet Consumables.esp
+S6S Ingestibles Sawyerbatty Stimpak Patch.esp
+Aid Addon.esp
 SawyerBatty TTW - TTW Patch.esp
 SawyerBatty TTW - Uncut Wasteland Patch.esp
 MMTV_MTB_SortingAddon_SawyerBatty_Patch.esp
