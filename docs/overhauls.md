@@ -164,6 +164,112 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul.
 
 Featuring 16 new healing items and new Survival healing options, this mod is a nice addition to New Blood, adding items to deal with the actual bleed effect, among many others. All configurable via INI.
 
+```ini showLineNumbers title="Aid Addon Config.ini"
+[Aid Addon Settings]
+bDocBagUseInCombat=0
+bMedkitUseInCombat=0
+;Aid Addon's design philosophy is that medkits are a cost effective way to recover health outside of combat, but stimpaks are still more ideal while in combat.
+;Not using doc bags in combat makes medx and army syrettes much more valuable and important
+
+bDocBagPassTime=1
+bMedkitPassTime=1
+;having these items pass time is intended to complement these being used outside of combat, to help justify why they can't be used outside of combat, and how effective they are compared to doctors
+
+fMedKitTime=2.0
+fDocBagTime=1.0
+;number of hours each passes when used
+
+iSteroidHealthBoost=30
+;how much max health will be increased by using steroids
+
+fSplintHealing=8.0
+;amount of health healed out of 100 when using a splint
+
+;amount of max health healed by each medkit
+;1.0 = max health; 0.35 is 35% health; default is posted after each one
+fMedkitMultImprovised=0.3
+;0.3
+fMedkitMultSurvival=0.6
+;0.6
+fMedkitMultSmall=0.5
+;0.5
+fMedkitMultArmy=0.7
+;0.7
+fMedkitMultScientific=1.0
+;1.0
+fMedkitMultField=1.5
+;1.5
+fMedkitMultScientificRads=0.7
+;0.35
+;1.0 = 1000 rads; 0.35% is 350 rads
+;keep in mind this value is multiplied by your survival/medicine skill x 100, so the larger items exceed 1.0 so that they don't require 100 med skill to be decent
+
+;setting these values to a value above 1 will repeat the integration of it's item, to increase it's saturation
+;setting this to 0 will have no effect
+iAntisepticCount=2
+iBandageCount=4
+iBandageMilitaryCount=1
+iSplintCount=1
+iSyretteCount=1
+iHemostaticPillCount=1
+iBloodDrawKitCount=2
+iBloodDrawKitPreservedCount=1
+iBloodPackPreservedCount=1
+iMedkitImprovisedCount=1
+iMedkitSurvivalCount=1
+iMedkitSmallCount=1
+iMedkitArmyCount=1
+iMedkitScientificCount=1
+iMedkitFieldCount=1
+iCombatStimCount=2
+iStimpakUltraCount=1
+iCombatStimUltraCount=1
+iEmptyBloodPackCount=1
+iCountPainkillers=1
+iCountAfterburnerGum=1
+
+iScalpelSaturationIncrease=3
+;simply increases the saturation of scalpels in loot for easier crafting
+;can be set to 0
+
+iScissorsSaturationIncrease=3
+;simply increases the saturation of scissors in loot for easier crafting
+;can be set to 0
+
+bSteroids=1
+;0 or 1, can't be increased further like the other settings above
+
+;Icon Changes
+iIconCombatStim=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla med-x
+iIconMorphineSyrette=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla med-x
+iIconHemostaticPill=0
+;1 for vanilla buffout icon
+iIconMedkitArmy=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla doctor's bag
+iIconMedkitField=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla doctor's bag
+iIconMedkitImprovised=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla doctor's bag
+iIconMedkitScientific=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla doctor's bag
+iIconMedkitSmall=0
+;0 is default, 1 is non-vanilla style, 2 is vanilla doctor's bag
+iIconMedkitSurvival=0
+;0 is default, 1 is vanilla lunchbox, 2 is vanilla doctor's bag
+iIconSplint=0
+;0 is default, 1 has no text on it, 2 has no lines on it, 3 has a funny diagram on it
+
+;Name Changes
+iMorphineSyretteName=1
+;turned on by default, this renames the Morphine Syrette to Med-X Syrette
+
+[Aid Debug]
+iDebug=0
+;turn this on to have the console print messages detailing which items have been integrated, and showing how many times each one has looped if the Aid Addon Settings are set above 1
+```
+
 ### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
 
 Top to bottom overhaul of consumable and misc items. Goes well with the previous two mods.
