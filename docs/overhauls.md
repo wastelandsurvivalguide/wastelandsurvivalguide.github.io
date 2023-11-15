@@ -20,24 +20,6 @@ Resets the player's Level, XP, Skills, Perks and Karma upon travelling from the 
 
 Barter and speech checks (And optionally, ALL skill checks) take into account both your charisma and the intelligence of the person you're speaking to. Optionally, it can use the charisma of the person you're speaking to instead.
 
-### [CyberJAM](https://www.nexusmods.com/newvegas/mods/74655)
-
-Integrates Cyberware 2281 and Just Assorted Mods, allowing them to interact like the old PN Core and Cyberware modules. Reintroduces and expands upon the cut Wired Synapses implant.
-
-#### Installation:
-
-- Main File - CyberJAM
-- Optional File - CyberJAM INI File
-
-### [Cyberware 2281](https://eddoursul.win/mods/cyberware-2281/)
-
-Recreates the functionality of the Cyberware implants from Project Nevada, without all the problems caused by that ancient mod.
-
-#### Installation:
-
-- Main File - Cyberware 2281
-- Patch File - Cyberware 2281 TTW Patch
-
 ### [GRA Uniques Relocated](https://www.nexusmods.com/newvegas/mods/68153)
 
 Makes the GRA unique weapons unavailable for purchase and scatters them across the Mojave, Zion, and the Big MT - just like all the other unique weapons.
@@ -99,7 +81,7 @@ bQttSelectShortKeys=1
 ;	the quantity-select menu. (b) Picking up from a container a stack of items that are weightless (such as ammo on
 ;	non-hardcore mode) will bring up the quantity-select menu, instead of automatically picking the entire stack.
 
-bLocalizedDTDR=0
+bLocalizedDTDR=1
 ;	When enabled, a distinction will be made between head-armor and body-armor when applying damage reduction from DR/DT.
 ;	Head hits will benefit only from DT/DR gained from worn head-armor (if any), whereas body hits, in similar fashion,
 ;	only from DT/DR gained from worn body-armor. (Note: Requires bIgnoreDTDRFix to be enabled).
@@ -161,24 +143,6 @@ Expand the Brotherhood of Steel and their role in the wasteland following the ev
 - Patch File - Root n Loot Patch
 - Patch File - Trail of Crumbs Patch
 
-### [Save Restrictions](https://www.nexusmods.com/newvegas/mods/72672)
-
-Allows you to set various restrictions on when the game can be saved. Double-click the mod in the left pane & select **INI Files** to set desired restrictions.
-
-### [SawyerBatty](https://www.nexusmods.com/newvegas/mods/75598)
-
-TTW version of the famous [JSawyer](https://fallout-archive.fandom.com/wiki/JSawyer#Main_features) mod by FNV's director Josh Sawyer. Changes to carry weight, level cap & Logan's Loophole were reverted. The pre-order packs are placed in logical areas around Springvale and Megaton when you start in DC.
-
-#### Installation:
-
-- Main File - TTWSawyerBatty
-- Patch File - [SawyerBatty TTW - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
-- Patch File - [SawyerBatty TTW - Uncut Wasteland Patch](https://www.nexusmods.com/newvegas/mods/79005)
-
-### [Three Perk Bounty](https://www.nexusmods.com/newvegas/mods/77783)
-
-Presents a random selection of 3 perks to choose from instead of the full perk list. You may re-roll up to three times, but with bad luck you may receive a negative "curse" perk which lasts until next level.
-
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
 Makes weapon Strength and Skill requirements matter, allowing you to equip any weapon but assigning significant dynamic penalties for those you aren't proficient with.
@@ -187,3 +151,19 @@ Makes weapon Strength and Skill requirements matter, allowing you to equip any w
 
 - Main File - Weapon Requirements System
 - Patch File - [Weapon Requirements System - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
+
+### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
+
+Standardizes all of the player's body part damage multipliers when using the setting `bLocalizedDTDR=1` in JIP LN NVSE, which is enabled in our INI recommendations. 
+
+### [New Blood](https://www.nexusmods.com/newvegas/mods/69161)
+
+Sweet's take on a lighter alternative to BLEED's damage overhaul.
+
+### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
+
+Featuring 16 new healing items and new Survival healing options, this mod is a nice addition to New Blood, adding items to deal with the actual bleed effect, among many others. All configurable via INI.
+
+### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
+
+Top to bottom overhaul of consumable and misc items. Goes well with the previous two mods.
