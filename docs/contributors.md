@@ -4,14 +4,15 @@
 
 ### The WSG Team
 
-- [The Many](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 - [VishVadeva](https://www.nexusmods.com/users/98644723)
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/newvegas/users/3644561)
 - [very](https://www.nexusmods.com/users/163915398)
+- [Shabby Pirate](https://www.nexusmods.com/users/78372218)
 
 ### Contributors & Shoutouts
 
+- [The Many](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 - [AVeryUncreativeUsername](https://www.nexusmods.com/newvegas/users/78355343)
 - [Adam Adamowicz](https://www.flickr.com/photos/47857688@N08/sets/72157629320774861/)
 - [anhatthezoo](https://www.nexusmods.com/newvegas/users/38240420)
@@ -41,7 +42,6 @@
 - [shad0wshayd3](https://www.nexusmods.com/newvegas/users/5232181)
 - [Sweet6Shooter](https://www.nexusmods.com/newvegas/users/2443503)
 - [TheKraken](https://www.nexusmods.com/newvegas/users/31380295)
-
 - [Wall_SoGB](https://www.nexusmods.com/users/22363364)
 
 **Thank you** to the TTW team and everyone in the FNV & TTW modding communities!
