@@ -42,10 +42,7 @@ const sidebars = {
       label: "Appendix",
       items: [
         "contributors",
-        {
-          type: "link",
-          label: "Dogma",
-          href: "https://vivanewvegas.moddinglinked.com/doogmas.html",
+        "dogma",
         },
         "incompatible",
         {
@@ -63,16 +60,8 @@ const sidebars = {
           label: "Mods to Avoid",
           href: "https://vivanewvegas.moddinglinked.com/avoid-mods.html",
         },
-        {
-          type: "link",
-          label: "xEdit",
-          href: "https://vivanewvegas.moddinglinked.com/xedit.html",
-        },
-        {
-          type: "link",
-          label: "The Method",
-          href: "https://vivanewvegas.moddinglinked.com/themethod.html",
-        },
+        "xedit",
+        "themethod",
       ],
     },
   ],
