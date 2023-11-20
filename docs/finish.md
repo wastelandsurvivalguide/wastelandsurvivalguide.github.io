@@ -66,6 +66,7 @@ RRTV_FO3_CapitalWasteland_Hideouts_TTW.esm
 SpringvaleGarage.esm
 CompletePlayerHomeUpgradesTTW.esm
 Home and Safehouse Tweaks.esm
+Home and Safehouse Tweaks - TTW Addon.esm
 MMTV_Sink_Redux_TTW.esm
 DynamicWeaponDisplays.esm
 Cyberware.esm
