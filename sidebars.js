@@ -65,12 +65,12 @@ const sidebars = {
         },
         {
           type: "link",
-          label: "xEdit",
+          label: "xEdit - The Basics",
           href: "https://moddinglinked.com/xedit.html",
         },
         {
           type: "link",
-          label: "The Method",
+          label: "xEdit - The Method",
           href: "https://moddinglinked.com/themethod.html",
         },
       ],
