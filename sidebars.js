@@ -60,7 +60,7 @@ const sidebars = {
         },
         {
           type: "link",
-          label: "Dogma",
+          label: "Dogmas",
           href: "https://moddinglinked.com/dogmas.html",
         },
         {

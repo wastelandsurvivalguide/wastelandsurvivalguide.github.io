@@ -9,8 +9,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: #282a36 url(@site/static/img/banner.jpg) center center/cover
-    no-repeat;
+  background: #282a36 url(@site/static/img/banner.webp) center center/cover no-repeat;
   color: #f8f8f2;
 }
 

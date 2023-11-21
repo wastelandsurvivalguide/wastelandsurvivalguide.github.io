@@ -12,10 +12,6 @@ Meet the team and other contributors who helped make the guide what it is today.
 
 A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or outright broken).
 
-### [Dangerous Dogma](https://moddinglinked.com/dogmas.html)
-
-Bad modding information floating around the internet that you should be aware of.
-
 ### [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html)
 
 Guide on how to generate LOD with FNVLODgen.
@@ -27,6 +23,10 @@ A list of popular modding tools and mod managers that should be avoided, and wha
 ### [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
 
 A list of popular mods that should be avoided, and what to use instead.
+
+### [Dangerous Dogmas](https://moddinglinked.com/dogmas.html)
+
+Bad modding information floating around the internet that you should be aware of.
 
 ### [xEdit - The Basics](https://moddinglinked.com/xedit.html)
 

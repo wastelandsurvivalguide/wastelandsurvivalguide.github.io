@@ -20,6 +20,11 @@ Trade in all Caps, Legion, NCR & (optionally) Pre-war Money at once, at the casi
 
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. **Read the description** so you understand how to start the DLCs with this mod installed.
 
+#### Installation:
+
+- Main File - Delay DLC Redux
+- Main File - Delay DLC Redux TTW - Pre-Order Pack Placement
+
 ### [Faster Pip-Boy Animation](https://www.nexusmods.com/newvegas/mods/67761)
 
 Modifies the Pip-Boy animation to be 2x or 3x faster than default. Works with most Pip-Boy mods. I suggest the 2x version.

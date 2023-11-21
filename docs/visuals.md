@@ -3,7 +3,7 @@
 ---
 
 :::note Where are all the texture mods?
-We felt texture mods are out of the scope of this guide, but feel free to check out [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide). Note that we cannot offer support for it.
+We felt texture mods are out of the scope of this guide, but feel free to check out [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide). Support for it is provided on [Salamand3r's Discord server](https://discord.gg/ka34w2jy).
 :::
 
 ## Visual Fixes & Optimizations

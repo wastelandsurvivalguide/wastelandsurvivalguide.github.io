@@ -35,7 +35,7 @@ Changes TTW's Hardcore mode to grant perk every level, instead of every two.
 
 ### JIP LN INI Tweaks
 
-Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by distributing weapon mods to NPCs. Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Paste in the following, replacing the existing contents:
+Customizes some settings in JIP LN to make the game more dynamic and challenging, for example by distributing weapon mods to NPCs. Double-click **JIP LN NVSE** in the left pane and click **INI Files**. Select all of the existing content and replace it with this:
 
 ```ini showLineNumbers title="jip_nvse.ini"
 [GamePatches]

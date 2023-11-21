@@ -27,7 +27,7 @@ that noticeable on its own without [ySI - Sorting Ycons](#ysi---sorting-ycons).
 
 #### Installation:
 
-After installing the Main File, double-click the mod and go to **INI Editor**. Paste in the following, replacing the existing contents:
+After installing the Main File, double-click the mod and go to **INI Editor**. Select all of the existing content and replace it with this:
 
 ```ini title="yUI.ini" showLineNumbers
 [General]
@@ -139,8 +139,8 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 
 :::caution
 
-With this mod installed, the **Mod Configuration Menu** button in the pause menu will be hidden!
-You will have to access the MCM by pressing the **M** key.
+This mod will hide the **Mod Configuration Menu** button in the pause menu!
+You can access it with the **M** key.
 
 :::
 
