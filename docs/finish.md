@@ -53,8 +53,8 @@ NewVegasBounties.esm
 Badmothafucka.esm
 NewVegasKiller.esm
 A Trail of Crumbs.esm
-AnotherInteriorMod.esm
 Regulators.esm
+AnotherInteriorMod.esm
 Uncut Wasteland.esp
 Uncut Extra Collection.esp
 # this is an intentional fallback strat
