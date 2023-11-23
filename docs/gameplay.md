@@ -36,9 +36,14 @@ Customizes some vanilla gamesettings with text files powered by Stewie's Tweaks.
 This particular gamesetting tweak in this mod won't actually affect TTW due to a technicality, however TTW already grants a perk every level in non-Hardcore mode. If you want this for Harcore Mode, install [Hardcore Perk Every Level](overhauls#hardcore-perk-every-level).
 :::
 
-### [NV Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/80939)
+### Collectible Quests Merged
 
-Quest markers for collectible items from New Vegas (Snow Globes, S.S. Star Bottle Caps) as well as Dead Money, Honest Hearts & Lonesome Road.
+Quest markers for collectible items from Fallout: New Vegas and Fallout 3, including all DLCs.
+
+Main Files:
+
+- [NV Collectibles - Mergerd](https://www.nexusmods.com/newvegas/mods/80939)
+- [TTW Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/75829)
 
 ### [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378)
 
@@ -52,10 +57,6 @@ Automatically organizes your items in any interior cell, modded or vanilla. **Re
 Yeah, Eddoursoul hosts his mods on a new modding site, MOD:PUB. You're going to need to make a new account to be able to download Stash Organizer and any other mods hosted on MOD:PUB, although no others are listed in this guide.
 :::
 
-### [TTW Collectible Quests Merged](https://www.nexusmods.com/newvegas/mods/75829)
-
-Quest markers for bobbleheads, steel ingots (The Pitt), alien captive recordsings (Zeta), intel briefcases (Anchorage) & Keller Family transcripts.
-
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. The Medicine Bobblehead is not given at the start; you can pick it up later during _Trouble on the Homefront_.
@@ -66,9 +67,15 @@ A collection of miscellaneous tweaks for TTW. After installing the Main File, do
 
 ## New Features
 
-### [JIP Companions](https://www.nexusmods.com/newvegas/mods/50468)
+### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
 
 Revolutionizes the way companions are controlled and interacted with. A must-have, it has every feature imaginable when it comes to companions. [JIP CCC HD Icons](https://www.nexusmods.com/newvegas/mods/75378) is also recommended. If you don't like the avatars, try [Vault Boy JIP CCC Avatars](https://www.nexusmods.com/newvegas/mods/67270) or [Perk Styled CCC Icons](https://www.nexusmods.com/newvegas/mods/70849).
+
+Main Files:
+
+- JIP Companions Command and Control
+- [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
+- [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
 
 ### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 
