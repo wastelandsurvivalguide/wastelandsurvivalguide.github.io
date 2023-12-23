@@ -27,7 +27,6 @@ Makes the GRA unique weapons unavailable for purchase and scatters them across t
 #### Installation:
 
 - Main File - GUWR Unbalanced
-- Patch File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
 ### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005)
 
@@ -150,7 +149,6 @@ Makes weapon Strength and Skill requirements matter, allowing you to equip any w
 #### Installation:
 
 - Main File - Weapon Requirements System
-- Patch File - [Weapon Requirements System - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
 ### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
 

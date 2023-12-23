@@ -47,7 +47,6 @@ MMTV_MTB_Sorting_Addon.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
-The Living Desert - TTW Patch.esp
 SomeguySeries.esm
 NewVegasBounties.esm
 Badmothafucka.esm
@@ -96,7 +95,6 @@ NewVegasKiller - TTW.esp
 MTB Megaton Mover.esp
 PlayerHomeUpgradesTTWReputationsPatch.esp
 DWD-New Vegas Pack.esp
-Dynamic Weapon Displays - New Vegas Pack - TTW Patch.esp
 Dynamic_Weapon_Displays_-_New_Vegas_Pack_-_MMTV_Sink_Redux_Patch.esp
 DWD - TTW Pack.esp
 DWD-Springville Garage.esp
@@ -108,7 +106,6 @@ CyberJAM.esp
 Cyberware OWB.esp
 Cyberware TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
-GRA Unique Weapons Relocated - TTW Patch.esp
 Rebuild the Capital - No Pony Express Boxes.esp
 RtC-RootnLoot.esp
 RtC-TrailofCrumbs.esp
@@ -122,7 +119,6 @@ RTC-SpringvaleGarageTerminal.esp
 SimpleDiseases.esp
 ThreePerkBounty.esp
 WeaponRequirementSystem.esp
-Weapon Requirements System - TTW Patch.esp
 TTW FaceGen Fix.esp
 NVCollectiblesMerged.esp
 TTWCollectiblesMerged.esp

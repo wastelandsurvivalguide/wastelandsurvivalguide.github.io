@@ -17,7 +17,6 @@ Adds several scripted events & hundreds of NPCs who will patrol roads, travel be
 #### Installation:
 
 - Main File - The Living Desert
-- Main File - [The Living Desert - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 
 ### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925/)
 
@@ -92,5 +91,4 @@ Adds Skyrim-esque weapon displays. Fully compatible with weapons from all the DL
 
 - Main File - Dynamic Weapon Displays
   - In the FOMOD installer select any patches for mods you installed, and choose a display model. Do NOT install the Mobile Truck Base patch, that is for the New Vegas version by Qolore.
-- Main File - [Dynamic Weapon Displays - New Vegas Pack - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945)
 - Main File - [Dynamic Weapon Displays and MMTV Sink Redux Patch](https://www.nexusmods.com/newvegas/mods/79005)
