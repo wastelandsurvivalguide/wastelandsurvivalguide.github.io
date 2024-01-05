@@ -22,7 +22,7 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 
 #### Installation:
 
-- Main File - Delay DLC Redux
+- Main File - Delay DLC Redux TTW
 - Main File - Delay DLC Redux TTW - Pre-Order Pack Placement
 
 ### [Faster Pip-Boy Animation](https://www.nexusmods.com/newvegas/mods/67761)
