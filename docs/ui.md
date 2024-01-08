@@ -5,8 +5,6 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ---
 
-## Core HUD/UI Mods
-
 ### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
 
 Adds a settings menu to configure mods in-game. **Required** for many mods.
