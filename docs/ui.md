@@ -130,7 +130,9 @@ High-quality icons.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
+<p>DP farming is annoying. Please stop.
+
+### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
 
 This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
 
