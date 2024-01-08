@@ -130,11 +130,7 @@ High-quality icons.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
-
-Needed for the following mod.
-
-### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
+<p>### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
 
 This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
 
