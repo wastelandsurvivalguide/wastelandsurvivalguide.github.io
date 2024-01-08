@@ -16,9 +16,24 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 - Main File - The Mod Configuration Menu
 - Update File - MCM Bugfix 2 **(Do not skip this file!)**
 
+### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
+
+ Adds an MCM menu with options for adjust World Field of View, Player Field of View, Pipboy Field of View and Terminal Screen Field of View.
+ 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
+
+#### Installation:
+
+  - Readne:
+    - [x] Quick Readme
+  - Font Options:<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> Default Font Tweaks<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Classic Pip-Boy Font<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> No Font Tweaks<br/>
+  - Keybinds:
+    - [x] WASD Compatible
 
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
@@ -94,12 +109,8 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
   - Patches:
     - [x] Vanilla UI+ Patch
     - [x] I am not a Height Indicator User
-    - [x] Alternative Just Hit Indicator
+    - [ ] Alternative Just Hit Indicator
     - [ ] Clean Fonts for DarnUI
-- Optional File - Cursor Unilaterally Matched - Patch
-  - You do **not** need to install "Cursor Unilaterally Matched";
-    it is already built into [yUI](#yui---user-ynterface).
-- [Clean Companion Wheel 256x256 Edition](https://www.nexusmods.com/newvegas/mods/70486)
 
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
@@ -114,14 +125,75 @@ High-quality icons.
 - Main File - 1. Consistent Pip-boy Icons
 - Main File - 2. Consistent Addon Icons
   - Use the default settings.
+ 
+### More high quality menus.
 
-:::note Where are all the new CPI mods?
-We felt that the amount of mods you have to download is too excessive to warrant including in the guide. Each one is perfectly fine for use, and is recommended if you aren't content with V4 on its own.
-:::
+<details>
+<summary>The rest of ItsMeJesusHChrist's mods.</summary>
+<p>### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
+
+Needed for the following mod.
+
+### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
+
+This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
+
+#### Installation:
+
+- Main File - Clean Companion Wheel 256x256 Edition
+
+### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
+
+"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
+
+### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
+
+This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
+
+### [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
+
+This update features a hand drawn recreation of every single item icon in two games.
+
+### [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
+
+This update features a hand drawn recreation of every single weapon icon in two games.
+
+### [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
+
+This update features a hand drawn recreation of every single apparel icon in two games.
+
+### [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/83476)
+
+Weapon Hotkey Icons! Adds custom icons for weapons in the hotkey menu.
+
+### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
+
+A total overhaul to every Map Marker icons, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
+
+### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
+
+A collection of Patches and V5 Icons for Tale Of Two Wastelands.
+
+### [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
+
+This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
+
+### [Consistent Pip-Boy Icons v5 - DLC's Items](https://www.nexusmods.com/newvegas/mods/83629)
+
+Featuring meticulously hand-drawn item icons seen in the DLC's of Fallout New Vegas and Fallout 3.
+
+### [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
+
+A meticulously hand-drawn recreation of every karma and reputation icon.</p>
+</details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
 A completely reworked re-imagining of the TTW main menu image. Choose the file that matches your resolution.
+
+#### Installation:
+
+Choose the file matching your monitor's resolution.
 
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
@@ -143,6 +215,14 @@ This mod will hide the **Mod Configuration Menu** button in the pause menu!
 You can access it with the **M** key.
 
 :::
+
+### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
+
+Notifications!
+
+### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
+
+A little UI widget to satisfy your need to see what you just looted.
 
 ### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
 
