@@ -9,6 +9,7 @@
 - [Audley](https://www.nexusmods.com/newvegas/users/3644561)
 - [very](https://www.nexusmods.com/users/163915398)
 - [Shabby Pirate](https://www.nexusmods.com/users/78372218)
+- [Audixas](https://www.nexusmods.com/newvegas/users/4196295)
 
 ### Contributors & Shoutouts
 
