@@ -1,4 +1,7 @@
-﻿# Gameplay
+﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
+ 
+# Gameplay
 
 ---
 
@@ -72,7 +75,7 @@ This is a small mod that provides you stat based starting gear at the beginning 
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
 
-Resets the player's Level, XP, Skills, Perks and Karma upon travelling from the CW to the Mojave for the first time; optionally confiscates gear as well.
+Removes the player's gear upon travelling from the CW to the Mojave for the first time.
 
 #### Installation:
 
