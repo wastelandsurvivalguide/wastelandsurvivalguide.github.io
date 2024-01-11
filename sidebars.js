@@ -33,7 +33,6 @@ const sidebars = {
     "ui",
     "gameplay",
     "content",
-    "overhauls",
     "visuals",
     "finish",
     "faq",
