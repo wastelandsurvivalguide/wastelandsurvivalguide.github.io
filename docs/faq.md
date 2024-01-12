@@ -11,7 +11,7 @@ Tale of Two Wastelands already cleans and fixes issues in the base plugins.
 
 ### When installing multiple mods from the same page through MO2, should I select Merge, Rename, or Replace?
 
-Read the <strong>Mod Installation Instructions</strong> section from the <a href="https://thebestoftimes.moddinglinked.com/mo2.html#installationInstructions" target="_blank">The Best of Times MO2 page</a>.
+Read the <strong>Mod Installation Instructions</strong> section from the <a href="https://thebestoftimes.moddinglinked.com/mo2.html#installationInstructions" target="_blank">The Best of Times MO2 section</a>.
 
 ### Why do I get a Application Load Error 5:0000065434 message when I try to launch the game?
 
