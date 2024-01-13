@@ -8,6 +8,10 @@ We felt texture mods are out of the scope of this guide, but feel free to check 
 
 ## Visual Fixes & Optimizations
 
+### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
+
+Fixes dozens of game models across the base game and DLCs.
+
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
@@ -29,6 +33,10 @@ Dynamically adjusts draw distance in accordance with the fog to improve performa
 Fixes muzzle flash lights not being culled after shot, leading to game still using them for illumination.
 
 ### [Pip-Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957)
+
+Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dark - especially in interiors.
+
+### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
 Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dark - especially in interiors.
 
@@ -65,27 +73,6 @@ Makes distant land textures less ugly.
 ### [Metro Map Replacer](https://taleoftwowastelands.com/viewtopic.php?f=55&t=7779)
 
 Texture replacers for the underground metro maps, making them actually useful for navigation.
-
-### [Power Armor Visual Enhancement](https://www.nexusmods.com/newvegas/mods/74786)
-
-PAVE is a retexture pack for all power armors in FNV and F3/TTW.
-
-#### Installation:
-
-- Main File - Power Armor Visual Enhancement 2K
-  - Double-click the mod in the left pane & use the Optional ESPs menu to hide `PAVE_NV.esp`.
-    - Select the file from _Available ESPs_, then click the ⬅️ button to move it into _Optional ESPs_.
-  - Use the Filetree menu to find the file `meshes\armor\PAVE\T45PAPink\OutfitGO.nif`.
-    - Select the file and press F2 to **Rename** it to `OutfitArmyGO.nif`:
-  ```
-  📁meshes
-   └📁armor
-     └📁PAVE
-       └📁T45PAPink
-         └📄OutfitArmyGO.nif   <-- renamed from OutfitGO.nif!
-  ```
-- Update File - PAVE Compatiblity Plugins
-  - Just as with the main file, hide `PAVE_NV.esp` using the _Optional ESPs_ menu.
 
 ### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
