@@ -230,7 +230,11 @@ The mods ahead may change the game dramatically, requiring compensation in gamep
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
-Sweet's take on a lighter alternative to BLEED's damage overhaul. Better Damage Multipliers from Bleedless is also recommend.
+Sweet's take on a lighter alternative to BLEED's damage overhaul.
+
+### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
+
+Improved damage multipliers for the game's difficulty settings.
 
 ### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
 
