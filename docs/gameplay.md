@@ -75,7 +75,7 @@ This is a small mod that provides you stat based starting gear at the beginning 
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
 
-Removes the player's gear upon travelling from the CW to the Mojave for the first time.
+Resets the player's level and skills, as well as removes gear upon travelling from the CW to the Mojave for the first time.
 
 #### Installation:
 
@@ -162,6 +162,14 @@ An overhaul to the weapon spread system that allows firearms to be far more accu
 ### [Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974)
 
 Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread setting.
+
+### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+
+A custom INI file for Stewie's Tweaks that enables a lot more useful gameplay and QoL changes.
+
+#### Installation:
+
+- Main File - Stewie Tweaks Custom INI
 
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
