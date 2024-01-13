@@ -2,13 +2,37 @@
 
 ---
 
-## NPCs & Quests
+### [Rebuild the Capital - A Brotherhood of Steel Expansion Mod](https://www.nexusmods.com/newvegas/mods/68030)
 
-### [FPGE](https://www.nexusmods.com/newvegas/mods/66726)
+Rebuild the Capital is focused on expanding the Brotherhood of Steel and their role in the wasteland following the events of Broken Steel.
 
-##### Functional Post-Game Ending
+#### Installation:
 
-Adds a fully functional post-game world that reflects the consequences of player choices & ending. Select **only the Tale of Two Wastelands Patch** in the FOMOD installer.
+- Main File - Rebuild The Captial 2.50
+Optional Files:
+ - [x] No Pony Express Boxes
+ - [ ] Book of Steel Patch
+ - [ ] Big Town Extenstion Patch
+ - [ ] Another Interior Patch
+ - [x] Desert Natural Weathers Patch (If you plan on using [Desert Natural Weathers - NV - TTW](https://www.nexusmods.com/newvegas/mods/75437) later in this guide.)
+ - [x] Root n Loot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
+ - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
+ - [ ] skinned mesh improvement mod
+- Optional File - Rebuild the Capital Hotfix 2.51
+
+### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
+
+Adds a fully functional post-game world to the game, no longer will you be brought to the credits and end your journey there.
+
+#### Installation:
+
+- Main File - Functional Post Game Ending
+Single Patches:
+ - [ ] AWOP Patch
+ - [ ] Outside Bets Patch
+ - [x] Tale of Two Wastelands Patch
+ - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
+ - [ ] YUP Patch
 
 ### [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)
 
@@ -16,16 +40,17 @@ Adds several scripted events & hundreds of NPCs who will patrol roads, travel be
 
 #### Installation:
 
-- Main File - The Living Desert
+- Main File - The Living Desert - Main File 2.5
+- Main File - [The Living Desert - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
-### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925/)
+### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925)
 
 This master file allows you to play mods in the Someguy series, which are being remastered. There are currently three episodes available.
 
 #### Installation:
 
 - Main File - Someguy Series 2 dot 0
-- For each episode, install the Main File and Optional File - TTW Patch if available:
+- For each episode, install the Main File and Optional File - TTW Patch:
   - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108)
   - [Bad Mothafucka LE](https://www.nexusmods.com/newvegas/mods/77229)
   - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
@@ -35,10 +60,9 @@ This master file allows you to play mods in the Someguy series, which are being 
 A series of Fallout 3 quests from various authors which add many new locations to the game, converted for TTW by RoyBatty.
 
 - [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
-- [TTW Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611)
 - [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
 
-### Uncut Wasteland & Extra Collection
+### [Uncut Wasteland & Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
 
 Restores a huge amount of scenery, NPCs, creatures and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
 
@@ -46,49 +70,17 @@ Restores a huge amount of scenery, NPCs, creatures and other details which were 
 
 Main Files:
 
-- [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005)
-- [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
-- Main File - [Functional Post Game Ending - Uncut Wasteland & Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - Uncut Wasteland
+- Main File - Uncut Extra Collection
+- Main File - Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch
 
-## Player Homes
+### [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)
 
-### [Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html)
+#### Installation:
 
-Capital Wasteland Hideouts are small way station player homes (10 locations in total) that offer places to safely store your stuff until you can get to your main base (or until you can acquire one).
+- Main File - GUWR Unbalanced
+- Main File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
 Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI if desired.
-
-### [Mobile Truck Base](https://www.nexusmods.com/newvegas/mods/79005/?tab=files)
-
-A mobile player home fueled by flamer ammo. This special edition of MTB can even travel between wastelands with the travel guide found in the glove compartment. The truck is located in Scrapyard (DC) and the key is nearby in a toolbox. For players who started in the Mojave, check Gibson Scrapyard instead.
-
-#### Installation:
-
-- Main File - Mobile Truck Base 3.3 community preview edition
-- Main File - [Mobile Truck Base SFX Enhancer](https://www.nexusmods.com/newvegas/mods/77110)
-- Main File - [TTW - Mobile Truck Base Megaton Mover](https://www.nexusmods.com/newvegas/mods/77160) (strongly recommended if you plan to use Springvale Garage)
-- Main File - [Mobile Truck Base Sorting Add On - TTW](https://www.sublevel3.com/mmtv/fnv/ttw-mtb-sorting-addon.html)
-
-### [Sink Redux](https://www.sublevel3.com/mmtv/fnv/ttw-sink_redux.html)
-
-A large-scale upgrade for the Sink to turn it into a fully functional player home suitable as your main base even after completing the Old World Blues DLC.
-
-### [Springvale Garage](https://www.nexusmods.com/newvegas/mods/76503)
-
-A lore-friendly and balanced player home/quest mod for TTW that sees you renovate the ruin of the garage at Springvale Red Rocket into a fully functional and capable home for yourself. Clean up, restore power and water, salvage furniture, and purchase or scavenge powerful upgrades for your home.
-
-#### Installation:
-
-- Main File - TTW - Springvale Garage
-- Optional File - Patch for ySI
-- Main File - [Rebuild the Capital - Springvale Garage Terminal](https://www.nexusmods.com/newvegas/mods/77928)
-
-### [Dynamic Weapon Displays](https://www.nexusmods.com/newvegas/mods/73882)
-
-Adds Skyrim-esque weapon displays. Fully compatible with weapons from all the DLC and weapons added by other mods. Contains a patch for TTW & WSG.
-
-- Main File - Dynamic Weapon Displays
-  - In the FOMOD installer select any patches for mods you installed, and choose a display model. Do NOT install the Mobile Truck Base patch, that is for the New Vegas version by Qolore.
-- Main File - [Dynamic Weapon Displays and MMTV Sink Redux Patch](https://www.nexusmods.com/newvegas/mods/79005)
