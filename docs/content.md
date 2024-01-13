@@ -9,7 +9,7 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
 #### Installation:
 
 - Main File - Rebuild The Captial 2.50
-Optional Files:
+- Optional Files:
  - [x] No Pony Express Boxes
  - [ ] Book of Steel Patch
  - [ ] Big Town Extenstion Patch
@@ -27,7 +27,7 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 #### Installation:
 
 - Main File - Functional Post Game Ending
-Single Patches:
+- Single Patches:
  - [ ] AWOP Patch
  - [ ] Outside Bets Patch
  - [x] Tale of Two Wastelands Patch
