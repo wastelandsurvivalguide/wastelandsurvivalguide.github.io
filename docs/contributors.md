@@ -17,7 +17,6 @@
 - [AVeryUncreativeUsername](https://www.nexusmods.com/newvegas/users/78355343)
 - [Adam Adamowicz](https://www.flickr.com/photos/47857688@N08/sets/72157629320774861/)
 - [anhatthezoo](https://www.nexusmods.com/newvegas/users/38240420)
-- [Audixas](https://ko-fi.com/audixas)
 - [bustafooligan](#)
 - [Callen](https://www.nexusmods.com/newvegas/users/3370112)
 - [Cloudisms](https://www.nexusmods.com/users/2389150)
