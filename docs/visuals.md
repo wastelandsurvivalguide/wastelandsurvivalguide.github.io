@@ -38,7 +38,7 @@ Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dar
 
 ### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
-Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dark - especially in interiors.
+Fix for massive shaking during aiming caused by floating point precision loss.
 
 ## Visual Improvements
 
