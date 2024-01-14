@@ -16,7 +16,7 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 
 ### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
 
- Adds an MCM menu with options for adjust World Field of View, Player Field of View, Pipboy Field of View and Terminal Screen Field of View.
+Adds an MCM menu with options for adjust World Field of View, Player Field of View, Pipboy Field of View and Terminal Screen Field of View.
  
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
@@ -164,11 +164,11 @@ Weapon Hotkey Icons! Adds custom icons for weapons in the hotkey menu.
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
 
-A total overhaul to every Map Marker icons, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
+A total overhaul to every Map Marker icon, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
 
 ### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
 
-A collection of Patches and V5 Icons for Tale Of Two Wastelands.
+A collection of patches and V5 Icons for Tale Of Two Wastelands.
 
 ### [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
 
@@ -191,6 +191,18 @@ A completely reworked re-imagining of the TTW main menu image. Choose the file t
 
 Choose the file matching your monitor's resolution.
 
+### [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
+
+Changes the loading wheel to resemble a vault door, fitting very well within the theme of TTW.
+
+### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)
+
+Replaces all of the maps with simple vector imagery akin to Fallout 4.
+
+#### Installation:
+
+- Main File - Simple Maps - TTW
+
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
 ##### Main & Pause Menus Overhaul
@@ -203,7 +215,10 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause menu to configure MAPMO's settings
-- Optional Files - Extras - Stewie's Tweaks Sorting Icons Replacer
+- Optional File - Extras - Hi-Res Icons
+- Optional File - Extras - Hi-Res Logos
+- Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
+- Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
 
 :::caution
 
