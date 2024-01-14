@@ -7,6 +7,7 @@
 - Added Simple Maps.
 - Added MAPMO Extra Files.
 - Added MAPMO Custom INI.
+- Added No Big Guns Patch for Sweet Perk Overhaul.
 - Fixes some typos and consistency errors.
 
 ### 13/01/24
