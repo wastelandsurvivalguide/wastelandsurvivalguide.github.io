@@ -35,6 +35,11 @@ Two tiny patches to ensure proper functionality between pintocat's Tale of Bi Wa
 
 This is a rebalance and overhaul of many base game perks, with many granting bonuses based on active SPECIAL values.
 
+#### Installation:
+
+- Main File - Sweet Perk Overhaul
+- Optional File - No Big Guns Patch
+
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
 The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly, immersive way.
@@ -173,7 +178,7 @@ A custom INI file for Stewie's Tweaks that enables a lot more useful gameplay an
 
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
-Collection of small TTW miscellaneous tweaks.
+Collection of small miscellaneous tweaks for TTW.
 
 #### Installation:
 
