@@ -36,6 +36,14 @@ Fixes muzzle flash lights not being culled after shot, leading to game still usi
 
 Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dark - especially in interiors.
 
+### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
+
+#### Installation:
+
+- Main File - PipBoyOn Node Fixes TTW
+
+Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
+
 ### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
 Fix for massive shaking during aiming caused by floating point precision loss.
