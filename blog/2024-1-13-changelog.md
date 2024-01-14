@@ -1,5 +1,16 @@
 # Changelog - Renovation
 
+### 14/01/24
+
+- Added PipBoyOn Node Fixes.
+- Added Vault Door Loading Wheel - TTW.
+- Added Simple Maps.
+- Added MAPMO Extra Files.
+- Added MAPMO Custom INI.
+- Fixes some typos and consistency errors.
+
+### 13/01/24
+
 ### User Interface & HUD
 
 - Overhauled general installation instructions and descriptions of all mods.
