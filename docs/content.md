@@ -8,7 +8,7 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
 
 #### Installation:
 
-- Main File - Rebuild The Captial 2.50
+- Main File - Rebuild The Capital 2.50
 - Optional Files:
  - [x] No Pony Express Boxes
  - [ ] Book of Steel Patch
