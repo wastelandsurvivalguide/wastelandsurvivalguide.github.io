@@ -1,4 +1,4 @@
-﻿# Content
+# Content
 
 ---
 
@@ -10,14 +10,14 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
 
 - Main File - Rebuild The Capital 2.50
 - Optional Files:
- - [x] No Pony Express Boxes
- - [ ] Book of Steel Patch
- - [ ] Big Town Extenstion Patch
- - [ ] Another Interior Patch
- - [x] Desert Natural Weathers Patch (If you plan on using [Desert Natural Weathers - NV - TTW](https://www.nexusmods.com/newvegas/mods/75437) later in this guide.)
- - [x] Root n Loot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
- - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
- - [ ] skinned mesh improvement mod
+  - [x] No Pony Express Boxes
+  - [ ] Book of Steel Patch
+  - [ ] Big Town Extenstion Patch
+  - [ ] Another Interior Patch
+  - [x] Desert Natural Weathers Patch (If you plan on using [Desert Natural Weathers - NV - TTW](https://www.nexusmods.com/newvegas/mods/75437) later in this guide.)
+  - [x] Root n Loot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
+  - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
+  - [ ] skinned mesh improvement mod
 - Optional File - Rebuild the Capital Hotfix 2.51
 
 ### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
@@ -28,11 +28,11 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 
 - Main File - Functional Post Game Ending
 - Single Patches:
- - [ ] AWOP Patch
- - [ ] Outside Bets Patch
- - [x] Tale of Two Wastelands Patch
- - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
- - [ ] YUP Patch
+  - [ ] AWOP Patch
+  - [ ] Outside Bets Patch
+  - [x] Tale of Two Wastelands Patch
+  - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
+  - [ ] YUP Patch
 
 ### [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)
 
