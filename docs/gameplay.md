@@ -233,6 +233,10 @@ This is just a little series of esp-free ScriptRunners to give TTW vendors bette
 The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. **Procceed with caution!**
 :::
 
+:::note
+The **recommended** difficulty with these mods enabled is *Very Hard* with *Hardcore Mode* **on**. Sweet's page will tell you to use *Normal*, but with Better Damage Multipliers, I feel *Very Hard* is a justified difficulty. - Very
+:::
+
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
 Sweet's take on a lighter alternative to BLEED's damage overhaul.
