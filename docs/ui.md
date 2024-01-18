@@ -138,10 +138,6 @@ This is a interface overhaul that cleans up all of the smudgy Icons and the text
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
-
-This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
-
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
 "Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
@@ -174,9 +170,44 @@ A meticulously hand-drawn recreation of every karma and reputation icon.
 
 A total overhaul to every Map Marker icon, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
 
+#### Installation:
+
+- Main File - Map Marker Icons
+  - Main Mod:
+    - [x] Vanilla
+    - [x] Vanilla Plus
+    - [x] Faction Specific
+    - [x] Numbered Vaults
+    - [x] Unique DLC Starter Marks
+    - [x] Unique Location Icons
+    - [x] Unique Icons with General Mod Support
+
 ### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
 
-A collection of patches and V5 Icons for Tale Of Two Wastelands.</p>
+A collection of patches and V5 Icons for Tale Of Two Wastelands.
+
+#### Installation:
+
+- Main File - TTW Goodies
+  - Patch for Pop-Up Message Icons:
+    - [x] Install It
+    - [ ] Don't
+  - Patch for CPI V5 Icons
+    - [x] Install It
+    - [ ] Don't
+  - Patch for Weapon Hotkey Icons
+    - [ ] Install It
+    - [x] Don't
+  - Patch for Map Marker Icons
+    - [x] Vanilla Plus
+    - [x] Numbered Vaults
+    - [x] Unique Location Icons
+    - [x] Unique DLC Starter Marker
+    - [ ] None for me, thanks!
+
+### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
+
+This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.</p>
 </details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
