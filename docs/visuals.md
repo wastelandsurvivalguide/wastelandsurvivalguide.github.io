@@ -24,6 +24,10 @@ Fix for depth of field bleeding over onto player's viewmodel.
 
 Fixes a bug that would cause certain particles to appear black.
 
+### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
+
+Fixes some alpha rendering issues like broken effects when using Transparency Multisampling.
+
 ### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
@@ -54,9 +58,9 @@ Fix for massive shaking during aiming caused by floating point precision loss.
 
 Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberware. In the installer just click **Install**.
 
-<!-- ### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
+### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
-Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm. -->
+Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm.
 
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
