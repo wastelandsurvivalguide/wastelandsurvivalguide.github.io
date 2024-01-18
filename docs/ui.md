@@ -128,7 +128,7 @@ High-quality icons.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>DP farming is annoying. Please stop. -very
+DP farming is annoying. Please stop. -very
 
 ### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
 
@@ -217,7 +217,7 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Unique Location Icons
     - [x] Unique DLC Starter Marker
     - [ ] None for me, thanks!
-asdkajsdkjaksdjalkjsdlkajsd</p>
+asdkajsdkjaksdjalkjsdlkajsd
 </details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
