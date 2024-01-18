@@ -101,9 +101,9 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
     - [x] Clean Radiation Bar
     - [x] Clean Shared Interface
   - Clean Roulette Loading Wheel:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
+     <RadioButtonCheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
+     <RadioButtonCheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
+     <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
   - Patches:
     - [x] Vanilla UI+ Patch
     - [x] I am not a Height Indicator User
@@ -203,14 +203,14 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
 
 - Main File - TTW Goodies
   - Patch for Pop-Up Message Icons:<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
+     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
+     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
   - Patch for CPI V5 Icons:<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
+     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
+     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
   - Patch for Weapon Hotkey Icons:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Install It<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Don't<br/>
+     <RadioButtonUncheckedIcon fontSize="small" /> Install It<br/>
+     <RadioButtonCheckedIcon fontSize="small" /> Don't<br/>
   - Patch for Map Marker Icons:
     - [x] Vanilla Plus
     - [x] Numbered Vaults
