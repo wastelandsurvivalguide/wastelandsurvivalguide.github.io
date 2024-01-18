@@ -216,8 +216,7 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Numbered Vaults
     - [x] Unique Location Icons
     - [x] Unique DLC Starter Marker
-    - [ ] None for me, thanks!
-</details>
+    - [ ] None for me, thanks! </details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
