@@ -50,7 +50,11 @@ Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remov
 
 ### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
-Fix for massive shaking during aiming caused by floating point precision loss.
+Fixes massive shaking during aiming caused by floating point precision loss.
+
+### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
+
+Fixes issues with rendering transparency effects when using Transparency Multisampling.
 
 ## Visual Improvements
 
