@@ -199,6 +199,8 @@ A total overhaul to every Map Marker icon, also including an extension that repl
 
 A collection of patches and V5 Icons for Tale Of Two Wastelands.
 
+#### Installation:
+
 - Main File - TTW Goodies
   - Patch for Pop-Up Message Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
@@ -214,8 +216,7 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Numbered Vaults
     - [x] Unique Location Icons
     - [x] Unique DLC Starter Marker
-    - [ ] None for me, thanks!</p>
-</details>
+    - [ ] None for me, thanks!
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
