@@ -138,13 +138,18 @@ This is a interface overhaul that cleans up all of the smudgy Icons and the text
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
-
-This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
-
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
 "Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
+
+#### Installation:
+
+- Main File - Pop-Up Message Icons
+  - Pop Up Message Icons!:
+    - [x] Main Mod
+    - [x] Extension - Hunger, Dehydration, Sleep and Radiation
+    - [x] Extension - Reputation
+    - [x] Extension - Challanges
 
 ### [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
 
@@ -207,7 +212,11 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Numbered Vaults
     - [x] Unique Location Icons
     - [x] Unique DLC Starter Marker
-    - [ ] None for me, thanks!</p>
+    - [ ] None for me, thanks!
+
+### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
+
+This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.</p>
 </details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
