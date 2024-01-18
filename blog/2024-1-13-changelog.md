@@ -8,7 +8,7 @@
 - Added MAPMO Extra Files.
 - Added MAPMO Custom INI.
 - Added No Big Guns Patch for Sweet Perk Overhaul.
-- Fixes some typos and consistency errors.
+- Fixed some typos and consistency errors.
 
 ### 13/01/24
 
@@ -39,8 +39,8 @@
 - Removed Misc Gamesetting Tweaks, unnecessary.
 - Removed NV and TTW Collectibles - Merged, cheat mods.
 - Added Sweet Perk Overhaul.
-- Added Sweet 6 Shooters Perks (was previously removed for performance issues that have now been solved.)
-- Removed Stash Organizer, to much work to make a MOD:PUB account.
+- Added Sweet 6 Shooters Perks (was previously removed for performance issues that have now been resolved.)
+- Removed Stash Organizer, too much work to make a MOD:PUB account.
 - Moved New Blood to this section.
 - Moved Sweet Consumables to this section.
 - Moved Aid Addon to this section.
@@ -49,9 +49,9 @@
 
 - Moved RTC to this section.
 - Removed Another Interior, quality isn't consistent with the base game.
-- Moved GRA Uniques Relovated to this section.
-- Removed player home mods, we decided to cut them all because just leaving the one we liked, Springvale Garage, seemed out of place. I feel like vanilla homes are enough anyway.
+- Moved GRA Uniques Relocated to this section.
+- Removed player home mods, we decided to cut them all because just leaving the one we liked, Springvale Garage, seemed out of place. We feel like vanilla homes are enough anyway.
 
 ### Overhauls
 
-- Removed and mods were incoporated into other parts of the guide.
+- Removed and mods were incorporated into other parts of the guide.
