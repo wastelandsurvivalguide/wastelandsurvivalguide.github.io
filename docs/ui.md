@@ -138,13 +138,13 @@ This is a interface overhaul that cleans up all of the smudgy Icons and the text
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
-
-"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
-
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
 This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
+
+### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
+
+"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
 
 ### [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
 
@@ -158,18 +158,6 @@ This update features a hand drawn recreation of every single weapon icon in two 
 
 This update features a hand drawn recreation of every single apparel icon in two games.
 
-### [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/83476)
-
-Weapon Hotkey Icons! Adds custom icons for weapons in the hotkey menu.
-
-### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
-
-A total overhaul to every Map Marker icon, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
-
-### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
-
-A collection of patches and V5 Icons for Tale Of Two Wastelands.
-
 ### [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
 
 This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
@@ -180,7 +168,15 @@ Featuring meticulously hand-drawn item icons seen in the DLC's of Fallout New Ve
 
 ### [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
 
-A meticulously hand-drawn recreation of every karma and reputation icon.</p>
+A meticulously hand-drawn recreation of every karma and reputation icon.
+
+### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
+
+A total overhaul to every Map Marker icon, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
+
+### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
+
+A collection of patches and V5 Icons for Tale Of Two Wastelands.</p>
 </details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
