@@ -1,5 +1,14 @@
 # Changelog - Renovation
 
+### 19/01/24
+
+- Added FOMOD installation instructions to Jesus's mods.
+- Removed Weapon Hotkey Icons, ugly.
+- Removed TLD - FPGE Patch, as it is useless.
+- Re-added Fallout Alpha Rendering Tweaks.
+- Re-added Dynamic Pip-Boy Light.
+- Added a note about recommended difficulty.
+
 ### 14/01/24
 
 - Added PipBoyOn Node Fixes.
