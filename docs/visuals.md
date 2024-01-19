@@ -62,10 +62,6 @@ Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberwa
 
 Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm.
 
-### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
-
-Sharper, clearer local maps.
-
 ### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
 
 Increases bloom precision, reducing flicker.
