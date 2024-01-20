@@ -1,5 +1,13 @@
 # Changelog - Renovation
 
+### 20/01/24
+
+- Added notice about our Discord server
+- Reorganized intro page
+- Fixed typo in Incompatible Mods page, courtesy of Vergir
+- Moved High Res Local Maps to correct section, courtesy of Vergir
+- Edited notice about texture mods in the Visuals section
+
 ### 19/01/24
 
 - Added FOMOD installation instructions to Jesus's mods.
