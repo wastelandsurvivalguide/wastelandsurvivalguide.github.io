@@ -19,6 +19,7 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
   - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
   - [ ] skinned mesh improvement mod
 - Optional File - Rebuild the Capital Hotfix 2.51
+- Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
 
@@ -38,15 +39,36 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 
 Adds several scripted events & hundreds of NPCs who will patrol roads, travel between towns, occupy locations, explore the desert, and react dynamically to your choices throughout the game.
 
-### Sweet Pain F3 and NV
+### Sweet Pain DC
 
-The original AWOP mods are made pretty poorly. Sweet Pain fixes them up.
+Overhauls things in A World Of Pain for Fallout 3 to be more appropriate for early and mid level play. 
+
+#### Installation:
 
 - Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
-- Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
+- Main File - Sweet Pain DC
+- Main File - [Sweet Pain NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
+
+### Sweet Pain NV
+
+Overhauls things in AWOP Revised to be more appropriate for early and mid level play.
+
+#### Installation:
+
 - Main File - [AWOP Revised](https://www.nexusmods.com/newvegas/mods/71139)
-- Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
+- Main File - Sweet Pain NV
 - Main File - TTW Patch
+- Main File - [Sweet Pain - RTC Patch](https://www.nexusmods.com/newvegas/mods/79005)
+
+### [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809)
+
+Adds more locations to game at the more sparse areas of worldspace. Integrates few elements of DLC into base game and makes exploring worthwhile thing to do. 
+
+#### Installation:
+
+- Main File - MoreMojave
+- Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925)
 
