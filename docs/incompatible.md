@@ -261,7 +261,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 - make edits to weapon records breaking them, can be patched. Use [AWSOME](https://www.nexusmods.com/newvegas/mods/77723).
 
-## Minor Incomaptibilities
+## Minor Incompatibilities
 
 #### New Vegas Bounties II
 
