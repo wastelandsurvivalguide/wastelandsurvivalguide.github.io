@@ -95,6 +95,7 @@ RtC-RootnLoot.esp
 RtC-TrailofCrumbs.esp
 DelayDLCReduxPOPP.esp
 SP TTW Patch.esp
+MoreMojave - FPGE Patch.esp
 New Blood.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
