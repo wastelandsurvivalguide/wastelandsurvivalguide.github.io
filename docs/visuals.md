@@ -3,7 +3,7 @@
 ---
 
 :::note Where are all the texture mods?
-We felt texture mods are out of the scope of this guide, but feel free to check out [Salamand3r's Texture Guide](https://salamand3r.fail/texture-guide). Support for it is provided on [Salamand3r's Discord server](https://discord.gg/ka34w2jy).
+We felt texture mods are out of the scope of this guide, but feel free to check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for it is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 :::
 
 ## Visual Fixes & Optimizations
