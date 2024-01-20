@@ -2,6 +2,8 @@
 
 ---
 
+## Major World Changes
+
 ### [Rebuild the Capital - A Brotherhood of Steel Expansion Mod](https://www.nexusmods.com/newvegas/mods/68030)
 
 Rebuild the Capital is focused on expanding the Brotherhood of Steel and their role in the wasteland following the events of Broken Steel.
@@ -70,6 +72,20 @@ Adds more locations to game at the more sparse areas of worldspace. Integrates f
 - Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005)
 - Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
+### [Uncut Wasteland & Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
+
+Restores a huge amount of scenery, NPCs, creatures and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
+
+#### Installation:
+
+Main Files:
+
+- Main File - Uncut Wasteland
+- Main File - Uncut Extra Collection
+- Main File - Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch
+
+## New Quests
+
 ### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925)
 
 This master file allows you to play mods in the Someguy series, which are being remastered. There are currently three episodes available.
@@ -89,17 +105,7 @@ A series of Fallout 3 quests from various authors which add many new locations t
 - [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
 - [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
 
-### [Uncut Wasteland & Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
-
-Restores a huge amount of scenery, NPCs, creatures and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
-
-#### Installation:
-
-Main Files:
-
-- Main File - Uncut Wasteland
-- Main File - Uncut Extra Collection
-- Main File - Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch
+## Small Changes
 
 ### [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)
 
