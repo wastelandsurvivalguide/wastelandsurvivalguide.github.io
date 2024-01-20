@@ -2,12 +2,18 @@
 
 ### 20/01/24
 
-- Added notice about our Discord server
-- Reorganized intro page
-- Fixed typo in Incompatible Mods page, courtesy of Vergir
-- Moved High Res Local Maps to correct section, courtesy of Vergir
-- Edited notice about texture mods in the Visuals section
-- Fixed name of NVVR on landing page
+- Added notice about our Discord server.
+- Reorganized intro page.
+- Fixed typo in Incompatible Mods page, courtesy of Vergir.
+- Moved High Res Local Maps to correct section, courtesy of Vergir.
+- Edited notice about texture mods in the Visuals section.
+- Fixed name of NVVR on landing page.
+- Added MoreMojave.
+- Added Sweet Pain DC.
+- Added Sweet Pain NV.
+- Added RTC - Sweets Consumables Patch.
+- Reorganized Content page and added seperators.
+- Updated loadorder.
 
 ### 19/01/24
 
