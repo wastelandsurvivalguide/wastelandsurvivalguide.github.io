@@ -125,7 +125,7 @@ const config = {
             href: "https://wallsogb.github.io/FalloutNV-Performance-Guide",
           },
           {
-            label: "Salamand3r's Texture Guide",
+            label: "New Vegas Visual Renewal",
             href: "https://salamand3r.fail/texture-guide",
           },
           {
