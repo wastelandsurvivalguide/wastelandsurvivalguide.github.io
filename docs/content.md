@@ -45,7 +45,7 @@ The original AWOP mods are made pretty poorly. Sweet Pain fixes them up.
 - Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
 - Main File - [AWOP Revised](https://www.nexusmods.com/newvegas/mods/71139)
-- Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523}
+- Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
 - Main File - TTW Patch
 
 ### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925)
