@@ -93,12 +93,15 @@ GUWR - TTW Patch.esp
 Rebuild the Capital - No Pony Express Boxes.esp
 RtC-RootnLoot.esp
 RtC-TrailofCrumbs.esp
+RtC-SweetPain.esp
+FPGE - Sweet Pain Patch.esp
 DelayDLCReduxPOPP.esp
 SP TTW Patch.esp
 MoreMojave - FPGE Patch.esp
 New Blood.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
+RtC-SweetsConsumables.esp
 Aid Addon.esp
 WeaponRequirementSystem.esp
 B42Inertia.esp
