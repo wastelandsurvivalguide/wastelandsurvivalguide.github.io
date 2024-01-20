@@ -38,6 +38,16 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 
 Adds several scripted events & hundreds of NPCs who will patrol roads, travel between towns, occupy locations, explore the desert, and react dynamically to your choices throughout the game.
 
+### Sweet Pain F3 and NV
+
+The original AWOP mods are made pretty poorly. Sweet Pain fixes them up.
+
+- Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
+- Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
+- Main File - [AWOP Revised](https://www.nexusmods.com/newvegas/mods/71139)
+- Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523}
+- Main File - TTW Patch
+
 ### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925)
 
 This master file allows you to play mods in the Someguy series, which are being remastered. There are currently three episodes available.
