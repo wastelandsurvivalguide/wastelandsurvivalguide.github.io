@@ -44,7 +44,6 @@ Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
-TLD - FPGE Patch.esm
 SomeguySeries.esm
 NewVegasBounties.esm
 Badmothafucka.esm
@@ -58,6 +57,7 @@ AWorldOfPainFO3.esm
 Sweet Pain.esm
 A World of Pain Revised.esm
 Sweet Pain NV.esm
+MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
 Rebuild the Capital.esm
