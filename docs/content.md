@@ -49,7 +49,7 @@ Overhauls things in A World Of Pain for Fallout 3 to be more appropriate for ear
 
 - Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - Sweet Pain DC
-- Main File - [Sweet Pain NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Sweet Pain - RTC Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### Sweet Pain NV
 
@@ -60,7 +60,7 @@ Overhauls things in AWOP Revised to be more appropriate for early and mid level 
 - Main File - [AWOP Revised](https://www.nexusmods.com/newvegas/mods/71139)
 - Main File - Sweet Pain NV
 - Main File - TTW Patch
-- Main File - [Sweet Pain - RTC Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Sweet Pain NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809)
 
