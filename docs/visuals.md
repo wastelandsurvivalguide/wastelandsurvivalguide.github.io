@@ -2,6 +2,11 @@
 
 ---
 
+#### Separator:
+
+- Right-click the empty space in the left pane of MO2 and select **Create separator**.
+- Name the separator **Visuals**.
+
 :::note Where are all the texture mods?
 We felt texture mods are out of the scope of this guide, but feel free to check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for it is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 :::
@@ -65,10 +70,6 @@ Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm.
 ### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
 
 Increases bloom precision, reducing flicker.
-
-### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
-
-Sharper, clearer screens for terminals, Pip-Boy, etc.
 
 ### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
 
