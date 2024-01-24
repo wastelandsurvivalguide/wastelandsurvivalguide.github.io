@@ -239,13 +239,13 @@ Changes the loading wheel to resemble a vault door, fitting very well within the
 
 Replaces all of the maps with simple vector imagery akin to Fallout 4.
 
-### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
-
-Sharper, clearer local maps.
-
 #### Installation:
 
 - Main File - Simple Maps - TTW
+
+### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
+
+Sharper, clearer local maps.
 
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
