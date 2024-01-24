@@ -5,6 +5,11 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ---
 
+#### Seperator:
+
+- Right-click the empty space in the left pane of MO2 and select **Create separator**.
+- Name the separator **User Interface & HUD**.
+
 ### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
 
 Adds a settings menu to configure mods in-game. **Required** for many mods.
