@@ -235,9 +235,21 @@ A completely reworked re-imagining of the TTW main menu image. Choose the file t
 
 Choose the file matching your monitor's resolution.
 
-### [Vault Door Loading Wheel](https://www.nexusmods.com/newvegas/mods/62998)
+### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915)
 
-Changes the loading wheel to resemble a vault door, fitting very well within the theme of TTW.
+Moves the loadwheel to the corner of the screen and removes the bars.
+
+#### Installation:
+
+- Main File - Scum's Considerably Cute Corner Load Wheel (Vanilla)
+
+### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974)
+
+Replaces the vanilla loading wheel with a sleek, minimal design.
+
+#### Installation:
+
+- Main File - Radiation Loadwheel
 
 ### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)
 
