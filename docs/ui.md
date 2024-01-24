@@ -114,6 +114,10 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
     - [ ] Alternative Just Hit Indicator
     - [ ] Clean Fonts for DarnUI
 
+### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
+
+Sharper, clearer screens for terminals, Pip-Boy, etc.
+
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
 Needed for the following mods.
