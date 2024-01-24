@@ -102,7 +102,6 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
   - Main Mod:
     - [x] Main Files
     - [x] Clean Fonts
-    - [x] Clean Map Icons
     - [x] Clean Radiation Bar
     - [x] Clean Shared Interface
   - Clean Roulette Loading Wheel:<br/>
