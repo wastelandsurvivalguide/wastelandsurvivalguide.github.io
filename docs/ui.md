@@ -202,16 +202,16 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
 #### Installation:
 
 - Main File - TTW Goodies
-  - Patch for Pop-Up Message Icons:
+  - Patch for Pop-Up Message Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
-  - Patch for CPI V5 Icons
+  - Patch for CPI V5 Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
-  - Patch for Weapon Hotkey Icons
+  - Patch for Weapon Hotkey Icons:<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Don't<br/>
-  - Patch for Map Marker Icons
+  - Patch for Map Marker Icons:
     - [x] Vanilla Plus
     - [x] Numbered Vaults
     - [x] Unique Location Icons
