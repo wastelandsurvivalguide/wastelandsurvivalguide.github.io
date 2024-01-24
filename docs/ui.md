@@ -116,7 +116,7 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
-Needed for the following mod.
+Needed for the following mods.
 
 ### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
 
