@@ -2,6 +2,11 @@
 
 ---
 
+#### Separator:
+
+- Right-click the empty space in the left pane of MO2 and select **Create separator**.
+- Name the separator **Content**.
+
 ## Major World Changes
 
 ### [Rebuild the Capital - A Brotherhood of Steel Expansion Mod](https://www.nexusmods.com/newvegas/mods/68030)
@@ -95,7 +100,6 @@ This master file allows you to play mods in the Someguy series, which are being 
 - Main File - Someguy Series 2 dot 0
 - For each episode, install the Main File and Optional File - TTW Patch:
   - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108)
-  - [Bad Mothafucka LE](https://www.nexusmods.com/newvegas/mods/77229)
   - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
 
 ### TTW Quest Conversions
