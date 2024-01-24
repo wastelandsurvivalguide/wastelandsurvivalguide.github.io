@@ -5,6 +5,11 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ---
 
+#### Seperator:
+
+- Right-click the empty space in the left pane of MO2 and select **Create separator**.
+- Name the separator **Gameplay**.
+
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
 Adds a functional reputation system to Fallout 3 for parity with New Vegas; compatible with TTW New Vegas Speech Checks.
@@ -249,6 +254,10 @@ Improved damage multipliers for the game's difficulty settings.
 
 Featuring 16 new healing items and new Survival healing options, this mod is a nice addition to New Blood, adding items to deal with the actual bleed effect, among many others.
 
+#### Installation:
+
+- Main File - Aid Addon
+- Optional File - [ySI - Sorting Icons - S6S Aid Addon patch](https://www.nexusmods.com/newvegas/mods/74358)
 ### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
 
 Top to bottom overhaul of consumable and misc items. Goes well with the previous two mods.
