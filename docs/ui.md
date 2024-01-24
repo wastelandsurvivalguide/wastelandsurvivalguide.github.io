@@ -209,8 +209,8 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
   - Patch for Weapon Hotkey Icons
-    <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Install It<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> Don't<br/>
   - Patch for Map Marker Icons
     - [x] Vanilla Plus
     - [x] Numbered Vaults
