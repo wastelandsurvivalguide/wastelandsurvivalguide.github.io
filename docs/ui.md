@@ -229,7 +229,7 @@ This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper 
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
-A completely reworked re-imagining of the TTW main menu image. Choose the file that matches your resolution.
+A completely reworked re-imagining of the TTW main menu image.
 
 #### Installation:
 
