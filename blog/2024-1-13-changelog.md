@@ -24,6 +24,7 @@ Today's work was mostly polishing and sweet, sweet consistency. Nobody will noti
 - Added FOMOD instructions to Home and Safehouse Tweaks.
 - Edited Combatibility Skeletons description.
 - Changed some mod posititoning in the **Visuals** page.
+- Removed CPI Mod Patches, because it overwrites new CPI v5 icons which are higher quality.
 
 ### 20/01/24
 
