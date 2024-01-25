@@ -57,6 +57,14 @@ Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remov
 
 Fix for massive shaking during aiming caused by floating point precision loss.
 
+### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
+
+Fixes moonlight, making the moon the light caster instead of the sun.
+
+### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
+
+Fixes exterior lighting bugs & allows up to 4x the number of active lights.
+
 ## Visual Improvements
 
 ### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
@@ -126,11 +134,3 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 #### Installation:
 
 - Main File - Desert Natural Weathers TTW
-
-### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
-
-Fixes exterior lighting bugs & allows up to 4x the number of active lights.
-
-### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
-
-Fixes moonlight, making the moon the light caster instead of the sun.
