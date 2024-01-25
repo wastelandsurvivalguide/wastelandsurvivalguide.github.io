@@ -194,6 +194,10 @@ Collection of small miscellaneous tweaks for TTW.
 
 Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW.
 
+#### Installation:
+
+- Main File - Supplemental Ammo Crafting TTW
+
 ### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
 
 Engine plugin significantly improving the usability of the Caravan minigame.
