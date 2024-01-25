@@ -101,16 +101,27 @@ Main Files:
 
 ## New Quests
 
-### [The Someguy Series LE](https://www.nexusmods.com/newvegas/mods/48925)
+### [The Someguy Series](https://www.nexusmods.com/newvegas/mods/48925)
 
-This master file allows you to play mods in the Someguy series, which are being remastered. There are currently three episodes available.
+Core file required for the next two mods.
+
+### [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108)
+
+Pursue high-risk/high-reward bounties in the first installment of the The Someguy Series.
 
 #### Installation:
 
-- Main File - Someguy Series 2 dot 0
-- For each episode, install the Main File and Optional File - TTW Patch:
-  - [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108)
-  - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
+- Main File - New Vegas Bounties I LE
+- Optional File - New Vegas Bounties I LE TTW
+
+### [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
+
+Work for Bobby Bass as a contract killer in this fully-voiced quest mod!
+
+#### Installation:
+
+- Main File - New Vegas Killer LE
+- Optional File - NewVegasKillerLETTW
 
 ### TTW Quest Conversions
 
