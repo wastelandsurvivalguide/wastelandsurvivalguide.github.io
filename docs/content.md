@@ -146,4 +146,10 @@ Adds crafting stations and additional containers to several vanilla player homes
 #### Installation:
 
 - Main File - Home and Safehouse Tweaks
+  - Main file:
+    - [x] Home and Safehouse Tweaks
+  - Patches:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> None<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> YUP Patch<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> TTW Addon<br/>
 - Main File - Home and Safehouse Tweaks INI File
