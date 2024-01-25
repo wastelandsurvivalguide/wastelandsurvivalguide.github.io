@@ -10,6 +10,10 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Gameplay**.
 
+:::note
+The **recommended** difficulty with these mods enabled is *Very Hard* with *Hardcore Mode* **on**. Sweet's page will tell you to use *Normal*, but with Better Damage Multipliers, I feel *Very Hard* is a justified difficulty. - Very
+:::
+
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
 Adds a functional reputation system to Fallout 3 for parity with New Vegas; compatible with TTW New Vegas Speech Checks.
@@ -240,10 +244,6 @@ This is just a little series of esp-free ScriptRunners to give TTW vendors bette
 
 :::danger Spicy Mods Ahead
 The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. **Procceed with caution!**
-:::
-
-:::note
-The **recommended** difficulty with these mods enabled is *Very Hard* with *Hardcore Mode* **on**. Sweet's page will tell you to use *Normal*, but with Better Damage Multipliers, I feel *Very Hard* is a justified difficulty. - Very
 :::
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
