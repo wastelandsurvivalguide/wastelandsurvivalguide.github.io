@@ -15,7 +15,7 @@ Today's work was mostly polishing and sweet, sweet consistency. Nobody will noti
 - Added Scum's Corner Load Wheel.
 - Added Simple Loadwheels.
 - Removed Bad Mothafucka.
-- Added installation instructions for Supplemental Addon Crafting.
+- Added installation instructions for Supplemental Ammo Crafting.
 - Moved the Recommended Difficulty Notice to the top of Gameplay page.
 - Updated the FOMOD instructions for FPGE to actually be helpful.
 - Fixed RTC's FOMOD.
