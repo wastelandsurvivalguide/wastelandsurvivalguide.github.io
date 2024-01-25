@@ -1,3 +1,6 @@
+﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
+
 # Content
 
 ---
@@ -35,12 +38,19 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 #### Installation:
 
 - Main File - Functional Post Game Ending
-- Single Patches:
-  - [ ] AWOP Patch
-  - [ ] Outside Bets Patch
-  - [x] Tale of Two Wastelands Patch
-  - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
-  - [ ] YUP Patch
+  - Single Patches:
+    - [ ] AWOP Patch
+    - [ ] Outside Bets Patch
+    - [x] Tale of Two Wastelands Patch
+    - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
+    - [ ] YUP Patch
+  - Font Options:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland plus NPCs<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Outside Bets)<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Viva New Vegas)<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None<br/>
+  - Miscellaneous Patches:
+    - [x] A Very Uncreative Collection of Mod Patches
 
 ### [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)
 
