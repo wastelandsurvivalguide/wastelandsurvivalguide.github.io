@@ -1,5 +1,30 @@
 # Changelog - Renovation
 
+### 24/01/24
+
+Today's work was mostly polishing and sweet, sweet consistency. Nobody will notice any of the change except me, and there isn't really much noticeable changes in content, but feel free to read ahead if you're interested.
+
+- Fixed a lot of english because I (very) am *very* illiterate.
+- Added instructions for creating separators, not sure why this was ever removed.
+- Added ySI Aid Addon Patch.
+- Deleted instructions for Clean Vanilla HUD that do not actually exist.
+- Added the correct FOMOD interactive buttons for most FOMODs.
+- Fixed the Simple Maps instructions bleeding into High Res Local Maps.
+- Moved High Res Screens from **Visuals** to **User Interface and HUD**.
+- Removed Vault Door Loading Wheel.
+- Added Scum's Corner Load Wheel.
+- Added Simple Loadwheels.
+- Removed Bad Mothafucka.
+- Added installation instructions for Supplemental Addon Crafting.
+- Moved the Recommended Difficulty Notice to the top of Gameplay page.
+- Updated the FOMOD instructions for FPGE to actually be helpful.
+- Fixed RTC's FOMOD.
+- Separated the Someguy Series installations for simplicity.
+- Added the Home and Safehouse Tweaks INI File.
+- Added FOMOD instructions to Home and Safehouse Tweaks.
+- Edited Combatibility Skeletons description.
+- Changed some mod posititoning in the **Visuals** page.
+
 ### 20/01/24
 
 - Added notice about our Discord server.
