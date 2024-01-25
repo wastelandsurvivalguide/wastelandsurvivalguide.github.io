@@ -47,21 +47,17 @@ Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dar
 
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
+Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
+
 #### Installation:
 
 - Main File - PipBoyOn Node Fixes TTW
-
-Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
 
 ### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
 Fix for massive shaking during aiming caused by floating point precision loss.
 
 ## Visual Improvements
-
-### [CPI - Mod Patches](https://www.nexusmods.com/newvegas/mods/65046)
-
-Gives the "Consistent Pip-Boy Icons" treatment to modded content such as Cyberware. In the installer just click **Install**.
 
 ### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
@@ -85,7 +81,11 @@ Texture replacers for the underground metro maps, making them actually useful fo
 
 ### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
-Upscaled grass texture, improving visual quality with negligible performance impact. Get the **2K** version!
+Upscaled grass texture, improving visual quality with negligible performance impact.
+
+#### Installation:
+
+- Main File - Simply Upscaled Grass - Vanilla Style - 2k
 
 ## Weapon Animations
 
