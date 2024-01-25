@@ -103,11 +103,11 @@ Gives weapons realistic inertia movement.
 
 ### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
 
+Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia. **ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.**
+
 #### Installation:
 
 - Optional File - NVCS Vanilla Weights
-
-Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia. Read the description if you plan on adding any other mods which edit the skeleton.
 
 ## Lighting & Weather
 
