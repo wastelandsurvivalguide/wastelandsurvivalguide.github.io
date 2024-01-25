@@ -142,3 +142,8 @@ A series of Fallout 3 quests from various authors which add many new locations t
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
 Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI if desired.
+
+#### Installation:
+
+- Main File - Home and Safehouse Tweaks
+- Main File - Home and Safehouse Tweaks INI File
