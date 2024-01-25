@@ -25,10 +25,11 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
   - [ ] Big Town Extenstion Patch
   - [ ] Another Interior Patch
   - [x] Desert Natural Weathers Patch (If you plan on using [Desert Natural Weathers - NV - TTW](https://www.nexusmods.com/newvegas/mods/75437) later in this guide.)
-  - [x] Root n Loot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
+  - [ ] Root n Loot Patch
   - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
   - [ ] skinned mesh improvement mod
-- Optional File - Rebuild the Capital Hotfix 2.51
+- Update File - Rebuild the Capital Hotfix 2.51
+- Optional File - Updated RootnLoot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
 - Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005)
 
 ### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
