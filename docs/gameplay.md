@@ -250,6 +250,11 @@ The mods ahead may change the game dramatically, requiring compensation in gamep
 
 Sweet's take on a lighter alternative to BLEED's damage overhaul.
 
+#### Installation:
+
+- Main File - New Blood
+- Main File - [New Blood Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+
 ### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
 Improved damage multipliers for the game's difficulty settings.
