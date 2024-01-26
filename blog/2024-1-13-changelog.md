@@ -1,5 +1,12 @@
 # Changelog - Renovation
 
+### 26/01/24
+
+- Removed Sweet Pain NV - FPGE Patch as it was redundant.
+- Added TTW No Free Level Up.
+- Minor description updates.
+- Updated loadorder.
+
 ### 24/01/24
 
 Today's work was mostly polishing and sweet, sweet consistency. Nobody will notice any of the change except me, and there isn't really much noticeable changes in content, but feel free to read ahead if you're interested.
