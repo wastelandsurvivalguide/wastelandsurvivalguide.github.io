@@ -96,6 +96,7 @@ RtC-TrailofCrumbs.esp
 RtC-SweetPain.esp
 FPGE - Sweet Pain Patch.esp
 DelayDLCReduxPOPP.esp
+TTW No Free Levelup Quick Start.esp
 SP TTW Patch.esp
 MoreMojave - FPGE Patch.esp
 New Blood.esp
