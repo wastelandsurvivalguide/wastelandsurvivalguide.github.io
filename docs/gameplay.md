@@ -127,10 +127,6 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 
 Higher resolution UI elements for Just Assorted Mods.
 
-### [Bullet Time Improved - a JAM addon](https://www.nexusmods.com/newvegas/mods/78324)
-
-An addon for Just Assorted Mods that adds some new features for Just Bullet Time.
-
 ### [Just Sprint Plus - Expansion for JAM](https://www.nexusmods.com/newvegas/mods/83797)
 
 Addon package for JAM/JVS that includes new features, animations, gameplay options, and 360 movement support.
