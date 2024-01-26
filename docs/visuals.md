@@ -25,7 +25,7 @@ Significantly improves performance on the New Vegas strip by removing unseen wat
 
 Fix for depth of field bleeding over onto player's viewmodel.
 
-### [Exterior Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443)
+### [External Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443)
 
 Fixes a bug that would cause certain particles to appear black.
 
