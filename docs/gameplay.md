@@ -87,6 +87,16 @@ This mod provides you with a greater choice regarding what items to receive at t
 
 This is a small mod that provides you stat based starting gear at the beginning of your TTW playthrough.
 
+### [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173)
+
+This tiny mod removes the free XP resulting in enough for a levelup when leaving the vault in Fallout 3.
+
+#### Installation:
+
+- Main File - TTW No Free Levelup
+  - Double-click the mod in the left pane & use the Optional ESPs menu to hide `TTW No Free Levelup.esp`.
+    - Select the file from _Available ESPs_, then click the ⬅️ button to move it into _Optional ESPs_.
+
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
 
 Resets the player's level and skills, as well as removes gear upon travelling from the CW to the Mojave for the first time.
