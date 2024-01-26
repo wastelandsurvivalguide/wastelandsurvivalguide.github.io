@@ -125,7 +125,7 @@ Work for Bobby Bass as a contract killer in this fully-voiced quest mod!
 
 ### TTW Quest Conversions
 
-A series of Fallout 3 quests from various authors which add many new locations to the game, converted for TTW by RoyBatty.
+A couple of Fallout 3 quest mods from various authors which add many new locations to the game, converted for TTW by RoyBatty.
 
 - [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
 - [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
