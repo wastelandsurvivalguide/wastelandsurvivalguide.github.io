@@ -75,8 +75,7 @@ Overhauls things in AWOP Revised to be more appropriate for early and mid level 
 
 - Main File - [AWOP Revised](https://www.nexusmods.com/newvegas/mods/71139)
 - Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
-- Main File - [TTW Patch](https://www.nexusmods.com/newvegas/mods/81523)
-- Main File - [Sweet Pain NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - TTW Patch
 
 ### [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809)
 
