@@ -6,6 +6,7 @@
 - Added TTW No Free Level Up.
 - Minor description updates.
 - Updated loadorder.
+- Added New Blood Custom INI, as some of the weapon sway tweaks interfered with Dynamic Weapon Spread.
 
 ### 24/01/24
 
