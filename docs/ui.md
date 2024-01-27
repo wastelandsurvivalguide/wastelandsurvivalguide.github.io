@@ -278,7 +278,7 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 - Optional File - Extras - Hi-Res Icons
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
-- Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121589&nmm=1)
 
 :::caution
 
