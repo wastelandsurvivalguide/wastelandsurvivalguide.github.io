@@ -30,7 +30,7 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
   - [ ] skinned mesh improvement mod
 - Update File - Rebuild the Capital Hotfix 2.51
 - Optional File - Updated RootnLoot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
-- Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122215&nmm=1)
 
 ### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
 
@@ -65,7 +65,7 @@ Overhauls things in A World Of Pain for Fallout 3 to be more appropriate for ear
 
 - Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
-- Main File - [Sweet Pain - RTC Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Sweet Pain - RTC Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122214&nmm=1)
 
 ### Sweet Pain NV
 
@@ -84,8 +84,8 @@ Adds more locations to game at the more sparse areas of worldspace. Integrates f
 #### Installation:
 
 - Main File - MoreMojave
-- Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005)
-- Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122122&nmm=1)
+- Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000122211&nmm=1&game_id=130)
 
 ### [Uncut Wasteland & Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
 
@@ -137,7 +137,7 @@ A couple of Fallout 3 quest mods from various authors which add many new locatio
 #### Installation:
 
 - Main File - GUWR Unbalanced
-- Main File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121577&nmm=1)
 
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
