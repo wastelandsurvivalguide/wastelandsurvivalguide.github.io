@@ -77,6 +77,7 @@ TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
 JIP Companions Command & Control.esp
 JustAssortedMods.esp
+JBTImproved.esp
 Just Sprint Plus - JAM.esp
 ImmersiveRecoil.esp
 DynamicWeaponSpread.esp
