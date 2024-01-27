@@ -7,6 +7,8 @@
 - Minor description updates.
 - Updated loadorder.
 - Added New Blood Custom INI, as some of the weapon sway tweaks interfered with Dynamic Weapon Spread.
+- Minor FOMOD instruction fixes.
+- Added Direct Download links to mods that link to [Wasteland Supplements](https://www.nexusmods.com/newvegas/mods/79005).
 
 ### 24/01/24
 
