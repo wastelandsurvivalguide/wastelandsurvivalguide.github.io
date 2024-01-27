@@ -7,7 +7,6 @@
 - Minor description updates.
 - Updated loadorder.
 - Added New Blood Custom INI, as some of the weapon sway tweaks interfered with Dynamic Weapon Spread.
-- Removed JBT - Improved, as it reintroduces an old bug from Just Assorted Mods.
 
 ### 24/01/24
 
