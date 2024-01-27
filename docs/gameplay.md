@@ -123,6 +123,8 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 - Main File - Just Assorted Mods
 - Main File - [JAM Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
 
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
+
 ### [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
 
 Higher resolution UI elements for Just Assorted Mods.
