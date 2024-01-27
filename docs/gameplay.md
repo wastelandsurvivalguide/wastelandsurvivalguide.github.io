@@ -104,7 +104,7 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 #### Installation:
 
 - Main File - Benny Humbles You and Steals Your Stuff
-- Main File - [BHYSYS Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [BHYSYS Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121839&nmm=1)
 
 ### [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
 
@@ -121,7 +121,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 #### Installation:
 
 - Main File - Just Assorted Mods
-- Main File - [JAM Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [JAM Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122587&nmm=1)
 
 **IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
 
@@ -140,8 +140,8 @@ Addon package for JAM/JVS that includes new features, animations, gameplay optio
 #### Installation:
 
  - Install For:<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> JAM - Just Assorted Mods<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> JVS - Just Vanilla Sprint<br/>
+   <RadioButtonCheckedIcon fontSize="small" /> JAM - Just Assorted Mods<br/>
+   <RadioButtonUncheckedIcon fontSize="small" /> JVS - Just Vanilla Sprint<br/>
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
@@ -204,7 +204,7 @@ Collection of small miscellaneous tweaks for TTW.
 #### Installation:
 
 - Main File - Tweaks for TTW
-- Main File - [Tweaks for TTW Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [Tweaks for TTW Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121591&nmm=1)
 
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
 
@@ -265,7 +265,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul.
 #### Installation:
 
 - Main File - New Blood
-- Main File - [New Blood Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+- Main File - [New Blood Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122513&nmm=1)
 
 ### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
@@ -279,6 +279,7 @@ Featuring 16 new healing items and new Survival healing options, this mod is a n
 
 - Main File - Aid Addon
 - Optional File - [ySI - Sorting Icons - S6S Aid Addon patch](https://www.nexusmods.com/newvegas/mods/74358)
+
 ### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
 
 Top to bottom overhaul of consumable and misc items. Goes well with the previous two mods.
