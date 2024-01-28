@@ -46,7 +46,6 @@ Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
 SomeguySeries.esm
 NewVegasBounties.esm
-Badmothafucka.esm
 NewVegasKiller.esm
 A Trail of Crumbs.esm
 Regulators.esm
@@ -85,7 +84,6 @@ TTWZetaRewards.esp
 TTWTransportalponderEx.esp
 Supplemental Ammo Crafting.esp
 NewVegasBountiesTTW.esp
-BMF_TTW.esp
 NewVegasKiller - TTW.esp
 Benny Humbles You and Steals Your Stuff.esp
 GRA Scavenger Hunt Unbalanced.esp
@@ -94,7 +92,6 @@ Rebuild the Capital - No Pony Express Boxes.esp
 RtC-RootnLoot.esp
 RtC-TrailofCrumbs.esp
 RtC-SweetPain.esp
-FPGE - Sweet Pain Patch.esp
 DelayDLCReduxPOPP.esp
 TTW No Free Levelup Quick Start.esp
 SP TTW Patch.esp
