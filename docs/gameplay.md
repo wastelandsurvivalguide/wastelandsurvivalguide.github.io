@@ -214,6 +214,10 @@ Adds crafting and breakdown recipes for pretty much all of the ballistic ammo ty
 
 - Main File - Supplemental Ammo Crafting TTW
 
+### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
+
+This mod changes the way armor damage is calculated, from the reduced damage value after applying DT/DR, to the base damage value. It doesn't make much sense that there are two different ways armor 'toughness' is calculated, and this mod fixes that, among other tweaks.
+
 ### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
 
 Engine plugin significantly improving the usability of the Caravan minigame.
