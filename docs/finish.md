@@ -103,6 +103,7 @@ Sweet Consumables.esp
 RtC-SweetsConsumables.esp
 Aid Addon.esp
 WeaponRequirementSystem.esp
+MigArmorDegen.esp
 B42Inertia.esp
 Atmospheric Lighting Tweaks TTW.esp
 DNWeathers.esp
