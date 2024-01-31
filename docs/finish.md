@@ -84,6 +84,7 @@ TTWZetaRewards.esp
 TTWTransportalponderEx.esp
 Supplemental Ammo Crafting.esp
 NewVegasBountiesTTW.esp
+Sweet Bounties.esp
 NewVegasKiller - TTW.esp
 Benny Humbles You and Steals Your Stuff.esp
 GRA Scavenger Hunt Unbalanced.esp
