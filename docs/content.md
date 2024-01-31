@@ -113,6 +113,7 @@ Pursue high-risk/high-reward bounties in the first installment of the The Somegu
 
 - Main File - New Vegas Bounties I LE
 - Optional File - New Vegas Bounties I LE TTW
+- Main File - [SSB](https://www.nexusmods.com/newvegas/mods/79556)
 
 ### [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
 
