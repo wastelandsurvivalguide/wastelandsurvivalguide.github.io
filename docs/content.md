@@ -154,3 +154,14 @@ Adds crafting stations and additional containers to several vanilla player homes
     <RadioButtonUncheckedIcon fontSize="small" /> YUP Patch<br/>
     <RadioButtonCheckedIcon fontSize="small" /> TTW Addon<br/>
 - Main File - Home and Safehouse Tweaks INI File
+
+### [TTW (D.I.E.O.) Dialogue and Interactions Expansion Overhaul](https://www.nexusmods.com/newvegas/mods/78189)
+
+Overhauls player dialogue and interactions (and also adds new ones!) to the game, all in the most seamless way as possible.
+
+#### Installation:
+
+- Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
+- Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1) (If you downloaded [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
+- Main File - [DIEO - Rebuild the Capital Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122911&nmm=1) (If you downloaded [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030) earlier in this section.)
+- Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1) (If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in this section.)
