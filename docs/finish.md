@@ -105,6 +105,10 @@ Aid Addon.esp
 WeaponRequirementSystem.esp
 MigArmorDegen.esp
 B42Inertia.esp
+TTW Dialogue and Interactions Expansion Overhaul.esp
+DIEO - Tale of Bi Wastelands Patch.esp
+DIEO - AWOPFO3 Patch.esp
+DIEO - Rebuild the Capital Patch.esp
 Atmospheric Lighting Tweaks TTW.esp
 DNWeathers.esp
 RTC-DNWeathers.esp
