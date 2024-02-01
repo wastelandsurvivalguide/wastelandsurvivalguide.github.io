@@ -280,11 +280,9 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121589&nmm=1)
 
-:::caution
-
+:::note
 This mod will hide the **Mod Configuration Menu** button in the pause menu!
 You can access it with the **M** key.
-
 :::
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
