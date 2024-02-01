@@ -57,6 +57,10 @@ Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remov
 
 Fix for massive shaking during aiming caused by floating point precision loss.
 
+### [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
+
+Mod fixes totally wrong specular lighting, and lack of muzzle flash lights on viewmodel.
+
 ### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
 
 Fixes moonlight, making the moon the light caster instead of the sun.
