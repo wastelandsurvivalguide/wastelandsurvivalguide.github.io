@@ -4,10 +4,16 @@
         <title>Wasteland Survival Guide Blog</title>
         <link>https://wastelandsurvivalguide.com/blog</link>
         <description>Wasteland Survival Guide Blog</description>
-        <lastBuildDate>Sat, 13 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[changelog]]></title>
+            <link>https://wastelandsurvivalguide.com/blog/2024/2/1/changelog</link>
+            <guid>https://wastelandsurvivalguide.com/blog/2024/2/1/changelog</guid>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Changelog - Renovation]]></title>
             <link>https://wastelandsurvivalguide.com/blog/2024/1/13/changelog</link>
