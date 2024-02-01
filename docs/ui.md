@@ -297,3 +297,7 @@ A little UI widget to satisfy your need to see what you just looted.
 
 Removes message boxes that pop up during the tutorial, as well as those that occur once
 during a new game, and repeating corner-messages.
+
+:::note
+This mod removes **useful information** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, we would recommend **skipping this mod**, as the info it provides will not be learned through normal gameplay.
+:::
