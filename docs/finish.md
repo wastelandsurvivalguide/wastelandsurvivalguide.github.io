@@ -64,9 +64,6 @@ Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
 FOVSlider.esp
 Tutorial Killer.esp
-S6S Base Game Perks Redux.esp
-S6S Base Game Perks Redux TTW Side.esp
-S6S Base Perks Redux No Big Guns Patch TTW.esp
 S6S Perks.esp
 Casino Exchange All.esp
 DelayDLCRedux.esp
@@ -98,6 +95,9 @@ TTW No Free Levelup Quick Start.esp
 SP TTW Patch.esp
 MoreMojave - FPGE Patch.esp
 New Blood.esp
+S6S Base Game Perks Redux.esp
+S6S Base Game Perks Redux TTW Side.esp
+S6S Base Perks Redux No Big Guns Patch TTW.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
 RtC-SweetsConsumables.esp
