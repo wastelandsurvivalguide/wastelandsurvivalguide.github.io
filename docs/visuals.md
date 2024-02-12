@@ -21,6 +21,10 @@ Fixes dozens of game models across the base game and DLCs.
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
 
+### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
+
+NVSE plugin which fixes bugs and adds utilities for weather mods. 
+
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
 Fix for depth of field bleeding over onto player's viewmodel.
@@ -122,6 +126,32 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 - Optional File - NVCS Vanilla Weights
 
 ## Lighting & Weather
+
+### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612)
+
+NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems. 
+
+### [Inteior Rain]
+
+Interior rain sounds powered by Climate Control NVSE.
+
+#### Installation:
+
+- Main File - Interior Rain
+- Optional File - Interior Rain - TTW
+
+### [3D Rain](https://www.nexusmods.com/newvegas/mods/79652)
+
+Replace the ugly 2D rain found in Zion Canyon (as well as most weather mods) with a new 3D version. Rain no longer looks weird when you look up or down.
+
+### [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661)
+
+Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.
+
+#### Installation:
+
+- Main File - Climate Control - Rain
+- Optional File - Climate Control - 3D Rain
 
 ### [Atmospheric Lighting Tweaks](https://www.nexusmods.com/newvegas/mods/79378)
 
