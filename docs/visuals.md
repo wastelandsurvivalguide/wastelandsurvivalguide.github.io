@@ -131,7 +131,7 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 
 NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems. 
 
-### [Inteior Rain]
+### [Inteior Rain](https://www.nexusmods.com/newvegas/mods/79656)
 
 Interior rain sounds powered by Climate Control NVSE.
 
