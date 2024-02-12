@@ -1,5 +1,9 @@
 # Changelog - Refractions of Dawn
 
+### 11/02/2024
+
+- Updated loadorder.
+
 ### 01/02/2024
 
 - Added Sweet Style Bounties.
