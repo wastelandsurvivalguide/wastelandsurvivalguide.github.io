@@ -2,6 +2,11 @@
 
 ### 11/02/2024
 
+- Added Climate Control NVSE.
+- Added Cloud Upgrade NVSE.
+- Added Interior Rain.
+- Added 3D Rain.
+- Added Climate Control - Rain.
 - Updated loadorder.
 
 ### 01/02/2024
