@@ -125,12 +125,6 @@ Needed for the following mods.
 ### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
 
 High-quality icons.
-
-#### Installation:
-
-- Main File - 1. Consistent Pip-boy Icons
-- Main File - 2. Consistent Addon Icons
-  - Use the default settings.
  
 ### More high quality menus.
 
@@ -174,6 +168,11 @@ This update features a hand drawn recreation of every single apparel icon in two
 ### [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
 
 This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
+
+### [Consistent Pip-Boy Icons v5 - Addendumb](https://www.nexusmods.com/newvegas/mods/85024)
+
+This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
+*(No, this is not a mistake. They have the exact same description. DP farming to the max.)*
 
 ### [Consistent Pip-Boy Icons v5 - DLC's Items](https://www.nexusmods.com/newvegas/mods/83629)
 
