@@ -45,7 +45,7 @@ Adds a fully functional post-game world to the game, no longer will you be broug
     - [x] Tale of Two Wastelands Patch
     - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
     - [ ] YUP Patch
-  - Font Options:<br/>
+  - Uncut Wasteland Patches:<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland plus NPCs<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Outside Bets)<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Viva New Vegas)<br/>
