@@ -269,7 +269,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul.
 #### Installation:
 
 - Main File - New Blood
-- Main File - [New Blood Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122513&nmm=1)
+- Main File - [New Blood Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000123872&nmm=1)
 
 ### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
