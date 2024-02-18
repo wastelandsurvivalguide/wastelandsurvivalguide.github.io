@@ -270,7 +270,7 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- First install [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012); this is a prerequisite for MAPMO.
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause menu to configure MAPMO's settings
@@ -278,11 +278,6 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121589&nmm=1)
-
-:::note
-This mod will hide the **Mod Configuration Menu** button in the pause menu!
-You can access it with the **M** key.
-:::
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
