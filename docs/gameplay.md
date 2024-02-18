@@ -268,7 +268,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul.
 
 #### Installation:
 
-- [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012): If you didn't install MAPMO (and therefore missed this mod), install it now.
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (If not already installed previously.)
 - Main File - New Blood
 - Main File - [New Blood Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000123872&nmm=1)
 
