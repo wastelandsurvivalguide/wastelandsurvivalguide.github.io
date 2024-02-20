@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Gameplay**.
 
 :::note
-The **recommended** difficulty with these mods enabled is *Very Hard* with *Hardcore Mode* **on**. Sweet's page will tell you to use *Normal*, but with Better Damage Multipliers, I feel *Very Hard* is a justified difficulty. - Very
+The **recommended** difficulty with these mods enabled is **Very Hard** with **Hardcore Mode** **on**. Sweet's page will tell you to use **Normal**, but with Better Damage Multipliers, I feel **Very Hard** is a justified difficulty. - Very
 :::
 
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
