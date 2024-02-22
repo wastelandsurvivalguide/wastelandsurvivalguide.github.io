@@ -225,7 +225,8 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Unique DLC Starter Marker
     - [ ] None for me, thanks!
 
-That's a wrap.</p></details>
+That's a wrap.</p>
+</details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
