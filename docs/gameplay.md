@@ -122,6 +122,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 
 - Main File - Just Assorted Mods
 - Main File - [JAM Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122587&nmm=1)
+- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) (If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section.)
 
 **IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
 
