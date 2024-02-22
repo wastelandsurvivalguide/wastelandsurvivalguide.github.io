@@ -28,7 +28,7 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
   - [ ] Root n Loot Patch
   - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
   - [ ] skinned mesh improvement mod
-- Update File - Rebuild the Capital Hotfix 2.51
+- Update File - Rebuild the Capital Hotpatch
 - Optional File - Updated RootnLoot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
 - Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122215&nmm=1)
 
