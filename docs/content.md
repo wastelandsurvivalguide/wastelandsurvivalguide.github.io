@@ -32,6 +32,10 @@ Rebuild the Capital is focused on expanding the Brotherhood of Steel and their r
 - Optional File - Updated RootnLoot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
 - Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122215&nmm=1)
 
+:::note
+This mod is hard to keep compatible with many popular mods. It is internally patched for everything in the guide, but anything you add may not be compatible out of the box.
+:::
+
 ### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
 
 Adds a fully functional post-game world to the game, no longer will you be brought to the credits and end your journey there.
@@ -165,3 +169,7 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 - Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1) (If you downloaded [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
 - Main File - [DIEO - Rebuild the Capital Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122911&nmm=1) (If you downloaded [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030) earlier in this section.)
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1) (If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in this section.)
+
+:::note
+This mod edits dialogue options. Do not ask about it in support channels, dialogue changes are intentional.
+:::
