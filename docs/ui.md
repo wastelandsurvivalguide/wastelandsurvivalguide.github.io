@@ -91,6 +91,8 @@ management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-yn
 
 - Main File - ySI - Sorting Icons
 - Main File - [Colorful Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674)
+- Main File - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
+- Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
