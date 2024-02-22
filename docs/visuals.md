@@ -75,7 +75,7 @@ Fixes exterior lighting bugs & allows up to 4x the number of active lights.
 
 ## Visual Improvements
 
-### [Dynamic Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
+### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
 Attaches Pip-Boy light to the Pip-Boy so it moves with the player's arm.
 
