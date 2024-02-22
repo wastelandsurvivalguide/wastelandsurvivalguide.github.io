@@ -93,6 +93,13 @@ management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-yn
 - Main File - [Colorful Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674)
 - Main File - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
 - Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
+ - After installing the Main File, double-click the mod and go to **INI Editor**. Select all of the existing content and replace it with this:
+
+```ini title="ySIPickUpPrompts.ini" showLineNumbers
+[General]
+bColorfulIconFix=1
+; Colorful ySI - Sorting Icons will no longer be tinted in the pick up prompt.
+```
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
