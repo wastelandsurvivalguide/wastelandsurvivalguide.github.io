@@ -118,6 +118,18 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 
 Sharper, clearer screens for terminals, Pip-Boy, etc.
 
+### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
+
+This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
+
+### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
+
+This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
+
+#### Installation:
+
+- Main File - Clean Companion Wheel 256x256 Edition
+
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
 Needed for the following mods.
@@ -130,15 +142,7 @@ High-quality icons.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>DP farming is annoying. Please stop. -very
-
-### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
-
-This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
-
-#### Installation:
-
-- Main File - Clean Companion Wheel 256x256 Edition
+<p>Placed here to keep LOC's mods from bloating the page. In our opinion, base **Consistent Pip-Boy Icons** is fine. If you want more high quality UI aspects, continue on.
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
@@ -221,10 +225,7 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Unique DLC Starter Marker
     - [ ] None for me, thanks!
 
-### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
-
-This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.</p>
-</details>
+That's a wrap.</p></details>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
