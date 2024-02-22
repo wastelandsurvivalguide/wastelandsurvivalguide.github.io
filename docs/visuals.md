@@ -13,6 +13,10 @@ We felt texture mods are out of the scope of this guide, but feel free to check 
 
 ## Visual Fixes & Optimizations
 
+### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
+
+Optimizations and fixes for a large selection of meshes in the base game and DLC. 
+
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
 Fixes dozens of game models across the base game and DLCs.
