@@ -60,6 +60,7 @@ MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
 Rebuild the Capital.esm
+RtC-Hotpatch.esm
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
 FOVSlider.esp
