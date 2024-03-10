@@ -59,12 +59,10 @@ Sweet Pain NV.esm
 MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
-Rebuild the Capital.esm
-RtC-Hotpatch.esm
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
 FOVSlider.esp
-Tutorial Killer.esp
+CharismaAffectsReputation.esp
 S6S Perks.esp
 Casino Exchange All.esp
 DelayDLCRedux.esp
@@ -72,6 +70,7 @@ Root 'n Loot.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
+TTW No Free Levelup.esp
 JIP Companions Command & Control.esp
 JustAssortedMods.esp
 JBTImproved.esp
@@ -87,12 +86,7 @@ NewVegasKiller - TTW.esp
 Benny Humbles You and Steals Your Stuff.esp
 GRA Scavenger Hunt Unbalanced.esp
 GUWR - TTW Patch.esp
-Rebuild the Capital - No Pony Express Boxes.esp
-RtC-RootnLoot.esp
-RtC-TrailofCrumbs.esp
-RtC-SweetPain.esp
 DelayDLCReduxPOPP.esp
-TTW No Free Levelup Quick Start.esp
 SP TTW Patch.esp
 MoreMojave - FPGE Patch.esp
 New Blood.esp
@@ -101,19 +95,17 @@ S6S Base Game Perks Redux TTW Side.esp
 S6S Base Perks Redux No Big Guns Patch TTW.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
-RtC-SweetsConsumables.esp
 Aid Addon.esp
 WeaponRequirementSystem.esp
 MigArmorDegen.esp
 B42Inertia.esp
+1st Person Sliding Fix.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
-DIEO - Rebuild the Capital Patch.esp
 NVMIM.esp
 Atmospheric Lighting Tweaks TTW.esp
 DNWeathers.esp
-RTC-DNWeathers.esp
 Interior Rain.esp
 Interior Rain - TTW.esp
 CC - Rain.esp
