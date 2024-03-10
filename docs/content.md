@@ -12,30 +12,6 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Major World Changes
 
-### [Rebuild the Capital - A Brotherhood of Steel Expansion Mod](https://www.nexusmods.com/newvegas/mods/68030)
-
-Rebuild the Capital is focused on expanding the Brotherhood of Steel and their role in the wasteland following the events of Broken Steel.
-
-#### Installation:
-
-- Main File - Rebuild The Capital 2.50
-- Optional Files:
-  - [x] No Pony Express Boxes
-  - [ ] Book of Steel Patch
-  - [ ] Big Town Extenstion Patch
-  - [ ] Another Interior Patch
-  - [x] Desert Natural Weathers Patch (If you plan on using [Desert Natural Weathers - NV - TTW](https://www.nexusmods.com/newvegas/mods/75437) later in this guide.)
-  - [ ] Root n Loot Patch
-  - [x] Trail of Crumbs Patch (If you plan on using [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267) later in this section.)
-  - [ ] skinned mesh improvement mod
-- Update File - Rebuild the Capital Hotpatch
-- Optional File - Updated RootnLoot Patch (If you downloaded [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
-- Main File - [Rebuild The Capital - Sweet's Consumables Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122215&nmm=1)
-
-:::note
-This mod is hard to keep compatible with many popular mods. It is internally patched for everything in the guide, but anything you add may not be compatible out of the box.
-:::
-
 ### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
 
 Adds a fully functional post-game world to the game, no longer will you be brought to the credits and end your journey there.
@@ -69,7 +45,6 @@ Overhauls things in A World Of Pain for Fallout 3 to be more appropriate for ear
 
 - Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
-- Main File - [Sweet Pain - RTC Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122214&nmm=1)
 
 ### Sweet Pain NV
 
@@ -91,7 +66,7 @@ Adds more locations to game at the more sparse areas of worldspace. Integrates f
 - Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122122&nmm=1)
 - Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000122211&nmm=1&game_id=130)
 
-### [Uncut Wasteland & Extra Collection](https://www.nexusmods.com/newvegas/mods/79005)
+### Uncut Wasteland & Extra Collection
 
 Restores a huge amount of scenery, NPCs, creatures and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
 
@@ -99,9 +74,9 @@ Restores a huge amount of scenery, NPCs, creatures and other details which were 
 
 Main Files:
 
-- Main File - Uncut Wasteland
-- Main File - Uncut Extra Collection
-- Main File - Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch
+- Main File - [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1)
+- Main File - [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1)
+- Main File - [Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000107025&nmm=1)
 
 ## New Quests
 
@@ -128,14 +103,15 @@ Work for Bobby Bass as a contract killer in this fully-voiced quest mod!
 - Main File - New Vegas Killer LE
 - Optional File - NewVegasKillerLETTW
 
-### TTW Quest Conversions
+### [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
 
-A couple of Fallout 3 quest mods from various authors which add many new locations to the game, converted for TTW by RoyBatty.
+Adds a quest that takes you across 10 different locations across the Capital Wasteland in search of treasure with a nice reward at the end.
 
-- [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
-- [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
+### [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
 
-## Small Changes
+This mods allows you to take on various missions from the Regulators HQ to hunt fugitives.
+
+## Other Changes
 
 ### [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)
 
@@ -144,7 +120,7 @@ A couple of Fallout 3 quest mods from various authors which add many new locatio
 - Main File - GUWR Unbalanced
 - Main File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121577&nmm=1)
 
-### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
+### [Home and Safehouse Tweaks](https://mod.pub/falloutnv/44-home-and-safehouse-tweaks)
 
 Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI if desired.
 
@@ -167,7 +143,6 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 
 - Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
 - Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1) (If you downloaded [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
-- Main File - [DIEO - Rebuild the Capital Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122911&nmm=1) (If you downloaded [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030) earlier in this section.)
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1) (If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in this section.)
 
 :::note
