@@ -107,8 +107,7 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 - Main File - Clean Vanilla Hud
   - Main Mod:
     - [x] Main Files
-    - [x] Clean Fonts
-    - [x] Clean Radiation Bar
+    - [x] VUI+ Enhancements
     - [x] Clean Shared Interface
   - Clean Roulette Loading Wheel:<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
@@ -118,7 +117,14 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
     - [x] Vanilla UI+ Patch
     - [x] I am not a Height Indicator User
     - [ ] Alternative Just Hit Indicator
-    - [ ] Clean Fonts for DarnUI
+
+### [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136)
+
+A faithful HD remake of the vanilla Monofonto and Futura fonts.
+
+#### Installation:
+
+- Main File - Vanilla Fonts Revisited
 
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
 
