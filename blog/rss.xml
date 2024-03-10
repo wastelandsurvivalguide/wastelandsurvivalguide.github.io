@@ -4,10 +4,18 @@
         <title>Wasteland Survival Guide Blog</title>
         <link>https://wastelandsurvivalguide.com/blog</link>
         <description>Wasteland Survival Guide Blog</description>
-        <lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Changelog - Visions and Afterthoughts]]></title>
+            <link>https://wastelandsurvivalguide.com/blog/2024/3/10/changelog</link>
+            <guid>https://wastelandsurvivalguide.com/blog/2024/3/10/changelog</guid>
+            <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[10/03/2024]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="10032024">10/03/2024<a href="#10032024" class="hash-link" aria-label="Direct link to 10/03/2024" title="Direct link to 10/03/2024">​</a></h3><ul><li>Added Vanilla Fonts Revisited</li><li>Replaced Tutorial Killer with ESPless version on ModPub</li><li>Added Charisma Affects Reputation and its TTW Reputations patch</li><li>Added Charisma Tweaks</li><li>Replaced Faster Pip-Boy Animation with Instant and Faster Pipboy (No Stutter)</li><li>Removed Rebuild The Capital</li><li>Removed RTC patches</li><li>Changed the Home &amp; Safehouse Tweaks link to ModPub</li><li>Added 3rd Person Animation Fixpack</li><li>Added 1st Person Sliding Fix</li><li>Improved the descriptions and install instructions of many mods, fixed typos, etc.</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Changelog - Refractions of Dawn]]></title>
             <link>https://wastelandsurvivalguide.com/blog/2024/2/1/changelog</link>
