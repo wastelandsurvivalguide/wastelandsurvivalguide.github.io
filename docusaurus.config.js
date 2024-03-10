@@ -117,6 +117,10 @@ const config = {
         style: "dark",
         links: [
           {
+            label: "The Wasteland Supplemental",
+            href: "https://discord.gg/JcbZGDeMmC",
+          },
+          {
             label: "ModdingLinked",
             href: "https://moddinglinked.com",
           },
