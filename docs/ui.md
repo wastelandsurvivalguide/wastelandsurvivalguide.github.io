@@ -21,7 +21,11 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 
 ### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
 
-Adds an MCM menu with options for adjust World Field of View, Player Field of View, Pipboy Field of View and Terminal Screen Field of View.
+Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View and Terminal Screen Field of View.
+
+:::note
+This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution. I've never had issues with it personally. - Audixas
+:::
  
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
@@ -29,7 +33,7 @@ Modernized vanilla-style UI with many enhancements and bugfixes.
 
 #### Installation:
 
-  - Readne:
+  - Readme:
     - [x] Quick Readme
   - Font Options:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Default Font Tweaks<br/>
@@ -85,7 +89,7 @@ bEnableCategories = 1
 
 Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
 management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
-(it should be if following the guide). Pick up the colorful icons too, looks really good in-game. Recommended with white HUD.
+(it should be if following the guide). The colorful icons are recommended, they look really good in-game.
 
 #### Installation:
 
@@ -139,12 +143,16 @@ Needed for the following mods.
 ### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
 
 High-quality icons.
+
+#### Installation:
+
+- Main File - 1. Consistent Pip-boy Icons
  
 ### More high quality menus.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>Placed here to keep LOC's mods from bloating the page. In our opinion, base **Consistent Pip-Boy Icons** is fine. If you want more high quality UI aspects, continue on.
+<p>Placed here to keep LOC's mods from bloating the page. In our opinion, base Consistent Pip-Boy Icons is fine. If you want more high quality UI aspects, continue on.
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
@@ -232,7 +240,7 @@ That's a wrap.</p>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
-A completely reworked re-imagining of the TTW main menu image.
+A complete rework of the TTW main menu image in higher resolution with better detail.
 
 #### Installation:
 
@@ -274,7 +282,7 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (moving it to the Utilities separator is recommended for the sake of organization)
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause menu to configure MAPMO's settings
@@ -285,16 +293,15 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
-Notifications!
+Changes the corner notifications to work like in Skyrim - multiple are shown at a time and fading out as new ones appear for better readability.
 
 ### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
 
-A little UI widget to satisfy your need to see what you just looted.
+Adds a little UI widget that displays what you just looted.
 
-### [Tutorial Killer](https://www.nexusmods.com/newvegas/mods/47746)
+### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer)
 
-Removes message boxes that pop up during the tutorial, as well as those that occur once
-during a new game, and repeating corner-messages.
+Removes message boxes that pop up during the tutorial, as well as those that occur once during a new game, and repeating corner-messages.
 
 :::note
 This mod removes **useful information** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, we would recommend **skipping this mod**, as the info it provides will not be learned through normal gameplay.
