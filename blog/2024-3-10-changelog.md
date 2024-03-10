@@ -13,3 +13,4 @@
 - Added 3rd Person Animation Fixpack
 - Added 1st Person Sliding Fix
 - Improved the descriptions and install instructions of many mods, fixed typos, etc.
+- Updated load order
