@@ -40,6 +40,22 @@ Two tiny patches to ensure proper functionality between pintocat's Tale of Bi Wa
 - Main File - Tale of Bi Wastelands - TTW New Vegas Speech Checks
 - Main File - Tale of Bi Wastelands - TTW Reputations patch
 
+### [Charisma Affects Reputation](https://www.nexusmods.com/newvegas/mods/84787)
+
+Makes Charisma a much more useful stat by making it affect how much reputation you earn with factions for various actions. High enough Charisma can save you from becoming vilified while low Charisma makes it impossible to become idolized.
+
+#### Installation:
+
+- Main File - Charisma Affects Reputation
+
+### [TTW Charisma Affects Reputation - Reputations Patch](https://www.nexusmods.com/newvegas/mods/85154)
+
+Allows your Charisma to scale your reputation with TTW Reputations.
+
+### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
+
+This mod makes it so barter and speech checks take into account both your Charisma and the Intelligence of the person you're speaking to, making them harder or easier depending on the stats.
+
 ### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
 
 This is a rebalance and overhaul of many base game perks, with many granting bonuses based on active SPECIAL values.
@@ -51,7 +67,7 @@ This is a rebalance and overhaul of many base game perks, with many granting bon
 
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
-The Sweet 6 Shooter perk pack adds 99 perks and 22 traits in a vanilla friendly, immersive way.
+The Sweet 6 Shooter perk pack adds a ton of new perks and traits that aim to flesh out the perk selection throughout the game for just about every playstyle, with a heavy focus on proper balance and role-playing.
 
 #### Installation:
 
@@ -89,13 +105,11 @@ This is a small mod that provides you stat based starting gear at the beginning 
 
 ### [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173)
 
-This tiny mod removes the free XP resulting in enough for a levelup when leaving the vault in Fallout 3.
+This tiny mod removes the free XP, which would grant a levelup when leaving the vault in Fallout 3.
 
 #### Installation:
 
-- Main File - TTW No Free Levelup
-  - Double-click the mod in the left pane & use the Optional ESPs menu to hide `TTW No Free Levelup.esp`.
-    - Select the file from _Available ESPs_, then click the ⬅️ button to move it into _Optional ESPs_.
+- Main File - TTW No Free Levelup Quick Start
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
 
@@ -166,17 +180,18 @@ Main Files:
 
 This small scriptrunner standardizes all of the player's body part damage multipliers.
 
-### [JIP LN Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+### [JIP LN Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
 
-A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled.
-
-#### Installation:
-
-- Main File - JIP LN Custom INI
+A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
 Implements a working gameplay system so that the Strength and Skill requirements that weapons list finally do something for ALL of them.
+
+#### Installation:
+
+- Main File - Weapon Requirements System
+- Update File - Weapon Requirements System
 
 ### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
 
@@ -190,13 +205,9 @@ An overhaul to the weapon spread system that allows firearms to be far more accu
 
 Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread setting.
 
-### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005)
+### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122226&nmm=1)
 
 A custom INI file for Stewie's Tweaks that enables a lot more useful gameplay and QoL changes.
-
-#### Installation:
-
-- Main File - Stewie Tweaks Custom INI
 
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
@@ -234,15 +245,15 @@ Trade in all currency at once when at casinos.
     - [ ] Exchange Pre-War Money
 - Optional File - Voices for Casino Exchange All
 
-### [Faster Pip-Boy Animation](https://www.nexusmods.com/newvegas/mods/67761)
+### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294)
 
 Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 #### Installation:
 
-- Main File - Faster Pip-Boy Animation (2x)
+- Main File - Faster Pip-Boy
 
-### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005)
+### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
 Changes TTW's Hardcore mode to grant perk every level, instead of every two.
 
@@ -292,3 +303,7 @@ Top to bottom overhaul of consumable and misc items. Goes well with the previous
 #### Installation:
 
 - Main File - Sweet Consumables TTW
+
+:::note
+It's very highly recommended to use this mod with Hardcore mode on as that is what it was designed for.
+:::
