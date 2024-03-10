@@ -140,10 +140,6 @@ const config = {
             label: "GECK Wiki",
             href: "https://geckwiki.com",
           },
-          {
-            label: "Independent Fallout Wiki",
-            href: "https://fallout.wiki/wiki/Fallout_Wiki",
-          },
         ],
         logo: {
           alt: "Tale of Two Wastelands Logo",
