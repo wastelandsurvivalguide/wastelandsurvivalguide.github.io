@@ -25,9 +25,9 @@ Fixes dozens of game models across the base game and DLCs.
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
 
-### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
+#### Installation:
 
-NVSE plugin which fixes bugs and adds utilities for weather mods. 
+- Main File - Strip Performance Fix
 
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
@@ -95,7 +95,7 @@ Increases resolution of water depth render target, thus significantly reducing a
 
 Makes distant land textures less ugly.
 
-### [Metro Map Replacer](https://taleoftwowastelands.com/viewtopic.php?f=55&t=7779)
+### [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
 
 Texture replacers for the underground metro maps, making them actually useful for navigation.
 
@@ -107,7 +107,19 @@ Upscaled grass texture, improving visual quality with negligible performance imp
 
 - Main File - Simply Upscaled Grass - Vanilla Style - 2k
 
-## Weapon Animations
+## Animations
+
+### [3rd Person Animation Fixpack](https://www.nexusmods.com/newvegas/mods/85198)
+
+Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad blending, etc, of 3rd person animations.
+
+#### Installation:
+
+- Main File - 3rd Person Animation Fixpack
+
+### [1st Person Sliding Fix](https://www.nexusmods.com/newvegas/mods/85247)
+
+Fixes the gliding that occurs when stopping movement and turning the camera simultaneously in 1st person.
 
 ### [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417)
 
@@ -117,19 +129,35 @@ Removes the requirement to patch weapons manually for ISControl nodes of animati
 
 Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion, Iron Sights Recoil Animations, and Fire Animation Variants. Also includes some new previously unreleased animations.
 
+#### Installation:
+
+- Main File - Anniversary Anim Pack
+
 ### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
 
 Gives weapons realistic inertia movement.
 
 ### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
 
-Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia. **ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.**
+Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.
 
 #### Installation:
 
 - Optional File - NVCS Vanilla Weights
 
+:::warning
+ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.
+:::
+
 ## Lighting & Weather
+
+### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
+
+NVSE plugin which fixes bugs and adds utilities for weather mods.
+
+### [Longer Weather Transitions ESPless](https://www.nexusmods.com/newvegas/mods/85286)
+
+A small improvement that extends the weather transition time by a factor of 20, which fixes abrupt weather transitions when using varied weather types.
 
 ### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612)
 
@@ -147,6 +175,10 @@ Interior rain sounds powered by Climate Control NVSE.
 ### [3D Rain](https://www.nexusmods.com/newvegas/mods/79652)
 
 Replace the ugly 2D rain found in Zion Canyon (as well as most weather mods) with a new 3D version. Rain no longer looks weird when you look up or down.
+
+#### Installation:
+
+- Main File - 3D Rain
 
 ### [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661)
 
