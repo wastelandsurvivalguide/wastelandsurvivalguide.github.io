@@ -43,7 +43,7 @@ Fixes some alpha rendering issues like broken effects when using Transparency Mu
 
 ### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
 
-Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
+Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference. Skip if you already installed this in the Performance Guide.
 
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
 
