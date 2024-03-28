@@ -134,7 +134,7 @@ Sharper, clearer screens for terminals, Pip-Boy, etc.
 
 This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
 
-### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486?tab=files)
+### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
 
 This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
 
@@ -292,7 +292,6 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause menu to configure MAPMO's settings
-- Optional File - Extras - Hi-Res Icons
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121589&nmm=1)
