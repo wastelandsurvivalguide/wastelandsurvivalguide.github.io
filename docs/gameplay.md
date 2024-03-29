@@ -201,6 +201,11 @@ Adds working recoil to the wasteland.
 
 An overhaul to the weapon spread system that allows firearms to be far more accurate in certain conditions, and less accurate where appropriate.
 
+#### Installation:
+
+- Main File - Dynamic Weapon Spread
+- Optional File - JAM Patch - For the dynamic crosshair
+
 ### [Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974)
 
 Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread setting.
