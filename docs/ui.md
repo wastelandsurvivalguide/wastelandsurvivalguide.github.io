@@ -107,12 +107,16 @@ Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
 - Main File - Clean Vanilla Hud
   - Main Mod:
     - [x] Main Files
-    - [x] VUI+ Enhancements
+    - [x] Extras
     - [x] Clean Shared Interface
   - Clean Roulette Loading Wheel:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel HD<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> None above<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Loading Roulette Wheel UHD<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None above.<br/>
+  - Clean Main Menu Background:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Main Menu Replacer HD<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Main Menu Replacer UHD<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None above.<br/>
   - Patches:
     - [x] Vanilla UI+ Patch
     - [x] I am not a Height Indicator User
@@ -193,6 +197,17 @@ This mod adds unique icons to Apparel, Weapons and Items on things that previous
 
 This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
 *(No, this is not a mistake. They have the exact same description. DP farming to the max.)*
+
+### [Consistent Pip-Boy Icons v5 - Dynamicon](https://www.nexusmods.com/newvegas/mods/85411)
+
+Perk Icons Dynamically change depending on your rank. This mod also introduces distinctive Icons for Weapons, Apparel and Items.
+
+#### Installation:
+
+- Main File - Consistent Pip-Boy Icons v5 - Dynamicon
+  - Dynamicon:
+    - [x] Main Mod
+    - [x] Optional ESPLess Plugin
 
 ### [Consistent Pip-Boy Icons v5 - DLC's Items](https://www.nexusmods.com/newvegas/mods/83629)
 
