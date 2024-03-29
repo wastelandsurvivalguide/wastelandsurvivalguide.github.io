@@ -309,7 +309,27 @@ Adds a bunch of features to the Main and Pause menus. Fully customizable.
   - Press **N** from the pause menu to configure MAPMO's settings
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
-- Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121589&nmm=1)
+- Main File - [MAPMO Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000126504&nmm=1)
+
+### [Pip-Boy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343)
+
+Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item comparisons, colorful stat info, ySI Icon integration, and more! 
+
+#### Installation:
+
+- Main File - Pip-Boy UI Tweaks
+  - Main File:
+    - [x] Plugin (Recommended)
+    - [ ] Scriptrunner
+  - UI Compatability:
+    - [ ] Default
+    - [x] Vanilla UI+
+    - [ ] DarNified UI
+  - General:
+    - [x] Smooth Glow Cursor
+  - ySI - Sorting Icons
+    - [x] MAPMO Bottle Cap (Color)
+    - [ ] MAPMO Bottle Cap (Grayscale)
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
