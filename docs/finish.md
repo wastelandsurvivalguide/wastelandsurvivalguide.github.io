@@ -62,6 +62,7 @@ Home and Safehouse Tweaks - TTW Addon.esm
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
 FOVSlider.esp
+PipBoyUITweaks.esp
 CharismaAffectsReputation.esp
 S6S Perks.esp
 Casino Exchange All.esp
@@ -77,6 +78,7 @@ JBTImproved.esp
 Just Sprint Plus - JAM.esp
 ImmersiveRecoil.esp
 DynamicWeaponSpread.esp
+DWS_JAM_patch.esp
 TTWZetaRewards.esp
 TTWTransportalponderEx.esp
 Supplemental Ammo Crafting.esp
