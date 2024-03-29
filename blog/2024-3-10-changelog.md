@@ -5,6 +5,7 @@
 - Added Pip-Boy UI Tweaks
 - Added CPI v5 - Dynamicon
 - Added Dynamic Weapon Spread - JAM Patch
+- Added Items Transformed - Enhanced Meshes (ITEM)
 - Updated some install instructions
 - Updated MAPMO custom INI
 - Updated load order
