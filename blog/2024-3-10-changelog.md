@@ -1,5 +1,14 @@
 # Changelog - Visions and Afterthoughts
 
+### 29/03/2024
+
+- Added Pip-Boy UI Tweaks
+- Added CPI v5 - Dynamicon
+- Added Dynamic Weapon Spread - JAM Patch
+- Updated some install instructions
+- Updated MAPMO custom INI
+- Updated load order
+
 ### 10/03/2024
 
 - Added Vanilla Fonts Revisited
