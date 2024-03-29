@@ -4,16 +4,16 @@
 
 ### The WSG Team
 
-- [VishVadeva](https://www.nexusmods.com/users/98644723)
+- [Audixas](https://www.nexusmods.com/newvegas/users/4196295)
+- [very](https://www.nexusmods.com/users/163915398)
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/newvegas/users/3644561)
-- [very](https://www.nexusmods.com/users/163915398)
 - [Shabby Pirate](https://www.nexusmods.com/users/78372218)
-- [Audixas](https://www.nexusmods.com/newvegas/users/4196295)
 
 ### Contributors & Shoutouts
 
 - [The Many](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
+- [VishVadeva](https://www.nexusmods.com/users/98644723)
 - [AVeryUncreativeUsername](https://www.nexusmods.com/newvegas/users/78355343)
 - [Adam Adamowicz](https://www.flickr.com/photos/47857688@N08/sets/72157629320774861/)
 - [anhatthezoo](https://www.nexusmods.com/newvegas/users/38240420)
