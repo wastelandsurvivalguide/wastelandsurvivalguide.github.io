@@ -21,6 +21,10 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 Fixes dozens of game models across the base game and DLCs.
 
+### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
+
+ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
+
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
