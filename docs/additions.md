@@ -3,13 +3,14 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 # Additions
 
-	This section is intended for advanced users who are looking for a more robust modding experience beyond the foundation laid by WSG. Users must be capable of performing their own load order adjustments, patching, and troubleshooting.
+This section is intended for advanced users who are looking for a more robust modding experience beyond the foundation laid by WSG. Users must be capable of performing their own load order adjustments, patching, and troubleshooting.
 
-  Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes. These resources can be used to learn basic patching principles.
+Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes. These resources can be used to learn basic patching principles.
+
 [Basics of xedit](https://moddinglinked.com/xedit.html)
 [Basics of conflict resolution](https://moddinglinked.com/themethod.html)
 
-	The WSG team will not provide support for these mods. Rather, the intent of this section is to provide a list of proven and reliable mods that can be used in conjunction with WSG. In isolation, the majority of these mods will work with the main guide with only minimal patching, though when added in conjunction with one another, they may create a large patching and compatibility burden.
+The WSG team will not provide support for the following mods. Rather, the intent of this section is to provide a list of proven and reliable mods that can be used in conjunction with WSG. In isolation, the majority of these mods will work with the main guide with only minimal patching, though when added in conjunction with one another, they may create a large patching and compatibility burden.
 
 
 ## Example Category
