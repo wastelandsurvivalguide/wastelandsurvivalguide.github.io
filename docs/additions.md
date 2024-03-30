@@ -71,7 +71,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Complex Vendors](https://www.nexusmods.com/newvegas/mods/71512) - Makes vendors only buy items related to their profession.
 
 [Consistent Caliber Naming](https://www.nexusmods.com/newvegas/mods/85497) - Renames vanilla ballistic ammo types to be more consistent and match their real-world counterpart.
-- Use alongside the TTW Patch available on the main mod page.
+- Use alongside the TTW Patch provided on the main mod page.
 - [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) patches are also available on the main mod page.
 - A [SPARE - CaliberZL Consistent Caliber Naming Patch](https://www.nexusmods.com/newvegas/mods/85632) is available as well.
 
@@ -86,7 +86,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Hardcore Forever](https://www.nexusmods.com/newvegas/mods/75682) - Enables Hardcore mode and disables the selection message.
 
 [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933) - Aligns iron sights across mods that alter or add animations and weapons.
-- Use both the main Iron Sights Aligned file and the Iron Sights Aligned Mod Support file on the main mod page if using mods that add new weapons to the game.
+- Use both the main Iron Sights Aligned file and the Iron Sights Aligned Mod Support file provided on the main mod page if using mods that add new weapons to the game.
 - This mod also comes with built in patches for [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641).
 
 [Kaleidoscope](https://www.nexusmods.com/newvegas/mods/84017) - Uses the [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934) to dynamically swap static objects with similar ones of different textures.
@@ -109,11 +109,11 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [PSRO - Peripheral Scope Reticle Overhaul](https://www.nexusmods.com/newvegas/mods/71781) - A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.
 - Less performance intensive than [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641), though still visually pleasing.
 - Compatible with all vanilla TTW scopes.
-- A mod compatibility patch for any mods that add new weapons to the game is also available on the main mod page.
+- A mod compatibility patch for any mods that add new weapons to the game is also provided on the main mod page.
 - Pairs nicely with Nehred's [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701).
 
 [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) - Gives weapon mods real meshes and adds them to random locations across the Mojave.
-- Also get the placed in-game patch on the main mod page.
+- Also get the placed in-game patch provided on the main mod page.
 - If a more hardcore experience is desired, get [Sweet's configuration patch](https://www.nexusmods.com/newvegas/mods/74502).
 
 [Retrievable Railway Spikes](https://www.nexusmods.com/newvegas/mods/83676) - Allows for retrieval of railway spikes from targets who are hit by TTW's railway rifle.
@@ -190,7 +190,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [STARS - Sweet’s Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) - A complete rework of the entire armor suite, including the rebalancing and addition of ample armors.
 - <b>HIGHLY recommended</b> but difficult to install. Installation instructions are available at Sal's [STARS Installation Guide](https://salamand3r.fail/stars).
-- Has a lot of incompatibilies, though several patches are available on the main mod page, including patches for [Benny Humbles You and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112), [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789), and [Dead Money Tweaks](https://www.nexusmods.com/newvegas/mods/72139).
+- Has a lot of incompatibilies, though several patches are provided on the main mod page, including patches for [Benny Humbles You and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112), [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789), and [Dead Money Tweaks](https://www.nexusmods.com/newvegas/mods/72139).
   - This will require manual patching for mods that alter NPC appearances.
 
 [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPCs ability to detect the player at medium and long ranges, ameliorating the wildly overpowered state of sniping.
@@ -224,7 +224,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [EDGE - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) - A complete overhaul of TTW, particularly focused on enhancing engagement and variety in DC’s early game.
 
 [JER - Just Enough Realism](https://www.nexusmods.com/newvegas/mods/69407) - A TTW wide rebalance mod.
-- Requires both the main file and the TTW patch on the main mod page.
+- Requires both the main file and the TTW patch provided on the main mod page.
 - Would <u>ONLY</u> recommend using this mod in conjunction with [Sweet's JER Patch](https://www.nexusmods.com/newvegas/mods/83034), paying special attention to [Sweet's specified load order](https://pastebin.com/NKbhdHSn) in relation to her other overhaul mods.
 
 [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Large overhaul of Point Lookout in an attempt to make it more enjoyable, level friendly, and to reward exploration. Includes new quests, enemies, locations, and more.
@@ -412,13 +412,13 @@ The following are designed to be placed in the following load order if using the
 
 [CKR - Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145) - Replaces all humanoid character assets.
 - Note that this mod becomes progressively more performance demanding as you have more mods that add NPCs.
-- Use the optional CKR - IVMB - T4 patch on the main mod page.
+- Use the optional CKR - IVMB - T4 patch provided on the main mod page.
 - Avoid the uncompressed face patch, as it will have a substantial performance impact.
 
 [CKR - Teeth](https://www.nexusmods.com/newvegas/mods/82146) 
 
 [CKR - Hands](https://www.nexusmods.com/newvegas/mods/82148)
-- Also get the optional IVMB - T4 patch included on the main mod page.
+- Also get the optional IVMB - T4 patch provided on the main mod page.
 
 [CKR - Hands](https://www.nexusmods.com/newvegas/mods/82147)
 
