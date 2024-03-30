@@ -6,7 +6,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 This section is intended for advanced users who are looking for a more robust modding experience beyond the foundation laid by WSG. <u>Users <b>must</b> be capable of performing their own load order adjustments, patching, and troubleshooting.</u>
 
 :::caution Important!
-Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes. The [Basics of xedit](https://moddinglinked.com/xedit.html) and the [Basics of Conflict Resolution](https://moddinglinked.com/themethod.html) can be used to learn the basic principles of patching.
+Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes. The [Basics of xEdit](https://moddinglinked.com/xedit.html) and [The Method](https://moddinglinked.com/themethod.html) can be used to learn the basic principles of patching and conflict resolution.
 :::
 
 The WSG team <u>will not</u> provide support for the following mods. Rather, the intent of this section is to provide a list of proven and reliable mods that can be used in conjunction with WSG. In isolation, the majority of these mods will work with the main guide with only minimal patching, though when added in conjunction with one another, they may create a large patching and compatibility burden.
@@ -16,6 +16,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
 
 [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) - Not necessarily a fix per say, but contains fairly robust frame generation capabilities and can functionally double your FPS at the cost of some visual artifact. Would not recommend using the scaling option, ONLY the frame generation. Can be purchased on steam.
+
 
 ## User Interface & HUD
 [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) - For use with the mod no pip-boy in power armor, provides an improved holographic control panel interface when activating the pip-boy. This mod is useful for those using STARS.
@@ -37,7 +38,9 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [ySI Misc Quest Items Patch](https://www.nexusmods.com/newvegas/mods/81230?tab=files) - Adds additional ySI sorting icons for sheet music, pre-war books, and dog-tags.
 
-## Gameplay QOL
+
+## Gameplay 
+### Quality of Life
 [Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
 
 [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641) - Adds working Dual-Render Scopes into Fallout New Vegas!
@@ -79,6 +82,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Double Jump and Coyote Time](https://www.nexusmods.com/newvegas/mods/81716) - Allows a configurable double jump or a period of time you can still jump while no longer touching the ground or running off a cliff.
 
 [Faster Sleep-Wait](https://www.nexusmods.com/newvegas/mods/66785) - Decreases the delay between hours while waiting or sleeping.
+
+[Hardcore Forever](https://www.nexusmods.com/newvegas/mods/75682) - Enables Hardcore mode and disables the selection message.
 
 [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933) - Aligns iron sights across mods that alter or add animations and weapons.
 - Use both the main iron sights aligned file and the iron sights aligned mod support file on the main mod page if using mods that add new weapons to the game.
@@ -124,19 +129,329 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Viewmodel Recoil](https://www.nexusmods.com/newvegas/mods/71852) - A recoil mod that affects the 1st person model only and does not move the camera. Is purely aesthetic. Can be used in conjunction with Immersive Recoil 2.
 
-##Gameplay Additions
 
-## Example Category
+### Functional Additions
+[Bottle the Water](https://www.nexusmods.com/newvegas/mods/83913) - Bottle some water to take with you on the go.
 
-[Example Mod](https://www.nexusmods.com/newvegas/mods/81221) - This is an example mod to show how to set them up. Click the link ;)
-If you need additional install instructions for something, or recommending which file to download, check below.
+[Camping](https://www.nexusmods.com/newvegas/mods/85061) - A sleeping bag and campfire that you can carry with you and drop anywhere.
 
-#### Installation:
+[Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Bypass locks on doors and containers by damaging them.
 
-- Main File - Name of main file here
-  - FOMOD category goes here:
-    - [ ] Unchecked box
-    - [x] Checked box
-  - Another category with radial buttons:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Unchecked radial<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Checked radial<br/>
+[Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Real-time, character-skill based replacement for hacking and lockpicking.
+
+[Magic Sewer](https://www.nexusmods.com/newvegas/mods/75589) - For all your cross-continental travel needs.
+
+[Pip-boy Weapon Mod Vendor](https://www.nexusmods.com/newvegas/mods/84997) - Purchase weapon mods directly through the Pip-boy interface. Optionally have them shipped to any unlocked dropbox.
+
+[Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds a simple night vision and thermal signature toggle onto power armor helmets
+
+[Skill Practice PlusPlus](https://www.nexusmods.com/newvegas/mods/83633) - Implements a practice based skill system, where the player increases skills in a "Skyrim-style" by performing actions that use those skills.
+- Pairs nicely with Shabby’s [Lower Starting Skills](https://www.nexusmods.com/newvegas/mods/85334).
+
+[Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) - Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
+
+[Transporters](https://www.nexusmods.com/newvegas/mods/77645) - A fast-travel overhaul implementing an alternative that uses molerats and moleholes. Adds a new faction, settlement, and quest as well.
+
+[Vendor Radio](https://www.nexusmods.com/newvegas/mods/85305) - Purchase items from any vendor directly through the Pip-boy radio menu. Optionally have them shipped to any unlocked dropbox.
+
+
+### Balance
+[ANVIL - Ammo New Variants in Loot](https://www.nexusmods.com/newvegas/mods/78561) - Adds ammo variants to loot pools.
+
+[CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) - A caliber expansion mod.
+- Would recommend use alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
+- Soft incompatibility with supplemental ammo crafting, as recipes will not be standardized.
+- Compatible with SPARE through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
+
+[Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) - Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
+
+[Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds a recoil-like mechanic for all NCPs, including creatures, robots, etc. Induces a short period of time to recover between a series of shots.
+
+[Inaccurate NPCs](https://www.nexusmods.com/newvegas/mods/79619) - Increases NPCs threshold to miss you when shooting at you by editing the fNPCMaxGunWobbleAngle gamesetting.
+- Vanilla fNPCMaxGunWobbleAngle is 15. A good starting value for this setting is 30, then it can be increased as needed to induce further inaccuracy.
+
+[Larger Packs - Spawn Multiplier](https://www.nexusmods.com/newvegas/mods/76061) - Makes NPCs/creatures spawning in larger numbers.
+- Use with caution if using other difficulty enhancing mods like new blood.
+
+[More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) - User-configurable increase or decrease in the size and intensity of all ambient radiation in the game.
+
+[RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) - Overhauls all aspects of radiation.
+
+[Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) - Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
+
+[SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746) - Distributes various items that are otherwise not readily available across the wastelands.
+
+[Simple Headshots](https://www.nexusmods.com/newvegas/mods/84763) - After crippling an enemy's head, the next shot will be fatal. Can be configured per enemy type.
+
+[SPARE - Sweet Part and Ammo Rebalance and Expansion](https://www.nexusmods.com/newvegas/mods/83937) - A complete rebalance of the ammo crafting system.
+- Incompatible with Supplemental Ammo Crafting.
+- Compatible with CaliberZL through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
+
+[STARS - Sweet’s Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) - A complete rework of the entire armor suite, including the rebalancing and addition of ample armors.
+- <b>HIGHLY recommended</b> but difficult to install. Installation instructions are available at Sal's [STARS Installation Guide](https://salamand3r.fail/stars).
+- Has a lot of incompatibilies, though several patches are available on the main mod page, including patches for Benny Humbles You and Steals Your Stuff, Wasteland Starting Gear DC, and Dead Money Tweaks.
+  - This will require manual patching for mods that alter NPC appearances.
+
+[Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPCs ability to detect the player at medium and long ranges, ameliorating the wildly overpowered state of sniping.
+
+[Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) - A complete overhaul and rebalancing of doctors, sleep, endurance, and infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
+
+[Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot) - A highly customizable loot scarcity mod.
+
+[Vanilla SWEEP - Sweet Weapon Enhancement and Expansion Package](https://www.nexusmods.com/newvegas/mods/81043) - A complete rebalance of the weapons in TTW to create a cohesively balanced system that takes more time for progressive and diminishes the degree to which later weapons eclipse earlier ones.
+- ONLY affects vanilla TTW weapons. This will eventually be expanded into a complete overhaul including modded weaponry similar to STARS.
+- Soft incompatibility with mods that add new weapons to the game, though most popular weapon addition mods have similar balancing (including ZL Armaments Remastered, Another Millenia, and Tactapack).
+
+[Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/71852) - Replaces the formula for weapon jamming when firing and reloading.
+- Use Sweet’s configuration file if a more hardcore experience is desired.
+
+[Well Rested Overhaul](https://www.nexusmods.com/newvegas/mods/64628) - Expands how the well rested effect works, including additional buffs and changes in duration of effect.
+- Soft incompatibility with Sweet Healing System, as they both alter the well rested bonus in conflicting ways.
+
+
+## Content
+### Major World and Game Changes
+[AGE - Anchorage Gameplay Expansion - Complete Overhaul](https://www.nexusmods.com/newvegas/mods/72031) - A complete overhaul of the Anchorage DLC including rebalancing, new gear, new weapons, new enemies, new boss fights, and new encounters. Inspired by Call of Duty, Doom Eternal, and Half-Life.
+- Please ensure you read the mod page to download the appropriate requirements and patches.
+
+[Claim the Mojave (and the Capital)](https://www.nexusmods.com/newvegas/mods/75196) - An expansive end-game mod that allows the player to build outposts at locations across the two wastelands.
+- This mod will require a significant number of patches to maintain compatibility. This is NOT compatible with rebuild the capital.
+
+[DMT - Dead Money Tweaks - Complete Overhaul](https://www.nexusmods.com/newvegas/mods/72139) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience and inspired by Resident Evil.
+- Please ensure you read the mod page to download the appropriate requirements and patches.
+
+[EDGE - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) - A complete overhaul of TTW, particularly focused on enhancing engagement and variety in DC’s early game.
+
+[JER - Just Enough Realism](https://www.nexusmods.com/newvegas/mods/69407) - A TTW wide rebalance mod.
+- Requires both the main file and the TTW patch on the main mod page.
+- Would <u>ONLY</u> recommend using this mod in conjunction with [Sweets JER Patch](https://www.nexusmods.com/newvegas/mods/83034), paying special attention to Sweets specified load order and other overhaul mods.
+
+[Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Large overhaul of Point Lookout in an attempt to make it more enjoyable, level friendly, and to reward exploration. Includes new quests, enemies, locations, and more.
+- This can have a significant performance impact given the amount of clutter it adds across Point Lookout.
+
+[Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030) - Massive end-game expansion of the Brotherhood of steel. Features new armors, weapons, quests, perks, NPCs, and a recruiting system.
+- This mod will require a significant number of patches to maintain compatibility with the rest of your mod list. It is also worth noting that there are ~6,000 unvoiced dialogue lines. However, this is an amazing and expansive addition of content, which more than makes up for its short-comings.
+
+[True Open World DC](https://www.nexusmods.com/newvegas/mods/84575) - Disables the FO3 main quest, and allows you to visit all main quest locked locations such as Raven Rock and Vault 101 through alternate means, providing a true open world experience in the Capital Wasteland.
+
+
+### Location Additions and Overhauls
+[Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
+
+[Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
+
+[Big Town Extended](https://www.nexusmods.com/newvegas/mods/74825) - Overhauls Big Town.
+
+[Believable Grub n’ Gulp](https://www.nexusmods.com/newvegas/mods/73974) - Overhauls Grub n’ Gulp.
+
+[Canterbury Commons Redesigned](https://www.nexusmods.com/newvegas/mods/85293) - Overhauls Canterbury Commons.
+
+[Cottonwood Cove Slave Market](https://www.nexusmods.com/newvegas/mods/74495) - Adds a slave market at cottonwood cove to support in-game lore.
+
+[Detailed New Vegas Suburban Overhaul - Westside](https://www.nexusmods.com/newvegas/mods/84318) - Merges two mods, (Detailed New Vegas - Westside, New Vegas Suburban Overhaul) to overhaul Westside.
+
+[Freeside Facelift Lite](https://www.nexusmods.com/newvegas/mods/72411) - Overhauls Freeside.
+
+[Gun Runners Actually Run Guns](https://www.nexusmods.com/newvegas/mods/42503) - Expands the Gun Runners to a more lore appropriate role and adds a Gun Runner caravan that travels the Mojave Wasteland.
+- Would recommend use alongside [Sweet's GRARG Patch](https://www.nexusmods.com/newvegas/mods/73327) for generalized balancing.
+
+[Hidden Valley: Overhauled](https://www.nexusmods.com/newvegas/mods/70859) - Overhauls the Brotherhood of Steel’s Hidden Valley.
+
+[Hoover Dam Bridge Overhaul](https://www.nexusmods.com/newvegas/mods/84212) - Overhauls the hoover dam bridge.
+
+[Interiors Improved - Vault 21](https://www.nexusmods.com/newvegas/mods/84082) - Overhauls Vault 21.
+
+[Irradiated Lonesome Road](https://www.nexusmods.com/newvegas/mods/74599) - Irradiates the entirety of Lonesome Road to increase difficulty and highlight the desolation of the divide.
+
+[Less Empty Nellis](https://www.nexusmods.com/newvegas/mods/70716) - Overhauls the Nellis region.
+
+[Less Empty Primm](https://www.nexusmods.com/newvegas/mods/70716) - Overhauls the Nellis region.
+
+[Lightbright Strip Overhaul](https://www.nexusmods.com/newvegas/mods/77093) - Overhauls the New Vegas Strip.
+
+[Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38s lights.
+- Combines nicely with [Animated Spotlights for Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/85553).
+
+[Lux Aeterna - The True Revival of Luxury - An Ultra-Luxe Overhaul](https://www.nexusmods.com/newvegas/mods/63251) - Overhauls The Ultra-Luxe.
+
+[Meresti Metro Redesign TTW](https://www.nexusmods.com/newvegas/mods/83799) - Overhauls the Meresti Metro.
+
+[Nellis Air Force Base Lightweight Overhaul](https://www.nexusmods.com/newvegas/mods/68839) - Overhauls Nellis Air Force Base.
+
+[Shanty Arefu](https://www.nexusmods.com/newvegas/mods/83904) - Overhauls Arefu.
+
+[Strip and Freeside Wall Replacers - Cleaned](https://www.nexusmods.com/newvegas/mods/82952) - Replaces the strip and  freeside walls with concrete walls.
+
+[The Town of Vice - A Gomorrah Overhaul](https://www.nexusmods.com/newvegas/mods/64499) - Overhauls Gomorrah and the Omertas.
+
+[Ultra-Luxe Fountain Expanded](https://www.nexusmods.com/newvegas/mods/69781) - Overhauls the Ultra-Luxe fountain.
+
+[Van Graff Faction Overhaul](https://www.nexusmods.com/newvegas/mods/68500) - Overhauls the Van Graffs and The Silver Rush.
+
+[Vault 22 Flora Overhauled Remastered](https://www.nexusmods.com/newvegas/mods/71521) - Overhauls Vault 22.
+
+[Vikki and Vance Improvements](https://www.nexusmods.com/newvegas/mods/71531) - Overhauls The Vikki & Vance casino.
+
+
+### NPC, Faction, & Dialogue Overhauls
+
+[Brave New World](https://www.nexusmods.com/newvegas/mods/69562) - A massive re-voicing project using professional voice actors. Revoices ~7,000 lines across 145 NPCs.
+- There is also a [TTW Patch](https://www.nexusmods.com/newvegas/mods/81210) courtesy of Sweet.
+
+[D.C. NPCs](https://www.nexusmods.com/newvegas/mods/83419) - Adds reactivity, clutter, and minor NPCs to the DC wasteland.
+
+[Faction Wasteland Presence](https://www.nexusmods.com/newvegas/mods/73524) - Adds Great Khans, Securitrons, NCR, Legion patrols, and Brotherhood of Steel paladins in lore-friendly locations.
+
+[Friendly Strip Factions](https://www.nexusmods.com/newvegas/mods/80453) - Makes the various Strip factions friendly after completing their respective quests.
+
+[Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Overhauls New Vegas’ raider factions, balancing their loot and adding more of them to fight.
+- A [Very Uncreative TTW Compatibility Patch](https://www.nexusmods.com/newvegas/mods/78465) is available.
+- Has a large patch burden if using in conjunction with STARs or NPC overhaul mods.
+
+[NCR Dialogue Expanded](https://www.nexusmods.com/newvegas/mods/83819) - 238 new lines of dialogue for generic NCR troopers, rangers, and MPs.
+
+[Raiders of the Capital Wasteland](https://www.nexusmods.com/newvegas/mods/83487) - Expands the raiders into a joinable faction with new settlements, interactions, and quests.
+
+
+### Creature & Enemy Overhauls
+
+[Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101) - Removes ghouls "roar" animation that plays before they attack, meaning they now charge the player instantly - making them much deadlier.
+
+[Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Adds hundreds of leveled, vanilla-friendly creatures throughout the Mojave.
+- A [Very Uncreative TTW Compatibility Patch](https://www.nexusmods.com/newvegas/mods/78465) is available.
+
+[Monster Mod Lite 2021 TTW-NV](https://www.nexusmods.com/newvegas/mods/71714) - Integrates many lore friendly creatures into the game.
+- Requires the [assets from the original mod](https://www.nexusmods.com/newvegas/mods/41361).
+- Please use with caution, as this mod has poorly made meshes and can cause instability.
+
+[Prodlimen Creature Integration Pack](https://www.nexusmods.com/newvegas/mods/71569) - Integrates many lore friendly creatures into the game.
+- Please use with caution, as this mod has poorly made meshes and can cause instability.
+
+
+### Quests
+[3DNPCs DC](https://www.nexusmods.com/newvegas/mods/83484) - Adds 15 quests, 8 companions, background NPCs, and a radio channel to the DC Wasteland.
+
+[3DNPCs NV](https://www.nexusmods.com/newvegas/mods/84274) - Adds 5 quests, 3 companions, and a lot of background NPCs to the Mojave Wasteland.
+
+[Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized Quest Mod with more than 2000 pro-voiced lines. Delve into a centuries-old library inhabited by sentient machines, and solve Hypatia's mysteries. Five different endings, unique O.S.T.
+- Also use the provided update file provided on the main mod page.
+- A [Very Uncreative TTW Compatibility Patch](https://www.nexusmods.com/newvegas/mods/78465) is available.
+- Do NOT use the Autumn Leaves Tweaks mod.
+
+[Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Embark on an adventure south to the town of Lake Havasu City and its surroundings! With over 60 voiced characters, dozens of new locations to explore and a bunch of quests to solve.
+
+[Th3Overseer’s Collection](https://mod.pub/falloutnv/55-th3overseer-mod-collection) - Includes Th3Overseer's Core ESM (required for the specific quest mods), The Initiation, Eliza, The High Desert, The North Road Remastered, Headhunting, and The Depths of Depravity.
+- This is the definitive and most functional version available. The various fix and tweak mods across nexus will not be compatible with this version.
+
+
+### Perks & Traits
+[PerkPackPlus](https://www.nexusmods.com/newvegas/mods/70473) - Adds various new perks suited for specialization and to add spice to your build. Compliments S6S Perks and Sweet Perk Overhaul well.
+- Also use [Sweets Patch](https://www.nexusmods.com/newvegas/mods/76523) to prevent perk overlap.
+
+[Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) - A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
+- Please ensure you read the trigger warning on the mod page prior to downloading.
+
+
+## Visuals
+### Visual Improvements
+Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for your core visual, audio, and lighting needs.
+  
+[Accurate NASA Stars](https://www.nexusmods.com/newvegas/mods/75522) - New 4k star texture and mesh using NASA satellite images to create a real-world accurate starfield for New Vegas.
+- Needs to be loaded after weather mods.
+
+[Armed To The Teeth - Redux](https://www.nexusmods.com/newvegas/mods/74936) - Allows you to holster up to 4 weapons on your body at once.
+
+[Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
+- Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
+
+[Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) - Adds a customizable visual effect when the player is exposed to radiation. Includes ionizing particles, static noise, blurred vision, and more.
+- Please note that the high quality verison will increase menu main load time, but will not worsen in-game performance.
+
+[Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) - A complete overhaul and restyle of power armor to obtain a more classic, heavy, and imposing experience.
+- See [Webb’s Patch Emporium](https://www.nexusmods.com/newvegas/mods/74174) for the most readily available TOTNW patches.
+
+[TTW - Robco Lights](https://www.nexusmods.com/newvegas/mods/79641) - Adds lights to areas on Robots you'd expect would actually emit light.
+
+[Window Ambient Light at Night](https://www.nexusmods.com/newvegas/mods/84945) - Windows that light up at night now emit a light and light up their surroundings.
+
+
+### Landscape Overhauls
+Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for your core visual, audio, and lighting needs.
+
+<u>Please be cautious combining the following mods and review the available patches.</u>
+
+[New Vegas Landscape Overhaul Remastered](https://www.nexusmods.com/newvegas/mods/74218)
+
+[Enhanced Landscapes](https://www.nexusmods.com/newvegas/mods/69406)
+- Ensure you use the compatibility version if using New Vegas Landscape Overhaul Remastered.
+
+[Desert Landscapes](https://www.nexusmods.com/newvegas/mods/84284?tab=description)
+
+[Visuals Improved, Content Expanded (VICE)](https://www.nexusmods.com/newvegas/mods/83282)
+- This can have a significant performance impact given the amount of clutter it adds across the wasteland.
+
+[Red on the Rocks](https://www.nexusmods.com/newvegas/mods/80534)
+- Can have a significant performance impact.
+  
+
+### NPCs
+The following are designed to be placed in the following load order if using the entire suite.
+
+[TTW NPC Overhaul](https://www.nexusmods.com/newvegas/mods/79809) - A lore friendly and restrained visual overhaul of NPCs from both wastelands.
+- This will likely require a fair bit of manual patching.
+- Shabby has been kind enough to create a [patch for those using EDGE or STARS](https://www.nexusmods.com/newvegas/mods/83929 )
+
+[T4](https://www.nexusmods.com/newvegas/mods/66903) - A female Body Replacer
+- Also requires [T4 Modest](https://www.nexusmods.com/newvegas/mods/69642) to prevent incompatibility and clipping with mods that edit armors.
+
+[Improved Vanilla Male Body (IVMB)](https://www.nexusmods.com/newvegas/mods/70160) - A male body replacer.
+
+[CKR - Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145) - Replaces all humanoid character assets.
+- Note that this mod becomes progressively more performance demanding as you have more mods that add NPCs.
+- Use the optional CKR - IVMB - T4 patch on the main mod page.
+- Avoid the uncompressed face patch, as it will have a substantial performance impact.
+
+[CKR - Teeth](https://www.nexusmods.com/newvegas/mods/82146) 
+
+[CKR - Hands](https://www.nexusmods.com/newvegas/mods/82148)
+- Also get the optional IVMB - T4 patch included on the main mod page.
+
+[CKR - Hands](https://www.nexusmods.com/newvegas/mods/82147)
+
+Facegen Patches - These can be found all across the nexus. If you have not appropriately patched, you will have SIGNIFICANT visual oddities. Alternatively, you can forgo facegen patches entirely and enable bLoadFaceGenHeadEGTFiles in the falloutcustom.ini. Enabling this setting will have a large performance impact.
+- [TTW Facegen Patch](https://www.nexusmods.com/newvegas/mods/82447)
+- Facegen Patches for Various Mods
+  - [Facegen Patches Location #1](https://www.nexusmods.com/newvegas/mods/83129)
+  - [Facegen Patches Location #2](https://www.nexusmods.com/newvegas/mods/83104)
+  - [Facegen Patches Location #3](https://www.nexusmods.com/newvegas/mods/75435)
+
+
+### Animations
+Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for your core visual, audio, and lighting needs.
+
+[B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) - Adds contextual leaning around corners.
+
+[B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335) - Adds weapon inertia.
+
+[Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - AIO movement expansion - featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
+- Would recommend disabling lean and using this alongside B42 True Learning, though this comes down to personal preference.
+
+[Idle Variety](https://www.nexusmods.com/newvegas/mods/85718) - Adds idle animation variants to NPCs - More life and less monotony.
+
+[Melee Hitstop Effects](https://www.nexusmods.com/newvegas/mods/75981) - Adds hitstop for melee weapons, by slowing down gametime to 0.1 for a few frames, then restoring it.
+
+[Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Replacers for stagger and crippled animations.
+
+Ragdolls & Death Throes - Improves the animations associated with all ragdoll physics.
+- The following are designed to be placed in the following load order.
+- [NV Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
+- [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147)
+- [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=description)
+  - Modified Ragdolls
+    - This plugin overwrites the original ragdolls plugin.
+  - Reactive Ragdolls
+    - This is the death throes main file and should follow the modified ragdolls plugin.
+  - Constraints
+    - This is an optional file that changes the physical properties of many armor types to allow for more convincing ragdoll animations.
+  - Projectile Forces
+    - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
