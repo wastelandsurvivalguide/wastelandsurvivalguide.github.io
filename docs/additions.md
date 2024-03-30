@@ -32,6 +32,14 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Show Water Source H2O](https://www.nexusmods.com/newvegas/mods/85103) - Water sources will show their hydration amount instead of HP when the player is in hardcore mode.
 - Current incompatible with MUX.
 
+[Sleep, wait, hardcore needs](https://www.nexusmods.com/newvegas/mods/85148) - Shows the amount of H2O, FOD, and SLP that will be gained/lost while sleeping.
+
+[Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) - Zelda BOTW/TOTK style weapon and item selection menus.
+
+[ySI Expanded](https://www.nexusmods.com/newvegas/mods/84352) - Adds additional ySI sorting subcategories and icons.
+
+[ySI Misc Quest Items Patch](https://www.nexusmods.com/newvegas/mods/81230?tab=files) - Adds additional ySI sorting icons for sheet music, pre-war books, and dog-tags.
+
 
 
 
