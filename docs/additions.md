@@ -20,10 +20,22 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) - Not necessarily a fix per say, but contains fairly robust frame generation capabilities and can functionally double your FPS at the cost of some visual artifact. Would not recommend using the scaling option, ONLY the frame generation. Can be purchased on steam.
 
 
+## User Interface & HUD
+[Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) - For use with the mod no pip-boy in power armor, provides an improved holographic control panel interface when activating the pip-boy. This mod is useful for those using STARS.
+
+[Dialogue DoF Disabler](https://www.nexusmods.com/newvegas/mods/77220) - Removes the depth of field effect while in the dialogue interface.
+
+[JIP Improved Recipe Menu](https://www.nexusmods.com/newvegas/mods/75920) - Improves usability and aesthetics of the recipe menu.
+
+[PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
+
+[Show Water Source H2O](https://www.nexusmods.com/newvegas/mods/85103) - Water sources will show their hydration amount instead of HP when the player is in hardcore mode.
+- Current incompatible with MUX.
 
 
 
 
+[]()
 ## Example Category
 
 [Example Mod](https://www.nexusmods.com/newvegas/mods/81221) - This is an example mod to show how to set them up. Click the link ;)
@@ -38,5 +50,3 @@ If you need additional install instructions for something, or recommending which
   - Another category with radial buttons:<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Unchecked radial<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Checked radial<br/>
-
-This should be it, any more questions, just shoot them my way! Remember to use a lot of copy and paste.
