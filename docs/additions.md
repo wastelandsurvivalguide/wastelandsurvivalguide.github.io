@@ -6,19 +6,19 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 This section is intended for advanced users who are looking for a more robust modding experience beyond the foundation laid by WSG. <u>Users <b>must</b> be capable of performing their own load order adjustments, patching, and troubleshooting.</u>
 
 <u><b>Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes.</b></u> These resources can be used to learn basic patching principles.
-<br>
-[Basics of xedit](https://moddinglinked.com/xedit.html)<br>[Basics of Conflict Resolution](https://moddinglinked.com/themethod.html)
+
+[Basics of xedit](https://moddinglinked.com/xedit.html)
+
+[Basics of Conflict Resolution](https://moddinglinked.com/themethod.html)
 
 The WSG team <u>will not</u> provide support for the following mods. Rather, the intent of this section is to provide a list of proven and reliable mods that can be used in conjunction with WSG. In isolation, the majority of these mods will work with the main guide with only minimal patching, though when added in conjunction with one another, they may create a large patching and compatibility burden.
 
-<br>
 
 ## Fixes
 [Zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
 
 [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) - Not necessarily a fix per say, but contains fairly robust frame generation capabilities and can functionally double your FPS at the cost of some visual artifact. Would not recommend using the scaling option, ONLY the frame generation. Can be purchased on steam.
 
-<br>
 
 ## User Interface & HUD
 [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) - For use with the mod no pip-boy in power armor, provides an improved holographic control panel interface when activating the pip-boy. This mod is useful for those using STARS.
@@ -40,7 +40,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [ySI Misc Quest Items Patch](https://www.nexusmods.com/newvegas/mods/81230?tab=files) - Adds additional ySI sorting icons for sheet music, pre-war books, and dog-tags.
 
-<br>
 
 ## Gameplay QOL
 [Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
@@ -129,11 +128,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Viewmodel Recoil](https://www.nexusmods.com/newvegas/mods/71852) - A recoil mod that affects the 1st person model only and does not move the camera. Is purely aesthetic. Can be used in conjunction with immersive recoil 2.
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
