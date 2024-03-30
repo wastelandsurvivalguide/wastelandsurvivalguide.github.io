@@ -30,7 +30,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Show Water Source H2O](https://www.nexusmods.com/newvegas/mods/85103) - Water sources will show their hydration amount instead of HP when the player is in hardcore mode.
 - Currently incompatible with MUX.
 
-[Sleep, wait, hardcore needs](https://www.nexusmods.com/newvegas/mods/85148) - Shows the amount of H2O, FOD, and SLP that will be gained/lost while sleeping.
+[Sleep, Wait, Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148) - Shows the amount of H2O, FOD, and SLP that will be gained/lost while sleeping.
 
 [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) - Zelda BOTW/TOTK style weapon and item selection menus.
 
