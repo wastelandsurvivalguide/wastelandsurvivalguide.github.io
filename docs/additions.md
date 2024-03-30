@@ -7,12 +7,16 @@ This section is intended for advanced users who are looking for a more robust mo
 
 <u><b>Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes.</b></u> These resources can be used to learn basic patching principles.
 
-
 [Basics of xedit](https://moddinglinked.com/xedit.html)
 
 [Basics of Conflict Resolution](https://moddinglinked.com/themethod.html)
 
 The WSG team <u>will not</u> provide support for the following mods. Rather, the intent of this section is to provide a list of proven and reliable mods that can be used in conjunction with WSG. In isolation, the majority of these mods will work with the main guide with only minimal patching, though when added in conjunction with one another, they may create a large patching and compatibility burden.
+
+
+## Fixes
+[Zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
+Lossless Scaling - Not necessarily a fix per say, but contains pretty robust frame generation capabilities and can functionally double your FPS at the cost of some visual artifact. Would not recommend using the scaling option, ONLY the frame generation. Can be purchased on steam.
 
 
 ## Example Category
