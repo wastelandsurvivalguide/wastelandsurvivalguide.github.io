@@ -6,7 +6,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 This section is intended for advanced users who are looking for a more robust modding experience beyond the foundation laid by WSG. <u>Users <b>must</b> be capable of performing their own load order adjustments, patching, and troubleshooting.</u>
 
 <u><b>Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes.</b></u> These resources can be used to learn basic patching principles.
-
+<br>
 [Basics of xedit](https://moddinglinked.com/xedit.html)
 
 [Basics of Conflict Resolution](https://moddinglinked.com/themethod.html)
