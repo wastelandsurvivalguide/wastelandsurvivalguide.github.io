@@ -211,7 +211,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 
 ## Content
-### Major World and Game Changes
+### Major World & Game Changes
 [AGE - Anchorage Gameplay Expansion - Complete Overhaul](https://www.nexusmods.com/newvegas/mods/72031) - A complete overhaul of the Anchorage DLC including rebalancing, new gear, new weapons, new enemies, new boss fights, and new encounters. Inspired by Call of Duty, Doom Eternal, and Half-Life.
 - Please review the mod page requirements and patch availability carefully.
 
@@ -238,7 +238,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Incompatible with Rebuild the Capital.
 
 
-### Location Additions and Overhauls
+### Location Additions & Overhauls
 [Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
