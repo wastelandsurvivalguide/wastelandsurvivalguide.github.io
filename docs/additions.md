@@ -85,8 +85,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Faster Sleep-Wait](https://www.nexusmods.com/newvegas/mods/66785) - Decreases the delay between hours while waiting or sleeping.
 
-[Height Randomizer NVSE](https://www.nexusmods.com/newvegas/mods/70159) - Randomizes NPC height in such a way that it's consistent across saves and playthroughs. Includes customisable INI settings for height scaling with SPECIAL, and/or gender disparity.
-
 [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933) - Aligns iron sights across mods that alter or add animations and weapons.
 - Use both the main iron sights aligned file and the iron sights aligned mod support file on the main mod page if using mods that add new weapons to the game.
 - This mod also comes with built in patches for B42 optics.
@@ -130,30 +128,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Unmissable Casino Rewards](https://www.nexusmods.com/newvegas/mods/83485) - Prevents you from bypassing reward tiers in casinos.
 
 [Viewmodel Recoil](https://www.nexusmods.com/newvegas/mods/71852) - A recoil mod that affects the 1st person model only and does not move the camera. Is purely aesthetic. Can be used in conjunction with immersive recoil 2.
-
-[]() - 
-
-[]() - 
-
-[]() -
-
-[]() - 
-
-[]() - 
-
-[]() - 
-
-[]() - 
-
-[]() - 
-
-[]() - 
-
-[]() - 
-
-[]() - 
-
-[]() - 
 
 <br>
 <br>
