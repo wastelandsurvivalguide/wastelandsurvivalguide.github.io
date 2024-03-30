@@ -40,8 +40,43 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 
 ## Gameplay QOL
+[Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
 
-[]()
+[B42 Optics](https://www.nexusmods.com/newvegas/mods/81641) - Adds working Dual-Render Scopes into Fallout New Vegas!
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+
+
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
 <br>
 <br>
 <br>
