@@ -7,6 +7,7 @@ This section is intended for advanced users who are looking for a more robust mo
 
 <u><b>Do not install this entire section indiscriminately. Pick and choose only the mods that interest you. Otherwise you will end up with a broken game that crashes.</b></u> These resources can be used to learn basic patching principles.
 
+
 [Basics of xedit](https://moddinglinked.com/xedit.html)
 
 [Basics of Conflict Resolution](https://moddinglinked.com/themethod.html)
