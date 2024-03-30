@@ -16,6 +16,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ## Fixes
 [Zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
+
 Lossless Scaling - Not necessarily a fix per say, but contains pretty robust frame generation capabilities and can functionally double your FPS at the cost of some visual artifact. Would not recommend using the scaling option, ONLY the frame generation. Can be purchased on steam.
 
 
