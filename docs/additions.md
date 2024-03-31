@@ -332,6 +332,10 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 ### Creature & Enemy Overhauls
 
+:::caution Important!
+This section assumes you have already visited Sal's [New Vegas Visual Renewal - Mutations](https://salamand3r.fail/new-vegas-visual-renewal/mutation) for creature add-on packs. Duplicates and redundancies are intentionally omitted.
+:::
+
 [Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101) - Removes ghouls "roar" animation that plays before they attack, meaning they now charge the player instantly - making them much deadlier.
 
 [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Adds hundreds of leveled, vanilla-friendly creatures throughout the Mojave.
