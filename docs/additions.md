@@ -391,9 +391,6 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 
 [Desert Landscapes](https://www.nexusmods.com/newvegas/mods/84284?tab=description)
 
-[Visuals Improved, Content Expanded (VICE)](https://www.nexusmods.com/newvegas/mods/83282)
-- This can have a significant performance impact given the amount of clutter it adds across the wasteland.
-
 [Red on the Rocks](https://www.nexusmods.com/newvegas/mods/80534)
 - Can have a significant performance impact, but is a beautiful rendition of Red Rocks Canyon.
   
