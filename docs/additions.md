@@ -72,6 +72,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Consistent Caliber Naming](https://www.nexusmods.com/newvegas/mods/85497) - Renames vanilla ballistic ammo types to be more consistent and match their real-world counterpart.
 - Use alongside the TTW Patch provided on the main mod page.
 - [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) patches are also available on the main mod page.
+- - A [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/76175?tab=files) is available courtesy of Audixas.
 - A [SPARE - CaliberZL Consistent Caliber Naming Patch](https://www.nexusmods.com/newvegas/mods/85632) is available as well.
 
 [Creatures Aren’t Evil](https://www.nexusmods.com/newvegas/mods/83403) - Prevents karma gain from killing creatures.
@@ -160,7 +161,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) - A caliber expansion mod.
 - Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
-- Soft incompatibility with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175), as recipes will not be standardized.
+- A [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/) is available courtesy of Audixas.
 - Compatible with [SPARE](https://www.nexusmods.com/newvegas/mods/83937) through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
 [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) - Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
