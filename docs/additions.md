@@ -188,7 +188,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
 [STARS - Sweet’s Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) - A complete rework of the entire armor suite, including the rebalancing and addition of ample armors.
-- <b>HIGHLY recommended</b> but difficult to install. Installation instructions are available courtesy of Sal's [STARS Installation Guide](https://salamand3r.fail/stars).
+- <b>HIGHLY recommended</b> but difficult to install. Installation instructions are available courtesy of Sal's STARS [Installation Guide](https://salamand3r.fail/stars).
 - Has a lot of incompatibilies, though several patches are provided on the main mod page, including patches for [Benny Humbles You and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112), [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789), and [Dead Money Tweaks](https://www.nexusmods.com/newvegas/mods/72139).
   - This will require manual patching for mods that alter NPC appearances.
 
