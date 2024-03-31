@@ -265,6 +265,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Hoover Dam Bridge Overhaul](https://www.nexusmods.com/newvegas/mods/84212) - Overhauls the Hoover Dam Bridge.
 
 [Interiors Improved - Vault 21](https://www.nexusmods.com/newvegas/mods/84082) - Overhauls Vault 21.
+- Use alongside [Interiors Improved - Vault 21 (Fixed and Patched)](https://www.nexusmods.com/newvegas/mods/85642).
 
 [Irradiated Lonesome Road](https://www.nexusmods.com/newvegas/mods/74599) - Irradiates the entirety of Lonesome Road to increase difficulty and highlight the desolation of the divide.
 
