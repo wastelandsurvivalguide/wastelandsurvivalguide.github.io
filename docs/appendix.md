@@ -12,6 +12,10 @@ Meet the team and other contributors who helped make the guide what it is today.
 
 A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or outright broken).
 
+### [Additions](additions)
+
+A _non-exhaustive_ list of recommended mods that are recommended, but require manual conflict resolution to work with the guide.
+
 ### [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html)
 
 Guide on how to generate LOD with FNVLODgen.
