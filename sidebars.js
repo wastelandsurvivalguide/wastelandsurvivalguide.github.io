@@ -42,6 +42,7 @@ const sidebars = {
       items: [
         "contributors",
         "incompatible",
+        "additions",
         {
           type: "link",
           label: "LOD Guide",
