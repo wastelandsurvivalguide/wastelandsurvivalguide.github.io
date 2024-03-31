@@ -162,7 +162,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) - A caliber expansion mod.
 - Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
 - Compatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) through use of Audixas' [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
-- Compatible with [SPARE](https://www.nexusmods.com/newvegas/mods/83937) through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
+- Compatible with [SPARE](https://www.nexusmods.com/newvegas/mods/83937) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
 [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) - Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
 
@@ -186,7 +186,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [SPARE - Sweet Part and Ammo Rebalance and Expansion](https://www.nexusmods.com/newvegas/mods/83937) - A complete rebalance of the ammo crafting system.
 - Incompatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175).
-- Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
+- Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
 [STARS - Sweet’s Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) - A complete rework of the entire armor suite, including the rebalancing and addition of ample armors.
 - <b>HIGHLY recommended</b> but difficult to install.
