@@ -72,7 +72,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Consistent Caliber Naming](https://www.nexusmods.com/newvegas/mods/85497) - Renames vanilla ballistic ammo types to be more consistent and match their real-world counterpart.
 - Use alongside the TTW Patch provided on the main mod page.
 - [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) patches are also available on the main mod page.
-- - A [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/76175?tab=files) is available courtesy of Audixas.
+- A [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/76175?tab=files) is available courtesy of Audixas.
 - A [SPARE - CaliberZL Consistent Caliber Naming Patch](https://www.nexusmods.com/newvegas/mods/85632) is available as well.
 
 [Creatures Aren’t Evil](https://www.nexusmods.com/newvegas/mods/83403) - Prevents karma gain from killing creatures.
