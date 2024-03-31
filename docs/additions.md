@@ -382,9 +382,6 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 ### Landscape Overhauls
 Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting needs.
 
-<u>Please be cautious combining the following mods and review the available patches thoroughly.</u>
-
-
 [New Vegas Landscape Overhaul Remastered](https://www.nexusmods.com/newvegas/mods/74218)
 
 [Enhanced Landscapes](https://www.nexusmods.com/newvegas/mods/69406)
