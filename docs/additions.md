@@ -188,7 +188,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - Spare Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
 [STARS - Sweet’s Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) - A complete rework of the entire armor suite, including the rebalancing and addition of ample armors.
-- <b>HIGHLY recommended</b> but difficult to install. Installation instructions are available courtesy of Sal's STARS [Installation Guide](https://salamand3r.fail/stars).
+- <b>HIGHLY recommended</b> but difficult to install. Installation instructions are available courtesy of Sal's [STARS Guide](https://salamand3r.fail/stars).
 - Has a lot of incompatibilies, though several patches are provided on the main mod page, including patches for [Benny Humbles You and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112), [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789), and [Dead Money Tweaks](https://www.nexusmods.com/newvegas/mods/72139).
   - This will require manual patching for mods that alter NPC appearances.
 
@@ -362,10 +362,12 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Please read the trigger warning on the mod page carefully prior to downloading.
 
 
-## Visuals
+## Visuals 
+:::caution Important!
+Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from the following sections.
+:::
+
 ### Visual Improvements
-Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from this page.
-  
 [Accurate NASA Stars](https://www.nexusmods.com/newvegas/mods/75522) - New 4k star texture and mesh using NASA satellite images to create a real-world accurate starfield for New Vegas.
 - Needs to be loaded after weather mods.
 
@@ -386,9 +388,7 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 
 
 ### Landscape Overhauls
-Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from this page.
-
-[New Vegas Landscape Overhaul Re-Remastered (NVLORR)](https://www.nexusmods.com/newvegas/mods/74218) - Addd new life the the Mojave Wasteland by making bland locations more detailed.
+[New Vegas Landscape Overhaul Re-Remastered (NVLORR)](https://www.nexusmods.com/newvegas/mods/74218) - Adds new life the the Mojave Wasteland by making bland locations more detailed.
 - A [NVLORR - MoreMojave Patch](https://www.nexusmods.com/newvegas/mods/83333) is available, courtesy of Conzo.
 - Piber has created [compatibility patches](https://www.nexusmods.com/newvegas/mods/77674?tab=files) for [Eliza](https://mod.pub/falloutnv/55-th3overseer-mod-collection) and [FPGE](https://www.nexusmods.com/newvegas/mods/66726).
 
@@ -439,8 +439,6 @@ The following are designed to be placed in the following load order if using the
 
 
 ### Animations
-Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from this page.
-
 [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) - Adds contextual leaning around corners.
 
 [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - All-in-one movement expansion - featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
