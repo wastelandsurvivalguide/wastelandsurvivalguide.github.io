@@ -337,13 +337,6 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Adds hundreds of leveled, vanilla-friendly creatures throughout the Mojave.
 - A [Very Uncreative TTW Compatibility Patch](https://www.nexusmods.com/newvegas/mods/78465) is available.
 
-[Monster Mod Lite 2021 TTW-NV](https://www.nexusmods.com/newvegas/mods/71714) - Integrates many lore friendly creatures into the game.
-- Requires the [assets from the original mod](https://www.nexusmods.com/newvegas/mods/41361).
-- Please use with caution, as this mod has poorly made meshes and can cause instability.
-
-[Prodlimen Creature Integration Pack](https://www.nexusmods.com/newvegas/mods/71569) - Integrates many lore friendly creatures into the game.
-- Please use with caution, as this mod has poorly made meshes and can cause instability.
-
 
 ### Quests
 [3DNPCs DC](https://www.nexusmods.com/newvegas/mods/83484) - Adds 15 quests, 8 companions, background NPCs, and a radio channel to the DC Wasteland.
