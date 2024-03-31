@@ -28,7 +28,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
 
 [Show Water Source H2O](https://www.nexusmods.com/newvegas/mods/85103) - Water sources will show their hydration amount instead of HP when the player is in hardcore mode.
-- Currently incompatible with [M.U.X.](https://www.nexusmods.com/newvegas/mods/80642)
 
 [Sleep, Wait, Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148) - Shows the amount of H2O, FOD, and SLP that will be gained/lost while sleeping.
 
