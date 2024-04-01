@@ -71,7 +71,7 @@ Root 'n Loot.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
-TTW No Free Levelup.esp
+TTW No Free Levelup Quick Start.esp
 JIP Companions Command & Control.esp
 JustAssortedMods.esp
 JBTImproved.esp
