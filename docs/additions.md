@@ -23,8 +23,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Dialogue DoF Disabler](https://www.nexusmods.com/newvegas/mods/77220) - Removes the depth of field effect while in the dialogue interface.
 
-[JIP Improved Recipe Menu](https://www.nexusmods.com/newvegas/mods/75920) - Improves usability and aesthetics of the recipe menu.
-
 [PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
 
 [Show Water Source H2O](https://www.nexusmods.com/newvegas/mods/85103) - Water sources will show their hydration amount instead of HP when the player is in hardcore mode.
@@ -199,7 +197,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Sweet has plans to create a complete version that includes modded weaponry from across the nexus, similar to the approach taken by [STARS](https://www.nexusmods.com/newvegas/mods/76016).
 - Soft incompatibility with mods that add new weapons to the game, though most popular weapon addition mods have similar balancing (including [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213), [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133), and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219).
 
-[Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/71852) - Replaces the formula for weapon jamming when firing and reloading.
+[Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Replaces the formula for weapon jamming when firing and reloading.
 - Use Sweet’s configuration file if a more hardcore experience is desired.
 
 [Well Rested Overhaul](https://www.nexusmods.com/newvegas/mods/64628) - Expands how the well rested effect works, including additional buffs and changes in duration of effect.
@@ -212,7 +210,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Please review the mod page requirements and patch availability carefully.
 
 [Claim the Mojave (and the Capital)](https://www.nexusmods.com/newvegas/mods/75196) - An expansive end-game mod that allows the player to build outposts at locations across the two wastelands.
-- This mod will require a significant number of patches to maintain compatibility. This is incompatible with [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030).
+- This mod will require a significant number of patches to maintain compatibility.
 
 [DMT - Dead Money Tweaks - Complete Overhaul](https://www.nexusmods.com/newvegas/mods/72139) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience and inspired by Resident Evil.
 - Please review the mod page requirements and patch availability carefully.
@@ -274,7 +272,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Less Empty Nellis](https://www.nexusmods.com/newvegas/mods/70716) - Overhauls the Nellis region.
 - Compatible with [Nellis Air Force Base Lightweight Overhaul](https://www.nexusmods.com/newvegas/mods/68839).
 
-[Less Empty Primm](https://www.nexusmods.com/newvegas/mods/70716) - Overhauls the Primm region.
+[Less Empty Primm](https://www.nexusmods.com/newvegas/mods/62036) - Overhauls the Primm region.
 
 [Lightbright Strip Overhaul](https://www.nexusmods.com/newvegas/mods/77093) - Overhauls the New Vegas Strip.
 
@@ -297,6 +295,8 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Ultra-Luxe Fountain Expanded](https://www.nexusmods.com/newvegas/mods/69781) - Overhauls the Ultra-Luxe fountain.
 
 [Van Graff Faction Overhaul](https://www.nexusmods.com/newvegas/mods/68500) - Overhauls the Van Graffs and The Silver Rush.
+  - Also requires [Van Graff Faction Overhaul Fixed](https://www.nexusmods.com/newvegas/mods/75896) in order to avoid dirty edits and deleted records.
+  - Patches for [Brave New World](https://www.nexusmods.com/newvegas/mods/69562), [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623), and [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) are provided on the main mod page.
 
 [Vault 22 Flora Overhauled Remastered](https://www.nexusmods.com/newvegas/mods/71521) - Overhauls Vault 22.
 
@@ -322,6 +322,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 [NCR Dialogue Expanded](https://www.nexusmods.com/newvegas/mods/83819) - 238 new lines of dialogue for generic NCR troopers, rangers, and MPs.
 
 [Raiders of the Capital Wasteland](https://www.nexusmods.com/newvegas/mods/83487) - Expands the Raiders into a joinable faction with new settlements, interactions, and quests.
+- Patches for [D.C. NPCs](https://www.nexusmods.com/newvegas/mods/83419) and [Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) are provided on the main mod page.
 - Incompatible with [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030).
 
 
@@ -365,6 +366,7 @@ This section assumes you have already visited Sal's [New Vegas Visual Renewal - 
 
 [Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) - A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
 - Please read the trigger warning on the mod page carefully prior to downloading.
+- Pairs nicely with [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910), which grants the option to take a trait per a variable amount of levelups.
 
 
 ## Visuals 
