@@ -57,6 +57,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Basic Retrievable Throwables](https://www.nexusmods.com/newvegas/mods/82211) - Adds any throwable weapon which hits a target to the target's inventory.
 
+[Benny Fighting Chance](https://www.nexusmods.com/newvegas/mods/74613) - Buffs Benny's ammo and DT to help him have a little more survivability when fighting the player.
+
 [Better Weapon Restrictions](https://www.nexusmods.com/newvegas/mods/81295) - Makes open carry of weapons in restricted areas a hostile action.
 
 [Cookable Grenades](https://www.nexusmods.com/newvegas/mods/81678) - Holding a grenade before throwing it decreases its fuse.
@@ -159,6 +161,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
 - Compatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) through use of Audixas' [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
 - Compatible with [SPARE](https://www.nexusmods.com/newvegas/mods/83937) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
+- Compatible with various other mod added weapons through the [CaliberZL Patch Compendium](https://www.nexusmods.com/newvegas/mods/85818).
 
 [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) - Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
 
@@ -307,6 +310,8 @@ All of the mods in this section require LOD generation. Instructions are provide
 - Two versions are available, a voices only version (which is preferred alongside mods that overhaul TTW NPCs, such as [TTW NPC Overhaul](https://www.nexusmods.com/newvegas/mods/79809)) and a full version that overhauls NPC appearances within the Mojave.
 - A [TTW Patch](https://www.nexusmods.com/newvegas/mods/81210) is available for the full version, courtesy of Sweet. This patch is incompatible with the voices only version.
 
+[Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Provides unique perks to NPCs to provide more gameplay quirks and personality to companions. These often take the form of debuffs.
+
 [D.C. NPCs](https://www.nexusmods.com/newvegas/mods/83419) - Adds reactivity, clutter, and minor NPCs to the DC wasteland.
 
 [Faction Wasteland Presence](https://www.nexusmods.com/newvegas/mods/73524) - Adds Great Khans, Securitrons, NCR, Legion patrols, and Brotherhood of Steel paladins in lore-friendly locations.
@@ -356,9 +361,12 @@ This section assumes you have already visited Sal's [New Vegas Visual Renewal - 
 
 [Th3Overseer’s Collection](https://mod.pub/falloutnv/55-th3overseer-mod-collection) - Includes Th3Overseer's Core ESM (required), The Initiation, Eliza, The High Desert, The North Road Remastered, Headhunting, and The Depths of Depravity.
 - This is the definitive version. The various fix and tweak mods across the nexus are incompatible with this version.
+- Download the plugins separately rather than the old all-in-one pack, otherwise Mod Organizer 2 will not recognize the files.
 
 
 ### Perks & Traits
+[Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682) - A set of perks that grant bonuses once idolized by various factions.
+
 [PerkPackPlus](https://www.nexusmods.com/newvegas/mods/70473) - Adds various new perks suited for specialization and to add spice to your build. Compliments [S6S Perks](https://www.nexusmods.com/newvegas/mods/73438) and [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) well.
 - Also use [Sweet's Patch](https://www.nexusmods.com/newvegas/mods/76523) to prevent perk overlap.
 
@@ -383,6 +391,10 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 
 [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) - Adds a customizable visual effect when the player is exposed to radiation. Includes ionizing particles, static noise, blurred vision, and more.
 - Please note that the high quality verison will increase menu main load time, but will not worsen in-game performance.
+
+[Taller DC TTW 3.3 Conversion](https://www.nexusmods.com/newvegas/mods/76595) - Adds skyscrapers to the DC area of the Capital Wasteland.
+- Has a moderate amount of z-fighting (visual artifact).
+- Requires LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 
 [Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) - A complete overhaul and restyle of power armor to provide a more classic, heavy, and imposing experience.
 - See [Webb’s Patch Emporium](https://www.nexusmods.com/newvegas/mods/74174) for the most readily available TOTNW patches.
@@ -445,7 +457,6 @@ The following are designed to be placed in the following load order if using the
 - Facegen Patches for Various Mods
   - [Facegen Patches Location #1](https://www.nexusmods.com/newvegas/mods/83129)
   - [Facegen Patches Location #2](https://www.nexusmods.com/newvegas/mods/83104)
-  - [Facegen Patches Location #3](https://www.nexusmods.com/newvegas/mods/75435)
 
 
 ### Animations
@@ -473,3 +484,20 @@ The following are designed to be placed in the following load order if using the
     - This is an optional file that changes the physical properties of many armor types to allow for more convincing ragdoll animations.
   - Projectile Forces
     - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
+
+
+# Changelog
+
+4/4/2024 - 1.02
+- Added Benny Fighting Chance.
+- Added Friends With Benefits.
+- Added Companion Characteristics.
+- Added CaliberZL Patch Compendium.
+- Added Taller DC TTW 3.3 Conversion.
+- Removed erraneous vanilla facegen patch link.
+4/2/2024 - 1.01
+- Removed Lossless Scaling to avoid promoting paid material.
+- Fixed several link related errors.
+- Added notation that certain mods require LOD generation where appropriate.
+3/30/2024 - 1.00
+- Original release.
