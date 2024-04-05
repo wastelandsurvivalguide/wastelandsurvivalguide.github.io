@@ -488,16 +488,18 @@ The following are designed to be placed in the following load order if using the
 
 # Changelog
 
-4/4/2024 - 1.02
+1.02 - 4/4/2024 
 - Added Benny Fighting Chance.
 - Added Friends With Benefits.
 - Added Companion Characteristics.
 - Added CaliberZL Patch Compendium.
 - Added Taller DC TTW 3.3 Conversion.
 - Removed erraneous vanilla facegen patch link.
-4/2/2024 - 1.01
+  
+1.01 - 4/2/2024
 - Removed Lossless Scaling to avoid promoting paid material.
 - Fixed several link related errors.
 - Added notation that certain mods require LOD generation where appropriate.
-3/30/2024 - 1.00
+  
+1.00 - 3/30/2024
 - Original release.
