@@ -210,7 +210,7 @@ An overhaul to the weapon spread system that allows firearms to be far more accu
 
 Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread setting.
 
-### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122226&nmm=1)
+### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127133&nmm=1)
 
 A custom INI file for Stewie's Tweaks that enables a lot more useful gameplay and QoL changes.
 
