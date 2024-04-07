@@ -486,7 +486,7 @@ The following are designed to be placed in the following load order if using the
     - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
 
 
-# Changelog
+## Changelog
 
 1.02 - 4/4/2024 
 - Added Benny Fighting Chance.
