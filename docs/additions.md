@@ -13,6 +13,10 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 
 ## Fixes
+[Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076) - Adjusts a few shader flags to litter meshes to stop the flickering.
+- Needs to be loaded after NVMIM.
+- May cause some litter meshes to hover a very small distance above the ground.
+
 [zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
 
 
@@ -102,6 +106,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [No More Motion Sickness](https://www.nexusmods.com/newvegas/mods/73613) - Removes any kind of blur (motion blur, get hit blur, etc...) from the game.
 
+[Point Lookout Doctors TTW](https://www.nexusmods.com/newvegas/mods/85219) - Adds functional doctors to point lookout.
+
 [Power Armor Explosive Resistance](https://www.nexusmods.com/newvegas/mods/83995) - Provides direct explosion resistance for power armor.
 
 [PSRO - Peripheral Scope Reticle Overhaul](https://www.nexusmods.com/newvegas/mods/71781) - A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.
@@ -136,11 +142,20 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Bypass locks on doors and containers by damaging them.
 
+[Immersive Fast Travel Encounters TTW Edition](https://www.nexusmods.com/newvegas/mods/85883) - A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
+
 [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Real-time, character-skill based replacement for hacking and lockpicking.
+
+[Immersive Sleeping Encounters](https://www.nexusmods.com/newvegas/mods/74289) - A user configurable overhaul of the sleep system that implements D&D styled random encounters when the player naps.
 
 [Magic Sewer](https://www.nexusmods.com/newvegas/mods/75589) - For all your cross-continental travel needs.
 
 [Pip-boy Weapon Mod Vendor](https://www.nexusmods.com/newvegas/mods/84997) - Purchase weapon mods directly through the Pip-boy interface. Optionally have them shipped to any unlocked dropbox.
+
+[Simple Diseases](https://www.nexusmods.com/newvegas/mods/74802) - A simple and modular disease system for Fallout New Vegas. Adds a the chance to get sick from eating bad food and drinking untreated water as well as the risk of contracting diseases from wild animal attacks.
+
+[Simple Explosive Entry](https://www.nexusmods.com/newvegas/mods/66992) - Allows the player to use explosives to bypass locks.
+- Use with [Simple Explosive Entry Tweaks](https://www.nexusmods.com/newvegas/mods/85580), which provides tweaks to the mod to make it more seamless and engaging.
 
 [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds a simple night vision and thermal signature toggle onto power armor helmets.
 
@@ -161,7 +176,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
 - Compatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) through use of Audixas' [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
 - Compatible with [SPARE](https://www.nexusmods.com/newvegas/mods/83937) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
-- Compatible with various other mod added weapons through the [CaliberZL Patch Compendium](https://www.nexusmods.com/newvegas/mods/85818).
+- Compatible with various other mod added weapons through the [CaliberZL Patch Compendium](https://www.nexusmods.com/newvegas/mods/85818) and [CaliberZL More Mod Stuff](https://www.nexusmods.com/newvegas/mods/85886)
 
 [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) - Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
 
@@ -375,7 +390,7 @@ This section assumes you have already visited Sal's [New Vegas Visual Renewal - 
 - Pairs nicely with [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910), which grants the option to take a trait per a variable amount of levelups.
 
 
-## Visuals 
+## Visuals & Audio
 :::caution Important!
 Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from the following sections.
 :::
@@ -385,6 +400,11 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 - Needs to be loaded after weather mods.
 
 [Armed To The Teeth - Redux](https://www.nexusmods.com/newvegas/mods/74936) - Allows you to holster up to 4 weapons on your body at once.
+
+[Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
+[Collision Meshes - Mojave](https://www.nexusmods.com/newvegas/mods/59149)
+- These mods improve collision mesh details both both DC and the Mojave Wastelands. This will allow shooting bullets inbetween tight spaces without shooting invisible walls (for example, cracks in bus stops or metal bars on water towers).
+- The order of your mesh replacement mods should be NVMIM, followed by both versions of collision meshes, followed by MAC-TEN, followed by ITEM.
 
 [Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
 - Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
@@ -455,8 +475,9 @@ The following are designed to be placed in the following load order if using the
 [Facegen Patches](https://www.nexusmods.com/newvegas/articles/55233) - Lack of appropriate patching will result in SIGNIFICANT visual oddities. Alternatively, the bLoadFaceGenHeadEGTFiles setting in the falloutcustom.ini can be enabled in lieu of using facegen patches. Enabling this setting WILL have a large performance impact.
 - [TTW Facegen Patch](https://www.nexusmods.com/newvegas/mods/82447)
 - Facegen Patches for Various Mods
-  - [Facegen Patches Location #1](https://www.nexusmods.com/newvegas/mods/83129)
-  - [Facegen Patches Location #2](https://www.nexusmods.com/newvegas/mods/83104)
+  - [Facegen Patches for DC-Based Mods](https://www.nexusmods.com/newvegas/mods/83129)
+  - [Facegen Patches for Mojave-Based Mods](https://www.nexusmods.com/newvegas/mods/83104)
+  - [Facegen Patches for Th3Overseer's Mod Collection](https://mod.pub/falloutnv/71-th3overseer-mod-collection-character-kit-remake-facegen-patch)
 
 
 ### Animations
@@ -484,9 +505,26 @@ The following are designed to be placed in the following load order if using the
     - This is an optional file that changes the physical properties of many armor types to allow for more convincing ragdoll animations.
   - Projectile Forces
     - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
+   
+### Audio
+[The Golden Archive](https://mod.pub/falloutnv/122-the-golden-archive) - Greatly extends Radio New Vegas with 200+ lore friendly tracks.
+- If using alongside [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554), use the TTW - No Radio New Vegas version of Music Addition available in the FOMOD. 
 
 
 ## Changelog
+1.03 - 4/8/2024
+- Added facegen patches for Th3Overseer's Mod Collection.
+- Re-labeled the other facegen patch link names.
+- Added Mainframes Litter Flickering Fix.
+- Added both DC and Mojave Collision Meshes.
+- Added Point Lookout Doctors TTW.
+- Added an audio sub-section under the Visuals category, which is now renamed to Visuals & Audio.
+- Added an Audio section anThe Golden Archive.
+- Added Immersive Fast Travel Encounters TTW Edition.
+- Added Immersive Sleeping Encounters.
+- Added CaliberZL More Mod Stuff.
+- Added Simple Diseases.
+- Added Simple Explosive Entry and Simple Explosive Entry Tweaks.
 
 1.02 - 4/4/2024 
 - Added Benny Fighting Chance.
