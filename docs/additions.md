@@ -470,7 +470,7 @@ The following are designed to be placed in the following load order if using the
 [CKR - Hands](https://www.nexusmods.com/newvegas/mods/82148)
 - Also get the optional IVMB - T4 patch provided on the main mod page.
 
-[CKR - Hands](https://www.nexusmods.com/newvegas/mods/82147)
+[CKR - Hair](https://www.nexusmods.com/newvegas/mods/82147)
 
 [Facegen Patches](https://www.nexusmods.com/newvegas/articles/55233) - Lack of appropriate patching will result in SIGNIFICANT visual oddities. Alternatively, the bLoadFaceGenHeadEGTFiles setting in the falloutcustom.ini can be enabled in lieu of using facegen patches. Enabling this setting WILL have a large performance impact.
 - [TTW Facegen Patch](https://www.nexusmods.com/newvegas/mods/82447)
@@ -512,6 +512,9 @@ The following are designed to be placed in the following load order if using the
 
 
 ## Changelog
+1.04 - 4/9/2024
+- Fixed a mislabeled CKR mod.
+
 1.03 - 4/8/2024
 - Added facegen patches for Th3Overseer's Mod Collection.
 - Re-labeled the other facegen patch link names.
