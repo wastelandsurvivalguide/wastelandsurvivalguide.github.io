@@ -80,29 +80,6 @@ Main Files:
 
 ## New Quests
 
-### [The Someguy Series](https://www.nexusmods.com/newvegas/mods/48925)
-
-Core file required for the next two mods.
-
-### [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108)
-
-Pursue high-risk/high-reward bounties in the first installment of the The Someguy Series.
-
-#### Installation:
-
-- Main File - New Vegas Bounties I LE
-- Optional File - New Vegas Bounties I LE TTW
-- Main File - [SSB](https://www.nexusmods.com/newvegas/mods/79556)
-
-### [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427)
-
-Work for Bobby Bass as a contract killer in this fully-voiced quest mod!
-
-#### Installation:
-
-- Main File - New Vegas Killer LE
-- Optional File - NewVegasKillerLETTW
-
 ### [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
 
 Adds a quest that takes you across 10 different locations across the Capital Wasteland in search of treasure with a nice reward at the end.
