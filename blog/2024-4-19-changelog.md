@@ -1,4 +1,4 @@
-# Changelog - Settle for Less
+# Changelog - Settle For Less
 
 ### 19/04/2024
 
