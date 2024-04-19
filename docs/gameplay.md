@@ -72,7 +72,6 @@ The Sweet 6 Shooter perk pack adds a ton of new perks and traits that aim to fle
 #### Installation:
 
 - Main File - Sweet 6 Shooter Perk Pack TTW Version
-- Optional File - NVB1Patch (If you decide on using [New Vegas Bounties 1 LE](https://www.nexusmods.com/newvegas/mods/77108), which is in the next section of the guide.)
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
