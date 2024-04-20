@@ -13,9 +13,63 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 
 ## Fixes
+[Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974) - Fixes one of the most glaring issues with non-scoped weapons in Fallout New Vegas - their inconsistent accuracy caused by vanilla weapon wobble and bugged character spread setting.
+
+[Equip and Movement Speed Fix - ESPless](https://www.nexusmods.com/newvegas/mods/71774) - Fixes animation speed not updating correctly while in-game for weapon drawing, weapon holstering, and running.
+
+[ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501) - Adds/changes roombounds for some interior cells. Can provide better performance.
+- Note that this may cause crashes for some users. The exact cause of this remains under investigation.
+- May require patching for location overhauls.
+
+[Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909) - Optimizes more than 200 interior cells with roombounds and occlusion planes to improve the performance in the Capital Wasteland.
+- May require patching for location overhauls.
+
+[Female Pipboy Aligned](https://www.nexusmods.com/newvegas/mods/85888) - No more tilted pipboy for female characters.
+
+[Freeside Neon Sign Fix](https://www.nexusmods.com/newvegas/mods/82647) - Fixes the flicker present on several Freeside neon signs.
+
+[Gauss Impact Fix - ESPless](https://www.nexusmods.com/newvegas/mods/69136) - Fixes the Gauss Rifle bug in VATS, correcting damage and explosion effects.
+
+[Gun Runners Kiosk Glass Fix](https://www.nexusmods.com/newvegas/mods/70293) - Fixes the glass texture in the Gun Runners' kiosk.
+
+[Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691) - Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
+
+[Laser Pistol 3rd Person Latch Animation Fix](https://www.nexusmods.com/newvegas/mods/80657) - Fixes a vanilla bug where the latch for the laser pistol would be out of position after reloading or clearing a jam.
+
 [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076) - Adjusts a few shader flags to litter meshes to stop the flickering.
-- Needs to be loaded after NVMIM.
+- Must be loaded after [NVMIM](https://www.nexusmods.com/newvegas/mods/74295).
 - May cause some litter meshes to hover a very small distance above the ground.
+
+[Melee VATS Animation Restoration](https://www.nexusmods.com/newvegas/mods/73480) - Brings VATS melee animations back from the dead.
+
+[Money Fixer - ESPless](https://www.nexusmods.com/newvegas/mods/71614) - Scripted replacement for when the wrong money item types are used in mods.
+
+[Mostly Fixed FaceGen Tints(NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577) - Fixes vanilla FaceGen tints.
+
+[MZ Holding Cells Fog Clip Distance Fix](https://www.nexusmods.com/newvegas/mods/77022) - The fog clip distance for the holding cells in TTW's Mothership Zeta is low enough that it's clearly visible in the first area. This fixes it.
+
+[NPCa - NPC Prevention of Chem addiction - ESPless](https://www.nexusmods.com/newvegas/mods/73622) - Prevents NPCs from gaining addiction effects when using chems or alcohol, as they would not attempt to act on said addictions.
+
+[Pip-Boy Light Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/78954) - Fixes flicker in Pip-Boy opening animation if its light is on.
+
+[Ranger Combat Helmets Clipping Fix](https://www.nexusmods.com/newvegas/mods/82776) - Fixes the issue of character head clipping through ranger combat helmets.
+
+[Smooth True Iron Sights Camera](https://www.nexusmods.com/newvegas/mods/69074) - Aim down sights without the camera snapping to place.
+
+[Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094) - Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
+
+[Tranquility Lane Pipboy Glove and Custom Race Fix](https://www.nexusmods.com/newvegas/mods/77018) - Stops Tranquility Lane from de-aging you to child, which broke any race replacers that do not have child versions. Also prevents alteration to the pip boy, for better compatibility with pip boy replacers.
+
+[TTW 32 Pistol Projectile Clipping Fix](https://www.nexusmods.com/newvegas/mods/75052) - Fixes a Fallout 3 bug where the .32 Pistol was using 7.62 Rifle Bullet Projectiles, causing the bullets to clip through the gun as they're fired.
+
+[TTW Combat Shotgun HQ Reload Sounds](https://www.nexusmods.com/newvegas/mods/75919) - Replaces the low-quality reload sounds of the Combat Shotgun in TTW with the original, higher quality versions.
+
+[Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245) - Prevents interactive animation mods used alongside vanilla weapon animations from causing the weapon to disappear.
+
+[Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051) - Adds the SF_Eye_Enviroment_Mapping shader flag to vent meshes.
+- Must be loaded after [NVMIM](https://www.nexusmods.com/newvegas/mods/74295).
+
+[Weapon Mod Description Fix (TTW)](https://www.nexusmods.com/newvegas/mods/85957) - Certain weapon mods have an empty line above the description. This simple fix rectifies that issue.
 
 [zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
 
@@ -24,6 +78,9 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) - For use with [No PipBoy in Power Armor](https://www.nexusmods.com/newvegas/mods/66916), provides an improved holographic control panel interface when activating the pip-boy. This mod is useful for those using [STARS](https://www.nexusmods.com/newvegas/mods/76016).
 
 [Dialogue DoF Disabler](https://www.nexusmods.com/newvegas/mods/77220) - Removes the depth of field effect while in the dialogue interface.
+
+[Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Adds Item Cards with detailed stat comparisons while hovering over weapons, armor, and more.
+- Would recommend enabling bShowAlways=1 in the ini file.
 
 [PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
 
@@ -48,7 +105,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
   - [NV Patch](https://www.nexusmods.com/newvegas/mods/82136)
   - [TTW Patch](https://www.nexusmods.com/newvegas/mods/81884)
   - [RTR Patch](https://www.nexusmods.com/newvegas/mods/82466)
-- Also requires patches for weapon addition mods, many of which are already included in the Iron Sights Aligned mod.
+- Also requires patches for weapon addition mods, many of which are already included in [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933).
 
 [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686) - Adds brand new, modern throwing weapons mechanics, as seen in Metro, COD, Fallout 4 and some other FPS games.
 - Recommended to be used with Piber’s patch - [B42 Quickthrow Tweaks - Give Player Perks Method](https://www.nexusmods.com/newvegas/mods/77674?tab=files)
@@ -78,6 +135,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - A [SPARE - CaliberZL Consistent Caliber Naming Patch](https://www.nexusmods.com/newvegas/mods/85632) is available as well.
 
 [Creatures Aren’t Evil](https://www.nexusmods.com/newvegas/mods/83403) - Prevents karma gain from killing creatures.
+
+[Crippled Limb Reaction Enforcer](https://www.nexusmods.com/newvegas/mods/73147) - Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Also makes NPCs get some more debuffs from crippling like the player does.
 
 [Destroyable Bottles](https://www.nexusmods.com/newvegas/mods/85631) - A mod that lets bottles and other glass objects be destroyed when hit with weapons. Yields a small performance benefit.
 
@@ -116,9 +175,13 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - A mod compatibility patch for any mods that add new weapons to the game is also provided on the main mod page.
 - Pairs nicely with Nehred's [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701).
 
+[Purchase Items on Display (xNVSE)](https://www.nexusmods.com/newvegas/mods/78873) - Allows you to purchase items that are on display in a shop without having to go through the barter menu with a merchant.
+
 [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) - Gives weapon mods real meshes and adds them to random locations across the Mojave.
 - Also get the placed in-game patch provided on the main mod page.
 - If a more hardcore experience is desired, get [Sweet's configuration patch](https://www.nexusmods.com/newvegas/mods/74502).
+
+[Realistic Weapon Name Replacer - RWNR](https://www.nexusmods.com/newvegas/mods/85966) - Changes out weapon names to match their real world counterparts, game lore or just something that makes sense.
 
 [Retrievable Railway Spikes](https://www.nexusmods.com/newvegas/mods/83676) - Allows for retrieval of railway spikes from targets who are hit by TTW's railway rifle.
 
@@ -127,6 +190,9 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Skill Book Auto-Use](https://www.nexusmods.com/newvegas/mods/82674) - Automatically uses skill books upon pickup.
 
 [SMAC - Simple Melee Attack Canceling](https://www.nexusmods.com/newvegas/mods/82732) - Blocking interrupts your melee/unarmed attacks for quick and responsive defense.
+
+[TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975) - A comprehensive invisible wall remover for Tale of Two Wastelands.
+- This allows you to cross previously uncrossable mountains or rubble piles separating buildings. This will make traveling easier, but will also allow access to areas not designed to be accessed and may break scripted events if areas are prematurely accessed.
 
 [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) - Allows for starting in NV without the imperfections that can accompany the standard TTW provided option, and that [TTW Quick Start](https://mod.pub/ttw/54-ttw-3-3-esp-less-quick-start) disables.
 
@@ -188,6 +254,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Larger Packs - Spawn Multiplier](https://www.nexusmods.com/newvegas/mods/76061) - Makes NPCs/creatures spawning in larger numbers.
 - Use with caution if using other difficulty enhancing mods like [New Blood](https://www.nexusmods.com/newvegas/mods/75666).
 
+[Misc. Gamesetting Tweaks](https://www.nexusmods.com/newvegas/mods/72983) - A collection of INI mods to configure Game Settings to your liking.
+
 [More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) - User-configurable increase or decrease in the size and intensity of all ambient radiation in the game.
 
 [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) - Overhauls all aspects of radiation.
@@ -201,6 +269,9 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [SPARE - Sweet Part and Ammo Rebalance and Expansion](https://www.nexusmods.com/newvegas/mods/83937) - A complete rebalance of the ammo crafting system.
 - Incompatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175).
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
+
+[SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment
+- Use alongside the provided Tag Perk Description Ajudstment patch.
 
 [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPCs ability to detect the player at medium and long ranges, ameliorating the wildly overpowered state of sniping.
 
@@ -266,6 +337,8 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Believable Grub n’ Gulp](https://www.nexusmods.com/newvegas/mods/73974) - Overhauls Grub n’ Gulp.
 
 [Canterbury Commons Redesigned](https://www.nexusmods.com/newvegas/mods/85293) - Overhauls Canterbury Commons.
+
+[Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html) - a collection of 10 small way station player homes that offer places to safely store your stuff until you can get to your main base (or until you can acquire one).
 
 [Cottonwood Cove Slave Market](https://www.nexusmods.com/newvegas/mods/74495) - Adds a slave market at Cottonwood Cove to support in-game lore.
 
@@ -373,10 +446,17 @@ This section assumes you have already visited Sal's [New Vegas Visual Renewal - 
 - AVOID the [Autumn Leaves Tweaks](https://www.nexusmods.com/newvegas/mods/74092), as this mod can cause several abnormalities.
 
 [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Embark on an adventure south to the town of Lake Havasu City and its surroundings! With over 60 voiced characters, dozens of new locations to explore and a bunch of quests to solve.
+- Use alongside [Havasu Blues Bugfixes](https://www.nexusmods.com/newvegas/mods/86083) - Fixes navmesh errors, script errors, incorrect dialogue conditions and oversights in Havasu Blues.
 
 [Th3Overseer’s Collection](https://mod.pub/falloutnv/55-th3overseer-mod-collection) - Includes Th3Overseer's Core ESM (required), The Initiation, Eliza, The High Desert, The North Road Remastered, Headhunting, and The Depths of Depravity.
 - This is the definitive version. The various fix and tweak mods across the nexus are incompatible with this version.
 - Download the plugins separately rather than the old all-in-one pack, otherwise Mod Organizer 2 will not recognize the files.
+
+[The Someguy Series](https://www.nexusmods.com/newvegas/mods/48925) - The master file required for all of Someguy2000's quest mods.
+- [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108) - Pursue high-risk/high-reward bounties in the first installment of the The Someguy Series.
+  - [Sweet Style Bounties](https://www.nexusmods.com/newvegas/mods/79556) - A balance and encounter overhaul for New Vegas Bounties 1 LE.
+  - [New Vegas Bounties I LE - kNVSE Sets](https://www.nexusmods.com/newvegas/mods/80789) - Adds kNVSE animations to the other guns in NVBILE.
+- [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427) - Work for Bobby Bass as a contract killer in this fully-voiced quest mod! Tiddies and biscuits.
 
 
 ### Perks & Traits
@@ -392,22 +472,33 @@ This section assumes you have already visited Sal's [New Vegas Visual Renewal - 
 
 ## Visuals & Audio
 :::caution Important!
-Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from the following sections.
+Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from the following sections. If any of the following mods are added to Sal's guide, they will be removed from Additions.
 :::
+
+### Meshes
+[Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
+[Collision Meshes - Mojave](https://www.nexusmods.com/newvegas/mods/59149)
+- These mods improve collision mesh details in both DC and the Mojave Wastelands. This will allow shooting bullets inbetween tight spaces without shooting invisible walls (for example, cracks in bus stops or metal bars on water towers).
+- The update file is also required in order for the Mojave version to function appropriately.
+- The order of your mesh replacement mods should be NVMIM, followed by both versions of collision meshes, followed by SMIM (if using), followed by MAC-TEN, followed by ITEM.
+
+[Skinned Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/82042) - Adjusts various clothing and texture related meshes
+- Incompatible with most visual overhaul mods and cannot be easily patched. Best used alongside vanilla plus modlists.
+
+[Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003) - Fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI.
+- Highly recommended, but has a complicated required patching process. DO NOT USE this mod without patching.
+
 
 ### Visual Improvements
 [Accurate NASA Stars](https://www.nexusmods.com/newvegas/mods/75522) - New 4k star texture and mesh using NASA satellite images to create a real-world accurate starfield for New Vegas.
-- Needs to be loaded after weather mods.
+- Must be loaded after weather mods.
 
 [Armed To The Teeth - Redux](https://www.nexusmods.com/newvegas/mods/74936) - Allows you to holster up to 4 weapons on your body at once.
 
-[Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
-[Collision Meshes - Mojave](https://www.nexusmods.com/newvegas/mods/59149)
-- These mods improve collision mesh details both both DC and the Mojave Wastelands. This will allow shooting bullets inbetween tight spaces without shooting invisible walls (for example, cracks in bus stops or metal bars on water towers).
-- The order of your mesh replacement mods should be NVMIM, followed by both versions of collision meshes, followed by MAC-TEN, followed by ITEM.
-
 [Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
 - Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
+
+[TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
 [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) - Adds a customizable visual effect when the player is exposed to radiation. Includes ionizing particles, static noise, blurred vision, and more.
 - Please note that the high quality verison will increase menu main load time, but will not worsen in-game performance.
@@ -462,22 +553,22 @@ The following are designed to be placed in the following load order if using the
 
 [CKR - Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145) - Replaces all humanoid character assets.
 - This mod becomes substantially more performance demanding if used alongside many mods that add additional NPCs.
+- Incompatible with [HD Head and Face Textures](https://www.nexusmods.com/newvegas/mods/78229).
 - Use the optional CKR - IVMB - T4 patch provided on the main mod page.
 - Avoid the uncompressed face patch, as it will have a substantial performance impact.
-
-[CKR - Teeth](https://www.nexusmods.com/newvegas/mods/82146) 
-
-[CKR - Hands](https://www.nexusmods.com/newvegas/mods/82148)
-- Also get the optional IVMB - T4 patch provided on the main mod page.
-
-[CKR - Hair](https://www.nexusmods.com/newvegas/mods/82147)
-
-[Facegen Patches](https://www.nexusmods.com/newvegas/articles/55233) - Lack of appropriate patching will result in SIGNIFICANT visual oddities. Alternatively, the bLoadFaceGenHeadEGTFiles setting in the falloutcustom.ini can be enabled in lieu of using facegen patches. Enabling this setting WILL have a large performance impact.
-- [TTW Facegen Patch](https://www.nexusmods.com/newvegas/mods/82447)
-- Facegen Patches for Various Mods
-  - [Facegen Patches for DC-Based Mods](https://www.nexusmods.com/newvegas/mods/83129)
-  - [Facegen Patches for Mojave-Based Mods](https://www.nexusmods.com/newvegas/mods/83104)
-  - [Facegen Patches for Th3Overseer's Mod Collection](https://mod.pub/falloutnv/71-th3overseer-mod-collection-character-kit-remake-facegen-patch)
+- [CKR - Teeth](https://www.nexusmods.com/newvegas/mods/82146) 
+- [CKR - Hands](https://www.nexusmods.com/newvegas/mods/82148)
+  - Also get the optional IVMB - T4 patch provided on the main mod page.
+- [CKR - Hair](https://www.nexusmods.com/newvegas/mods/82147)
+- [Facegen Patches](https://www.nexusmods.com/newvegas/articles/55233) - Lack of appropriate patching will result in SIGNIFICANT visual oddities. Alternatively, the bLoadFaceGenHeadEGTFiles setting in the falloutcustom.ini can be enabled in lieu of using facegen patches. Enabling this setting WILL have a large performance impact.
+  - [TTW Facegen Patch](https://www.nexusmods.com/newvegas/mods/82447)
+  - Facegen Patches for Various Mods
+    - [Facegen Patches for DC-Based Mods](https://www.nexusmods.com/newvegas/mods/83129)
+    - [Facegen Patches for Mojave-Based Mods](https://www.nexusmods.com/newvegas/mods/83104)
+    - [Facegen Patches for Th3Overseer's Mod Collection](https://mod.pub/falloutnv/71-th3overseer-mod-collection-character-kit-remake-facegen-patch)
+ 
+[HD Head and Face Textures](https://www.nexusmods.com/newvegas/mods/78229) - New high-quality face and head appearances for various types of characters.
+- A less memory intensive alternative to [CKR](https://www.nexusmods.com/newvegas/mods/82145).
 
 
 ### Animations
@@ -485,6 +576,7 @@ The following are designed to be placed in the following load order if using the
 
 [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - All-in-one movement expansion - featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
 - Pairs nicely with [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) after disabling the built-in lean setting, though this comes down to personal preference.
+- [1st Person Sliding Fix](https://www.nexusmods.com/newvegas/mods/85247) is redunant with Enhanced Movement and can be removed.
 
 [Idle Variety](https://www.nexusmods.com/newvegas/mods/85718) - Adds idle animation variants to NPCs - More life and less monotony.
 
@@ -507,11 +599,59 @@ The following are designed to be placed in the following load order if using the
     - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
    
 ### Audio
+[ATMOS Ambience Overhaul](https://www.nexusmods.com/newvegas/mods/85939) - You last downloaded a file from this mod on 15 Apr 2024
+Modernized ambient soundscape with an object based directional sound system.
+
 [The Golden Archive](https://mod.pub/falloutnv/122-the-golden-archive) - Greatly extends Radio New Vegas with 200+ lore friendly tracks.
 - If using alongside [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554), use the TTW - No Radio New Vegas version of Music Addition available in the FOMOD. 
 
 
 ## Changelog
+1.1 - 4/20/2024
+- Added a caveat that Enhanced Movement and 1st Person Sliding Fix are redundant when used together.
+- Added Mainframes Litter Flickering Fix.
+- Added Laser Pistol 3rd Person Latch Animation Fix.
+- Added TTW Combat Shotgun HQ Reload Sounds.
+- Added Consistent Spread - Firearms Accuracy and Wobble Fix.
+- Added Equip and Movement Speed Fix - ESPless.
+- Added Mostly Fixed FaceGen Tints (NV or TTW).
+- Added Freeside Neon Sign Fix.
+- Added Gauss Impact Fix - ESPless.
+- Added Gun Runners Kiosk Glass Fix.
+- Added Impostors and LOD Flicker Fix.
+- Added Melee VATS Animation Restoration.
+- Added Money Fixer - ESPless.
+- Added MZ Holding Cells Fog Clip Distance Fix.
+- Added NPCa - NPC Prevention of Chem addiction - ESPless.
+- Added Pip-Boy Light Flicker Fix - NVSE.
+- Added Ranger Combat Helmets Clipping Fix.
+- Added Smooth True Iron Sights Camera.
+- Added Swimming Creatures Fix - ESPless.
+- Added Tranquility Lane Pipboy Glove and Custom Race Fix.
+- Added Vanilla Animations Weapon Scale Fix.
+- Added Weapon Mod Description Fix (TTW).
+- Added ExRB - Extended Roombounds.
+- Added Fallout 3 TTW Interior Optimization Project.
+- Added a Meshes sub-section under the Visuals section.
+- Moved Collision Meshes to the Meshes sub-section.
+- Added Skinned Mesh Improvement Mod.
+- Added Vent Lighting Fix.
+- Added Improved AI (Navmesh Overhaul Mod).
+- Added Item Cards.
+- Added SSS - Sweets Simple Settings.
+- Added TTW Ultimate Invisible Wall Remover.
+- Added The Someguy Series, including New Vegas Bounties I LE, Sweet Style Bounties, New Vegas Bounties I LE - kNVSE Sets, and New Vegas Killer LE.
+- Added TTW - Megaton Lighting Overhaul.
+- Added Havasu Blues Bugfixes.
+- Added Female Pipboy Aligned.
+- Added Crippled Limb Reaction Enforcer.
+- Added Purchase Items on Display (xNVSE).
+- Added Capital Wasteland Hideouts.
+- Added HD Head and Face Textures.
+- Adjusted the layout of CKR and associated mods.
+- Added Realistic Weapon Name Replacer - RWNR.
+- Added Misc. Gamesettings Tweaks.
+
 1.04 - 4/9/2024
 - Fixed a mislabeled CKR mod.
 
@@ -521,8 +661,8 @@ The following are designed to be placed in the following load order if using the
 - Added Mainframes Litter Flickering Fix.
 - Added both DC and Mojave Collision Meshes.
 - Added Point Lookout Doctors TTW.
-- Added an audio sub-section under the Visuals category, which is now renamed to Visuals & Audio.
-- Added an Audio section anThe Golden Archive.
+- Added an audio sub-section under the Visuals Section, which is now renamed to Visuals & Audio.
+- Added The Golden Archive.
 - Added Immersive Fast Travel Encounters TTW Edition.
 - Added Immersive Sleeping Encounters.
 - Added CaliberZL More Mod Stuff.
