@@ -420,7 +420,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 ### Creature, Enemy, Weapon, & Armor Overhauls
 
 :::caution Important!
-This section assumes you have already visited Sal's [New Vegas Visual Renewal - Mutation Section](https://salamand3r.fail/new-vegas-visual-renewal/mutation) for creature add-on packs, [New Vegas Visual Renewal - Refurbishment Section](https://salamand3r.fail/new-vegas-visual-renewal/refurbishment) for armor add-on packs, and [New Vegas Visual Renewal - Aggression Section](https://salamand3r.fail/new-vegas-visual-renewal/aggression) for weapon add-on packs. Duplicates and redundancies are intentionally omitted.
+This section assumes you have already visited Sal's [New Vegas Visual Renewal - Mutation Section](https://salamand3r.fail/new-vegas-visual-renewal/mutation) for creature add-on packs, [New Vegas Visual Renewal - Refurbishment Section](https://salamand3r.fail/new-vegas-visual-renewal/refurbishment) for armor add-on packs, and [New Vegas Visual Renewal - Aggression Section](https://salamand3r.fail/new-vegas-visual-renewal/aggression) for weapon add-on packs. Duplicates and redundancies are intentionally omitted. If any of the following mods are added to Sal's guide, they will be removed from Additions.
 :::
 
 [Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101) - Removes ghouls "roar" animation that plays before they attack, meaning they now charge the player instantly - making them much deadlier.
