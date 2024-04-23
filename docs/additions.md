@@ -599,8 +599,7 @@ The following are designed to be placed in the following load order if using the
     - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
    
 ### Audio
-[ATMOS Ambience Overhaul](https://www.nexusmods.com/newvegas/mods/85939) - You last downloaded a file from this mod on 15 Apr 2024
-Modernized ambient soundscape with an object based directional sound system.
+[ATMOS Ambience Overhaul](https://www.nexusmods.com/newvegas/mods/85939) - Modernized ambient soundscape with an object based directional sound system.
 
 [The Golden Archive](https://mod.pub/falloutnv/122-the-golden-archive) - Greatly extends Radio New Vegas with 200+ lore friendly tracks.
 - If using alongside [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554), use the TTW - No Radio New Vegas version of Music Addition available in the FOMOD. 
