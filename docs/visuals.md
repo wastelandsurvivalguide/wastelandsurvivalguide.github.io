@@ -13,6 +13,26 @@ We felt texture mods are out of the scope of this guide, but feel free to check 
 
 ## Visual Fixes & Optimizations
 
+### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)
+
+Fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI.
+
+#### Installation:
+
+- Main File - Navmesh Overhaul
+
+### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975)
+
+A comprehensive invisible wall remover for Tale of Two Wastelands.
+
+### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
+
+Improves collision meshes detail in the Capital Wasteland.
+
+### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
+
+Improves collision meshes detail in the Mojave.
+
 ### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
 
 Optimizations and fixes for a large selection of meshes in the base game and DLC. 
@@ -25,6 +45,14 @@ Fixes dozens of game models across the base game and DLCs.
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
+### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501) 
+
+Adds/changes roombounds for some interior cells. Can provide better performance.
+
+### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909) 
+
+Optimizes more than 200 interior cells with roombounds and occlusion planes to improve the performance in the Capital Wasteland.
+
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
@@ -32,6 +60,10 @@ Significantly improves performance on the New Vegas strip by removing unseen wat
 #### Installation:
 
 - Main File - Strip Performance Fix
+
+### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
+
+Adjusts a few shader flags to litter meshes to stop the flickering.
 
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
@@ -59,11 +91,11 @@ Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dar
 
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
-Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
+Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
 
 #### Installation:
 
-- Main File - PipBoyOn Node Fixes TTW
+- Main File - BoyOn Node Fixes TTW
 
 ### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
@@ -121,10 +153,6 @@ Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad ble
 
 - Main File - 3rd Person Animation Fixpack
 
-### [1st Person Sliding Fix](https://www.nexusmods.com/newvegas/mods/85247)
-
-Fixes the gliding that occurs when stopping movement and turning the camera simultaneously in 1st person.
-
 ### [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417)
 
 Removes the requirement to patch weapons manually for ISControl nodes of animations. **Required** for Anniversary Anim Pack.
@@ -136,6 +164,15 @@ Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion,
 #### Installation:
 
 - Main File - Anniversary Anim Pack
+
+### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
+
+An all-in-one movement expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
+
+#### Installation:
+
+- Main File - Enhanced Movement
+- Main File - [Enhanced Movement Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
 
 ### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
 
@@ -193,13 +230,21 @@ Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.
 - Main File - Climate Control - Rain
 - Optional File - Climate Control - 3D Rain
 
-### [Atmospheric Lighting Tweaks](https://www.nexusmods.com/newvegas/mods/79378)
+### [General Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/84223)
 
-Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
+A fully scripted, fully compatible adjustment to lighting and postprocessing.
 
 #### Installation:
 
-- Main File - Atmospheric Lighting Tweaks - TTW
+- Main File - General Lighting Overhaul
+
+### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
+
+Remove the tints from Interiors.
+
+#### Installation:
+
+- Main File - General Lighting Overhaul
 
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
