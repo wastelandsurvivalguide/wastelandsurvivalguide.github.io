@@ -98,6 +98,22 @@ management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-yn
 - Main File - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
 - Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 
+### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
+
+A stripped down and updated version of No PipBoy in Power Armor, which uses a holopanel instead.
+
+#### Installation:
+
+- Main File - SPAHUD
+
+### [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) 
+
+For use with [Simple Power Armor HUD, provides an improved holographic control panel interface when activating the pip-boy.
+
+#### Installation:
+
+- Main File - Alternate Holographic Panel - Background Version
+
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
 Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
@@ -334,6 +350,21 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
   - ySI - Sorting Icons
     - [x] MAPMO Bottle Cap (Color)
     - [ ] MAPMO Bottle Cap (Grayscale)
+   
+### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) 
+
+Adds Item Cards with detailed stat comparisons while hovering over weapons, armor, and more.
+
+#### Installation:
+
+- Main File - Item Cards
+ - [x] Plugin (Recommended)
+ - [ ] Scriptrunner
+- Main File - [Item Cards Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129342&nmm=1)
+   
+### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) 
+
+A Zelda BOTW/TOTK style weapon and item selection menus.
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
