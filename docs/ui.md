@@ -214,13 +214,13 @@ This mod adds unique icons to Apparel, Weapons and Items on things that previous
 This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
 *(No, this is not a mistake. They have the exact same description. DP farming to the max.)*
 
-### [Consistent Pip-Boy Icons v5 - Dynamicon](https://www.nexusmods.com/newvegas/mods/85411)
+### [Consistent Pip-Boy Icons v5 - Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 
 Perk Icons Dynamically change depending on your rank. This mod also introduces distinctive Icons for Weapons, Apparel and Items.
 
 #### Installation:
 
-- Main File - Consistent Pip-Boy Icons v5 - Dynamicon
+- Main File - Consistent Pip-Boy Icons v5 - Dynamico
   - Dynamicon:
     - [x] Main Mod
     - [x] Optional ESPLess Plugin
@@ -232,6 +232,14 @@ Featuring meticulously hand-drawn item icons seen in the DLC's of Fallout New Ve
 ### [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
 
 A meticulously hand-drawn recreation of every karma and reputation icon.
+
+### [Consistent Pip-Boy Icons v5 - Stats (and Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
+
+A remake of every Special and Skill icons, oh and some Perks too.
+
+### [Consistent Pip-Boy Icons v5 - Vault Girl Extension)](https://www.nexusmods.com/newvegas/mods/84838)
+
+This mod adds unique icons to Apparel and Items on things that previously did not have any.
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
 
@@ -358,8 +366,9 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
 #### Installation:
 
 - Main File - Item Cards
- - [x] Plugin (Recommended)
- - [ ] Scriptrunner
+  - Main File:
+    - [x] Plugin (Recommended)
+    - [ ] Scriptrunner
 - Main File - [Item Cards Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129342&nmm=1)
    
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) 
