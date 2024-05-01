@@ -25,13 +25,26 @@ Fixes and improves vanilla game pathfinding errors and will provide a better and
 
 A comprehensive invisible wall remover for Tale of Two Wastelands.
 
+#### Installation:
+
+- Main File - TTW Ultimate Invisible Wall Remover (ESM Version)
+
 ### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
 
 Improves collision meshes detail in the Capital Wasteland.
 
+#### Installation:
+
+- Main File - Collision Meshes FO3
+
 ### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
 
 Improves collision meshes detail in the Mojave.
+
+#### Installation:
+
+- Main File - Collision Meshes FNV
+- Main File - Update Collision Meshes FNV 1.6.3 to 1.6.4
 
 ### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
 
