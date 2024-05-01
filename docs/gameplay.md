@@ -11,16 +11,16 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Gameplay**.
 
 :::note
-The **recommended** difficulty with these mods enabled is **Very Hard** with **Hardcore Mode** **on**. Sweet's page will tell you to use **Normal**, but with Better Damage Multipliers, I feel **Very Hard** is a justified difficulty. - Very
+Sweet's mod pages will tell you to use **Normal** difficulty with her mods, but with Better Damage Multipliers, any difficulty choice is justifiable.
 :::
 
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
-Adds a functional reputation system to Fallout 3 for parity with New Vegas; compatible with TTW New Vegas Speech Checks.
+Adds a functional reputation system to Fallout 3 for parity with New Vegas.
 
 ### [TTW N.V. Speech Checks](https://www.nexusmods.com/newvegas/mods/68736)
 
-Converts all Fallout 3 dialogue to use the New Vegas speech system; compatible with TTW Reputations.
+Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
 
 #### Installation:
 
@@ -29,11 +29,11 @@ Converts all Fallout 3 dialogue to use the New Vegas speech system; compatible w
 
 ### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
 
-Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay & lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
+Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay and lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
 
 ### [Tale of Bi Wastelands TTW - TTW Reputations + TTW New Vegas Speech Checks Patches](https://www.nexusmods.com/newvegas/mods/76206)
 
-Two tiny patches to ensure proper functionality between pintocat's Tale of Bi Wastelands TTW and Kazopert's TTW Reputations and TTW New Vegas Speech Checks.
+Patches to provide Tale of Bi Wastelands compatibility with TTW Reputations and TTW Speech Checks.
 
 #### Installation:
 
@@ -42,7 +42,7 @@ Two tiny patches to ensure proper functionality between pintocat's Tale of Bi Wa
 
 ### [Charisma Affects Reputation](https://www.nexusmods.com/newvegas/mods/84787)
 
-Makes Charisma a much more useful stat by making it affect how much reputation you earn with factions for various actions. High enough Charisma can save you from becoming vilified while low Charisma makes it impossible to become idolized.
+Enhances the impact of Charisma by making it affect the amplitude of reputation gains. High charisma can save you from becoming vilified, while low charisma makes it impossible to become idolized.
 
 #### Installation:
 
@@ -50,7 +50,7 @@ Makes Charisma a much more useful stat by making it affect how much reputation y
 
 ### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
 
-This mod makes it so barter and speech checks take into account both your Charisma and the Intelligence of the person you're speaking to, making them harder or easier depending on the stats.
+This mod makes it so that your Charisma and the Intellence of the person you're speaking to impact barter and speech checks.
 
 #### Installation:
 
@@ -59,7 +59,7 @@ This mod makes it so barter and speech checks take into account both your Charis
 
 ### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
 
-This is a rebalance and overhaul of many base game perks, with many granting bonuses based on active SPECIAL values.
+This is a complete rebalance and overhaul of many base game perks.
 
 #### Installation:
 
@@ -68,7 +68,7 @@ This is a rebalance and overhaul of many base game perks, with many granting bon
 
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
-The Sweet 6 Shooter perk pack adds a ton of new perks and traits that aim to flesh out the perk selection throughout the game for just about every playstyle, with a heavy focus on proper balance and role-playing.
+The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
 
 #### Installation:
 
@@ -76,7 +76,7 @@ The Sweet 6 Shooter perk pack adds a ton of new perks and traits that aim to fle
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
-Adds a container upon completing Mothership Zeta, it will be populated with the items from any abductees you decided to keep alive during your playthrough. Think Honest Hearts, but better!
+Adds a container after completing Mothership Zeta that is populated with the items from any abductees you kept alive during your playthrough.
 
 ### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
@@ -84,7 +84,7 @@ Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old
 
 ### [Transporters](https://www.nexusmods.com/newvegas/mods/77645) 
 
-A fast-travel overhaul implementing an alternative that uses molerats and moleholes. Adds a new faction, settlement, and quest as well.
+A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well.
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
@@ -105,11 +105,11 @@ This mod provides you with a greater choice regarding what items to receive at t
 
 ### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
 
-This is a small mod that provides you stat based starting gear at the beginning of your TTW playthrough.
+This is a mod that provides you stat based starting gear at the beginning of your TTW playthrough.
 
 ### [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173)
 
-This tiny mod removes the free XP, which would grant a levelup when leaving the vault in Fallout 3.
+This mod removes the free XP, which would grant a levelup when leaving the vault in Fallout 3.
 
 #### Installation:
 
@@ -117,12 +117,16 @@ This tiny mod removes the free XP, which would grant a levelup when leaving the 
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
 
-Resets the player's level and skills, as well as removes gear upon travelling from the CW to the Mojave for the first time.
+Resets the player's level and skills, as well as removes gear upon travelling from the Capital Wasteland to the Mojave for the first time. Players get to keep their perks during this transition and eventually recover their items.
 
 #### Installation:
 
 - Main File - Benny Humbles You and Steals Your Stuff
 - Main File - [BHYSYS Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121839&nmm=1)
+
+### [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
+
+Makes the Nail Gun semi-automatic, providing a reasonable early game weapon option.
 
 ### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) 
 
@@ -132,17 +136,13 @@ Automatically organizes your items in any interior cell. Can be tricky to set up
 
 - Main File - Stash Organizer
 
-### [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
-
-Recommended to be used in tandem with the previous mod.
-
 ### [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378)
 
 Replaces all static (non-interactive) containers with lootable equivalents.
 
 ### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 
-JAM is a compilation of interface and gameplay-enhancing mods in one package, configurable in MCM. Features FO4-style Loot Menu, Sprint, Bullet Time, and much more.
+JAM is a compilation of interface and gameplay-enhancing mods in one package, configurable in MCM. Features a FO4-style Loot Menu, Bullet Time, and much more.
 
 #### Installation:
 
@@ -162,7 +162,7 @@ An addon for Just Assorted Mods that adds some new features for Just Bullet Time
 
 ### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
-An all-in-one movement expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
+An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
 
 #### Installation:
 
@@ -171,7 +171,7 @@ An all-in-one movement expansion featuring movement bug fixes, 1st person diagon
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
-Simple kNVSE implementation of combat sprinting for melee NPCs.
+An implementation of combat sprinting for melee NPCs.
 
 #### Installation:
 
@@ -189,7 +189,7 @@ Main Files:
 
 ### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
 
-This small scriptrunner standardizes all of the player's body part damage multipliers.
+Standardizes all of the player's body part damage multipliers.
 
 ### [JIP LN Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
 
@@ -201,7 +201,7 @@ Configurations for "JohnnyGuitar NVSE" for the best out-of-the-box experience an
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
-Implements a working gameplay system so that the Strength and Skill requirements that weapons list finally do something for ALL of them.
+Implements customizable Strength and Skill requirements for weapons, making them actually adhere to their previously inconsequential listed requirements.
 
 #### Installation:
 
@@ -214,7 +214,7 @@ Adds working recoil to the wasteland.
 
 ### [Dynamic Weapon Spread 2.0](https://www.nexusmods.com/newvegas/mods/82393)
 
-An overhaul to the weapon spread system that allows firearms to be far more accurate in certain conditions, and less accurate where appropriate.
+An complete overhaul to the weapon spread system that enhances realism.
 
 #### Installation:
 
@@ -223,15 +223,15 @@ An overhaul to the weapon spread system that allows firearms to be far more accu
 
 ### [Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974)
 
-Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread setting.
+Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread settings.
 
 ### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127133&nmm=1)
 
-A custom INI file for Stewie's Tweaks that enables a lot more useful gameplay and QoL changes.
+A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
 
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
-Collection of small miscellaneous tweaks for TTW.
+A collection of small miscellaneous tweaks for TTW.
 
 #### Installation:
 
@@ -240,15 +240,15 @@ Collection of small miscellaneous tweaks for TTW.
 
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
 
-Adds crafting and breakdown recipes for pretty much all of the ballistic ammo types that were missing them in NV and TTW.
+Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
 
 ### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
 
-This mod changes the way armor damage is calculated, from the reduced damage value after applying DT/DR, to the base damage value. It doesn't make much sense that there are two different ways armor 'toughness' is calculated, and this mod fixes that, among other tweaks.
+This mod completely overhauls the way armor damage is calculated, replacing the non-sensical formula that governed condition degradation and damage taken.
 
 ### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
 
-Engine plugin significantly improving the usability of the Caravan minigame.
+Improves the usability of the Caravan minigame.
 
 ### [Casino Exchange All](https://www.nexusmods.com/newvegas/mods/35701)
 
@@ -267,11 +267,11 @@ Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 #### Installation:
 
-- Main File - Faster Pip-Boy - Choose the desired speed and the version that aligns with your character's sex.
+Choose the desired speed and the version that aligns with your character's sex.
 
 ### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
-Changes TTW's Hardcore mode to grant perk every level, instead of every two.
+Changes TTW's Hardcore mode to grant a perk every level, instead of every two.
 
 #### Installation:
 
@@ -279,7 +279,7 @@ Changes TTW's Hardcore mode to grant perk every level, instead of every two.
 
 ### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766)
 
-This is just a little series of esp-free ScriptRunners to give TTW vendors better selections.
+Gives TTW vendors better selections.
 
 #### Installation:
 
@@ -311,7 +311,7 @@ A highly customizable loot scarcity mod.
 
 ### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) 
 
-Overhauls all aspects of radiation.
+Overhauls all aspects of radiation, making it far more consequential.
 
 #### Installation:
 
@@ -319,20 +319,20 @@ Overhauls all aspects of radiation.
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
-Sweet's take on a lighter alternative to BLEED's damage overhaul.
+Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage re-balancing, and a DT/DR/resistance overhaul for creatures.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
 - Main File - New Blood
 
 ### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
-Improved damage multipliers for the game's difficulty settings.
+Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
 
 ### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
 
-Featuring 16 new healing items and new Survival healing options, this mod is a nice addition to New Blood, adding items to deal with the actual bleed effect, among many others.
+Features 16 new healing items and new Survival healing options, including a bandage that removes the bleeding effect imparted by the New Blood mod.
 
 #### Installation:
 
@@ -341,7 +341,7 @@ Featuring 16 new healing items and new Survival healing options, this mod is a n
 
 ### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
 
-Top to bottom overhaul of consumable and misc items. Goes well with the previous two mods.
+Top to bottom overhaul of consumable and misc items.
 
 #### Installation:
 
