@@ -160,15 +160,14 @@ Higher resolution UI elements for Just Assorted Mods.
 
 An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
 
-### [Just Sprint Plus - Expansion for JAM](https://www.nexusmods.com/newvegas/mods/83797)
+### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
-Addon package for JAM/JVS that includes new features, animations, gameplay options, and 360 movement support.
+An all-in-one movement expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
 
 #### Installation:
 
- - Install For:<br/>
-   <RadioButtonCheckedIcon fontSize="small" /> JAM - Just Assorted Mods<br/>
-   <RadioButtonUncheckedIcon fontSize="small" /> JVS - Just Vanilla Sprint<br/>
+- Main File - Enhanced Movement
+- Main File - [Enhanced Movement Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
