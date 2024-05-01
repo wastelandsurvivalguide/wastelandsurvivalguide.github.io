@@ -35,11 +35,11 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 
 ### [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)
 
-Adds several scripted events & hundreds of NPCs who will patrol roads, travel between towns, occupy locations, explore the desert, and react dynamically to your choices throughout the game.
+Adds several scripted events and hundreds of NPCs who will patrol roads, travel between towns, occupy locations, explore the desert, and react dynamically to your choices throughout the game.
 
 ### Sweet Pain DC
 
-Overhauls things in A World Of Pain for Fallout 3 to be more appropriate for early and mid level play. 
+Overhauls A World Of Pain for Fallout 3 to be more appropriate for early and mid level play. 
 
 #### Installation:
 
@@ -48,7 +48,7 @@ Overhauls things in A World Of Pain for Fallout 3 to be more appropriate for ear
 
 ### Sweet Pain NV
 
-Overhauls things in AWOP Revised to be more appropriate for early and mid level play.
+Overhauls A World Of Pain Revised for New Vegas to be more appropriate for early and mid level play.
 
 #### Installation:
 
@@ -58,7 +58,7 @@ Overhauls things in AWOP Revised to be more appropriate for early and mid level 
 
 ### [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809)
 
-Adds more locations to game at the more sparse areas of worldspace. Integrates few elements of DLC into base game and makes exploring worthwhile thing to do. 
+Adds more locations to the New Vegas landscape to epxand upon sparser areas. Integrates a few elements from the DLCs into the base game and makes exploring more worthwhile. 
 
 #### Installation:
 
@@ -68,7 +68,7 @@ Adds more locations to game at the more sparse areas of worldspace. Integrates f
 
 ### Uncut Wasteland & Extra Collection
 
-Restores a huge amount of scenery, NPCs, creatures and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
+Restores a huge amount of scenery, NPCs, creatures, and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
 
 #### Installation:
 
@@ -82,11 +82,11 @@ Main Files:
 
 ### [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
 
-Adds a quest that takes you across 10 different locations across the Capital Wasteland in search of treasure with a nice reward at the end.
+Adds a quest that takes you to 10 different locations across the Capital Wasteland in search of treasure.
 
 ### [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
 
-This mods allows you to take on various missions from the Regulators HQ to hunt fugitives.
+Allows you to take on various missions from the Regulators HQ to hunt down fugitives.
 
 ## Other Changes
 
@@ -99,7 +99,7 @@ This mods allows you to take on various missions from the Regulators HQ to hunt 
 
 ### [Home and Safehouse Tweaks](https://mod.pub/falloutnv/44-home-and-safehouse-tweaks)
 
-Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI if desired.
+Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI to your tastes.
 
 #### Installation:
 
@@ -123,5 +123,5 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1) (If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in this section.)
 
 :::note
-This mod edits dialogue options. Do not ask about it in support channels, dialogue changes are intentional.
+This mod edits dialogue options. Do not ask about it in support channels, the dialogue changes are intentional.
 :::
