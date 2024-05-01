@@ -307,7 +307,7 @@ A highly customizable loot scarcity mod.
 #### Installation:
 
 - Main File - Unfound Loot
-- Main File - [Unfound Loot Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1] - Optional for those who desire a more difficult loot economy.
+- Main File - [Unfound Loot Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1) - Optional for those who desire a more difficult loot economy.
 
 ### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) 
 
