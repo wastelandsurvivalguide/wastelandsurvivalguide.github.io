@@ -9,6 +9,7 @@
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/newvegas/users/3644561)
 - [Shabby Pirate](https://www.nexusmods.com/users/78372218)
+- [Kamchatka](#)
 
 ### Contributors & Shoutouts
 
@@ -37,7 +38,7 @@
 - [OceanGaming](https://www.nexusmods.com/newvegas/users/34390455)
 - [Patchier](https://www.nexusmods.com/newvegas/users/3068108)
 - [Qolore7](https://www.patreon.com/vivanewvegas)
-- [RagamuffinSkullman](https://twitter.com/skul1manexe)
+- [RagamuffinSkullman](https://next.nexusmods.com/profile/RagamuffinSkullman/about-me)
 - [RoyBatty](https://www.patreon.com/RoyBatty)
 - [shad0wshayd3](https://www.nexusmods.com/newvegas/users/5232181)
 - [Sweet6Shooter](https://www.nexusmods.com/newvegas/users/2443503)
