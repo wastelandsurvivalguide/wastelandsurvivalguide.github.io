@@ -21,7 +21,7 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 
 ### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
 
-Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View and Terminal Screen Field of View.
+Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
 :::note
 This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution. I've never had issues with it personally. - Audixas
@@ -44,8 +44,7 @@ Modernized vanilla-style UI with many enhancements and bugfixes.
 
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
-NVSE plugin that aims to fix UI bugs and add new UI features. Doesn't do anything
-that noticeable on its own without [ySI - Sorting Ycons](#ysi---sorting-ycons).
+Aims to fix UI bugs and add new UI features.
 
 #### Installation:
 
@@ -89,7 +88,7 @@ bEnableCategories = 1
 
 Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
 management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
-(it should be if following the guide). The colorful icons are recommended, they look really good in-game.
+(it should be if following the guide). The colorful icons are recommended and look great in-game.
 
 #### Installation:
 
@@ -100,7 +99,7 @@ management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-yn
 
 ### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
 
-A stripped down and updated version of No PipBoy in Power Armor, which uses a holopanel instead.
+A stripped down and updated version of No PipBoy in Power Armor, which replaces the pip-boy with a holopanel while wearing power armor.
 
 #### Installation:
 
@@ -108,7 +107,7 @@ A stripped down and updated version of No PipBoy in Power Armor, which uses a ho
 
 ### [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) 
 
-Provides an improved holographic control panel interface when activating the pip-boy while using Simple Power Armor HUD.
+Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
 
 #### Installation:
 
@@ -116,7 +115,7 @@ Provides an improved holographic control panel interface when activating the pip
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
-Hand-made up-scaled/cleaned recreations of many vanilla HUD elements.
+Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
 
 #### Installation:
 
@@ -148,7 +147,7 @@ A faithful HD remake of the vanilla Monofonto and Futura fonts.
 
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
 
-Sharper, clearer screens for terminals, Pip-Boy, etc.
+Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
@@ -156,7 +155,7 @@ This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper 
 
 ### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
 
-This is a interface overhaul that cleans up all of the smudgy Icons and the textures surrounding the Companion Wheel while retaining the original design as much as possible.
+This is a interface overhaul that improves all of the low resolution icons and the textures of the Companion Wheel.
 
 #### Installation:
 
@@ -164,11 +163,11 @@ This is a interface overhaul that cleans up all of the smudgy Icons and the text
 
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
-Needed for the following mods.
+A framework for the following Consistent Pip-Boy Icon mods.
 
 ### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
 
-High-quality icons.
+High-quality Pip-Boy icons.
 
 #### Installation:
 
@@ -178,11 +177,11 @@ High-quality icons.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>Placed here to keep LOC's mods from bloating the page. In our opinion, base Consistent Pip-Boy Icons is fine. If you want more high quality UI aspects, continue on.
+<p>Placed here to keep these mods from bloating the page. If you want more high-quality UI mods, continue on.
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
-"Pop-Up Message Icons!" Is an overhaul to ever single Pop-Up Vault Boy Head that you see in the top left corner of the screen in FO3/NV.
+"Pop-Up Message Icons!" Is an overhaul to every single Pop-Up Vault Boy Head that you see in the top left corner of the screen.
 
 #### Installation:
 
@@ -215,7 +214,7 @@ More high-quality assorted icons.
 
 ### [Consistent Pip-Boy Icons v5 - Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 
-More high quality perk icons that dynamically change depending on your rank.
+More high-quality perk icons that dynamically change depending on your rank.
 
 #### Installation:
 
@@ -242,7 +241,7 @@ More high-quality apparel icons.
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
 
-A total overhaul to every Map Marker icon, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
+A total overhaul to Map Marker icons, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
 
 #### Installation:
 
@@ -284,7 +283,7 @@ That's a wrap.</p>
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
-A complete rework of the TTW main menu image in higher resolution with better detail.
+A complete high-resolution and more detailed rework of the Tale of Two Wastelands main menu image.
 
 #### Installation:
 
@@ -292,7 +291,7 @@ Choose the file matching your monitor's resolution.
 
 ### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915)
 
-Moves the loadwheel to the corner of the screen and removes the bars.
+Makes the loadwheel less intrusive by moving it to the corner of the screen and removing the associated bars.
 
 #### Installation:
 
@@ -300,7 +299,7 @@ Moves the loadwheel to the corner of the screen and removes the bars.
 
 ### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974)
 
-Replaces the vanilla loading wheel with a sleek, minimal design.
+Replaces the vanilla loading wheel with a sleek, minimalist design.
 
 #### Installation:
 
@@ -308,7 +307,7 @@ Replaces the vanilla loading wheel with a sleek, minimal design.
 
 ### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)
 
-Replaces all of the maps with simple vector imagery akin to Fallout 4.
+Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving readability and utility.
 
 #### Installation:
 
@@ -322,14 +321,14 @@ Sharper, clearer local maps.
 
 ##### Main & Pause Menus Overhaul
 
-Adds a bunch of features to the Main and Pause menus. Fully customizable.
+Adds ample features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
 - Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (moving it to the Utilities separator is recommended for the sake of organization)
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
-  - Press **N** from the pause menu to configure MAPMO's settings
+  - Press **N** from the pause or main menu to configure MAPMO's settings
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
@@ -348,10 +347,6 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
   - Main File:
     - [x] Plugin (Recommended)
     - [ ] Scriptrunner
-  - UI Compatability:
-    - [ ] Default
-    - [x] Vanilla UI+
-    - [ ] DarNified UI
   - General:
     - [x] Smooth Glow Cursor
   - ySI - Sorting Icons
@@ -372,19 +367,19 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
    
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) 
 
-A Zelda BOTW/TOTK style weapon and item selection menus.
+Adds high-quality quick select menus for weapon and item. Dramatically improves item usability and weapon swapping in combat and on the go!
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
-Changes the corner notifications to work like in Skyrim - multiple are shown at a time and fading out as new ones appear for better readability.
+Changes the corner notifications to improve readability - multiple appear simultaneously and fade out as new ones appear.
 
 ### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
 
-Adds a little UI widget that displays what you just looted.
+Adds a UI widget that displays what your recent loot.
 
 ### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer)
 
-Removes message boxes that pop up during the tutorial, as well as those that occur once during a new game, and repeating corner-messages.
+Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 
 :::note
 This mod removes **useful information** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, we would recommend **skipping this mod**, as the info it provides will not be learned through normal gameplay.
