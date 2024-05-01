@@ -27,3 +27,5 @@ The fools in the WSG team gave me the keys to the kingdom! If things are broken,
 - Added Enhanced Movement and a custom INI.
 - Added Item Cards and a custom INI.
 - Added Unfound Loot and a custom INI.
+- Added Consistent Pip-Boy Icons v5 - Stats (and Some Perks).
+- Added Consistent Pip-Boy Icons v5 - Vault Girl Extension.
