@@ -165,15 +165,6 @@ Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion,
 
 - Main File - Anniversary Anim Pack
 
-### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
-
-An all-in-one movement expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
-
-#### Installation:
-
-- Main File - Enhanced Movement
-- Main File - [Enhanced Movement Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
-
 ### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
 
 Gives weapons realistic inertia movement.
