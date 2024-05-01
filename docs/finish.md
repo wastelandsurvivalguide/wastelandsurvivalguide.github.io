@@ -62,6 +62,7 @@ Sweet Pain NV.esm
 MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
+SD_Transporters.esp
 ExRB.esp
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
@@ -89,7 +90,6 @@ DynamicWeaponSpread.esp
 DWS_JAM_patch.esp
 TTWZetaRewards.esp
 TTWTransportalponderEx.esp
-SD_Transporters.esp
 Supplemental Ammo Crafting.esp
 NewVegasBountiesTTW.esp
 Sweet Bounties.esp
