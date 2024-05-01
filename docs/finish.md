@@ -32,7 +32,10 @@ ClassicPack.esm
 MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
+NavmeshOverhaul.esm
 YUPTTW.esm
+TTW Ultimate Invisible Wall Remover.esm
+FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
 TweaksTTW.esm
 Tale of Bi Wastelands.esm
@@ -59,10 +62,14 @@ Sweet Pain NV.esm
 MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
+ExRB.esp
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
 FOVSlider.esp
+Power Armor Holo Panel.esp
 PipBoyUITweaks.esp
+ItemCards.esp
+QuickSelect.esp
 CharismaAffectsReputation.esp
 S6S Perks.esp
 Casino Exchange All.esp
@@ -73,6 +80,7 @@ TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
 TTW No Free Levelup Quick Start.esp
 JIP Companions Command & Control.esp
+Stash Organizer.esp
 JustAssortedMods.esp
 JBTImproved.esp
 Just Sprint Plus - JAM.esp
@@ -81,6 +89,7 @@ DynamicWeaponSpread.esp
 DWS_JAM_patch.esp
 TTWZetaRewards.esp
 TTWTransportalponderEx.esp
+SD_Transporters.esp
 Supplemental Ammo Crafting.esp
 NewVegasBountiesTTW.esp
 Sweet Bounties.esp
@@ -95,18 +104,22 @@ New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
 S6S Base Perks Redux No Big Guns Patch TTW.esp
+RAD.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
 Aid Addon.esp
+Healing Systems.esp
+Unfound Loot.esp
 WeaponRequirementSystem.esp
 MigArmorDegen.esp
 B42Inertia.esp
-1st Person Sliding Fix.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
 NVMIM.esp
 Atmospheric Lighting Tweaks TTW.esp
+GeneralLightingOverhaul.esp
+Natural Interior.esp
 DNWeathers.esp
 Interior Rain.esp
 Interior Rain - TTW.esp
