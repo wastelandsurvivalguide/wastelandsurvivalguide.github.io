@@ -195,51 +195,50 @@ High-quality icons.
 
 ### [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
 
-This update features a hand drawn recreation of every single item icon in two games.
+More high-quality item icons.
 
 ### [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
 
-This update features a hand drawn recreation of every single weapon icon in two games.
+More high-quality weapon icons.
 
 ### [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
 
-This update features a hand drawn recreation of every single apparel icon in two games.
+More high-quality apparel icons.
 
 ### [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
 
-This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
+More high-quality assorted icons.
 
 ### [Consistent Pip-Boy Icons v5 - Addendumb](https://www.nexusmods.com/newvegas/mods/85024)
 
-This mod adds unique icons to Apparel, Weapons and Items on things that previously did not have any. 
-*(No, this is not a mistake. They have the exact same description. DP farming to the max.)*
+More high-quality assorted icons.
 
 ### [Consistent Pip-Boy Icons v5 - Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 
-Perk Icons Dynamically change depending on your rank. This mod also introduces distinctive Icons for Weapons, Apparel and Items.
+More high quality perk icons that dynamically change depending on your rank.
 
 #### Installation:
 
 - Main File - Consistent Pip-Boy Icons v5 - Dynamico
-  - Dynamicon:
+  - Dynamico:
     - [x] Main Mod
     - [x] Optional ESPLess Plugin
 
 ### [Consistent Pip-Boy Icons v5 - DLC's Items](https://www.nexusmods.com/newvegas/mods/83629)
 
-Featuring meticulously hand-drawn item icons seen in the DLC's of Fallout New Vegas and Fallout 3.
+More high-quality DLC item icons.
 
 ### [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
 
-A meticulously hand-drawn recreation of every karma and reputation icon.
+More high-quality reputation icons.
 
 ### [Consistent Pip-Boy Icons v5 - Stats (and Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
 
-A remake of every Special and Skill icons, oh and some Perks too.
+More high-quality stats, special, skill, and perk icons.
 
 ### [Consistent Pip-Boy Icons v5 - Vault Girl Extension](https://www.nexusmods.com/newvegas/mods/84838)
 
-This mod adds unique icons to Apparel and Items on things that previously did not have any.
+More high-quality apparel icons.
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
 
