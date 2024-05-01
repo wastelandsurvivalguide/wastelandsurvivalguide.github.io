@@ -48,7 +48,11 @@ Improves collision meshes detail in the Mojave.
 
 ### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
 
-Optimizations and fixes for a large selection of meshes in the base game and DLC. 
+Optimizations and fixes for a large selection of meshes in the base game and DLC.
+
+#### Installation:
+
+- Main File - New Vegas Mesh Improvement Mod
 
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
@@ -66,6 +70,10 @@ Adds/changes roombounds for some interior cells. Can provide better performance.
 
 Optimizes more than 200 interior cells with roombounds and occlusion planes to improve the performance in the Capital Wasteland.
 
+#### Installation:
+
+- Main File - Fallout 3 Interior Optimization Project
+
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
@@ -77,6 +85,10 @@ Significantly improves performance on the New Vegas strip by removing unseen wat
 ### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
 
 Adjusts a few shader flags to litter meshes to stop the flickering.
+
+#### Installation:
+
+Main File - Mainframes Litter Flickering Fix v5
 
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
