@@ -108,7 +108,7 @@ A stripped down and updated version of No PipBoy in Power Armor, which uses a ho
 
 ### [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) 
 
-For use with [Simple Power Armor HUD, provides an improved holographic control panel interface when activating the pip-boy.
+Provides an improved holographic control panel interface when activating the pip-boy while using Simple Power Armor HUD.
 
 #### Installation:
 
