@@ -48,13 +48,14 @@ Makes Charisma a much more useful stat by making it affect how much reputation y
 
 - Main File - Charisma Affects Reputation
 
-### [TTW Charisma Affects Reputation - Reputations Patch](https://www.nexusmods.com/newvegas/mods/85154)
-
-Allows your Charisma to scale your reputation with TTW Reputations.
-
 ### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
 
 This mod makes it so barter and speech checks take into account both your Charisma and the Intelligence of the person you're speaking to, making them harder or easier depending on the stats.
+
+#### Installation:
+
+- Main File - CHR Tweaks
+- Optional File - CHR Tweaks - Carxt's Preset
 
 ### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
 
@@ -80,6 +81,10 @@ Adds a container upon completing Mothership Zeta, it will be populated with the 
 ### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
 Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
+
+### [Transporters](https://www.nexusmods.com/newvegas/mods/77645) 
+
+A fast-travel overhaul implementing an alternative that uses molerats and moleholes. Adds a new faction, settlement, and quest as well.
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
@@ -118,6 +123,14 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 
 - Main File - Benny Humbles You and Steals Your Stuff
 - Main File - [BHYSYS Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121839&nmm=1)
+
+### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) 
+
+Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
+
+#### Installation:
+
+- Main File - Stash Organizer
 
 ### [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
 
@@ -182,6 +195,10 @@ This small scriptrunner standardizes all of the player's body part damage multip
 ### [JIP LN Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
+
+### [JohnnyGuitar NVSE - INI Presets](https://www.nexusmods.com/newvegas/mods/86200)
+
+Configurations for "JohnnyGuitar NVSE" for the best out-of-the-box experience and extra features.
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
@@ -251,7 +268,7 @@ Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 #### Installation:
 
-- Main File - Faster Pip-Boy
+- Main File - Faster Pip-Boy - Choose the desired speed and the version that aligns with your character's sex.
 
 ### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
@@ -271,8 +288,35 @@ This is just a little series of esp-free ScriptRunners to give TTW vendors bette
 - Main File - Flak n Shrapnel Expansion
 
 :::danger Spicy Mods Ahead
-The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. **Procceed with caution!**
+The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced for hardcore mode. **Procceed with caution!**
 :::
+
+### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) 
+
+Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
+
+#### Installation:
+
+Choose one of the following:
+- Main File - Harder Barter Faster Stronger
+- Main File - Sicko Mode - Optional for those who desire a more difficult barter economy.
+
+### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot)
+
+A highly customizable loot scarcity mod.
+
+#### Installation:
+
+- Main File - Unfound Loot
+- Main File - [Unfound Loot Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1] - Optional for those who desire a more difficult loot economy.
+
+### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) 
+
+Overhauls all aspects of radiation.
+
+#### Installation:
+
+- Main File - RAD - Overhaul
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
@@ -280,7 +324,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (If not already installed previously.)
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
 - Main File - New Blood
 
 ### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
@@ -304,6 +348,10 @@ Top to bottom overhaul of consumable and misc items. Goes well with the previous
 
 - Main File - Sweet Consumables TTW
 
-:::note
-It's very highly recommended to use this mod with Hardcore mode on as that is what it was designed for.
-:::
+### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
+
+A complete overhaul and rebalancing of doctors, sleep, endurance, and infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
+
+#### Installation:
+
+- Main File - Sweet Healing Systems
