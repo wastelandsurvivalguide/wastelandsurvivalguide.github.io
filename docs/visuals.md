@@ -258,10 +258,6 @@ A fully scripted, fully compatible adjustment to lighting and postprocessing.
 
 Remove the tints from Interiors.
 
-#### Installation:
-
-- Main File - General Lighting Overhaul
-
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
 An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support.
