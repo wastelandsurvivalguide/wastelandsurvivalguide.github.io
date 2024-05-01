@@ -237,7 +237,7 @@ A meticulously hand-drawn recreation of every karma and reputation icon.
 
 A remake of every Special and Skill icons, oh and some Perks too.
 
-### [Consistent Pip-Boy Icons v5 - Vault Girl Extension)](https://www.nexusmods.com/newvegas/mods/84838)
+### [Consistent Pip-Boy Icons v5 - Vault Girl Extension](https://www.nexusmods.com/newvegas/mods/84838)
 
 This mod adds unique icons to Apparel and Items on things that previously did not have any.
 
