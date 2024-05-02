@@ -371,7 +371,7 @@ Adds high-quality quick select menus for weapon and item. Dramatically improves 
 
 #### Installation:
 
-- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files)
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (moving it to the Utilities separator is recommended for the sake of organization)
 - Main File - Quick Select
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
