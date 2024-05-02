@@ -252,6 +252,8 @@ A fully scripted, fully compatible adjustment to lighting and postprocessing.
 
 #### Installation:
 
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
 - Main File - General Lighting Overhaul
 
 ### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
