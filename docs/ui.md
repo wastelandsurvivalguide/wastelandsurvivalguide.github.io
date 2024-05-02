@@ -134,6 +134,8 @@ Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
     <RadioButtonCheckedIcon fontSize="small" /> None above.<br/>
   - Patches:
     - [x] Vanilla UI+ Patch
+    - [ ] DarnUI Patch
+    - [x] Cursor Unilaterally Matched Patch
     - [x] I am not a Height Indicator User
     - [ ] Alternative Just Hit Indicator
 
