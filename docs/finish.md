@@ -117,6 +117,7 @@ TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
 NVMIM.esp
+Enhanced Movement.esp
 Atmospheric Lighting Tweaks TTW.esp
 GeneralLightingOverhaul.esp
 Natural Interior.esp
