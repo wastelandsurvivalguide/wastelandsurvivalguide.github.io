@@ -369,6 +369,11 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
 
 Adds high-quality quick select menus for weapon and item. Dramatically improves item usability and weapon swapping in combat and on the go!
 
+#### Installation:
+
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files)
+- Main File - Quick Select
+
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
 Changes the corner notifications to improve readability - multiple appear simultaneously and fade out as new ones appear.
