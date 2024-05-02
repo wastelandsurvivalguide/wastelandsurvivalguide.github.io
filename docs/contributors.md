@@ -21,7 +21,7 @@
 - bustafooligan
 - [Callen](https://www.nexusmods.com/users/3370112)
 - [Cloudisms](https://www.nexusmods.com/users/2389150)
-- [c6](https://www.nexusmods.com/newvegas/users/59779286) - [Donate](https://ko-fi.com/c6_dev)
+- [c6](https://www.nexusmods.com/users/59779286) - [Donate](https://ko-fi.com/c6_dev)
 - [Demorome](https://www.nexusmods.com/users/16196454)
 - DoctorTalos
 - [Firebole](https://www.nexusmods.com/users/35544635)
