@@ -66,6 +66,12 @@ ITEM is a general bug fixing mod for dozens of item models across the base game 
 
 Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
 
+- Main File - ExRB
+  - Step 1:
+    - [x] Full
+    - [ ] Full (YUP)
+    - [ ] Compatibility
+
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909) 
 
 Optimizes more than 200 interior cells with roombounds and occlusion planes to improve performance in the Capital Wasteland.
