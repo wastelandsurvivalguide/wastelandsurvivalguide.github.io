@@ -195,10 +195,6 @@ Standardizes all of the player's body part damage multipliers.
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
-### [JohnnyGuitar NVSE - INI Presets](https://www.nexusmods.com/newvegas/mods/86200)
-
-Configurations for "JohnnyGuitar NVSE" for the best out-of-the-box experience and extra features.
-
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
 Implements customizable Strength and Skill requirements for weapons, making them actually adhere to their previously inconsequential listed requirements.
