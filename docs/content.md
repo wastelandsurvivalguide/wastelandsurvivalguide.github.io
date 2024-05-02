@@ -97,7 +97,7 @@ Allows you to take on various missions from the Regulators HQ to hunt down fugit
 - Main File - GUWR Unbalanced
 - Main File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121577&nmm=1)
 
-### [Home and Safehouse Tweaks](https://mod.pub/falloutnv/44-home-and-safehouse-tweaks)
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
 
 Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI to your tastes.
 
