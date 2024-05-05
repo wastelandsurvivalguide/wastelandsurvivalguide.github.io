@@ -179,10 +179,6 @@ Changes the corner notifications to improve readability - multiple appear simult
 
 Adds a UI widget that displays what your recent loot.
 
-### [Show Water Source H2O - ESPless](https://www.nexusmods.com/newvegas/mods/85103)
-
-Water sources show their hydration amount instead of HP when the player is in hardcore mode.
-
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
 ##### Main & Pause Menus Overhaul
@@ -191,7 +187,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (moving it to the Utilities separator is recommended for the sake of organization)
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause or main menu to configure MAPMO's settings
