@@ -8,7 +8,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 #### Separator:
 
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
-- Name the separator **Extra Utiilities & Fixes**.
+- Name the separator **Extra Utilities & Fixes**.
 
 ## Extra Utilities
 
@@ -102,7 +102,7 @@ Standardizes all of the player's body part damage multipliers.
 
 Fixes moonlight, making the moon the light caster instead of the sun.
 
-### [Mostly Fixed FaceGen Tints(NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
+### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
 
 Fixes vanilla FaceGen tints. The plugin will appear crossed out, DO NOT hide it.
 
