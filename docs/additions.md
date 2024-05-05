@@ -159,9 +159,6 @@ Removes the blindness effect from explosions.
 [TTW Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/75829) - An assortment of quests to help with the collection of all Bobbleheads, Steel Ingots, Keller Family Transcripts, Intel Briefcases, and Alien Captive Recorded Logs.
 - If experiencing crashes when picking up notes with this mod, this can be remedied by updating to the unreleased JIP file pinned in the WSG discord server.
 
-[TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975) - A comprehensive invisible wall remover for Tale of Two Wastelands.
-- This allows you to cross previously uncrossable mountains or rubble piles separating buildings. This will make traveling easier, but will also allow access to areas not designed to be accessed and may break scripted events if areas are prematurely accessed.
-
 [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) - Allows for starting in NV without the imperfections that can accompany the standard TTW provided option, and that [TTW Quick Start](https://mod.pub/ttw/54-ttw-3-3-esp-less-quick-start) disables.
 
 [Unmissable Casino Rewards](https://www.nexusmods.com/newvegas/mods/83485) - Prevents you from bypassing reward tiers in casinos.
