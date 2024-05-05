@@ -80,87 +80,11 @@ Optimizes more than 200 interior cells with roombounds and occlusion planes to i
 
 - Main File - Fallout 3 Interior Optimization Project
 
-### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
-
-Significantly improves performance on the New Vegas strip by removing unseen water LOD.
-
-#### Installation:
-
-- Main File - Strip Performance Fix
-
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
-
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
-
-#### Installation:
-
-Main File - Mainframes Litter Flickering Fix v5
-
-### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
-
-Fix for depth of field bleeding over onto player's viewmodel.
-
-### [External Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443)
-
-Fixes a bug that would cause certain particles to appear black.
-
-### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
-
-Fixes some alpha rendering issues like broken effects when using Transparency Multisampling.
-
-### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
-
-Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
-
-### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
-
-Fixes muzzle flash lights not being culled after shot, leading to game still using them for illumination.
-
-### [Pip-Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957)
-
-Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dark - especially in interiors.
-
-### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
-
-Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
-
-#### Installation:
-
-- Main File - BoyOn Node Fixes TTW
-
-### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
-
-Fix for massive shaking during aiming caused by floating point precision loss.
-
-### [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
-
-Fixes incorrect specular lighting and lack of muzzle flash lights on viewmodel.
-
-### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
-
-Fixes moonlight, making the moon the light caster instead of the sun.
-
-### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
-
-Fixes exterior lighting bugs and allows up to 4x the number of active lights.
-
 ## Visual Improvements
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
 Attaches the Pip-Boy light to the Pip-Boy so it moves with the player's arm.
-
-### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
-
-Increases bloom precision, reducing flicker.
-
-### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
-
-Increases resolution of water depth render target, thus significantly reducing aliasing and improving image quality.
-
-### [Improved LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/46451)
-
-Makes distant land textures less ugly.
 
 ### [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
 
