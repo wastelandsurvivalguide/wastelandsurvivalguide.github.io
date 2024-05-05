@@ -83,14 +83,6 @@ Patches to provide Tale of Bi Wastelands compatibility with TTW Reputations and 
 - Main File - Tale of Bi Wastelands - TTW New Vegas Speech Checks
 - Main File - Tale of Bi Wastelands - TTW Reputations patch
 
-### [Charisma Affects Reputation](https://www.nexusmods.com/newvegas/mods/84787)
-
-Enhances the impact of Charisma by making it affect the amplitude of reputation gains. High charisma can save you from becoming vilified, while low charisma makes it impossible to become idolized.
-
-#### Installation:
-
-- Main File - Charisma Affects Reputation
-
 ### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
 
 This mod makes it so that your Charisma and the Intellence of the person you're speaking to impact barter and speech checks.
@@ -98,7 +90,7 @@ This mod makes it so that your Charisma and the Intellence of the person you're 
 #### Installation:
 
 - Main File - CHR Tweaks
-- Main File - **Coming soon - A custom INI to make enable preferable settings in Charisma Tweaks that** ***DOES NOT*** **have interactions with Charisma Affects Reputation**
+- Main File - [CHR Tweaks - Carxt's Preset](https://www.nexusmods.com/newvegas/mods/71310?tab=files&file_id=1000127535)
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
