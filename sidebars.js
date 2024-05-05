@@ -30,9 +30,12 @@ const sidebars = {
            */
   sidebar: [
     "intro",
+    "fixes",
     "ui",
     "gameplay",
     "content",
+    "hardcore",
+    "optimizations",
     "visuals",
     "finish",
     "faq",
