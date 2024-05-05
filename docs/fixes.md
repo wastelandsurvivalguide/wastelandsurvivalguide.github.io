@@ -98,14 +98,6 @@ Makes distant land textures less ugly.
 
 Standardizes all of the player's body part damage multipliers.
 
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
-
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
-
-#### Installation:
-
-Main File - Mainframes Litter Flickering Fix v5
-
 ### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
 
 Fixes moonlight, making the moon the light caster instead of the sun.
