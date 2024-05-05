@@ -473,6 +473,9 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 [Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
 - Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
 
+[Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
+- Texture replacers for the underground metro maps, making them more useful for navigation.
+
 [TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
 [Taller DC TTW 3.3 Conversion](https://www.nexusmods.com/newvegas/mods/76595) - Adds skyscrapers to the DC area of the Capital Wasteland.
@@ -570,12 +573,15 @@ The following are designed to be placed in the following load order if using the
 [ATMOS Ambience Overhaul](https://www.nexusmods.com/newvegas/mods/85939) - Modernized ambient soundscape with an object based directional sound system.
 
 [The Golden Archive](https://mod.pub/falloutnv/122-the-golden-archive) - Greatly extends Radio New Vegas with 200+ lore friendly tracks.
-- If using alongside [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554), use the TTW - No Radio New Vegas version of Music Addition available in the FOMOD. 
+- If using alongside [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554), use the TTW - No Radio New Vegas version of Music Addition available in the FOMOD.
 
 
 ## Changelog
 1.4 - 5/4/2024
 - Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless
+- Added Metro Map Replacer.
+
+Texture replacers for the underground metro maps, making them more useful for navigation.
 
 1.3 - 4/30/2024
 - Transferred several mods from Additions to the main portion of the guide, including TTW Ultimate Invisible Wall Remover, Collision Meshes - DC, Collision Meshes - NV, Improved AI (Navmesh Overhaul Mod), ExRB - Extended Roombounds, Fallout 3 TTW Interior Optimization Project, Mainframes Litter Flickering Fix, Alternate Holographic Panel, Stash Organizer, Transporters, Harder Barter Faster Stronger, RAD - Radiation (Is) Actually Dangerous, Sweet Healing System, Natural Interiors, General Lighting Overhaul, Quick Select - A Zelda BOTW Style Quick Menu, Enhanced Movement, Item Cards, and Unfound Loot.
