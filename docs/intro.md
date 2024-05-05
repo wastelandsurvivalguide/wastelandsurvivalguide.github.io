@@ -19,6 +19,10 @@ Wasteland Survival Guide is a **modding guide** for Tale of Two Wastelands and n
 
 The guide assumes you are already familiar with the skills you learned during [**The Best of Times**](https://thebestoftimes.moddinglinked.com/), such as how to install mods with Mod Organizer 2. When in doubt, please reference that guide.
 
+:::caution The guide is currently under construction!
+The guide is usable, but currently being overhauled and updated. Kindly excuse typos and blank sections. Thank you! - WSG Team
+:::
+
 ## Discord
 
 All support you may need, and feedback and suggestions you may have, can be posted at our Discord, [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC)!
