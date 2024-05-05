@@ -55,6 +55,14 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 - Main File - New Vegas Mesh Improvement Mod
 
+### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
+
+Adjusts a few shader flags to litter meshes to stop the litter from flickering.
+
+#### Installation:
+
+Main File - Mainframes Litter Flickering Fix v5. **Note, this must load after NVMIM**
+
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
 Fixes dozens of game models across the base game and DLCs.
