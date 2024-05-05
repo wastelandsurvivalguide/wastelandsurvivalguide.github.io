@@ -7,7 +7,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 ### Bugfixes
 - Updated load order to move NavmeshOverhaul.esm AFTER YUPTTW.esm.
 - Clarified the requirement for JAM Sprint to be off in order to use Enhanced Movement.
-- Removed Charisma Affects Reputation due to rundancy with Charisma Tweaks and Karuts Preset.
+- Removed Charisma Affects Reputation due to redundancy with Charisma Tweaks and Karuts Preset.
 
 ### Reorganization
 - Added Extra Utilities & Fixes section.
