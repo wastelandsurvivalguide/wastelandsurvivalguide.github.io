@@ -167,7 +167,7 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 #### Installation:
 
 - Main File - Enhanced Movement
-- Main File - [Enhanced Movement Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
+- Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
@@ -186,14 +186,6 @@ Main Files:
 - JIP Companions Command and Control
 - [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
 - [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
-
-### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
-
-Standardizes all of the player's body part damage multipliers.
-
-### [JIP LN Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
-
-A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
@@ -216,14 +208,6 @@ An complete overhaul to the weapon spread system that enhances realism.
 
 - Main File - Dynamic Weapon Spread
 - Optional File - JAM Patch - For the dynamic crosshair
-
-### [Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974)
-
-Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread settings.
-
-### [Stewie Tweaks Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127133&nmm=1)
-
-A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
 
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
@@ -256,14 +240,6 @@ Trade in all currency at once when at casinos.
   - Options:
     - [ ] Exchange Pre-War Money
 - Optional File - Voices for Casino Exchange All
-
-### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294)
-
-Speeds up the animation for pulling out and putting away the Pip-Boy.
-
-#### Installation:
-
-Choose the desired speed and the version that aligns with your character's sex.
 
 ### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
