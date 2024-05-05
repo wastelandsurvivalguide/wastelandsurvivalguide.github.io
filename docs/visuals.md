@@ -63,7 +63,22 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.
 :::
 
-## Lighting & Weather
+## ### [General Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/84223)
+
+A fully scripted, fully compatible adjustment to lighting and postprocessing.
+
+#### Installation:
+
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
+- Main File - [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
+- Main File - General Lighting Overhaul
+- Main File - **Coming soon - A custom INI to make GLO more aesthetically pleasing when used alongside Desert Natural Weathers**
+
+### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
+
+Remove the tints from Interiors.
+
+## Weather
 
 ### [Longer Weather Transitions ESPless](https://www.nexusmods.com/newvegas/mods/85286)
 
@@ -95,21 +110,6 @@ Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.
 - Main File - Climate Control - Rain
 - Optional File - Climate Control - 3D Rain
 
-### [General Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/84223)
-
-A fully scripted, fully compatible adjustment to lighting and postprocessing.
-
-#### Installation:
-
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
-- Main File - [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
-- Main File - General Lighting Overhaul
-- Main File - **Coming soon - A custom INI to make GLO more aesthetically pleasing when used alongside Desert Natural Weathers**
-
-### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
-
-Remove the tints from Interiors.
-
 ### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
 An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support.
@@ -117,3 +117,7 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 #### Installation:
 
 - Main File - Desert Natural Weathers TTW
+
+:::warning
+ALWAYS LOAD THESE MODS LAST.
+:::
