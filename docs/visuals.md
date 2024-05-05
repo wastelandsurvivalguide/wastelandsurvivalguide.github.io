@@ -11,84 +11,11 @@
 We felt these mods are out of the scope of this guide, but check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for it is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 :::
 
-## Visual Fixes & Optimizations
-
-### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)
-
-Fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI.
-
-#### Installation:
-
-- Main File - Navmesh Overhaul
-
-### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975)
-
-A comprehensive invisible wall remover for Tale of Two Wastelands.
-
-#### Installation:
-
-- Main File - TTW Ultimate Invisible Wall Remover (ESM Version)
-
-### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
-
-Improves collision meshes detail in the Capital Wasteland.
-
-#### Installation:
-
-- Main File - Collision Meshes FO3
-
-### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
-
-Improves collision meshes detail in the Mojave.
-
-#### Installation:
-
-- Main File - Collision Meshes FNV
-- Main File - Update Collision Meshes FNV 1.6.3 to 1.6.4
-
-### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
-
-Optimizations and fixes for a large selection of meshes in the base game and DLC.
-
-#### Installation:
-
-- Main File - New Vegas Mesh Improvement Mod
-
-### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
-
-Fixes dozens of game models across the base game and DLCs.
-
-### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
-
-ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
-
-### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501) 
-
-Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
-
-- Main File - ExRB
-  - Step 1:
-    - [x] Full
-    - [ ] Full (YUP)
-    - [ ] Compatibility
-
-### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909) 
-
-Optimizes more than 200 interior cells with roombounds and occlusion planes to improve performance in the Capital Wasteland.
-
-#### Installation:
-
-- Main File - Fallout 3 Interior Optimization Project
-
 ## Visual Improvements
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
 Attaches the Pip-Boy light to the Pip-Boy so it moves with the player's arm.
-
-### [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
-
-Texture replacers for the underground metro maps, making them more useful for navigation.
 
 ### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
@@ -138,17 +65,9 @@ ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.
 
 ## Lighting & Weather
 
-### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
-
-Fixes bugs and adds utilities for weather mods.
-
 ### [Longer Weather Transitions ESPless](https://www.nexusmods.com/newvegas/mods/85286)
 
 A small improvement that extends the weather transition time by a factor of 20, which fixes abrupt weather transitions when using varied weather types.
-
-### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612)
-
-Adds pseudo-animated clouds for horizons and panoramic cloud systems. 
 
 ### [Interior Rain](https://www.nexusmods.com/newvegas/mods/79656)
 
@@ -183,8 +102,9 @@ A fully scripted, fully compatible adjustment to lighting and postprocessing.
 #### Installation:
 
 - Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
-- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
+- Main File - [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
 - Main File - General Lighting Overhaul
+- Main File - **Coming soon - A custom INI to make GLO more aesthetically pleasing when used alongside Desert Natural Weathers**
 
 ### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
 
