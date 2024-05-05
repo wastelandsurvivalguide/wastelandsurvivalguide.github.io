@@ -13,8 +13,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 
 ## Fixes
-[Equip and Movement Speed Fix - ESPless](https://www.nexusmods.com/newvegas/mods/71774) - Fixes animation speed not updating correctly while in-game for weapon drawing, weapon holstering, and running.
-
 [Female Pipboy Aligned](https://www.nexusmods.com/newvegas/mods/85888) - No more tilted pipboy for female characters.
 
 [Freeside Neon Sign Fix](https://www.nexusmods.com/newvegas/mods/82647) - Fixes the flicker present on several Freeside neon signs.
@@ -23,28 +21,17 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Gun Runners Kiosk Glass Fix](https://www.nexusmods.com/newvegas/mods/70293) - Fixes the glass texture in the Gun Runners' kiosk.
 
-[Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691) - Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
-
 [Laser Pistol 3rd Person Latch Animation Fix](https://www.nexusmods.com/newvegas/mods/80657) - Fixes a vanilla bug where the latch for the laser pistol would be out of position after reloading or clearing a jam.
 
 [Melee VATS Animation Restoration](https://www.nexusmods.com/newvegas/mods/73480) - Brings VATS melee animations back from the dead.
 
 [Money Fixer - ESPless](https://www.nexusmods.com/newvegas/mods/71614) - Scripted replacement for when the wrong money item types are used in mods.
 
-[Mostly Fixed FaceGen Tints(NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577) - Fixes vanilla FaceGen tints.
-- The plugin will be crossed out in your plugin list. This is normal and occurs because the mod only loads BSAs.
-
 [MZ Holding Cells Fog Clip Distance Fix](https://www.nexusmods.com/newvegas/mods/77022) - The fog clip distance for the holding cells in TTW's Mothership Zeta is low enough that it's clearly visible in the first area. This fixes it.
 
 [NPCa - NPC Prevention of Chem addiction - ESPless](https://www.nexusmods.com/newvegas/mods/73622) - Prevents NPCs from gaining addiction effects when using chems or alcohol, as they would not attempt to act on said addictions.
 
-[Pip-Boy Light Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/78954) - Fixes flicker in Pip-Boy opening animation if its light is on.
-
 [Ranger Combat Helmets Clipping Fix](https://www.nexusmods.com/newvegas/mods/82776) - Fixes the issue of character head clipping through ranger combat helmets.
-
-[Smooth True Iron Sights Camera](https://www.nexusmods.com/newvegas/mods/69074) - Aim down sights without the camera snapping to place.
-
-[Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094) - Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
 
 [Tranquility Lane Pipboy Glove and Custom Race Fix](https://www.nexusmods.com/newvegas/mods/77018) - Stops Tranquility Lane from de-aging you to child, which broke any race replacers that do not have child versions. Also prevents alteration to the pip boy, for better compatibility with pip boy replacers.
 
@@ -54,24 +41,11 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245) - Prevents interactive animation mods used alongside vanilla weapon animations from causing the weapon to disappear.
 
-[Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051) - Adds the SF_Eye_Enviroment_Mapping shader flag to vent meshes.
-- Must be loaded after [NVMIM](https://www.nexusmods.com/newvegas/mods/74295).
-
-[Weapon Mod Description Fix (TTW)](https://www.nexusmods.com/newvegas/mods/85957) - Certain weapon mods have an empty line above the description. This simple fix rectifies that issue.
-
-[zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) - Updates zlib to the latest version for faster loading and less stutter.
-
 
 ## User Interface & HUD
-[3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243) - Adds a UI element showing the position of grenades in 3D space, additionally highlighting blast radius and fuse timer.
-
 [Dialogue DoF Disabler](https://www.nexusmods.com/newvegas/mods/77220) - Removes the depth of field effect while in the dialogue interface.
 
 [PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
-
-[Show Water Source H2O](https://www.nexusmods.com/newvegas/mods/85103) - Water sources will show their hydration amount instead of HP when the player is in hardcore mode.
-
-[Sleep, Wait, Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148) - Shows the amount of H2O, FOD, and SLP that will be gained/lost while sleeping.
 
 [ySI Expanded](https://www.nexusmods.com/newvegas/mods/84352) - Adds additional ySI sorting subcategories and icons.
 
@@ -501,9 +475,6 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 
 [TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
-[Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) - Adds a customizable visual effect when the player is exposed to radiation. Includes ionizing particles, static noise, blurred vision, and more.
-- Please note that the high quality verison will increase menu main load time, but will not worsen in-game performance.
-
 [Taller DC TTW 3.3 Conversion](https://www.nexusmods.com/newvegas/mods/76595) - Adds skyscrapers to the DC area of the Capital Wasteland.
 - Has a moderate amount of z-fighting (visual artifact).
 - Requires LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
@@ -603,6 +574,9 @@ The following are designed to be placed in the following load order if using the
 
 
 ## Changelog
+1.4 - 5/4/2024
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless
+
 1.3 - 4/30/2024
 - Transferred several mods from Additions to the main portion of the guide, including TTW Ultimate Invisible Wall Remover, Collision Meshes - DC, Collision Meshes - NV, Improved AI (Navmesh Overhaul Mod), ExRB - Extended Roombounds, Fallout 3 TTW Interior Optimization Project, Mainframes Litter Flickering Fix, Alternate Holographic Panel, Stash Organizer, Transporters, Harder Barter Faster Stronger, RAD - Radiation (Is) Actually Dangerous, Sweet Healing System, Natural Interiors, General Lighting Overhaul, Quick Select - A Zelda BOTW Style Quick Menu, Enhanced Movement, Item Cards, and Unfound Loot.
 - Removed Meshes sub-section given the transitions above.
