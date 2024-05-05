@@ -10,9 +10,52 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Gameplay**.
 
-:::note
-Sweet's mod pages will tell you to use **Normal** difficulty with her mods, but with Better Damage Multipliers, any difficulty choice is justifiable.
-:::
+## Gameplay Enhancements
+
+### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
+
+A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
+
+#### Installation:
+
+- Main File - Tweaks for TTW
+- Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121591&nmm=1)
+
+### [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378)
+
+Replaces all static (non-interactive) containers with lootable equivalents.
+
+### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
+
+Improves the usability of the Caravan minigame.
+
+### [Casino Exchange All](https://www.nexusmods.com/newvegas/mods/35701)
+
+Trade in all currency at once when at casinos.
+
+#### Installation:
+
+- Main File - Casino Exchange All 1-5a
+  - Options:
+    - [ ] Exchange Pre-War Money
+- Optional File - Voices for Casino Exchange All
+
+### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
+
+Changes TTW's Hardcore mode to grant a perk every level, instead of every two. Consider skipping this mod for a more **hardcore** experience.
+
+#### Installation:
+
+- Main File - Hardcore Perk Every Level
+
+### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766)
+
+Gives TTW vendors better selections.
+
+#### Installation:
+
+- Main File - Craterside Supply Expansion
+- Main File - Flak n Shrapnel Expansion
 
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
@@ -57,34 +100,9 @@ This mod makes it so that your Charisma and the Intellence of the person you're 
 - Main File - CHR Tweaks
 - Optional File - CHR Tweaks - Carxt's Preset
 
-### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
-
-This is a complete rebalance and overhaul of many base game perks.
-
-#### Installation:
-
-- Main File - Sweet Perk Overhaul
-- Optional File - No Big Guns Patch
-
-### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
-
-The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
-
-#### Installation:
-
-- Main File - Sweet 6 Shooter Perk Pack TTW Version
-
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
 Adds a container after completing Mothership Zeta that is populated with the items from any abductees you kept alive during your playthrough.
-
-### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
-
-Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
-
-### [Transporters](https://www.nexusmods.com/newvegas/mods/77645) 
-
-A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well.
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
@@ -136,10 +154,6 @@ Automatically organizes your items in any interior cell. Can be tricky to set up
 
 - Main File - Stash Organizer
 
-### [Root 'n Loot TTW](https://www.nexusmods.com/newvegas/mods/59378)
-
-Replaces all static (non-interactive) containers with lootable equivalents.
-
 ### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 
 JAM is a compilation of interface and gameplay-enhancing mods in one package, configurable in MCM. Features a FO4-style Loot Menu, Bullet Time, and much more.
@@ -147,22 +161,94 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 #### Installation:
 
 - Main File - Just Assorted Mods
-- Main File - [JAM Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122587&nmm=1)
-- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) (If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section.)
+- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122587&nmm=1)
+- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) (If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section)
+- Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
+- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) - Consider disabling your VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
 
 **IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
 
-### [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
+### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
 
-Higher resolution UI elements for Just Assorted Mods.
+Revolutionizes the way companions are controlled and interacted with.
 
-### [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324)
+Main Files:
 
-An addon for Just Assorted Mods that adds some new features for Just Bullet Time. 
+- JIP Companions Command and Control
+- [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
+- [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
 
-### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
 
-An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more.
+Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI to your tastes.
+
+#### Installation:
+
+- Main File - Home and Safehouse Tweaks
+  - Main file:
+    - [x] Home and Safehouse Tweaks
+  - Patches:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> None<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> YUP Patch<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> TTW Addon<br/>
+- Main File - Home and Safehouse Tweaks INI File
+
+### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
+
+Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
+
+### [Transporters](https://www.nexusmods.com/newvegas/mods/77645) 
+
+A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well. Consider disabling traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
+
+## Combat & Weapons
+
+### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
+
+Implements customizable Strength and Skill requirements for weapons, making them actually adhere to their previously inconsequential listed requirements.
+
+#### Installation:
+
+- Main File - Weapon Requirements System
+- Update File - Weapon Requirements System
+
+### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
+
+Adds working recoil to the wasteland. Consider choosing the hardcore preset in the MCM options for a more **hardcore** experience.
+
+### [Dynamic Weapon Spread 2.0](https://www.nexusmods.com/newvegas/mods/82393)
+
+A complete overhaul to the weapon spread system that enhances realism.
+
+#### Installation:
+
+- Main File - Dynamic Weapon Spread
+- Optional File - JAM Patch - For the dynamic crosshair
+
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
+
+Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
+
+### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
+
+Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
+
+### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
+
+This mod completely overhauls the way armor damage is calculated, replacing the non-sensical formula that governed condition degradation and damage taken.
+
+#### Installation:
+
+Main File - ADO - Armor Damage Overhaul
+Main File - **Coming soon - A custom INI to make ADO's new formula a bit more forgiving**
+
+## Movement
+
+### [Enhanced Movement](https://www.nexussmods.com/newvegas/mods/85459)
+
+An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more. 
+
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE Sprint in Just Assorted Mods**, this is done automatically in the provided JAM - Custom INI file.c
 
 #### Installation:
 
@@ -177,152 +263,21 @@ An implementation of combat sprinting for melee NPCs.
 
 - Main File - NPCs Sprint kNVSE - ESPless
 
-### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
+## Perks
 
-Revolutionizes the way companions are controlled and interacted with.
+### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
 
-Main Files:
-
-- JIP Companions Command and Control
-- [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
-- [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
-
-### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
-
-Implements customizable Strength and Skill requirements for weapons, making them actually adhere to their previously inconsequential listed requirements.
+This is a complete rebalance and overhaul of many base game perks.
 
 #### Installation:
 
-- Main File - Weapon Requirements System
-- Update File - Weapon Requirements System
+- Main File - Sweet Perk Overhaul
+- Optional File - No Big Guns Patch
 
-### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
+### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
-Adds working recoil to the wasteland.
-
-### [Dynamic Weapon Spread 2.0](https://www.nexusmods.com/newvegas/mods/82393)
-
-An complete overhaul to the weapon spread system that enhances realism.
+The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
 
 #### Installation:
 
-- Main File - Dynamic Weapon Spread
-- Optional File - JAM Patch - For the dynamic crosshair
-
-### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
-
-A collection of small miscellaneous tweaks for TTW.
-
-#### Installation:
-
-- Main File - Tweaks for TTW
-- Main File - [Tweaks for TTW Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121591&nmm=1)
-
-### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
-
-Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
-
-### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
-
-This mod completely overhauls the way armor damage is calculated, replacing the non-sensical formula that governed condition degradation and damage taken.
-
-### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
-
-Improves the usability of the Caravan minigame.
-
-### [Casino Exchange All](https://www.nexusmods.com/newvegas/mods/35701)
-
-Trade in all currency at once when at casinos.
-
-#### Installation:
-
-- Main File - Casino Exchange All 1-5a
-  - Options:
-    - [ ] Exchange Pre-War Money
-- Optional File - Voices for Casino Exchange All
-
-### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
-
-Changes TTW's Hardcore mode to grant a perk every level, instead of every two.
-
-#### Installation:
-
-- Main File - Hardcore Perk Every Level
-
-### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766)
-
-Gives TTW vendors better selections.
-
-#### Installation:
-
-- Main File - Craterside Supply Expansion
-- Main File - Flak n Shrapnel Expansion
-
-:::danger Spicy Mods Ahead
-The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced for hardcore mode. **Procceed with caution!**
-:::
-
-### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) 
-
-Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
-
-#### Installation:
-
-Choose one of the following:
-- Main File - Harder Barter Faster Stronger
-- Main File - Sicko Mode - Optional for those who desire a more difficult barter economy.
-
-### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot)
-
-A highly customizable loot scarcity mod.
-
-#### Installation:
-
-- Main File - Unfound Loot
-- Main File - [Unfound Loot Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1) - Optional for those who desire a more difficult loot economy.
-
-### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) 
-
-Overhauls all aspects of radiation, making it far more consequential.
-
-#### Installation:
-
-- Main File - RAD - Overhaul
-
-### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
-
-Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage re-balancing, and a DT/DR/resistance overhaul for creatures.
-
-#### Installation:
-
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
-- Main File - New Blood
-
-### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
-
-Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
-
-### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
-
-Features 16 new healing items and new Survival healing options, including a bandage that removes the bleeding effect imparted by the New Blood mod.
-
-#### Installation:
-
-- Main File - Aid Addon
-- Optional File - [ySI - Sorting Icons - S6S Aid Addon patch](https://www.nexusmods.com/newvegas/mods/74358)
-
-### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
-
-Top to bottom overhaul of consumable and misc items.
-
-#### Installation:
-
-- Main File - Sweet Consumables TTW
-
-### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
-
-A complete overhaul and rebalancing of doctors, sleep, endurance, and infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
-
-#### Installation:
-
-- Main File - Sweet Healing Systems
+- Main File - Sweet 6 Shooter Perk Pack TTW Version
