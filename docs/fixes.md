@@ -32,6 +32,14 @@ Another script extender plugin that adds new functions to the game. **Required**
 
 Implements an ESPless framework to create, and automatically load keywords in a simple user-friendly way, via use of ini config files. **Required** for certain mods contained within the guide.
 
+### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
+
+Fixes bugs and adds utilities for weather mods.
+
+### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612)
+
+Adds pseudo-animated clouds for horizons and panoramic cloud systems. 
+
 ## Fixes
 
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
