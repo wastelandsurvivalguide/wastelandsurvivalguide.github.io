@@ -10,6 +10,8 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **User Interface & HUD**.
 
+## User Interface
+
 ### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
 
 Adds a settings menu to configure mods in-game. **Required** for many mods.
@@ -19,14 +21,6 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 - Main File - The Mod Configuration Menu
 - Update File - MCM Bugfix 2 **(Do not skip this file!)**
 
-### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
-
-Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
-
-:::note
-This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution. I've never had issues with it personally. - Audixas
-:::
- 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
 Modernized vanilla-style UI with many enhancements and bugfixes.
@@ -97,6 +91,44 @@ management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-yn
 - Main File - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
 - Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 
+### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
+
+A complete high-resolution and more detailed rework of the Tale of Two Wastelands main menu image.
+
+#### Installation:
+
+Choose the file matching your monitor's resolution.
+
+### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915)
+
+Makes the loadwheel less intrusive by moving it to the corner of the screen and removing the associated bars.
+
+#### Installation:
+
+- Main File - Scum's Considerably Cute Corner Load Wheel (Vanilla)
+
+### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974)
+
+Replaces the vanilla loading wheel with a sleek, minimalist design.
+
+#### Installation:
+
+- Main File - Radiation Loadwheel
+
+### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
+
+The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost based on the time selected.
+
+## HUD
+
+### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
+
+Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
+
+:::note
+This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution. I've never had issues with it personally. - Audixas
+:::
+
 ### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
 
 A stripped down and updated version of No PipBoy in Power Armor, which replaces the pip-boy with a holopanel while wearing power armor.
@@ -138,6 +170,40 @@ Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
     - [x] Cursor Unilaterally Matched Patch
     - [x] I am not a Height Indicator User
     - [ ] Alternative Just Hit Indicator
+
+### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
+
+Changes the corner notifications to improve readability - multiple appear simultaneously and fade out as new ones appear.
+
+### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
+
+Adds a UI widget that displays what your recent loot.
+
+### [Show Water Source H2O - ESPless](https://www.nexusmods.com/newvegas/mods/85103)
+
+Water sources show their hydration amount instead of HP when the player is in hardcore mode.
+
+### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
+
+##### Main & Pause Menus Overhaul
+
+Adds ample features to the Main and Pause menus. Fully customizable.
+
+#### Installation:
+
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (moving it to the Utilities separator is recommended for the sake of organization)
+- Main File - Main And Pause Menus Overhaul
+  - Press **M** from the pause menu to access the MCM
+  - Press **N** from the pause or main menu to configure MAPMO's settings
+- Optional File - Extras - Hi-Res Logos
+- Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
+- Main File - [MAPMO WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
+
+:::note
+Remember to apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
+:::
+
+## Pip-Boy
 
 ### [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136)
 
@@ -283,30 +349,6 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
 That's a wrap.</p>
 </details>
 
-### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
-
-A complete high-resolution and more detailed rework of the Tale of Two Wastelands main menu image.
-
-#### Installation:
-
-Choose the file matching your monitor's resolution.
-
-### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915)
-
-Makes the loadwheel less intrusive by moving it to the corner of the screen and removing the associated bars.
-
-#### Installation:
-
-- Main File - Scum's Considerably Cute Corner Load Wheel (Vanilla)
-
-### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974)
-
-Replaces the vanilla loading wheel with a sleek, minimalist design.
-
-#### Installation:
-
-- Main File - Radiation Loadwheel
-
 ### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)
 
 Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving readability and utility.
@@ -318,26 +360,6 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
 Sharper, clearer local maps.
-
-### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
-
-##### Main & Pause Menus Overhaul
-
-Adds ample features to the Main and Pause menus. Fully customizable.
-
-#### Installation:
-
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (moving it to the Utilities separator is recommended for the sake of organization)
-- Main File - Main And Pause Menus Overhaul
-  - Press **M** from the pause menu to access the MCM
-  - Press **N** from the pause or main menu to configure MAPMO's settings
-- Optional File - Extras - Hi-Res Logos
-- Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
-- Main File - [MAPMO WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
-
-:::note
-Remember to apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
-:::
 
 ### [Pip-Boy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343)
 
@@ -355,6 +377,20 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
     - [x] MAPMO Bottle Cap (Color)
     - [ ] MAPMO Bottle Cap (Grayscale)
    
+### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294)
+
+Speeds up the animation for pulling out and putting away the Pip-Boy.
+
+#### Installation:
+
+Choose the desired speed and the version that aligns with your character's sex.
+
+## Optional Extras
+
+:::danger Spicy Mods Ahead
+The **OPTIONAL** mods ahead may deviation significantly from vanilla aesthetics. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
+:::
+
 ### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) 
 
 Adds Item Cards with detailed stat comparisons while hovering over weapons, armor, and more.
@@ -366,6 +402,10 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
     - [x] Plugin (Recommended)
     - [ ] Scriptrunner
 - Main File - [Item Cards Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129342&nmm=1)
+
+### [3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243)
+
+Adds a UI element showing the position of grenades in 3D space, additionally highlighting blast radius and fuse timer.
    
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) 
 
@@ -373,16 +413,25 @@ Adds high-quality quick select menus for weapon and item. Dramatically improves 
 
 #### Installation:
 
-- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (moving it to the Utilities separator is recommended for the sake of organization)
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
 - Main File - Quick Select
 
-### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
+### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841)
 
-Changes the corner notifications to improve readability - multiple appear simultaneously and fade out as new ones appear.
+Adds a customizable visual effect when the player is drowning/holding their breath.
 
-### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
+### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917)
 
-Adds a UI widget that displays what your recent loot.
+Adds a customizable visual effect when the player is exposed to radiation. Ionizing particles, static noise, blurred vision, and more!
+
+### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
+
+Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! Use the N key to toggle night vision, hold the N key to add support to current headgear.
+
+#### Installation:
+
+- Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088) (you should already have this if following the guide)
+- Main File - Simple Night Vision
 
 ### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer)
 
