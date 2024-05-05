@@ -17,7 +17,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Moved JIP Localized Damage Fix to Extra Utilities & Fixes.
 - Moved Stewie Tweaks - Custom INI to Extra Utilities & Fixes.
 - Moved Aqua Performa to Extra Utilities & Fixes.
-- Moved Mainframes Litter Flickering Fix to Extra Utilities & Fixes.
+- Moved Mainframes Litter Flickering Fix to Optimizations.
 - Moved Depth of Field Fix to Extra Utilities & Fixes.
 - Moved External Emittance Fix to Extra Utilities & Fixes.
 - Moved Fallout Alpha Rendering Tweaks to Extra Utilities & Fixes.
