@@ -578,7 +578,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/4/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, 
 - Added Metro Map Replacer.
 
 Texture replacers for the underground metro maps, making them more useful for navigation.
