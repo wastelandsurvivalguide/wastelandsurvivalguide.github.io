@@ -28,6 +28,10 @@ A script extender plugin that adds many new functions to the game. **Required** 
 
 Another script extender plugin that adds new functions to the game. **Required** for certain mods contained within the guide.
 
+### [Keywords](https://www.nexusmods.com/newvegas/mods/83088?tab=description)
+
+Implements an ESPless framework to create, and automatically load keywords in a simple user-friendly way, via use of ini config files. **Required** for certain mods contained within the guide.
+
 ## Fixes
 
 ### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
@@ -42,6 +46,14 @@ Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged 
 
 Fix for depth of field bleeding over onto player's viewmodel.
 
+### [Equip and Movement Speed Fix - ESPless](https://www.nexusmods.com/newvegas/mods/71774) 
+
+Fixes animation speed not updating correctly while in-game for weapon drawing, weapon holstering, and running.
+
+#### Installation:
+
+- Main File - Equip and Movement Speed Fix - ESPless
+
 ### [External Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443)
 
 Fixes a bug that would cause certain particles to appear black.
@@ -54,6 +66,14 @@ Fixes some alpha rendering issues like broken effects when using Transparency Mu
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
 
+### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
+
+Increases bloom precision, reducing flicker.
+
+### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
+
+Increases resolution of water depth render target, thus significantly reducing aliasing and improving image quality.
+
 ### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691)
 
 Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
@@ -61,6 +81,10 @@ Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran 
 ### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
 Fixes exterior lighting bugs and allows up to 4x the number of active lights.
+
+### [Improved LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/46451)
+
+Makes distant land textures less ugly.
 
 ### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
 
