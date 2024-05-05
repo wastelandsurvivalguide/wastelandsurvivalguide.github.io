@@ -114,7 +114,7 @@ Aim down sights without the camera snapping to place.
 
 Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
 
-### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051) - 
+### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
 
 Adds the SF_Eye_Enviroment_Mapping shader flag to vent meshes, fixing associated lighting.
 
