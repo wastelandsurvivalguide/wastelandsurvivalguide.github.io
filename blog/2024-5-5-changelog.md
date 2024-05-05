@@ -1,11 +1,12 @@
 # Changelog - Atom Bomb
 
-*** - Kamchatka
+A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. <3 - Kamchatka
 
-### 4/05/2024
+### 5/05/2024
 
 ### Bugfixes
 - Updated load order to move NavmeshOverhaul.esm AFTER YUPTTW.esm.
+- Clarified the requirement for JAM Sprint to be off in order to use Enhanced Movement.
 
 ### Reorganization
 - Added Extra Utilities & Fixes section.
@@ -33,6 +34,22 @@
 - Moved High Resolution Water Fog to Extra Utilities & Fixes.
 - Moved Improved LOD Noise Texture to Extra Utilities & Fixes.
 - Moved Instant and Faster Pipboy (No Stutter) to Extra Utilities & Fixes.
+- Moved Clean Just Assorted Mods and Bullet Time Improved - a JAM Addon downloads as an umbrella download linked to JAM itself.
+- Added sub-sections to the Gameplay section and significant reorganization of mods contained on this page.
+- Moved Home & Safehouse Tweaks to the Gameplay section.
+- Moved Hard Barter Faster Stronger, Unfound Loot, RAD - Radiation (Is) Actually Dangerous, New Blood, Aid Addon, Sweet Consumables, Sweet Healing System to the Hardcore section.
+- Moved Improved AI (Navmesh Overhaul Mod) to Optimizations.
+- Moved TTW Ultimate Invisible Wall Remover to Optimizations.
+- Moved Collision Meshes - DC to Optimizations.
+- Moved Collision Meshes - NV to Optimizations.
+- Moved New Vegas Mesh Improvement Mod to Optimizations.
+- Moved MAC-TEN to Optimizations.
+- Moved Items Transformed - Enhanced Meshes to Optimizations.
+- Moved ExRB - Extended Roombounds to Optimizations.
+- Moved Fallout 3 TTW Interior Optimization Project to Optimizations.
+- Removed Metro Map Replacer in favor of adding it to Additions instead.
+- Moved Climate Control NVSE to Extra Utilities & Fixes.
+- Moved Cloud Upgrade NVSE to Extra Utilities & Fixes.
   
 ### Additions
 - Added AnhNVSE.
@@ -47,7 +64,6 @@
 - Added Weapon Mod Description Fix (TTW).
 - Added zlib Updated - NVSE.
 - Added Equip and Movement Speed Fix - ESPless.
-- Added Show Water Source H2O - ESPless.
 - Added Sleep, Wait, Hardcore Needs.
 - Added 3D Grenade Indicator.
 - Added Drowning Visuals - ESPless.
