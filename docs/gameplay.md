@@ -98,7 +98,7 @@ This mod makes it so that your Charisma and the Intellence of the person you're 
 #### Installation:
 
 - Main File - CHR Tweaks
-- Optional File - CHR Tweaks - Carxt's Preset
+- Main File - **Coming soon - A custom INI to make enable preferable settings in Charisma Tweaks that** ***DOES NOT*** **have interactions with Charisma Affects Reputation**
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
