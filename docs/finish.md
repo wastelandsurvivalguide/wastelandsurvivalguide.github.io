@@ -32,8 +32,8 @@ ClassicPack.esm
 MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
-NavmeshOverhaul.esm
 YUPTTW.esm
+NavmeshOverhaul.esm
 TTW Ultimate Invisible Wall Remover.esm
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
@@ -63,6 +63,7 @@ MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
 SD_Transporters.esp
+TTW FaceGen Fix.esp
 ExRB.esp
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
@@ -70,6 +71,7 @@ FOVSlider.esp
 Power Armor Holo Panel.esp
 PipBoyUITweaks.esp
 ItemCards.esp
+3DGrenadeIndicator.esp
 QuickSelect.esp
 CharismaAffectsReputation.esp
 S6S Perks.esp
@@ -116,6 +118,7 @@ B42Inertia.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
+Impostors and LOD Flicker Fix.esp
 NVMIM.esp
 Enhanced Movement.esp
 Atmospheric Lighting Tweaks TTW.esp
