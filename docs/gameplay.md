@@ -199,7 +199,11 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
 
 Makes idle animations for crippled limbs persist in situations where the game does not enforce them correctly, like when the damage comes from an explosion. Also gives NPCs debuffs when crippled, similar to the player does.
 
-[Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) 
+### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
+
+Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
+
+### [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) 
 
 Gives weapon mods real meshes and adds them to random locations across the Mojave. Substantially rebalanced by Sweet.
 
@@ -235,9 +239,14 @@ A complete overhaul to the weapon spread system that enhances realism.
 
 Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
 
-### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
+### [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) 
 
-Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
+Replaces the formula for weapon jamming when firing and reloading.
+
+#### Installation:
+
+- Main File - Weapon Jamming Tweaks
+- Main File - Sweet's Configuration - Optional for those who desire a more hardcore experience.
 
 ### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
 
@@ -245,8 +254,8 @@ This mod completely overhauls the way armor damage is calculated, replacing the 
 
 #### Installation:
 
-Main File - ADO - Armor Damage Overhaul
-Main File - **Coming soon - A custom INI to make ADO's new formula a bit more forgiving**
+- Main File - ADO - Armor Damage Overhaul
+- Main File - **Coming soon - A custom INI to make ADO's new formula a bit more forgiving**
 
 ## Movement
 
