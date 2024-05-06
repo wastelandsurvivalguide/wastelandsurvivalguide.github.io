@@ -10,7 +10,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Optimizations**.
 
-:::note What are optimizations for?
+:::note What will these optimizations do?
 These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
 :::
 
@@ -32,7 +32,7 @@ A comprehensive invisible wall remover for Tale of Two Wastelands.
 
 ### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
 
-Improves collision meshes detail in the Capital Wasteland.
+Improves collision meshes in the Capital Wasteland.
 
 #### Installation:
 
@@ -40,7 +40,7 @@ Improves collision meshes detail in the Capital Wasteland.
 
 ### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
 
-Improves collision meshes detail in the Mojave.
+Improves collision meshes in the Mojave Wasteland.
 
 #### Installation:
 
@@ -54,14 +54,6 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 #### Installation:
 
 - Main File - New Vegas Mesh Improvement Mod
-
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
-
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
-
-#### Installation:
-
-Main File - Mainframes Litter Flickering Fix v5. **Note, this must load after NVMIM**
 
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
