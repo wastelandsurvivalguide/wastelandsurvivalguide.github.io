@@ -161,7 +161,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Feastures many returning favorites from Fallout games past and present. Includes custom animations.
 - Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
-- May make chems too plentiful if despite loot scarcity mods.
+- May make chems too plentiful if playing without loot scarcity mods.
 
 [Immersive Fast Travel Encounters TTW Edition](https://www.nexusmods.com/newvegas/mods/85883) - A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
 - Incompatible with [Transporters](https://www.nexusmods.com/newvegas/mods/77645) and any other mod that travel through means other than the pip-boy map.
