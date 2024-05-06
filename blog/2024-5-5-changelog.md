@@ -101,3 +101,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added PerkPackPlus.
 - Added Friends with Benefits Perk Pack.
 - Added Vegas Elysium Perk Pack.
+- Added ADO - Armor Damage Overhaul Custom INI.
