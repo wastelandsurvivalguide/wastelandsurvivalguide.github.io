@@ -152,7 +152,7 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [x] A World of Pain for Fallout 3
     - [ ] DC Arsenal
     - [ ] EDGE
-    - [ ] The Regulators
+    - [x] The Regulators
   - Standalone Weapons: 
     - [ ] Hitman's RPD
     - [ ] Hitman's KRISS Vector
