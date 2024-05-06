@@ -237,7 +237,7 @@ High-quality Pip-Boy icons.
 
 - Main File - 1. Consistent Pip-boy Icons
  
-### More high quality menus.
+### More High Quality Menus
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
