@@ -18,7 +18,7 @@ The mods ahead may change the game dramatically, requiring compensation in gamep
 Sweet's mod pages will tell you to use **Normal** difficulty with her mods, but with Better Damage Multipliers, other difficulty choices may be reasonable.
 :::
 
-## Loot & Barter Economy 
+## Economy
 
 ### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) 
 
@@ -37,8 +37,7 @@ A highly customizable loot scarcity mod.
 #### Installation:
 
 - Main File - Unfound Loot
-- Main File - Unfound Loot INI
-- Main File - [Unfound Loot Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1) - Optional alternative to the Unfound Loot INI main file for those who desire a more **hardcore** loot economy.
+- Main File - [Unfound Loot - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1)
 
 ## Damage & Radiation Effects
 
@@ -52,7 +51,7 @@ Overhauls all aspects of radiation, making it far more consequential.
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
-Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage re-balancing, and a DT/DR/resistance overhaul for creatures.
+Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage rebalancing, and a DT/DR/resistance overhaul for creatures.
 
 #### Installation:
 
@@ -72,7 +71,7 @@ Features 16 new healing items and new Survival healing options, including a band
 
 ### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
 
-Top to bottom overhaul and rebalancing of consumable and misc items.
+A top to bottom overhaul and rebalancing of consumable and misc items.
 
 #### Installation:
 
@@ -80,7 +79,7 @@ Top to bottom overhaul and rebalancing of consumable and misc items.
 
 ### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
 
-A complete overhaul and rebalancing of doctors, sleep, endurance, and infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
+A complete overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
 
 #### Installation:
 
