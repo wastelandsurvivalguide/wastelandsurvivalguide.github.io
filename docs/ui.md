@@ -398,7 +398,7 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
   - Main File:
     - [x] Plugin (Recommended)
     - [ ] Scriptrunner
-- Main File - [Item Cards Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129342&nmm=1)
+- Main File - [Item Cards - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129342&nmm=1)
 
 ### [3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243)
 
