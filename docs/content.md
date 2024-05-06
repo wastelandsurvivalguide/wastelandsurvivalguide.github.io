@@ -39,7 +39,7 @@ Adds several scripted events and hundreds of NPCs who will patrol roads, travel 
 
 ### Sweet Pain DC
 
-Overhauls A World Of Pain for Fallout 3 to be more appropriate for early and mid level play. 
+Adds many intense and unique locations, new items, companions, and quests to the Capital Wasteland. Overhauled by Sweet to improve balance and remove lore unfriendly content.
 
 #### Installation:
 
@@ -48,7 +48,7 @@ Overhauls A World Of Pain for Fallout 3 to be more appropriate for early and mid
 
 ### Sweet Pain NV
 
-Overhauls A World Of Pain Revised for New Vegas to be more appropriate for early and mid level play.
+Adds many intense and unique locations, new items, companions, and quests to the Mojave Wasteland. Overhauled by Sweet to improve balance and remove poorly designed content. Overhauled initially by Qolore7 to rebalance and remove unvoiced NPCs, quests, and lore unfriendly interiors, then further overhauled by Sweet for balance and lore-friendliness.
 
 #### Installation:
 
@@ -58,7 +58,7 @@ Overhauls A World Of Pain Revised for New Vegas to be more appropriate for early
 
 ### [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809)
 
-Adds more locations to the New Vegas landscape to epxand upon sparser areas. Integrates a few elements from the DLCs into the base game and makes exploring more worthwhile. 
+Adds many more locations to the New Vegas landscape to further expand upon sparser areas.
 
 #### Installation:
 
@@ -68,7 +68,7 @@ Adds more locations to the New Vegas landscape to epxand upon sparser areas. Int
 
 ### Uncut Wasteland & Extra Collection
 
-Restores a huge amount of scenery, NPCs, creatures, and other details which were patched out New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
+Restores a huge amount of scenery, NPCs, creatures, and other details which were patched out of New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
 
 #### Installation:
 
@@ -106,7 +106,3 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 - Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
 - Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1) (If you downloaded [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1) (If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in this section.)
-
-:::note
-This mod edits dialogue options. Do not ask about it in support channels, the dialogue changes are intentional.
-:::
