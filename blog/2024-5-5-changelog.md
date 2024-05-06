@@ -84,3 +84,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added The Living Desert Leveled List Overhaul.
 - Added Crippled Limb Reaction Enforcer.
 - Added Real Weapon Mods 2.
+- Added Weapon Jamming Tweaks.
