@@ -223,7 +223,6 @@ Gives weapon mods real meshes and adds them to random locations across the Mojav
 #### Installation:
 
 - Main File - Real Weapon Mods Complete - Requires all DLC and GRA
-- Main File - RWM added to loads of spots around the game for COMPLETE
 - Main File - [TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=files)
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
