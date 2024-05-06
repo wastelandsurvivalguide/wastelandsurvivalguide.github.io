@@ -79,7 +79,6 @@ ItemCards.esp
 QuickSelect.esp
 Immersive Minigames.esp
 [RWM]-Complete Added.esp
-S6S Perks.esp
 Casino Exchange All.esp
 DelayDLCRedux.esp
 Root 'n Loot.esp
@@ -113,6 +112,10 @@ New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
 S6S Base Perks Redux No Big Guns Patch TTW.esp
+S6S Perks.esp
+PerkPackPlus.esp
+Friends With Benefits Perk Pack.esp
+Vegas Elysium.esp
 RAD.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
