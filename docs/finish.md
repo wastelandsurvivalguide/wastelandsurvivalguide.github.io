@@ -132,7 +132,7 @@ Impostors and LOD Flicker Fix.esp
 NVMIM.esp
 Tactapack_-_TTW_Patch.esp
 Enhanced Movement.esp
-GeneralLightingOverhaul.esp
+Atmospheric Lighting Tweaks TTW.esp
 Natural Interior.esp
 DNWeathers.esp
 Interior Rain.esp
