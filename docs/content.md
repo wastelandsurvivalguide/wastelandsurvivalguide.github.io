@@ -37,6 +37,9 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 
 Adds several scripted events and hundreds of NPCs who will patrol roads, travel between towns, occupy locations, explore the desert, and react dynamically to your choices throughout the game.
 
+- Main File - The Living Desert Main File
+- Main File - [The Living Desert Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
+
 ### Sweet Pain DC
 
 Adds many intense and unique locations, new items, companions, and quests to the Capital Wasteland. Overhauled by Sweet to improve balance and remove lore unfriendly content.
