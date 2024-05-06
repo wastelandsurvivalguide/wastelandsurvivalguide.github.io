@@ -90,3 +90,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added SSS - Sweets Simple Settings.
 - Added More or Less Rads.
 - Added Reload Reloaded.
+- Added TTW Quick Train to NV Prompt.
