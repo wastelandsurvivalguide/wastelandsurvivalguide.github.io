@@ -18,6 +18,15 @@ The mods ahead may change the game dramatically, requiring compensation in gamep
 Sweet's mod pages will tell you to use **Normal** difficulty with her mods, but with Better Damage Multipliers, other difficulty choices may be reasonable.
 :::
 
+## General
+
+### [SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) 
+
+Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment to enhance difficulty.
+
+- Main File - SSS
+- Main File - Tag Perk Description Adjustment
+
 ## Economy
 
 ### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) 
@@ -48,6 +57,10 @@ Overhauls all aspects of radiation, making it far more consequential.
 #### Installation:
 
 - Main File - RAD - Overhaul
+
+### [More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) 
+
+User-configurable increase or decrease in the size and intensity of all ambient radiation in the game. The default settings functionally double the intensity and triple the radius of radiation.
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
