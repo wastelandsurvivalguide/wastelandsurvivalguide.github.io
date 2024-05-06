@@ -91,3 +91,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added More or Less Rads.
 - Added Reload Reloaded.
 - Added TTW Quick Train to NV Prompt.
+- Added Levelup Traits.
+- Added PerkPackPlus.
+- Added Friends with Benefits Perk Pack.
+- Added Vegas Elysium Perk Pack.
