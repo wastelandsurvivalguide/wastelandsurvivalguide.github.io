@@ -219,7 +219,7 @@ ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.
 
 ## Lighting
 
-### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/84223](https://www.nexusmods.com/newvegas/mods/79378)
+### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378)
 
 Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
 
