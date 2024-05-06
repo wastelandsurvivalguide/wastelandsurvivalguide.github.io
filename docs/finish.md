@@ -94,8 +94,6 @@ JustAssortedMods.esp
 JBTImproved.esp
 ImmersiveRecoil.esp
 Reload Reloaded.esp
-DynamicWeaponSpread.esp
-DWS_JAM_patch.esp
 DynamicDetectionSystem.esp
 TTWZetaRewards.esp
 TTWTransportalponderEx.esp
