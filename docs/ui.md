@@ -421,6 +421,8 @@ Adds a customizable visual effect when the player is drowning or holding their b
 
 Adds a customizable visual effect when the player is exposed to radiation. Ionizing particles, static noise, blurred vision, and more!
 
+#### Installation:
+
 - Main File - Radiation Visuals
   - Main File:
     - [x] Plugin (Recommended)
