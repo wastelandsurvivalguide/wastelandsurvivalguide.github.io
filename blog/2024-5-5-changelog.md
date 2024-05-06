@@ -9,6 +9,8 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Clarified the requirement for JAM Sprint to be off in order to use Enhanced Movement.
 - Removed Charisma Affects Reputation due to redundancy with Charisma Tweaks and Karuts Preset.
 - Fixed erraneous JAM - Custom INI link, which was linking to an old version.
+- Removed Improved LOD Noise Texture in favor of Contrasted LOD Noise Texture.
+- Added, then subsequently removed Pip-Boy Light Flicker Fix - NVSE. There was redundancy with an already preconfigured TBOT ini that already contains this fix.
 
 ### Reorganization
 - Added Extra Utilities & Fixes section.
@@ -34,7 +36,6 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added sub-sections to the User Interface & HUD section and significant reorganization of mods contained on this page.
 - Moved High Resoultion Bloom to Extra Utilities & Fixes.
 - Moved High Resolution Water Fog to Extra Utilities & Fixes.
-- Moved Improved LOD Noise Texture to Extra Utilities & Fixes.
 - Moved Instant and Faster Pipboy (No Stutter) to Extra Utilities & Fixes.
 - Moved Clean Just Assorted Mods and Bullet Time Improved - a JAM Addon downloads as an umbrella download linked to JAM itself.
 - Added sub-sections to the Gameplay section and significant reorganization of mods contained on this page.
@@ -59,7 +60,6 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Keywords.
 - Added Mostly Fixed FaceGen Tints(NV or TTW).
 - Added Impostors and LOD Flicker Fix.
-- Added Pip-Boy Light Flicker Fix - NVSE.
 - Added Smooth True Iron Sights Camera.
 - Added Swimming Creatures Fix - ESPless.
 - Added Vent Lighting Fix.
@@ -71,3 +71,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Drowning Visuals - ESPless.
 - Added Radiation Visuals - ESPless.
 - Added Simple Night Vision - ESPless.
+- Added Contrasted LOD Noise Texture.
