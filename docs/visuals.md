@@ -11,7 +11,25 @@
 We felt these mods are out of the scope of this guide, but check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for it is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 :::
 
+## LOD
+
+### [Contrasted LOD Noise Texture)(https://www.nexusmods.com/newvegas/mods/85898)
+
+Adds LOD noise texture for Mid Frequency Details, which helps blend far terrain with closer details.
+
+### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691)
+
+Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
+
 ## Visual Improvements
+
+### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
+
+Adjusts a few shader flags to litter meshes to stop the litter from flickering.
+
+#### Installation:
+
+Main File - Mainframes Litter Flickering Fix v5. **Note, this must load after NVMIM**. (This should already be true if following the guide)
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
