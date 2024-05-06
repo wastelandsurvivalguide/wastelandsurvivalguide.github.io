@@ -441,6 +441,14 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 
 - Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088) (you should already have this if following the guide)
 - Main File - Simple Night Vision
+  - Main File:
+    - [x] Plugin (Recommended)
+    - [ ] Scriptrunner
+  - Texture Quality:
+    - [x] 2k
+    - [ ] 1k
+  - Texture Options:
+    - [x] Compress Textures
 
 ### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer)
 
