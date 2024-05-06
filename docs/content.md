@@ -106,3 +106,33 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 - Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
 - Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1) (If you downloaded [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) from the [Gameplay](https://wastelandsurvivalguide.com/docs/gameplay) section.)
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1) (If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in this section.)
+
+:::danger Spicy Mods Ahead
+The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced for hardcore mode. **Procceed with caution!**
+:::
+
+## New Weapons
+
+### [Another Milenia](https://www.nexusmods.com/newvegas/mods/76133)
+
+A massive collection of weapons made by Millenia, featuring over 50 new weapons!
+
+#### Installation Instructions:
+- Main File - Another Millenia
+- Main File - Another Millenia - TTW Unique Placements
+
+### [Another Milenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
+
+An add-on for Another Millenia that adds many guns that did not make the original weapon pack.
+
+### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
+
+Adds over a dozen high quality firearms, energy weapons, and melee weapons made by Zealotlee.
+
+### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
+
+A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanced, and reintegrated!
+
+#### Installation:
+- Main File - Tactapack
+- Main File - Hotfix 1.6a (**DO NOT** install seperately, merge into main file)
