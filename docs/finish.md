@@ -75,6 +75,7 @@ PipBoyUITweaks.esp
 ItemCards.esp
 3DGrenadeIndicator.esp
 QuickSelect.esp
+Immersive Minigames.esp
 S6S Perks.esp
 Casino Exchange All.esp
 DelayDLCRedux.esp
