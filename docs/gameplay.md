@@ -113,6 +113,10 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
 
 This mod provides you with a greater choice regarding what items to receive at the beginning of the game when using TTW Quick Start. User configurable.
 
+### [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) 
+
+Allows for starting in the Mojave Wasteland without the imperfections that can accompany the standard TTW provided option, and that TTW Quick Start disables. To travel to the Mojave Wasteland, select yes when prompted "is this just a dream," after leaving the vault.
+
 ### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
 
 This is a mod that provides you with stat based starting gear at the beginning of your TTW playthrough.
