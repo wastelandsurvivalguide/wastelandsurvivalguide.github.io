@@ -81,3 +81,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added ZL Armaments Remastered.
 - Added Tactapack.
 - Added B42 True Leaning.
+- Added The Living Desert Leveled List Overhaul.
