@@ -413,17 +413,6 @@ This section assumes you have already visited Sal's [New Vegas Visual Renewal - 
 - [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427) - Work for Bobby Bass as a contract killer in this fully-voiced quest mod! Tiddies and biscuits.
 
 
-### Perks & Traits
-[Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682) - A set of perks that grant bonuses once idolized by various factions.
-
-[PerkPackPlus](https://www.nexusmods.com/newvegas/mods/70473) - Adds various new perks suited for specialization and to add spice to your build. Compliments [S6S Perks](https://www.nexusmods.com/newvegas/mods/73438) and [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) well.
-- Also use [Sweet's Patch](https://www.nexusmods.com/newvegas/mods/76523) to prevent perk overlap.
-
-[Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) - A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
-- Please read the trigger warning on the mod page carefully prior to downloading.
-- Pairs nicely with [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910), which grants the option to take a trait per a variable amount of levelups.
-
-
 ## Visuals & Audio
 :::caution Important!
 Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) is <b>HIGHLY</b> recommended for core visual, audio, and lighting improvements. Duplicates and redundancies are intentionally omitted from the following sections. If any of the following mods are added to Sal's guide, they will be removed from Additions.
@@ -542,7 +531,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/5/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, Reload Reloaded, TTW Quick Train to NV Prompt, and B42 True Leaning.
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, Reload Reloaded, TTW Quick Train to NV Prompt, PerkPackPlus, Vegas Elysium Perk Pack, Levelup Traits, and B42 True Leaning.
 - Removed Inaccurate NPCs due to redundancy with Combat Enhancer Updated from the main portion of the guide.
 - Added Metro Map Replacer.
 
