@@ -308,7 +308,7 @@ This is a complete rebalance and overhaul of many base game perks.
 #### Installation:
 
 - Main File - Sweet Perk Overhaul
-- Optional File - No Big Guns Patch
+- Optional File - No Big Guns Patch - Optional for those who **DO NOT WANT** the Gun Skill seperated into Guns and Big Guns skills.
 
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
@@ -318,11 +318,36 @@ The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a
 
 - Main File - Sweet 6 Shooter Perk Pack TTW Version
 
+### [Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682) 
+
+A set of perks that grant bonuses once idolized by various factions.
+
+### [PerkPackPlus](https://www.nexusmods.com/newvegas/mods/70473) 
+
+Adds various new perks suited for specialization and to add spice to your build. Compliments Sweets other perk overhauls nicely.
+
+#### Installation: 
+- Main File - PerkPackPlus
+- Main File - PerkPackPlus - TTW Patch
+- Main File - [S6S Perks - PerkPackPlus Patch](https://www.nexusmods.com/newvegas/mods/76523?tab=files&file_id=1000112045&nmm=1) - Prevents perk redundancy with Sweets other perk overhauls.
+
 ## Optional Extras
 
 :::danger Spicy Mods Ahead
 The **OPTIONAL** mods ahead may deviation significantly from the vanilla experience. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
 :::
+
+### [Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) 
+
+:::danger Spicy Mods Ahead
+Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
+:::
+
+A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
+
+### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910)
+
+Grants the option to take a trait per a variable amount of levelups. This is useful alongside many of the above perk packs (especially Vegas Elysium), as they often add new traits.
 
 ### [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) 
 
