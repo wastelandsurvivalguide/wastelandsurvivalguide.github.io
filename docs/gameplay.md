@@ -239,15 +239,6 @@ Implements customizable Strength and Skill requirements for weapons, making them
 
 Adds working recoil to the wasteland. Consider choosing the hardcore preset in the MCM options for a more **hardcore** experience.
 
-### [Dynamic Weapon Spread 2.0](https://www.nexusmods.com/newvegas/mods/82393)
-
-A complete overhaul to the weapon spread system that enhances realism.
-
-#### Installation:
-
-- Main File - Dynamic Weapon Spread
-- Optional File - JAM Patch - For the dynamic crosshair
-
 ### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) 
 
 Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Highly customizable.
