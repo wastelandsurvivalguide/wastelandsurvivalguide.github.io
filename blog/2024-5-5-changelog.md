@@ -76,7 +76,8 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Butcher Pete Complete - A Melee Animation Overhaul.
 - Added Wasteland Warrior - A Melee Animation Overhaul.
 - Added Iron Sights Aligned.
-- Added Another Milenia
-- Added Another Millenia Gun Add-on
-- Added ZL Armaments Remastered
-- Added Tactapack
+- Added Another Milenia.
+- Added Another Millenia Gun Add-on.
+- Added ZL Armaments Remastered.
+- Added Tactapack.
+- Added B42 True Leaning.
