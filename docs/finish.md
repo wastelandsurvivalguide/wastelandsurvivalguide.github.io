@@ -113,6 +113,7 @@ S6S Base Game Perks Redux TTW Side.esp
 S6S Base Perks Redux No Big Guns Patch TTW.esp
 S6S Perks.esp
 PerkPackPlus.esp
+PerkPackPlus - TTW Patch.esp
 Friends With Benefits Perk Pack.esp
 Vegas Elysium.esp
 RAD.esp
@@ -126,6 +127,7 @@ B42Inertia.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
+RadiationVisuals.esp
 Impostors and LOD Flicker Fix.esp
 NVMIM.esp
 Tactapack_-_TTW_Patch.esp
