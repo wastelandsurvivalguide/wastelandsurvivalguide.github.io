@@ -60,6 +60,7 @@ MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
 zl_Armaments_Remastered.esm
+[RWM]-Complete.esm
 mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
@@ -77,6 +78,7 @@ ItemCards.esp
 3DGrenadeIndicator.esp
 QuickSelect.esp
 Immersive Minigames.esp
+[RWM]-Complete Added.esp
 S6S Perks.esp
 Casino Exchange All.esp
 DelayDLCRedux.esp
@@ -102,6 +104,8 @@ GUWR - TTW Patch.esp
 DelayDLCReduxPOPP.esp
 SP TTW Patch.esp
 MoreMojave - FPGE Patch.esp
+MigArmorDegen.esp
+MigCrippled.esp
 New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
@@ -113,7 +117,6 @@ Aid Addon.esp
 Healing Systems.esp
 Unfound Loot.esp
 WeaponRequirementSystem.esp
-MigArmorDegen.esp
 B42Inertia.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
