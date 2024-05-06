@@ -80,7 +80,7 @@ bEnableCategories = 1
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
-Uses yUI features to add 140+ custom icons and advanced sorting logic to improve inventory
+Uses yUI features to add many custom icons and advanced sorting logic to improve inventory
 management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
 (it should be if following the guide). The colorful icons are recommended and look great in-game.
 
@@ -126,12 +126,12 @@ The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
 :::note
-This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution. I've never had issues with it personally. - Audixas
+This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution.
 :::
 
 ### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
 
-A stripped down and updated version of No PipBoy in Power Armor, which replaces the pip-boy with a holopanel while wearing power armor.
+A stripped down and updated version of No PipBoy in Power Armor, which replaces the Pip-Boy with a holopanel while wearing power armor.
 
 #### Installation:
 
@@ -173,11 +173,11 @@ Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
 
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
-Changes the corner notifications to improve readability - multiple appear simultaneously and fade out as new ones appear.
+Changes the corner notifications to improve readability. Multiple messages appear simultaneously and fade out as newer ones appear.
 
 ### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
 
-Adds a UI widget that displays what your recent loot.
+Adds a UI widget that displays your recent loot.
 
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
@@ -242,6 +242,7 @@ High-quality Pip-Boy icons.
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
 <p>Placed here to keep these mods from bloating the page. If you want more high-quality UI mods, continue on.
+
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
@@ -414,15 +415,24 @@ Adds high-quality quick select menus for weapon and item. Dramatically improves 
 
 ### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841)
 
-Adds a customizable visual effect when the player is drowning/holding their breath.
+Adds a customizable visual effect when the player is drowning or holding their breath.
 
 ### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917)
 
 Adds a customizable visual effect when the player is exposed to radiation. Ionizing particles, static noise, blurred vision, and more!
 
+  - Main File:
+    - [x] Plugin (Recommended)
+    - [ ] Scriptrunner
+  - Texture Quality:
+    - [x] 2k
+    - [ ] 1k
+  - Texture Options:
+    - [x] Compress Textures
+
 ### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
 
-Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! Use the N key to toggle night vision, hold the N key to add support to current headgear.
+Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! Use the N key to toggle night vision, and hold the N key to add support to your current headgear.
 
 #### Installation:
 
