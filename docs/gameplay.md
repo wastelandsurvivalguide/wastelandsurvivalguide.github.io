@@ -273,3 +273,21 @@ The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a
 #### Installation:
 
 - Main File - Sweet 6 Shooter Perk Pack TTW Version
+
+## Optional Extras
+
+:::danger Spicy Mods Ahead
+The **OPTIONAL** mods ahead may deviation significantly from the vanilla experience. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
+:::
+
+### [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) 
+
+Real-time, character-skill based replacement for hacking and lockpicking. Refer to the MCM settings to learn how to use this.
+
+#### Installation: 
+
+- Main File - Immersive Minigames
+
+### [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) 
+
+Adds contextual leaning around corners.
