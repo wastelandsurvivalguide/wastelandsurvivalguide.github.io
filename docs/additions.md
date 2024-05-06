@@ -235,9 +235,6 @@ his mod adds a load of new chems for the discerning junkie and/or dealer! Featur
 - Sweet has plans to create a complete version that includes modded weaponry from across the nexus, similar to the approach taken by [STARS](https://www.nexusmods.com/newvegas/mods/76016).
 - Soft incompatibility with mods that add new weapons to the game, though most popular weapon addition mods have similar balancing (including [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213), [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133), [Another Millenia Gun Add-on](https://www.nexusmods.com/newvegas/mods/77358), and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219).
 
-[Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Replaces the formula for weapon jamming when firing and reloading.
-- Use Sweet’s configuration file if a more hardcore experience is desired.
-
 [Well Rested Overhaul](https://www.nexusmods.com/newvegas/mods/64628) - Expands how the well rested effect works, including additional buffs and changes in duration of effect.
 - Soft incompatibility with [Sweet Healing System](https://www.nexusmods.com/newvegas/mods/83473), as they both alter the well rested bonus in conflicting ways.
 
@@ -559,7 +556,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/4/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, and B42 True Leaning.
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, and B42 True Leaning.
 - Added Metro Map Replacer.
 
 1.3 - 4/30/2024
