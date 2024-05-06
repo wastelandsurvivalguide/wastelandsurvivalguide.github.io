@@ -40,7 +40,13 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Moved Clean Just Assorted Mods and Bullet Time Improved - a JAM Addon downloads as an umbrella download linked to JAM itself.
 - Added sub-sections to the Gameplay section and significant reorganization of mods contained on this page.
 - Moved Home & Safehouse Tweaks to the Gameplay section.
-- Moved Hard Barter Faster Stronger, Unfound Loot, RAD - Radiation (Is) Actually Dangerous, New Blood, Aid Addon, Sweet Consumables, Sweet Healing System to the Hardcore section.
+- Moved Hard Barter Faster Stronger to the Hardcore section.
+- Moved Unfound Loot to the Hardcore Section.
+- Moved RAD - Radiation (Is) Actually Dangerous to the Hardcore section.
+- Moved New Blood to the Hardcore section.
+- Moved Aid Addon to the Hardcore section.
+- Moved Sweet Consumables to the Hardcore section.
+- Moved Sweet Healing System to the Hardcore section.
 - Moved Improved AI (Navmesh Overhaul Mod) to Optimizations.
 - Moved TTW Ultimate Invisible Wall Remover to Optimizations.
 - Moved Collision Meshes - DC to Optimizations.
