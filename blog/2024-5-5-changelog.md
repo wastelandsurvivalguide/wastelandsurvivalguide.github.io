@@ -89,3 +89,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Sweet Dynamic Detection System.
 - Added SSS - Sweets Simple Settings.
 - Added More or Less Rads.
+- Added Reload Reloaded.
