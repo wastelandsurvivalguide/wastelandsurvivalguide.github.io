@@ -77,6 +77,7 @@ PipBoyUITweaks.esp
 ItemCards.esp
 3DGrenadeIndicator.esp
 QuickSelect.esp
+SimpleNightVision.esp
 Immersive Minigames.esp
 [RWM]-Complete Added.esp
 Casino Exchange All.esp
