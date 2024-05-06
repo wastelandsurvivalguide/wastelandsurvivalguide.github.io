@@ -195,6 +195,20 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
 
 ## Combat & Weapons
 
+### [Crippled Limb Reaction Enforcer](https://www.nexusmods.com/newvegas/mods/73147)
+
+Makes idle animations for crippled limbs persist in situations where the game does not enforce them correctly, like when the damage comes from an explosion. Also gives NPCs debuffs when crippled, similar to the player does.
+
+[Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) 
+
+Gives weapon mods real meshes and adds them to random locations across the Mojave. Substantially rebalanced by Sweet.
+
+#### Installation:
+
+- Main File - Real Weapon Mods Complete - Requires all DLC and GRA
+- Main File - RWM added to loads of spots around the game for COMPLETE
+- Main File - [TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=files)
+
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
 Implements customizable Strength and Skill requirements for weapons, making them actually adhere to their previously inconsequential listed requirements.
