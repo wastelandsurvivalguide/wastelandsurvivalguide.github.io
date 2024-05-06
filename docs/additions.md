@@ -160,7 +160,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Bypass locks on doors and containers by damaging them.
 
 [Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Feastures many returning favorites from Fallout games past and present. Includes custom animations.
-- Requires [B42 Inject - Animated Item Use - ESPless](B42 Inject - Animated Item Use - ESPless).
+- Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
 - May make chems too plentiful if despite loot scarcity mods.
 
 his mod adds a load of new chems for the discerning junkie and/or dealer! Featuring many returning favorites from Fallout games past, present and even the Fallouts that never were. 99% of them also come custom anims
