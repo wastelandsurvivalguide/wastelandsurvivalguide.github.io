@@ -12,6 +12,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Removed Improved LOD Noise Texture in favor of Contrasted LOD Noise Texture.
 - Added, then subsequently removed Pip-Boy Light Flicker Fix - NVSE. There was redundancy with an already preconfigured TBOT ini that already contains this fix.
 - Removed General Lighting Overhaul again in favor of Atmospheric Lighting Tweaks (was attempting to create parity with NVVR guide, then was informed that NVVR is moving away from General Lighting Overhaul xD)
+- Removed Dynamic Weapon Spread due to fundamentally flawed mechanics (alterations in the players spread also alter every other NPCs spread, so when sprinting, every NPC uses the spread that the player would have while sprinting. The same is true while crouching, where even players that are moving have spread equivalent to that of crouching.
 
 ### Reorganization
 - Added Extra Utilities & Fixes section.
