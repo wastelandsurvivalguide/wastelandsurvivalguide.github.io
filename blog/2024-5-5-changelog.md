@@ -13,6 +13,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added, then subsequently removed Pip-Boy Light Flicker Fix - NVSE. There was redundancy with an already preconfigured TBOT ini that already contains this fix.
 - Removed General Lighting Overhaul again in favor of Atmospheric Lighting Tweaks (was attempting to create parity with NVVR guide, then was informed that NVVR is moving away from General Lighting Overhaul xD)
 - Removed Dynamic Weapon Spread due to fundamentally flawed mechanics (alterations in the players spread also alter every other NPCs spread, so when sprinting, every NPC uses the spread that the player would have while sprinting. The same is true while crouching, where even players that are moving have spread equivalent to that of crouching).
+- Clarified JAM custom INI instructions.
 
 ### Reorganization
 - Added Extra Utilities & Fixes section.
@@ -107,3 +108,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Atmospheric Lighting Tweaks.
 - Added B42 FireMode - Selective Fire and First Shot Precision - ESPless, primarily for its weapon spread effects.
 - Added B42 True Leaning - Custom INI.
+- Added A Very Uncreative Faction Disguise Remover - ESPless so that Friends with Benefits Perk Pack can function appropriately.
