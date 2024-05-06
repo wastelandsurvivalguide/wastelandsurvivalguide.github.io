@@ -116,8 +116,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Movable Statics Replaced with Lootable Versions](https://www.nexusmods.com/newvegas/mods/83961) - Uses base object swapper to swap hundreds of statics with lootable versions.
 - Requires [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934).
 
-[No More Explosions Blindness](https://www.nexusmods.com/newvegas/mods/73572) - 
-Removes the blindness effect from explosions.
+[No More Explosions Blindness](https://www.nexusmods.com/newvegas/mods/73572) - Removes the blindness effect from explosions.
 
 [No More Motion Sickness](https://www.nexusmods.com/newvegas/mods/73613) - Removes any kind of blur (motion blur, get hit blur, etc...) from the game.
 
@@ -177,8 +176,6 @@ his mod adds a load of new chems for the discerning junkie and/or dealer! Featur
 
 [Immersive Fast Travel Encounters TTW Edition](https://www.nexusmods.com/newvegas/mods/85883) - A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
 - Incompatible with [Transporters](https://www.nexusmods.com/newvegas/mods/77645) and any other mod that travel through means other than the pip-boy map.
-
-[Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Real-time, character-skill based replacement for hacking and lockpicking.
 
 [Immersive Sleeping Encounters](https://www.nexusmods.com/newvegas/mods/74289) - A user configurable overhaul of the sleep system that implements D&D styled random encounters when the player naps.
 
@@ -540,8 +537,6 @@ The following are designed to be placed in the following load order if using the
 
 
 ### Animations
-[B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) - Adds contextual leaning around corners.
-
 [Idle Variety](https://www.nexusmods.com/newvegas/mods/85718) - Adds idle animation variants to NPCs - More life and less monotony.
 
 [Melee Hitstop Effects](https://www.nexusmods.com/newvegas/mods/75981) - Adds hitstop for melee weapons, by slowing down gametime to 0.1 for a few frames, then restoring it.
@@ -571,14 +566,11 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/4/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, and Iron Sights Aligned.
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, and B42 True Leaning.
 - Added Metro Map Replacer.
-
-Texture replacers for the underground metro maps, making them more useful for navigation.
 
 1.3 - 4/30/2024
 - Transferred several mods from Additions to the main portion of the guide, including TTW Ultimate Invisible Wall Remover, Collision Meshes - DC, Collision Meshes - NV, Improved AI (Navmesh Overhaul Mod), ExRB - Extended Roombounds, Fallout 3 TTW Interior Optimization Project, Mainframes Litter Flickering Fix, Alternate Holographic Panel, Stash Organizer, Transporters, Harder Barter Faster Stronger, RAD - Radiation (Is) Actually Dangerous, Sweet Healing System, Natural Interiors, General Lighting Overhaul, Quick Select - A Zelda BOTW Style Quick Menu, Enhanced Movement, Item Cards, and Unfound Loot.
-- Removed Meshes sub-section given the transitions above.
 
 1.2 - 4/30/2024
 - Removed Consistent Spread - Firearms Accuracy and Wobble Fix due to redundancy with the main guide.
