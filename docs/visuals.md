@@ -219,16 +219,9 @@ ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.
 
 ## Lighting
 
-### [General Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/84223)
+### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/84223](https://www.nexusmods.com/newvegas/mods/79378)
 
-A fully scripted, fully compatible adjustment to lighting and postprocessing.
-
-#### Installation:
-
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
-- Main File - [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
-- Main File - General Lighting Overhaul
-- Main File - **Coming soon - A custom INI to make GLO more aesthetically pleasing when used alongside Desert Natural Weathers**
+Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
 
 ### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
 
