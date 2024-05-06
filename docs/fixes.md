@@ -30,7 +30,7 @@ Another script extender plugin that adds new functions to the game. **Required**
 
 ### [Keywords](https://www.nexusmods.com/newvegas/mods/83088?tab=description)
 
-Implements an ESPless framework to create, and automatically load keywords in a simple user-friendly way, via use of ini config files. **Required** for certain mods contained within the guide.
+Implements an ESPless framework to create and automatically load keywords in a simple user-friendly way, via use of ini config files. **Required** for certain mods contained within the guide.
 
 ### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
 
@@ -76,23 +76,15 @@ Dynamically adjusts draw distance in accordance with the fog to improve performa
 
 ### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
 
-Increases bloom precision, reducing flicker.
+Increases bloom precision, thus reducing flicker.
 
 ### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
 
 Increases resolution of water depth render target, thus significantly reducing aliasing and improving image quality.
 
-### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691)
-
-Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
-
 ### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
 Fixes exterior lighting bugs and allows up to 4x the number of active lights.
-
-### [Improved LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/46451)
-
-Makes distant land textures less ugly.
 
 ### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
 
@@ -104,19 +96,15 @@ Fixes moonlight, making the moon the light caster instead of the sun.
 
 ### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
 
-Fixes vanilla FaceGen tints. The plugin will appear crossed out, DO NOT hide it.
+Fixes vanilla FaceGen tints. The plugin will appear crossed out, this is normal and expected. DO NOT hide the plugin.
 
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
 
-Fixes muzzle flash lights not being culled after shot, leading to game still using them for illumination.
-
-### [Pip-Boy Light Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/78954) 
-
-Fixes flicker in Pip-Boy opening animation if its light is on.
+Fixes muzzle flash lights not being culled after firing, which would cause the game to continue using them for illumination.
 
 ### [Pip-Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957)
 
-Fixes a bug that caused the Pip-Boy to ignore external lights & appear oddly dark - especially in interiors.
+Fixes a bug that caused the Pip-Boy to ignore external lights and appear oddly dark, especially in interiors.
 
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
