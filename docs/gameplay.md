@@ -325,6 +325,10 @@ The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a
 
 A set of perks that grant bonuses once idolized by various factions.
 
+#### Installation:
+- Main File - Friends With Benefits Perk Pack
+- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - To remove the faction disguise function, Which is extremely broken at baseline, but also makes this mod function inappropriately.
+
 ### [PerkPackPlus](https://www.nexusmods.com/newvegas/mods/70473) 
 
 Adds various new perks suited for specialization and to add spice to your build. Compliments Sweets other perk overhauls nicely.
