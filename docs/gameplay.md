@@ -236,7 +236,7 @@ Main File - **Coming soon - A custom INI to make ADO's new formula a bit more fo
 
 ## Movement
 
-### [Enhanced Movement](https://www.nexussmods.com/newvegas/mods/85459)
+### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
 An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more. 
 
