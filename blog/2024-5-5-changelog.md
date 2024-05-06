@@ -11,6 +11,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Fixed erraneous JAM - Custom INI link, which was linking to an old version.
 - Removed Improved LOD Noise Texture in favor of Contrasted LOD Noise Texture.
 - Added, then subsequently removed Pip-Boy Light Flicker Fix - NVSE. There was redundancy with an already preconfigured TBOT ini that already contains this fix.
+- Removed General Lighting Overhaul again in favor of Atmospheric Lighting Tweaks (was attempting to create parity with NVVR guide, then was informed that NVVR is moving away from General Lighting Overhaul xD)
 
 ### Reorganization
 - Added Extra Utilities & Fixes section.
@@ -102,3 +103,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Friends with Benefits Perk Pack.
 - Added Vegas Elysium Perk Pack.
 - Added ADO - Armor Damage Overhaul Custom INI.
+- Added Atmospheric Lighting Tweaks.
