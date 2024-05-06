@@ -157,7 +157,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 #### Installation:
 
 - Main File - Just Assorted Mods
-- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129403&nmm=1)
+- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1)
 - Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) (If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section)
 - Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
 - Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) - Consider disabling your VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
