@@ -235,6 +235,14 @@ Implements customizable Strength and Skill requirements for weapons, making them
 - Main File - Weapon Requirements System
 - Update File - Weapon Requirements System
 
+### [B42 FireMode - Selective Fire and First Shot Precision - ESPless](https://www.nexusmods.com/newvegas/mods/82576)
+
+Replaces the weapon spread mechanics with one that is far more intuitive and appropriate, without the fundamental flaws present in other mods that alter weapon spread.
+
+#### Installation:
+
+- Main File - B42 FireMode
+
 ### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
 
 Adds working recoil to the wasteland. Consider choosing the hardcore preset in the MCM options for a more **hardcore** experience.
