@@ -203,6 +203,15 @@ Makes idle animations for crippled limbs persist in situations where the game do
 
 Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
 
+### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
+
+This mod completely overhauls the way armor damage is calculated, replacing the non-sensical formula that governed condition degradation and damage taken.
+
+#### Installation:
+
+- Main File - ADO - Armor Damage Overhaul
+- Main File - **Coming soon - A custom INI to make ADO's new formula a bit more forgiving**
+
 ### [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) 
 
 Gives weapon mods real meshes and adds them to random locations across the Mojave. Substantially rebalanced by Sweet.
@@ -235,10 +244,6 @@ A complete overhaul to the weapon spread system that enhances realism.
 - Main File - Dynamic Weapon Spread
 - Optional File - JAM Patch - For the dynamic crosshair
 
-### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
-
-Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
-
 ### [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) 
 
 Replaces the formula for weapon jamming when firing and reloading.
@@ -248,14 +253,22 @@ Replaces the formula for weapon jamming when firing and reloading.
 - Main File - Weapon Jamming Tweaks
 - Main File - Sweet's Configuration - Optional for those who desire a more hardcore experience.
 
-### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
+### [Combat Enhancer Updated](https://www.nexusmods.com/newvegas/mods/86169)
 
-This mod completely overhauls the way armor damage is calculated, replacing the non-sensical formula that governed condition degradation and damage taken.
+Tweaks some game settings to make NPCs react faster, more intelligently, and deadlier in combat situations.
+
+### [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) 
+
+Enhances NPCs ability to detect the player at medium and long ranges, ameliorating the wildly overpowered state of sniping.
 
 #### Installation:
 
-- Main File - ADO - Armor Damage Overhaul
-- Main File - **Coming soon - A custom INI to make ADO's new formula a bit more forgiving**
+- Main File - SDDS
+- Optional File - TTW Patch
+
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
+
+Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
 
 ## Movement
 
