@@ -51,7 +51,7 @@ Adds many intense and unique locations, new items, companions, and quests to the
 
 ### Sweet Pain NV
 
-Adds many intense and unique locations, new items, companions, and quests to the Mojave Wasteland. Overhauled by Sweet to improve balance and remove poorly designed content. Overhauled initially by Qolore7 to rebalance and remove unvoiced NPCs, quests, and lore unfriendly interiors, then further overhauled by Sweet for balance and lore-friendliness.
+Adds many intense and unique locations, new items, companions, and quests to the Mojave Wasteland. Overhauled initially by Qolore7 to rebalance and remove unvoiced NPCs, quests, and lore unfriendly interiors, then further overhauled by Sweet for balance and lore-friendliness.
 
 #### Installation:
 
