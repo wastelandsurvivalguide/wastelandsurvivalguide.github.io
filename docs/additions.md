@@ -210,8 +210,6 @@ his mod adds a load of new chems for the discerning junkie and/or dealer! Featur
 
 [Misc. Gamesetting Tweaks](https://www.nexusmods.com/newvegas/mods/72983) - A collection of INI mods to configure Game Settings to your liking.
 
-[More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) - User-configurable increase or decrease in the size and intensity of all ambient radiation in the game.
-
 [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) - Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
 
 [SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746) - Distributes various items that are otherwise not readily available across the wastelands.
@@ -548,7 +546,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/5/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, and B42 True Leaning.
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, and B42 True Leaning.
 - Removed Inaccurate NPCs due to redundancy with Combat Enhancer Updated from the main portion of the guide.
 - Added Metro Map Replacer.
 
