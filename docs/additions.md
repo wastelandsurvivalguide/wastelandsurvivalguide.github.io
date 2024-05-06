@@ -103,10 +103,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Hardcore Forever](https://www.nexusmods.com/newvegas/mods/75682) - Enables Hardcore mode and disables the selection message.
 
-[Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933) - Aligns iron sights across mods that alter or add animations and weapons.
-- Use both the main Iron Sights Aligned file and the Iron Sights Aligned Mod Support file provided on the main mod page if using mods that add new weapons to the game.
-- This mod also comes with built in patches for [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641).
-
 [Kaleidoscope](https://www.nexusmods.com/newvegas/mods/84017) - Uses the [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934) to dynamically swap static objects with similar ones of different textures.
 - Requires [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934).
 
@@ -575,7 +571,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/4/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, 
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, and Iron Sights Aligned.
 - Added Metro Map Replacer.
 
 Texture replacers for the underground metro maps, making them more useful for navigation.
