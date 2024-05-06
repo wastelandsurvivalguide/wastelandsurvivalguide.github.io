@@ -21,7 +21,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Moved JIP Localized Damage Fix to Extra Utilities & Fixes.
 - Moved Stewie Tweaks - Custom INI to Extra Utilities & Fixes.
 - Moved Aqua Performa to Extra Utilities & Fixes.
-- Moved Mainframes Litter Flickering Fix to Optimizations.
+- Moved Mainframes Litter Flickering Fix to Visuals.
 - Moved Depth of Field Fix to Extra Utilities & Fixes.
 - Moved External Emittance Fix to Extra Utilities & Fixes.
 - Moved Fallout Alpha Rendering Tweaks to Extra Utilities & Fixes.
@@ -72,3 +72,11 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Radiation Visuals - ESPless.
 - Added Simple Night Vision - ESPless.
 - Added Contrasted LOD Noise Texture.
+- Added New Vegas Animation Overhaul - Guns.
+- Added Butcher Pete Complete - A Melee Animation Overhaul.
+- Added Wasteland Warrior - A Melee Animation Overhaul.
+- Added Iron Sights Aligned.
+- Added Another Milenia
+- Added Another Millenia Gun Add-on
+- Added ZL Armaments Remastered
+- Added Tactapack
