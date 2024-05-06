@@ -358,3 +358,6 @@ Real-time, character-skill based replacement for hacking and lockpicking. Refer 
 ### [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) 
 
 Adds contextual leaning around corners.
+
+- Main File - B42 True Leaning
+- Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
