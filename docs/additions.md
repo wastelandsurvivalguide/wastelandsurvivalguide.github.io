@@ -147,8 +147,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [TTW Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/75829) - An assortment of quests to help with the collection of all Bobbleheads, Steel Ingots, Keller Family Transcripts, Intel Briefcases, and Alien Captive Recorded Logs.
 - If experiencing crashes when picking up notes with this mod, this can be remedied by updating to the unreleased JIP file pinned in the WSG discord server.
 
-[TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) - Allows for starting in NV without the imperfections that can accompany the standard TTW provided option, and that [TTW Quick Start](https://mod.pub/ttw/54-ttw-3-3-esp-less-quick-start) disables.
-
 [Unmissable Casino Rewards](https://www.nexusmods.com/newvegas/mods/83485) - Prevents you from bypassing reward tiers in casinos.
 
 [Viewmodel Recoil](https://www.nexusmods.com/newvegas/mods/71852) - A recoil mod that affects the 1st person model only and does not move the camera. It is purely aesthetic. Can be used in conjunction with [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973).
@@ -209,8 +207,6 @@ his mod adds a load of new chems for the discerning junkie and/or dealer! Featur
 - Use with caution if using other difficulty enhancing mods like [New Blood](https://www.nexusmods.com/newvegas/mods/75666).
 
 [Misc. Gamesetting Tweaks](https://www.nexusmods.com/newvegas/mods/72983) - A collection of INI mods to configure Game Settings to your liking.
-
-[Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) - Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
 
 [SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746) - Distributes various items that are otherwise not readily available across the wastelands.
 
@@ -546,7 +542,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.4 - 5/5/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, and B42 True Leaning.
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, Reload Reloaded, TTW Quick Train to NV Prompt, and B42 True Leaning.
 - Removed Inaccurate NPCs due to redundancy with Combat Enhancer Updated from the main portion of the guide.
 - Added Metro Map Replacer.
 
