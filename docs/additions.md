@@ -205,9 +205,6 @@ his mod adds a load of new chems for the discerning junkie and/or dealer! Featur
 
 [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds a recoil-like mechanic for all NCPs, including creatures, robots, etc. Induces a short period of time to recover between a series of shots.
 
-[Inaccurate NPCs](https://www.nexusmods.com/newvegas/mods/79619) - Increases NPCs threshold to miss you when shooting at you by editing the fNPCMaxGunWobbleAngle gamesetting.
-- Vanilla fNPCMaxGunWobbleAngle is 15. A good starting value for this setting is 30, then it can be increased as needed to induce further inaccuracy.
-
 [Larger Packs - Spawn Multiplier](https://www.nexusmods.com/newvegas/mods/76061) - Makes NPCs/creatures spawning in larger numbers.
 - Use with caution if using other difficulty enhancing mods like [New Blood](https://www.nexusmods.com/newvegas/mods/75666).
 
@@ -224,11 +221,6 @@ his mod adds a load of new chems for the discerning junkie and/or dealer! Featur
 [SPARE - Sweet Part and Ammo Rebalance and Expansion](https://www.nexusmods.com/newvegas/mods/83937) - A complete rebalance of the ammo crafting system.
 - Incompatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175).
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
-
-[SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment
-- Use alongside the provided Tag Perk Description Ajudstment patch.
-
-[Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPCs ability to detect the player at medium and long ranges, ameliorating the wildly overpowered state of sniping.
 
 [Vanilla SWEEP - Sweet Weapon Enhancement and Expansion Package](https://www.nexusmods.com/newvegas/mods/81043) - A complete rebalance of the weapons in TTW to create a cohesively balanced system that takes more time for progressive and diminishes the degree to which later weapons eclipse earlier ones.
 - ONLY alters vanilla TTW weapons.
@@ -555,8 +547,9 @@ The following are designed to be placed in the following load order if using the
 
 
 ## Changelog
-1.4 - 5/4/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, and B42 True Leaning.
+1.4 - 5/5/2024
+- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, and B42 True Leaning.
+- Removed Inaccurate NPCs due to redundancy with Combat Enhancer Updated from the main portion of the guide.
 - Added Metro Map Replacer.
 
 1.3 - 4/30/2024
