@@ -87,3 +87,5 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Weapon Jamming Tweaks.
 - Added Combat Enhancer Updated.
 - Added Sweet Dynamic Detection System.
+- Added SSS - Sweets Simple Settings.
+- Added More or Less Rads.
