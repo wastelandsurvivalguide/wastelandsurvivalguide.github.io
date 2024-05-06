@@ -85,12 +85,12 @@ Patches to provide Tale of Bi Wastelands compatibility with TTW Reputations and 
 
 ### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
 
-This mod makes it so that your Charisma and the Intellence of the person you're speaking to impact barter and speech checks.
+This mod makes it so that your Charisma and the Intellence of the person you're speaking to impacts barter and speech checks. It also allows Charisma to impact your reputation.
 
 #### Installation:
 
 - Main File - CHR Tweaks
-- Main File - [CHR Tweaks - Carxt's Preset](https://www.nexusmods.com/newvegas/mods/71310?tab=files&file_id=1000127535)
+- Main File - [CHR Tweaks - Carxt's Preset](https://www.nexusmods.com/newvegas/mods/71310?tab=files&file_id=1000127535&nmm=1)
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
@@ -115,7 +115,7 @@ This mod provides you with a greater choice regarding what items to receive at t
 
 ### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
 
-This is a mod that provides you stat based starting gear at the beginning of your TTW playthrough.
+This is a mod that provides you with stat based starting gear at the beginning of your TTW playthrough.
 
 ### [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173)
 
@@ -132,7 +132,7 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 #### Installation:
 
 - Main File - Benny Humbles You and Steals Your Stuff
-- Main File - [BHYSYS Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121839&nmm=1)
+- Main File - [BHYSYS - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121839&nmm=1)
 
 ### [Nail Gun Semi Auto Rework](https://www.nexusmods.com/newvegas/mods/74465)
 
@@ -240,7 +240,7 @@ Main File - **Coming soon - A custom INI to make ADO's new formula a bit more fo
 
 An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more. 
 
-**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE Sprint in Just Assorted Mods**, this is done automatically in the provided JAM - Custom INI file.c
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE Sprint in Just Assorted Mods**. This is done automatically in the provided JAM - Custom INI file.
 
 #### Installation:
 
