@@ -82,3 +82,5 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Tactapack.
 - Added B42 True Leaning.
 - Added The Living Desert Leveled List Overhaul.
+- Added Crippled Limb Reaction Enforcer.
+- Added Real Weapon Mods 2.
