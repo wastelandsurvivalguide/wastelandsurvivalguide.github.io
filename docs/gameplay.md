@@ -214,7 +214,7 @@ This mod completely overhauls the way armor damage is calculated, replacing the 
 #### Installation:
 
 - Main File - ADO - Armor Damage Overhaul
-- Main File - **Coming soon - A custom INI to make ADO's new formula a bit more forgiving**
+- Main File - [Armor Damage Overhaul - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130080&nmm=1)
 
 ### [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) 
 
