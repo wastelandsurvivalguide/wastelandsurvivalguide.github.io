@@ -47,9 +47,6 @@ Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
-SomeguySeries.esm
-NewVegasBounties.esm
-NewVegasKiller.esm
 A Trail of Crumbs.esm
 Regulators.esm
 Uncut Wasteland.esp
@@ -62,6 +59,11 @@ Sweet Pain NV.esm
 MoreMojave.esm
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
+zl_Armaments_Remastered.esm
+mil.esp
+mil-TTWPlacements.esp
+mil_Add-On.esp
+Tactapack.esp
 SD_Transporters.esp
 TTW FaceGen Fix.esp
 ExRB.esp
@@ -73,7 +75,6 @@ PipBoyUITweaks.esp
 ItemCards.esp
 3DGrenadeIndicator.esp
 QuickSelect.esp
-CharismaAffectsReputation.esp
 S6S Perks.esp
 Casino Exchange All.esp
 DelayDLCRedux.esp
@@ -86,16 +87,13 @@ JIP Companions Command & Control.esp
 Stash Organizer.esp
 JustAssortedMods.esp
 JBTImproved.esp
-Just Sprint Plus - JAM.esp
 ImmersiveRecoil.esp
 DynamicWeaponSpread.esp
 DWS_JAM_patch.esp
 TTWZetaRewards.esp
 TTWTransportalponderEx.esp
 Supplemental Ammo Crafting.esp
-NewVegasBountiesTTW.esp
 Sweet Bounties.esp
-NewVegasKiller - TTW.esp
 Benny Humbles You and Steals Your Stuff.esp
 GRA Scavenger Hunt Unbalanced.esp
 GUWR - TTW Patch.esp
@@ -120,8 +118,8 @@ DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
 Impostors and LOD Flicker Fix.esp
 NVMIM.esp
+Tactapack_-_TTW_Patch.esp
 Enhanced Movement.esp
-Atmospheric Lighting Tweaks TTW.esp
 GeneralLightingOverhaul.esp
 Natural Interior.esp
 DNWeathers.esp
