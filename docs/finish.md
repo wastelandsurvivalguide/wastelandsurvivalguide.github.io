@@ -65,6 +65,7 @@ mil-TTWPlacements.esp
 mil_Add-On.esp
 Tactapack.esp
 SD_Transporters.esp
+TLD LVLI Total Overhaul.esp
 TTW FaceGen Fix.esp
 ExRB.esp
 Vanilla UI Plus.esp
