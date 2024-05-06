@@ -94,6 +94,7 @@ JBTImproved.esp
 ImmersiveRecoil.esp
 DynamicWeaponSpread.esp
 DWS_JAM_patch.esp
+DynamicDetectionSystem.esp
 TTWZetaRewards.esp
 TTWTransportalponderEx.esp
 Supplemental Ammo Crafting.esp
