@@ -85,3 +85,5 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Crippled Limb Reaction Enforcer.
 - Added Real Weapon Mods 2.
 - Added Weapon Jamming Tweaks.
+- Added Combat Enhancer Updated.
+- Added Sweet Dynamic Detection System.
