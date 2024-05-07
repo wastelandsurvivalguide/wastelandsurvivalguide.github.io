@@ -292,7 +292,7 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
 
-**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the run/walk toggle key**, then **REBIND the sprint key in the Enhanced Movement MCM menu** after doing so.
+**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the run/walk toggle key**, then **REBIND the sprint key in the Enhanced Movement MCM** after doing so.
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
@@ -370,3 +370,5 @@ Adds contextual leaning around corners.
 
 - Main File - B42 True Leaning
 - Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
+
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE the Activate after Unlock** Misc Settings MCM option.
