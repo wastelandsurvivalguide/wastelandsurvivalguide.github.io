@@ -287,8 +287,6 @@ Adds crafting and breakdown recipes for all ballistic ammo types that lacked sai
 
 An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more. 
 
-**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the run/walk toggle key**.
-
 #### Installation:
 
 - Main File - Enhanced Movement
