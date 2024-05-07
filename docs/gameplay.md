@@ -292,7 +292,7 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
 
-**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the run/walk toggle key**, otherwise the mod will not function correctly.
+**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the run/walk toggle key**, otherwise the mod will not function correctly. You **may** need to rebind the sprint key in the Enhanced Movement MCM menu after doing so.
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
