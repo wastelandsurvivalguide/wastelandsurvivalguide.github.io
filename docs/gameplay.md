@@ -293,6 +293,7 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
+- You will need to remap the walk/run toggle to another button for this INI to function appropriately.
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
