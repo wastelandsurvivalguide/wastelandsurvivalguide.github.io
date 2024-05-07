@@ -72,6 +72,8 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
     - [x] Full
     - [ ] Full (YUP)
     - [ ] Compatibility
+  - Step 2:
+    - [ ] A World of Pain - **DO NOT** install this patch. It is incompatible with the overhauls used in the guide
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909) 
 
