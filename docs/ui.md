@@ -277,14 +277,14 @@ More high-quality assorted icons.
 
 More high-quality assorted icons.
 
-### [Consistent Pip-Boy Icons v5 - Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
+### [Consistent Pip-Boy Icons v5 - Dynamicon](https://www.nexusmods.com/newvegas/mods/85411)
 
 More high-quality perk icons that dynamically change depending on your rank.
 
 #### Installation:
 
-- Main File - Consistent Pip-Boy Icons v5 - Dynamico
-  - Dynamico:
+- Main File - Consistent Pip-Boy Icons v5 - Dynamicon
+  - Dynamicon:
     - [x] Main Mod
     - [x] Optional ESPLess Plugin
 
