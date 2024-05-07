@@ -59,7 +59,7 @@ Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad ble
 
 ### [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417)
 
-Removes the requirement to patch weapons manually for ISControl nodes of animations. **Required** for Anniversary Anim Pack.
+Removes the requirement to patch weapons manually for ISControl nodes of animations. **Required** for multiple weapon and animation mods in the guide.
 
 :::note Read the Instructions!
 The instruction page describes how to fix any weapon clipping you may experience with weapons after following the guide.
