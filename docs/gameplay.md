@@ -346,7 +346,7 @@ The **OPTIONAL** mods ahead may deviation significantly from the vanilla experie
 
 ### [Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) 
 
-:::danger Spicy Mods Ahead
+:::danger Disturbing Content
 Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
 :::
 
