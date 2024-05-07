@@ -62,6 +62,10 @@ Overhauls all aspects of radiation, making it far more consequential.
 
 User-configurable increase or decrease in the size and intensity of all ambient radiation in the game. The default settings functionally double the intensity and triple the radius of radiation.
 
+#### Installation:
+
+- Main File - More Rads No Irradiated Lonesome Road
+
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
 Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage rebalancing, and a DT/DR/resistance overhaul for creatures.
