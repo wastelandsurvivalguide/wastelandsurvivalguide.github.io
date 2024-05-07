@@ -311,7 +311,7 @@ This is a complete rebalance and overhaul of many base game perks.
 #### Installation:
 
 - Main File - Sweet Perk Overhaul
-- Optional File - No Big Guns Patch - Optional for those who **DO NOT WANT** the Guns Skill seperated into Guns and Big Guns skills. If skipping this patch and wanting to use the Big Gun Skill, **ENABLE** bEnableBigGunsSkill=1 in the JIP LN NVSE INI.
+- Optional File - No Big Guns Patch - Optional for those who **DO NOT WANT** the Guns Skill seperated into Guns and Big Guns skills. If skipping this patch and wanting to use the Big Guns Skill, **ENABLE** bEnableBigGunsSkill=1 in the JIP LN NVSE INI.
 
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
