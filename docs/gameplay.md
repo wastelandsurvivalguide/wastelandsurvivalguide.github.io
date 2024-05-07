@@ -287,13 +287,13 @@ Adds crafting and breakdown recipes for all ballistic ammo types that lacked sai
 
 An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more. 
 
-**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE Sprint in Just Assorted Mods**. This is done automatically in the provided JAM - Custom INI file.
+**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the run/walk toggle key**.
 
 #### Installation:
 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
-- You will need to remap the walk/run toggle to another button for this INI to function appropriately.
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
