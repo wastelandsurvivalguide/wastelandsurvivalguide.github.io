@@ -95,7 +95,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 - Main File - Sweet Consumables TTW
 
 :::note
-Users who are NOT using hardcore mode will still see FOD and H2O related stats on consumable descriptions. Please do not open support requests pertaining to this.
+Users NOT using hardcore mode will still see FOD and H2O consumable item effects. **Do not** open support requests about this.
 :::
 
 ### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
