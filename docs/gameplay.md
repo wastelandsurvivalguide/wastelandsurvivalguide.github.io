@@ -162,6 +162,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
     - Press M from the pause menu to access the MCM
     - Navigate to Just Mods
     - Enable "Automatic INI Management" then restart your game
+    - If **VATS is preferred over Bullet Time**, disable the Bullet Time subsection, however, **Bullet Time is highly recommended over VATS for balance purposes**.
     - If the Sprint subsection is now disabled, **stop here**.
     - If Sprint is still enabled, open each subsection individually and select "Load from INI"
     - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time
