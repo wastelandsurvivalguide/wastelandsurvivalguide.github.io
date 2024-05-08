@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Hardcore**.
 
 :::danger Spicy Mods Ahead
-The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced for hardcore mode. **Procceed with caution!**
+The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced and designed for **hardcore** mode. **Procceed with caution!**
 :::
 
 :::note
@@ -93,6 +93,10 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 #### Installation:
 
 - Main File - Sweet Consumables TTW
+
+:::note
+Users who are NOT using hardcore mode will still see FOD and H2O related stats on consumable descriptions. Please do not open support requests pertaining to this.
+:::
 
 ### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
 
