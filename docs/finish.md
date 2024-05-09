@@ -68,7 +68,7 @@ Tactapack.esp
 SD_Transporters.esp
 TLD LVLI Total Overhaul.esp
 TTW FaceGen Fix.esp
-ExRB.esp
+ExRB-TTW.esp
 Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
 FOVSlider.esp
