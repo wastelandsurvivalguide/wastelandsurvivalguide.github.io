@@ -22,6 +22,10 @@ Fixes and improves vanilla game pathfinding errors and will provide a better and
 
 - Main File - Navmesh Overhaul
 
+:::note
+A compatibility patch is **NO LONGER** required for this mod.
+:::
+
 ### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975)
 
 A comprehensive invisible wall remover for Tale of Two Wastelands.
