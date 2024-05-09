@@ -294,6 +294,10 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
+  - To apply these settings:
+    - Press M from the pause menu to access the MCM
+    - Navigate to Enhanced Movement
+    - Enable "Use INI"
 
 **IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the Always Run key** in controls, then **REBIND the sprint key in the Enhanced Movement MCM**.
 
