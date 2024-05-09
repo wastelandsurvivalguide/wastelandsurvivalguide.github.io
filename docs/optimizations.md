@@ -73,8 +73,9 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
 
 - Main File - ExRB
   - Step 1:
-    - [x] Full
+    - [ ] Full
     - [ ] Full (YUP)
+    - [x] Full (TTW)
     - [ ] Compatibility
   - Step 2:
     - [ ] A World of Pain - **DO NOT** install this patch. It is incompatible with the overhauls used in the guide
