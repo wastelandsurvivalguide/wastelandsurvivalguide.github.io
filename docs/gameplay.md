@@ -336,15 +336,6 @@ A set of perks that grant bonuses once idolized by various factions.
 - Main File - Friends With Benefits Perk Pack
 - Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - Disables the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately.
 
-### [PerkPackPlus](https://www.nexusmods.com/newvegas/mods/70473) 
-
-Adds various new perks suited for specialization and to add spice to your build. Compliments Sweets other perk overhauls nicely.
-
-#### Installation: 
-- Main File - PerkPackPlus
-- Main File - PerkPackPlus - TTW Patch
-- Main File - [S6S Perks - PerkPackPlus Patch](https://www.nexusmods.com/newvegas/mods/76523?tab=files&file_id=1000112045&nmm=1) - Prevents perk redundancy with Sweets other perk overhauls.
-
 ## Optional Extras
 
 :::danger Spicy Mods Ahead
