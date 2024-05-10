@@ -23,7 +23,7 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
-Modernized vanilla-style UI with many enhancements and bugfixes.
+Modernized vanilla-style UI with many enhancements and bugfixes. **Required** for many mods.
 
 #### Installation:
 
@@ -35,6 +35,8 @@ Modernized vanilla-style UI with many enhancements and bugfixes.
     <RadioButtonUncheckedIcon fontSize="small" /> No Font Tweaks<br/>
   - Keybinds:
     - [x] WASD Compatible
+
+
 
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
