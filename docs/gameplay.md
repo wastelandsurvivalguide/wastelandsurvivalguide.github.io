@@ -365,7 +365,7 @@ Should be used in conjunction with TTW Quick Start or some other mod that allows
 
 ### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910)
 
-Grants the option to take a trait per a variable amount of levelups. This is useful alongside many of the above perk packs (especially Vegas Elysium), as they often add new traits.
+Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the above perk packs (especially Vegas Elysium), which add many new traits.
 
 ### [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) 
 
