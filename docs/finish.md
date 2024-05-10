@@ -112,8 +112,6 @@ S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
 S6S Base Perks Redux No Big Guns Patch TTW.esp
 S6S Perks.esp
-PerkPackPlus.esp
-PerkPackPlus - TTW Patch.esp
 Friends With Benefits Perk Pack.esp
 Vegas Elysium.esp
 RAD.esp
