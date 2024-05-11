@@ -125,6 +125,7 @@ B42Inertia.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
+TheAIMerge.esp
 RadiationVisuals.esp
 Impostors and LOD Flicker Fix.esp
 NVMIM.esp
