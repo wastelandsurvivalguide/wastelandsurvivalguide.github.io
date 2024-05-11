@@ -48,7 +48,7 @@ Aims to fix UI bugs and add new UI features.
 
 #### Installation:
 
-After installing the Main File, double-click the mod and go to **INI Editor**. Select all of the existing content and replace it with this:
+After installing the Main File, double-click the mod and go to **INI Files**. Select all of the existing content and replace it with this:
 
 ```ini title="yUI.ini" showLineNumbers
 [General]
