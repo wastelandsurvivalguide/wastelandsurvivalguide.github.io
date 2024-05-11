@@ -467,5 +467,5 @@ Use the N key to toggle night vision, and hold the N key to add support to your 
 Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 
 :::note
-This mod removes **useful information** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, consider **skipping this mod**, as the info it provides will not be learned through normal gameplay.
+This mod removes **information that is useful** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, consider **skipping this mod**, as the info it provides will not be learned through normal gameplay.
 :::
