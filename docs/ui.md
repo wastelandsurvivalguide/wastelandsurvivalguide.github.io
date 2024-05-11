@@ -86,9 +86,11 @@ bEnableCategories = 1
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
-Uses yUI features to add many custom icons and advanced sorting logic to improve inventory
-management. Make sure `bSortingIcons = 1` is enabled in [yUI.ini](#yui---user-ynterface)
-(it should be if following the guide). The colorful icons are recommended and look great in-game.
+Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
+
+:::note
+Requires `bSortingIcons = 1` in [yUI.ini](#yui---user-ynterface), which should already be the case if following the guide
+:::
 
 #### Installation:
 
