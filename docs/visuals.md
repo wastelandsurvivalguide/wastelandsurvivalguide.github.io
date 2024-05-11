@@ -25,6 +25,7 @@ Main File - Mainframes Litter Flickering Fix v5.
 
 :::note
 This must load after NVMIM, which should already be true if following the guide.
+:::
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
