@@ -203,7 +203,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
 
-:::note
+:::note Instructions:
 Apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
 :::
 
@@ -249,7 +249,7 @@ High-quality Pip-Boy icons.
 
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>Placed here to keep these mods from bloating the page. If you want more high-quality UI mods, continue on.
+<p>Placed here for organizational purposes. If you want more high-quality UI mods, continue on.
 
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
