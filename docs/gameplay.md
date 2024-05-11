@@ -339,7 +339,7 @@ A set of perks that grant bonuses once idolized by various factions.
 ## Optional Extras
 
 :::danger Spicy Mods Ahead
-The **OPTIONAL** mods ahead may deviation significantly from the vanilla experience. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
+The **OPTIONAL** mods ahead may deviate significantly from the vanilla experience. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
 :::
 
 ### [Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) 
