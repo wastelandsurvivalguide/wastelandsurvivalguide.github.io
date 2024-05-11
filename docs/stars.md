@@ -43,3 +43,7 @@ STARS will provide an alert in-game if any assets are missing or managed incorre
 - Main File - [Tranquility Lane Fix](https://www.nexusmods.com/newvegas/mods/77018?tab=files&file_id=1000094179&nmm=1)
 - Main File - [Wasteland Soldier - NV Edition Main File](https://www.nexusmods.com/newvegas/mods/46278?tab=files&file_id=105348&nmm=1)
   - HIDE the Wasteland Soldier - NV Edition.esp plugin
+- Main File - [Wasteland Soldier Redux](https://www.nexusmods.com/newvegas/mods/74025?tab=files&file_id=1000082462&nmm=1)
+- Main File - [nov 2011 book of steel](https://www.nexusmods.com/newvegas/mods/39873?tab=files&file_id=100462&nmm=1)
+  - Hide the Boacombat2glove.esp plugin
+  - Hide the boa ncrpahelmet.esp plugin
