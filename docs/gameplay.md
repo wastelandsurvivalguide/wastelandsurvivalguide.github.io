@@ -42,7 +42,11 @@ Trade in all currency at once when at casinos.
 
 ### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
-Changes TTW's Hardcore mode to grant a perk every level, instead of every two. Consider skipping this mod for a more **hardcore** experience.
+Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
+
+:::note
+Consider skipping this mod for a more **hardcore** experience.
+:::
 
 #### Installation:
 
@@ -90,7 +94,7 @@ This mod makes it so that your Charisma and the Intellence of the person you're 
 #### Installation:
 
 - Main File - CHR Tweaks
-- Main File - [CHR Tweaks - Carxt's Preset](https://www.nexusmods.com/newvegas/mods/71310?tab=files&file_id=1000127535&nmm=1)
+- Optional File - CHR Tweaks - Carxt's Preset
 
 ### [Mothership Zeta Rewards](https://www.nexusmods.com/newvegas/mods/76001)
 
@@ -98,7 +102,11 @@ Adds a container after completing Mothership Zeta that is populated with the ite
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
-Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. **Read the description** so you understand how to start the DLCs with this mod installed.
+Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. 
+
+:::note Instructions:
+**Read the description** so you understand how to start the DLCs with this mod installed.
+:::
 
 #### Installation:
 
@@ -107,19 +115,37 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
-Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. The Medicine Bobblehead is not given at the start; you can pick it up later during _Trouble on the Homefront_.
+Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
+
+:::note
+The Medicine Bobblehead is not given at the start; you can pick it up later during _Trouble on the Homefront_.
+:::
 
 ### [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
 
 This mod provides you with a greater choice regarding what items to receive at the beginning of the game when using TTW Quick Start. User configurable.
 
+:::note
+Requires TTW Quick Start.
+:::
+
 ### [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) 
 
-Allows for starting in the Mojave Wasteland without the imperfections that can accompany the standard TTW provided option, and that TTW Quick Start disables. To travel to the Mojave Wasteland, select yes when prompted "is this just a dream," after leaving the vault.
+Allows for starting in the Mojave Wasteland without the imperfections that can accompany the standard TTW provided option, and that TTW Quick Start disables.
+
+:::note Instructions:
+Requires TTW Quick Start.
+
+To travel to the Mojave Wasteland, select yes when prompted "is this just a dream," after leaving the vault.
+:::
 
 ### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
 
 This is a mod that provides you with stat based starting gear at the beginning of your TTW playthrough.
+
+:::note
+Requires TTW Quick Start.
+:::
 
 ### [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173)
 
@@ -128,6 +154,10 @@ This mod removes the free XP, which would grant a levelup when leaving the vault
 #### Installation:
 
 - Main File - TTW No Free Levelup Quick Start
+
+:::note
+Requires TTW Quick Start.
+:::
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
 
@@ -145,6 +175,10 @@ Makes the Nail Gun semi-automatic, providing a reasonable early game weapon opti
 ### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) 
 
 Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
+
+:::note Instructions:
+Read the mod description for instructions on using it.
+:::
 
 #### Installation:
 
@@ -170,7 +204,9 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 - Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
 - Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) - Consider disabling your VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
 
+:::note Instructions:
 **IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
+:::
 
 ### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
 
@@ -203,7 +239,11 @@ Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old
 
 ### [Transporters](https://www.nexusmods.com/newvegas/mods/77645) 
 
-A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well. Consider disabling traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
+A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well. 
+
+:::note
+Consider disabling traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
+:::
 
 ## Combat & Weapons
 
