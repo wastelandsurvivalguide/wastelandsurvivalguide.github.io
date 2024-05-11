@@ -22,7 +22,7 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 - Update File - MCM Bugfix 2 
 
 :::note
-*DO NOT** skip the update file!
+**DO NOT** skip the update file!
 :::
 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
