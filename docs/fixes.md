@@ -108,7 +108,11 @@ Fixes moonlight, making the moon the light caster instead of the sun.
 
 ### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
 
-Fixes vanilla FaceGen tints. 
+Fixes vanilla FaceGen tints.
+
+#### Installation:
+
+- Main File - FaceGen Tint Fixes for TTW
 
 :::note
 The plugin will appear crossed out, this is normal and expected. DO NOT hide the plugin.
