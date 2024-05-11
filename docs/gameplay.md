@@ -267,9 +267,13 @@ Replaces the formula for weapon jamming when firing and reloading.
 - Main File - Weapon Jamming Tweaks
 - Main File - Sweet's Configuration - Optional for those who desire a more hardcore experience.
 
-### [Combat Enhancer Updated](https://www.nexusmods.com/newvegas/mods/86169)
+### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
 
-Tweaks some game settings to make NPCs react faster, more intelligently, and deadlier in combat situations.
+A reliable collection of AI tweaks to improve AI intelligence in combat while still preserving scripted sequences.
+
+#### Installation:
+
+- Main File - The AI Merge
 
 ### [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) 
 
