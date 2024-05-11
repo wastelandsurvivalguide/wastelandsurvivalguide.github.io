@@ -108,4 +108,4 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added Atmospheric Lighting Tweaks.
 - Added B42 FireMode - Selective Fire and First Shot Precision - ESPless, primarily for its weapon spread effects.
 - Added B42 True Leaning - Custom INI.
-- Added A Very Uncreative Faction Disguise Remover - ESPless so that Friends with Benefits Perk Pack can function appropriately. 
+- Added A Very Uncreative Faction Disguise Remover - ESPless so that Friends with Benefits Perk Pack can function appropriately.
