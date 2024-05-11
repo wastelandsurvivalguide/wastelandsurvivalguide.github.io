@@ -21,7 +21,10 @@ Adjusts a few shader flags to litter meshes to stop the litter from flickering.
 
 #### Installation:
 
-Main File - Mainframes Litter Flickering Fix v5. **Note, this must load after NVMIM**. (This should already be true if following the guide)
+Main File - Mainframes Litter Flickering Fix v5. 
+
+:::note
+This must load after NVMIM, which should already be true if following the guide.
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
