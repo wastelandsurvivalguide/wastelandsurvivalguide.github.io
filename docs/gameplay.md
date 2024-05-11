@@ -177,7 +177,7 @@ Makes the Nail Gun semi-automatic, providing a reasonable early game weapon opti
 Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
 
 :::note Instructions:
-Read the mod description for instructions on using it.
+Read the mod description for instructions on use.
 :::
 
 #### Installation:
