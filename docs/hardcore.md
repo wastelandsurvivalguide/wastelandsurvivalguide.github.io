@@ -24,6 +24,8 @@ Sweet's mod pages will tell you to use **Normal** difficulty with her mods, but 
 
 Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment to enhance difficulty.
 
+#### Installation:
+
 - Main File - SSS
 - Main File - Tag Perk Description Adjustment
 
