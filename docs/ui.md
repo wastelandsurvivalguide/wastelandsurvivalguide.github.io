@@ -89,7 +89,7 @@ bEnableCategories = 1
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
 
 :::note
-Requires `bSortingIcons = 1` in [yUI.ini](#yui---user-ynterface), which should already be the case if following the guide
+Requires `bSortingIcons = 1` in [yUI.ini](#yui---user-ynterface), which should already be the case if following the guide.
 :::
 
 #### Installation:
@@ -134,7 +134,7 @@ The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
 :::note
-This mod can sometimes cause an issue with VATS, making the screen turn completely grey. If this happens, resetting the settings to default could fix it, and if not, removing it is a solution.
+This mod can sometimes cause the screen to turn grey with VATS. If this happens, changing the settings to default could fix it, and if not, removing the mod is a solution.
 :::
 
 ### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
@@ -195,7 +195,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) - You should already have this if following the guide.
 - Main File - Main And Pause Menus Overhaul
   - Press **M** from the pause menu to access the MCM
   - Press **N** from the pause or main menu to configure MAPMO's settings
@@ -418,7 +418,7 @@ Adds high-quality quick select menus for weapon and item. Dramatically improves 
 
 #### Installation:
 
-- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) (you should already have this if following the guide)
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) - You should already have this if following the guide.
 - Main File - Quick Select
 
 ### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841)
@@ -443,7 +443,11 @@ Adds a customizable visual effect when the player is exposed to radiation. Ioniz
 
 ### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
 
-Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! Use the N key to toggle night vision, and hold the N key to add support to your current headgear.
+Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! 
+
+:::note Instructions:
+Use the N key to toggle night vision, and hold the N key to add support to your current headgear.
+:::
 
 #### Installation:
 
@@ -463,5 +467,5 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 
 :::note
-This mod removes **useful information** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, we would recommend **skipping this mod**, as the info it provides will not be learned through normal gameplay.
+This mod removes **useful information** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, consider **skipping this mod**, as the info it provides will not be learned through normal gameplay.
 :::
