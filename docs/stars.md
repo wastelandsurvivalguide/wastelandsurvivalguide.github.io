@@ -47,3 +47,7 @@ STARS will provide an alert in-game if any assets are missing or managed incorre
 - Main File - [nov 2011 book of steel](https://www.nexusmods.com/newvegas/mods/39873?tab=files&file_id=100462&nmm=1)
   - Hide the Boacombat2glove.esp plugin
   - Hide the boa ncrpahelmet.esp plugin
+- Main File - [Book of Steel - Compatibility Edition](https://www.nexusmods.com/newvegas/mods/60666?tab=files&file_id=1000044227&nmm=1)
+  - Hide the Book of Steel.esp plugin
+- Main FIle - [Tammer's NIF-Bashed Armor Mega-Pack v4.8.rar](https://drive.google.com/drive/folders/1A3EyIk7dyb9ytXLDLCfK1BMVEZVY3H4_) - The bottommost version (v4.8) is the correct file.
+  - Hide the Tammer's NIF-Bashed Armor Mega-Pack.esm plugin
