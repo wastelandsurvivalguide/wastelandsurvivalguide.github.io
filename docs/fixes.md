@@ -22,15 +22,27 @@ A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL 
 
 ### [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
 
-A script extender plugin that adds many new functions to the game. **Required** for certain mods contained within the guide.
+A script extender plugin that adds many new functions to the game. 
+
+:::note
+**Required** for certain mods contained within the guide.
+:::
 
 ### [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160)
 
-Another script extender plugin that adds new functions to the game. **Required** for certain mods contained within the guide.
+Another script extender plugin that adds new functions to the game. 
 
-### [Keywords](https://www.nexusmods.com/newvegas/mods/83088?tab=description)
+:::note
+**Required** for certain mods contained within the guide.
+:::
 
-Implements an ESPless framework to create and automatically load keywords in a simple user-friendly way, via use of ini config files. **Required** for certain mods contained within the guide.
+### [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
+
+Implements an ESPless framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files. 
+
+:::note
+**Required** for certain mods contained within the guide.
+:::
 
 ### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
 
@@ -80,7 +92,7 @@ Increases bloom precision, thus reducing flicker.
 
 ### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
 
-Increases resolution of water depth render target, thus significantly reducing aliasing and improving image quality.
+Increases the resolution of water depth render target, thus significantly reducing aliasing and improving image quality.
 
 ### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
@@ -96,7 +108,11 @@ Fixes moonlight, making the moon the light caster instead of the sun.
 
 ### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
 
-Fixes vanilla FaceGen tints. The plugin will appear crossed out, this is normal and expected. DO NOT hide the plugin.
+Fixes vanilla FaceGen tints. 
+
+:::note
+The plugin will appear crossed out, this is normal and expected. DO NOT hide the plugin.
+:::
 
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
 
