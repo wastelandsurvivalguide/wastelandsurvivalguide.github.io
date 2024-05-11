@@ -1,4 +1,6 @@
-# Changelog - Atom Bomb
+# May 2024
+
+## Changelog - Atom Bomb
 
 A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. <3 - Kamchatka
 
@@ -109,3 +111,49 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 - Added B42 FireMode - Selective Fire and First Shot Precision - ESPless, primarily for its weapon spread effects.
 - Added B42 True Leaning - Custom INI.
 - Added A Very Uncreative Faction Disguise Remover - ESPless so that Friends with Benefits Perk Pack can function appropriately.
+
+## Changelog - Cleanup Crew
+
+Just fixing some things I broke in the last update! Appreciate the reports <3. - Kamchatka
+
+### 2/05/2024
+
+- Added SUP dependencies.
+- Fixed JAM custom ini to properly disable JVS.
+- Fixed several outdated installation instructions from FOMODs that have since changed.
+- Slightly reworded descriptions and instructions for most mods.
+- Fixed the link for Home and Safehouse Tweaks to direct to the nexus page rather than the hidden mod.pub page.
+- Removed custom johnnyguitar ini, as this has already been added to The Best of Times.
+- Added FOMOD instructions for ExRB.
+
+## Changelog - Hostile Takeover
+
+The fools in the WSG team gave me the keys to the kingdom! If things are broken, grab your pitchforks and find me. I hope this will be a really cool update. <3 - Kamchatka
+
+### 30/04/2024
+
+- Clarified installation instructions for Instant and Faster Pipboy (No Stutter).
+- Removed Charisma Affects Reputation - Reputations Patch, as this is now natively supported.
+- Added TTW Ultimate Invisible Wall Remover.
+- Added ExRB - Extended Roombounds.
+- Added Fallout 3 TTW Interior Optimization Project.
+- Added Mainframes Litter Flickering Fix.
+- Added JohnnyGuitar NVSE - INI Presets.
+- Added CHR Tweaks - Carxt's Preset.
+- Added Simple Power Armor HUD.
+- Added Alternate Holographic Panel.
+- Added Stash Organizer.
+- Added Transporters.
+- Added RAD - Radiation (Is) Actually Dangerous.
+- Added Sweet Healing System.
+- Removed Atmospheric Lighting Tweaks, as this is replaced by Natural Interiors and General Lighting overhaul. This was done for parity with Sal's NVVR guide.
+- Added Natural Interiors.
+- Added General Lighting Overhaul.
+- Removed Just Sprint Plus - Expansion for JAM, as this is replaced by Enhanced Movement.
+- Removed 1st Person Sliding Fix, as this is replaced by Enhanced Movement
+- Added Quick Select - A Zelda BOTW Style Quick Menu.
+- Added Enhanced Movement and a custom INI.
+- Added Item Cards and a custom INI.
+- Added Unfound Loot and a custom INI.
+- Added Consistent Pip-Boy Icons v5 - Stats (and Some Perks).
+- Added Consistent Pip-Boy Icons v5 - Vault Girl Extension.
