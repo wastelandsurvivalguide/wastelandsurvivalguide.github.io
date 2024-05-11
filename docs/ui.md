@@ -387,7 +387,7 @@ Choose the desired speed and the version that aligns with your character's sex.
 ## Optional Extras
 
 :::danger Spicy Mods Ahead
-The **OPTIONAL** mods ahead may deviation significantly from vanilla aesthetics. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
+The **OPTIONAL** mods ahead may deviate significantly from vanilla aesthetics. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
 :::
 
 ### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) 
