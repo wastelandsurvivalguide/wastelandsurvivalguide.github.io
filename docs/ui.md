@@ -204,7 +204,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
 
 :::note
-Remember to apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
+Apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
 :::
 
 ## Pip-Boy
