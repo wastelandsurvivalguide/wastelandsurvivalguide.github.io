@@ -107,6 +107,8 @@ A comprehensive melee animation overhaul for almost every single one-handed mele
 
 ### [Wasteland Warrior - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/80277)
 
+Reanimates all animations for all two-handed melee weapon in the game.
+
 #### Installation:
 - Main File - 1. Wasteland Warrior - A Melee Animation Overhaul (Hitman Locomotion)
 - Update File - Left Attack Fix
