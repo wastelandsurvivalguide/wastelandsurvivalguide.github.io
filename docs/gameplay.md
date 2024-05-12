@@ -45,7 +45,7 @@ Trade in all currency at once when at casinos.
 Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
 
 :::note
-Consider skipping this mod for a more **hardcore** experience.
+Consider **SKIPPING** this mod for a more **hardcore** experience.
 :::
 
 #### Installation:
@@ -123,7 +123,7 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
 :::note
-**READ THE DESCRIPTION** for details on the new location for the Medicine Bobblehead.
+**READ THE DESCRIPTION** for details on the new location of the Medicine Bobblehead.
 :::
 
 - Main File - TTW Quick Start
@@ -133,7 +133,7 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
 - Main File - [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
 
 :::note Instructions:
-To travel to the Mojave Wasteland, select yes when prompted "is this just a dream," after leaving the vault.
+To travel to the Mojave Wasteland, select yes when prompted "is this just a dream" after leaving the vault.
 :::
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
@@ -153,13 +153,15 @@ Makes the Nail Gun semi-automatic, providing a reasonable early game weapon opti
 
 Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
 
-:::note Instructions:
-Read the mod description for instructions on use.
-:::
-
 #### Installation:
 
 - Main File - Stash Organizer
+
+:::note Instructions:
+- Press the **VATS** hotkey while looking at a container to access the Stash Organizer menu.
+
+**READ THE DESCRIPTION** for further instructions on use.
+:::
 
 ### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 
@@ -168,21 +170,27 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 #### Installation:
 
 - Main File - Just Assorted Mods
-- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1) - Various settings optimized to best fit the mods contained in WSG
-  - To apply these settings:
-    - Press M from the pause menu to access the MCM
-    - Navigate to Just Mods
-    - Enable "Automatic INI Management" then restart your game
-    - If **VATS is preferred over Bullet Time**, disable the Bullet Time subsection, though the use of **Bullet Time is highly recommended in order to maintain the integrity of balance**.
-    - If the Sprint subsection is now disabled, **stop here**.
-    - If Sprint is still enabled, open each subsection individually and select "Load from INI"
-    - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time
-- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) (If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section)
+- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1) - Various settings optimized to best fit the mods contained in the guide.
+- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) - If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section.
 - Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
-- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) - Consider disabling your VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
+- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324)
 
 :::note Instructions:
-**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Just Bullet Time after a killcam is activated.
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Bullet Time after a killcam is activated.
+
+- To apply the Custom INI settings:
+  - Press **M** from the pause menu to access the MCM.
+  - Navigate to Just Mods.
+  - Enable "Automatic INI Management" then restart your game.
+  - If **VATS is preferred over Bullet Time**, disable the Bullet Time subsection, though the **use of Bullet Time is** ***HIGHLY RECOMMENDED*** **for the integrity of balance**.
+  - If the Sprint subsection is now disabled, **STOP HERE**.
+
+  - If Sprint is still enabled, open each subsection individually and select "Load from INI."
+  - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time.
+:::
+
+:;:note
+Consider **DISABLING** the VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
 :::
 
 ### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
@@ -197,7 +205,7 @@ Main Files:
 
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
 
-Adds crafting stations and additional containers to several vanilla player homes. Customize the settings in the INI to your tastes.
+Adds crafting stations and additional containers to several vanilla player homes. 
 
 #### Installation:
 
@@ -210,6 +218,10 @@ Adds crafting stations and additional containers to several vanilla player homes
     <RadioButtonCheckedIcon fontSize="small" /> TTW Addon<br/>
 - Main File - Home and Safehouse Tweaks INI File
 
+:::note Instructions:
+Customize the settings in the INI to your tastes by double clicking the mod and navigating to **INI Files**.
+:::
+
 ### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
 Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
@@ -219,36 +231,40 @@ Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old
 A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well. 
 
 :::note
-Consider disabling traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
+Consider **DISABLING** traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
 :::
 
 ## Combat & Weapons
 
 ### [Crippled Limb Reaction Enforcer](https://www.nexusmods.com/newvegas/mods/73147)
 
-Makes idle animations for crippled limbs persist in situations where the game does not enforce them correctly, like when the damage comes from an explosion. Also gives NPCs debuffs when crippled, similar to the player does.
+Makes idle animations for crippled limbs persist in situations where the game does not enforce them correctly. Also gives NPCs debuffs when crippled, similar to those that the player receives.
 
 ### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
-Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty settings balance involved making enemies bullet sponges. This mod removes that approach.
+Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
 
 ### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267)
 
-This mod completely overhauls the way armor damage is calculated, replacing the non-sensical formula that governed condition degradation and damage taken.
+This mod completely overhauls the way armor damage is calculated, fully replacing the non-sensical formula that governed condition degradation and damage taken.
 
 #### Installation:
 
 - Main File - ADO - Armor Damage Overhaul
 - Main File - [Armor Damage Overhaul - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130080&nmm=1)
 
+:::note KNOWN BUG!
+You may experience a massive performance drop when using heavy weapons alongside this mod. The author is aware of this and working on a fix. This mod is **STILL HIGHLY RECOMMENDED** despite this bug.
+:::
+
 ### [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) 
 
-Gives weapon mods real meshes and adds them to random locations across the Mojave. Substantially rebalanced by Sweet.
+Gives weapon mods real meshes and adds them to random locations across the Mojave. Rebalanced by Sweet.
 
 #### Installation:
 
 - Main File - Real Weapon Mods Complete - Requires all DLC and GRA
-- Main File - [TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=files)
+- Main File - [TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=files&file_id=1000104527&nmm=1)
 
 ### [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161)
 
@@ -269,7 +285,11 @@ Replaces the weapon spread mechanics with one that is far more intuitive and app
 
 ### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
 
-Adds working recoil to the wasteland. Consider choosing the hardcore preset in the MCM options for a more **hardcore** experience.
+Adds working recoil to the wasteland. 
+
+:::note
+Consider choosing the hardcore preset in the MCM options for a more **hardcore** experience.
+:::
 
 ### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) 
 
@@ -282,11 +302,11 @@ Replaces the formula for weapon jamming when firing and reloading.
 #### Installation:
 
 - Main File - Weapon Jamming Tweaks
-- Main File - Sweet's Configuration - Optional for those who desire a more hardcore experience.
+- Main File - Sweet's Configuration - **OPTIONAL** for those who desire a more **hardcore** experience.
 
 ### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
 
-A reliable collection of AI tweaks to improve AI intelligence in combat while still preserving scripted sequences.
+A reliable collection of AI tweaks designed to improve AI intelligence in combat while still preserving scripted sequences.
 
 #### Installation:
 
@@ -315,12 +335,15 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129339&nmm=1)
-  - To apply these settings:
-    - Press M from the pause menu to access the MCM
-    - Navigate to Enhanced Movement
-    - Enable "Use INI"
+
+:::note Instructions:
+- To apply the Custom INI settings:
+  - Press M from the pause menu to access the MCM.
+  - Navigate to Enhanced Movement.
+  - Enable "Use INI."
 
 **IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the Always Run key** in controls, then **REBIND the sprint key in the Enhanced Movement MCM**.
+:::
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
@@ -339,7 +362,7 @@ This is a complete rebalance and overhaul of many base game perks.
 #### Installation:
 
 - Main File - Sweet Perk Overhaul
-- Optional File - No Big Guns Patch - Optional for those who **DO NOT WANT** the Guns Skill seperated into Guns and Big Guns skills. If skipping this patch and wanting to use the Big Guns Skill, **ENABLE** bEnableBigGunsSkill=1 in the JIP LN NVSE INI.
+- Optional File - No Big Guns Patch - **OPTIONAL** for those who **DO NOT WANT** the Guns Skill seperated into Guns and Big Guns skills. If skipping this patch and wanting to use the Big Guns Skill, **ENABLE** bEnableBigGunsSkill=1 in the JIP LN NVSE INI.
 
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
@@ -355,7 +378,7 @@ A set of perks that grant bonuses once idolized by various factions.
 
 #### Installation:
 - Main File - Friends With Benefits Perk Pack
-- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - Disables the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately.
+- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - Disables the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately. STARS users may forego this mod.
 
 ## Optional Extras
 
@@ -363,36 +386,39 @@ A set of perks that grant bonuses once idolized by various factions.
 The **OPTIONAL** mods ahead may deviate significantly from the vanilla experience. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
 :::
 
-### [Vegas Elysium Perk Park](https://www.nexusmods.com/newvegas/mods/74052) 
+### [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) 
 
-:::danger Disturbing Content
+:::danger DISTURBING CONTENT
 Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
 :::
 
 A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
 
-:::note
-Should be used in conjunction with TTW Quick Start to allows for SPECIAL based trait selection.
-:::
+- Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) - Required for SPECIAL based trait selection.
+- Main File - Vegas Elysium Perks
 
 ### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910)
 
-Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the above perk packs (especially Vegas Elysium), which add many new traits.
+Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the above perk packs (particularly Vegas Elysium), which add many new traits.
 
 ### [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) 
 
 Real-time, character-skill based replacement for hacking and lockpicking. Refer to the MCM settings to learn how to use this.
 
-
 #### Installation: 
 
 - Main File - Immersive Minigames
 
-**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE the Activate after Unlock** Misc Settings MCM option.
+:::note Instructions:
+- Press **M** from the pause menu to access the MCM.
+- Navigate to Immersive Minigames.
+- **DISABLE** "Activate after Unlock."
+- To use, hold **E** while looking at a locked container. This key can be remapped in the MCM.
+:::
 
 ### [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) 
 
 Adds contextual leaning around corners.
 
 - Main File - B42 True Leaning
-- Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
+- Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1) - Intentionally disabled lean hotkeys in favor of the contextual lean feature.
