@@ -151,7 +151,8 @@ A stripped down and updated version of No PipBoy in Power Armor, which replaces 
 #### Installation:
 
 - Main File - SPAHUD
-- Main File - [Alternate Holographic Panel - Background Version](https://www.nexusmods.com/newvegas/mods/82636) - Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
+- Main File - [Alternate Holographic Panel - Background Version](https://www.nexusmods.com/newvegas/mods/82636)
+  - Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
@@ -193,7 +194,8 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) - This should already be installed if following the guide.
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
+  - This should already be installed if following the guide.
 - Main File - Main And Pause Menus Overhaul
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
@@ -290,7 +292,8 @@ Various high-quality Pip-Boy icons.
   - Dynamicon:
     - [x] Main Mod
     - [x] Optional ESPLess Plugin
-- Main File - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603) - TTW patches for the above 'Icons' mods.
+- Main File - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
+  - TTW patches for the above 'Icons' mods.
   - Patch for Pop-Up Message Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
@@ -370,7 +373,8 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 
 #### Installation:
 
-- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) - This should already be installed if following the guide.
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files)
+  - This should already be installed if following the guide.
 - Main File - Quick Select
 
 ### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841)
@@ -399,7 +403,8 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 
 #### Installation:
 
-- Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088) - This should already be installed if following the guide.
+- Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
+  - This should already be installed if following the guide.
 - Main File - Simple Night Vision
   - Main File:
     - [x] Plugin (Recommended)
