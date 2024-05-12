@@ -1,5 +1,10 @@
 # May 2024
 
+## Changelog - Ghost Page
+
+
+
+
 ## Changelog - Atom Bomb
 
 A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. <3 - Kamchatka
