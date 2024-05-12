@@ -189,7 +189,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
   - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time.
 :::
 
-:;:note
+:::note
 Consider **DISABLING** the VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
 :::
 
