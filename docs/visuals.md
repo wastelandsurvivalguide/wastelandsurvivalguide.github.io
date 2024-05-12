@@ -24,7 +24,7 @@ Adjusts a few shader flags to litter meshes to stop the litter from flickering.
 Main File - Mainframes Litter Flickering Fix v5. 
 
 :::note
-This must load after NVMIM, which should already be true if following the guide.
+This mod **MUST** load after NVMIM, which should already be true if following the guide.
 :::
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
@@ -112,7 +112,7 @@ A comprehensive melee animation overhaul for almost every single one-handed mele
 Comprehensively aligns iron sights across mods that alter or add animations and weapons.
 
 #### Installation:
-- Main File - Iron Sights Aligned (Uncheck patches for any mods you skipped earlier in the guide)
+- Main File - Iron Sights Aligned
   - Weapon Meshes:
     - [ ] Vanilla
     - [x] Tale of Two Wastelands
@@ -136,7 +136,7 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [x] Vanilla
     - [ ] WAP
     - [ ] Custom
-- Main File - Iron Sights Aligned - Mod Support (Uncheck patches for any mods you skipped earlier in the guide)
+- Main File - Iron Sights Aligned - Mod Support - **UNCHECK** patches for any mods you skipped earlier in the guide.
   - Weapon Meshes:
     - [ ] Vanilla
     - [x] Tale of Two Wastelands
@@ -221,8 +221,8 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 
 - Optional File - NVCS Vanilla Weights
 
-:::warning
-ALWAYS LET THIS MOD OVERWRITE MODS WITH SKELETON FILES.
+:::note
+This mod **MUST** load after any other skeleton containing mods, which should already be true if following the guide.
 :::
 
 ## Lighting
@@ -252,7 +252,7 @@ Interior rain sounds powered by Climate Control NVSE.
 
 ### [3D Rain](https://www.nexusmods.com/newvegas/mods/79652)
 
-Replace the poorly designed 2D rain found in Zion Canyon (as well as most weather mods) with a new 3D version. Rain no longer looks abnormal when you look up or down.
+Replace the poorly designed 2D rain found in Zion Canyon (as well as in most weather mods) with a new 3D version. Rain no longer looks abnormal when you look up or down.
 
 #### Installation:
 
@@ -275,6 +275,6 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 
 - Main File - Desert Natural Weathers TTW
 
-:::warning
-ALWAYS LOAD THESE WEATHER MODS LAST. This should already be the case if following the guide.
+:::note
+Weather mods **MUST** always load after all other mods, which should already be true if following the guide.
 :::
