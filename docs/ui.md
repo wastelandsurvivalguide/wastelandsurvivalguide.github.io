@@ -17,7 +17,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 Adds a settings menu to configure mods in-game. 
 
 :::note
-**Required** for mods within the guide.
+**REQUIRED** for mods within the guide.
 :::
 
 #### Installation:
@@ -34,7 +34,7 @@ The mod **WILL NOT FUNCTION** without the update file!
 Modernized vanilla-style UI with many enhancements and bug fixes. 
 
 :::note
-**Required** for mods within the guide.
+**REQUIRED** for mods within the guide.
 :::
 
 #### Installation:
@@ -96,7 +96,7 @@ bEnableCategories = 1
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
 
 :::note
-Requires `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which was done in the previous step.
+**REQUIRES** `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which was done in the previous step.
 :::
 
 #### Installation:
