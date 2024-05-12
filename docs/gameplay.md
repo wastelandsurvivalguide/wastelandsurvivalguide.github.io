@@ -217,10 +217,7 @@ Adds crafting stations and additional containers to several vanilla player homes
     <RadioButtonUncheckedIcon fontSize="small" /> YUP Patch<br/>
     <RadioButtonCheckedIcon fontSize="small" /> TTW Addon<br/>
 - Main File - Home and Safehouse Tweaks INI File
-
-:::note Instructions:
-Customize the settings in the INI to your tastes by double clicking the mod and navigating to **INI Files**.
-:::
+- After installing the main file, double-click the mod, go to INI Files, and customize the INI settings to your preferences.
 
 ### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
