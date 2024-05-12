@@ -232,7 +232,7 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [Consistent Pip-Boy Icons v5 - Framework Plugin]
+### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
 
 Greatly expands the framework for Pip-Boy Icon creation.
 
