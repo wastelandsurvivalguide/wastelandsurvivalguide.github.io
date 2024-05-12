@@ -63,11 +63,19 @@ Gives TTW vendors better selections.
 
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
+:::note
+**REQUIRED** for mods within the guide.
+:::
+
 Adds a functional reputation system to Fallout 3 for parity with New Vegas.
 
 ### [TTW N.V. Speech Checks](https://www.nexusmods.com/newvegas/mods/68736)
 
 Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
+
+:::note
+**REQUIRED** for mods within the guide.
+:::
 
 #### Installation:
 
@@ -78,14 +86,11 @@ Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
 
 Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay and lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
 
-### [Tale of Bi Wastelands TTW - TTW Reputations + TTW New Vegas Speech Checks Patches](https://www.nexusmods.com/newvegas/mods/76206)
-
-Patches to provide Tale of Bi Wastelands compatibility with TTW Reputations and TTW Speech Checks.
-
 #### Installation:
 
-- Main File - Tale of Bi Wastelands - TTW New Vegas Speech Checks
-- Main File - Tale of Bi Wastelands - TTW Reputations patch
+- Main File - Tale of Bi Wastelands 1.1
+- Main File - [Tale of Bi Wastelands - TTW New Vegas Speech Checks](https://www.nexusmods.com/newvegas/mods/76206?tab=files&file_id=1000091255&nmm=1)
+- Main File - [Tale of Bi Wastelands - TTW Reputations patch](https://www.nexusmods.com/newvegas/mods/76206?tab=files&file_id=1000128205&nmm=1)
 
 ### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
 
@@ -105,7 +110,7 @@ Adds a container after completing Mothership Zeta that is populated with the ite
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. 
 
 :::note Instructions:
-**Read the description** so you understand how to start the DLCs with this mod installed.
+**READ THE DESCRIPTION** for instructions on accessing DLCs with this mod enabled.
 :::
 
 #### Installation:
@@ -118,45 +123,17 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
 :::note
-The Medicine Bobblehead is not given at the start; you can pick it up later during _Trouble on the Homefront_.
+**READ THE DESCRIPTION** for details on the new location for the Medicine Bobblehead.
 :::
 
-### [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
-
-This mod provides you with a greater choice regarding what items to receive at the beginning of the game when using TTW Quick Start. User configurable.
-
-:::note
-Requires TTW Quick Start.
-:::
-
-### [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) 
-
-Allows for starting in the Mojave Wasteland without the imperfections that can accompany the standard TTW provided option, and that TTW Quick Start disables.
+- Main File - TTW Quick Start
+- Main File - [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832) - Prevents starting with generic, pre-determined items.
+- Main File - [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789) - Provides stat based starting gear at the beginning of a playthrough.
+- Main File - [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173) - Prevents a free level up upon starting the game with TTW Quick Start.
+- Main File - [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
 
 :::note Instructions:
-Requires TTW Quick Start.
-
 To travel to the Mojave Wasteland, select yes when prompted "is this just a dream," after leaving the vault.
-:::
-
-### [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
-
-This is a mod that provides you with stat based starting gear at the beginning of your TTW playthrough.
-
-:::note
-Requires TTW Quick Start.
-:::
-
-### [TTW No Free Levelup](https://www.nexusmods.com/newvegas/mods/82173)
-
-This mod removes the free XP, which would grant a levelup when leaving the vault in Fallout 3.
-
-#### Installation:
-
-- Main File - TTW No Free Levelup Quick Start
-
-:::note
-Requires TTW Quick Start.
 :::
 
 ### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
