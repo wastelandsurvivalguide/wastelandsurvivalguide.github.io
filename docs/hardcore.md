@@ -39,7 +39,8 @@ Makes the economy harsher for characters with low barter, makes barter affect pr
 
 Choose one of the following:
 - Main File - Harder Barter Faster Stronger
-- Main File - Sicko Mode - **OPTIONAL** alternative to the Harder Barter Faster Stronger main file for those who desire a more **hardcore** barter economy.
+- Main File - Sicko Mode
+  - **OPTIONAL** alternative to the Harder Barter Faster Stronger main file for those who desire a more **hardcore** barter economy.
 
 ### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot)
 
@@ -49,6 +50,7 @@ A highly customizable loot scarcity mod.
 
 - Main File - Unfound Loot
 - Main File - [Unfound Loot - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1)
+  - **OPTIONAL** INI preset for those desiring a more **hardcore** loot economy.
 
 ## Damage & Radiation Effects
 
@@ -74,7 +76,8 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bl
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) - This should already be installed if following the guide.
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
+  - This should already be installed if following the guide.
 - Main File - New Blood
 
 ## Aid, Consumables, & Healing
