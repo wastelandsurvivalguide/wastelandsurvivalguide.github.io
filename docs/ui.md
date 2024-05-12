@@ -14,7 +14,11 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
 
-Adds a settings menu to configure mods in-game. **Required** for many mods.
+Adds a settings menu to configure mods in-game. 
+
+:::note
+**Required** for mods within the guide.
+:::
 
 #### Installation:
 
@@ -22,12 +26,16 @@ Adds a settings menu to configure mods in-game. **Required** for many mods.
 - Update File - MCM Bugfix 2 
 
 :::note
-**DO NOT** skip the update file!
+The mod **WILL NOT FUNCTION** without the update file!
 :::
 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
-Modernized vanilla-style UI with many enhancements and bugfixes. **Required** for many mods.
+Modernized vanilla-style UI with many enhancements and bug fixes. 
+
+:::note
+**Required** for mods within the guide.
+:::
 
 #### Installation:
 
@@ -40,15 +48,14 @@ Modernized vanilla-style UI with many enhancements and bugfixes. **Required** fo
   - Keybinds:
     - [x] WASD Compatible
 
-
-
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357)
 
-Aims to fix UI bugs and add new UI features.
+Fixes various UI bugs and adds new UI features.
 
 #### Installation:
 
-After installing the Main File, double-click the mod and go to **INI Files**. Select all of the existing content and replace it with this:
+- Main File - yUI
+- After installing the main file, double-click the mod, go to **INI Files**, select all of the content within the INI, and replace it with:
 
 ```ini title="yUI.ini" showLineNumbers
 [General]
@@ -89,7 +96,7 @@ bEnableCategories = 1
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
 
 :::note
-Requires `bSortingIcons = 1` in [yUI.ini](#yui---user-ynterface), which should already be the case if following the guide.
+Requires `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which was done in the previous step.
 :::
 
 #### Installation:
@@ -101,11 +108,11 @@ Requires `bSortingIcons = 1` in [yUI.ini](#yui---user-ynterface), which should a
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
-A complete high-resolution and more detailed rework of the Tale of Two Wastelands main menu image.
+A complete high-resolution and more detailed rework of the Tale of Two Wastelands Main menu image.
 
 #### Installation:
 
-Choose the file matching your monitor's resolution.
+- Choose the file matching your monitor's resolution.
 
 ### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915)
 
@@ -125,7 +132,7 @@ Replaces the vanilla loading wheel with a sleek, minimalist design.
 
 ### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
 
-The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost based on the time selected.
+The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained and lost based on the time selected.
 
 ## HUD
 
@@ -133,8 +140,8 @@ The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost 
 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
-:::note
-This mod can sometimes cause the screen to turn grey with VATS. If this happens, changing the settings to default could fix it, and if not, removing the mod is a solution.
+:::note Known Bug!
+This mod can cause the screen to turn grey with VATS. If this happens, reset the settings to default. If persistent, remove the mod.
 :::
 
 ### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
@@ -144,14 +151,7 @@ A stripped down and updated version of No PipBoy in Power Armor, which replaces 
 #### Installation:
 
 - Main File - SPAHUD
-
-### [Alternate Holographic Panel](https://www.nexusmods.com/newvegas/mods/82636) 
-
-Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
-
-#### Installation:
-
-- Main File - Alternate Holographic Panel - Background Version
+- Main File - [Alternate Holographic Panel - Background Version](https://www.nexusmods.com/newvegas/mods/82636) - Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
@@ -189,21 +189,20 @@ Adds a UI widget that displays your recent loot.
 
 ### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365)
 
-##### Main & Pause Menus Overhaul
-
 Adds ample features to the Main and Pause menus. Fully customizable.
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) - You should already have this if following the guide.
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) - This should already be installed if following the guide.
 - Main File - Main And Pause Menus Overhaul
-  - Press **M** from the pause menu to access the MCM
-  - Press **N** from the pause or main menu to configure MAPMO's settings
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
 
 :::note Instructions:
+- Press **M** from the pause menu to access the MCM.
+- Press **N** from the pause or main menu to configure MAPMO's settings.
+
 Apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
 :::
 
@@ -223,7 +222,7 @@ Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
-This is a faithful recreation of the Vault Boy Paper Doll. You'll see the paper doll when you take damage or in the Condition menu in your Pip-Boy. Fixes a couple of alignment issues too.
+This is a faithful recreation of the Vault Boy Paper Doll, which appears when taking damage or in the Condition menu in your Pip-Boy. Also fixes some alignment issues.
 
 ### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
 
@@ -250,7 +249,6 @@ High-quality Pip-Boy icons.
 <details>
 <summary>The rest of ItsMeJesusHChrist's mods.</summary>
 <p>Placed here for organizational purposes. If you want more high-quality UI mods, continue on.
-
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
@@ -387,7 +385,7 @@ Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 #### Installation:
 
-Choose the desired speed and the version that aligns with your character's sex.
+- Choose the desired speed and the version that aligns with your character's sex.
 
 ## Optional Extras
 
@@ -413,11 +411,11 @@ Adds a UI element showing the position of grenades in 3D space, additionally hig
    
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) 
 
-Adds high-quality quick select menus for weapon and item. Dramatically improves item usability and weapon swapping in combat and on the go!
+Adds high-quality quick select menus for weapons and items. Dramatically improves item usability and weapon swapping in combat and on the go!
 
 #### Installation:
 
-- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) - You should already have this if following the guide.
+- Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160?tab=files) - This should already be installed if following the guide.
 - Main File - Quick Select
 
 ### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841)
@@ -444,10 +442,6 @@ Adds a customizable visual effect when the player is exposed to radiation. Ioniz
 
 Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! 
 
-:::note Instructions:
-Use the N key to toggle night vision, and hold the N key to add support to your current headgear.
-:::
-
 #### Installation:
 
 - Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088) (you should already have this if following the guide)
@@ -461,10 +455,15 @@ Use the N key to toggle night vision, and hold the N key to add support to your 
   - Texture Options:
     - [x] Compress Textures
 
+:::note Instructions:
+- Press **N** to toggle night vision.
+- Hold **N** to add night vision support to your current headgear.
+:::
+
 ### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer)
 
 Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 
-:::note
-This mod removes **information that is useful** for new players! If this is your first time playing Fallout 3 or Fallout: New Vegas, consider **skipping this mod**, as the info it provides will not be learned through normal gameplay.
+:::warning
+This mod **REMOVES INFORMATION** that new players may find useful. If playing Fallout: New Vegas for the first time, consider **SKIPPING** this mod.
 :::
