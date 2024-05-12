@@ -39,7 +39,7 @@ Makes the economy harsher for characters with low barter, makes barter affect pr
 
 Choose one of the following:
 - Main File - Harder Barter Faster Stronger
-- Main File - Sicko Mode - Optional alternative to the Harder Barter Faster Stronger main file for those who desire a more **hardcore** barter economy.
+- Main File - Sicko Mode - **OPTIONAL** alternative to the Harder Barter Faster Stronger main file for those who desire a more **hardcore** barter economy.
 
 ### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot)
 
@@ -62,7 +62,7 @@ Overhauls all aspects of radiation, making it far more consequential.
 
 ### [More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) 
 
-User-configurable increase or decrease in the size and intensity of all ambient radiation in the game. The default settings functionally double the intensity and triple the radius of radiation.
+User-configurable increase or decrease in the radius and intensity of all ambient radiation in the game. The default settings functionally double the intensity and triple the radius of radiation.
 
 #### Installation:
 
@@ -74,7 +74,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bl
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) (you should already have this if following the guide)
+- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) - This should already be installed if following the guide.
 - Main File - New Blood
 
 ## Aid, Consumables, & Healing
@@ -97,7 +97,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 - Main File - Sweet Consumables TTW
 
 :::note
-Users NOT using hardcore mode will still see FOD and H2O consumable item effects. **Do not** open support requests about this.
+Using this mod **WITHOUT hardcore mode** enabled will still display FOD and H2O item effects in consumable descriptions, despite being non-functional. **DO NOT** open support requests about this.
 :::
 
 ### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
