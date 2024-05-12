@@ -203,7 +203,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Press **M** from the pause menu to access the MCM.
 - Press **N** from the pause or main menu to configure MAPMO's settings.
 
-Apply the preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
+Apply the WSG preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
 :::
 
 ## Pip-Boy
