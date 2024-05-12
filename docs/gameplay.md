@@ -394,7 +394,7 @@ Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult
 
 A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
 
-- Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) - Required for SPECIAL based trait selection.
+- Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) - Required for SPECIAL based trait selection. This should already be installed if following the guide.
 - Main File - Vegas Elysium Perks
 
 ### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910)
