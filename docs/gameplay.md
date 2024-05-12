@@ -378,7 +378,11 @@ A set of perks that grant bonuses once idolized by various factions.
 
 #### Installation:
 - Main File - Friends With Benefits Perk Pack
-- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - Disables the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately. STARS users may forego this mod.
+- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - Disables the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately. 
+
+:::note
+STARS users may forego the Faction Disguise Remover, as STARS has a similar function.
+:::
 
 ## Optional Extras
 
