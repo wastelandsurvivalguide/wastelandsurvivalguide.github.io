@@ -236,8 +236,7 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 Greatly expands the framework for Pip-Boy Icon creation.
 
-:::
-note
+::: note
 **REQUIRED** for the following 'Icons' mods.
 :::
 
