@@ -292,7 +292,7 @@ Various high-quality Pip-Boy icons.
 - Main File - 
  [Consistent Pip-Boy Icons v5 - Stats (and Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
 - Main File - [Consistent Pip-Boy Icons v5 - Vault Girl Extension](https://www.nexusmods.com/newvegas/mods/84838)
-- Main File - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603b)
+- Main File - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603b) - TTW patches for the above 'Icons' mods.
   - Patch for Pop-Up Message Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
