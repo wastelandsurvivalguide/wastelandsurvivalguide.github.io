@@ -20,11 +20,12 @@ Adds a fully functional post-game world to the game, no longer will you be broug
 
 - Main File - Functional Post Game Ending
   - Single Patches:
+    - [ ] YUP Patch
+    - [x] Tale of Two Wastelands Patch
     - [ ] AWOP Patch
     - [ ] Outside Bets Patch
-    - [x] Tale of Two Wastelands Patch
-    - [ ] Uncut Extra Collection Patch (Do **NOT** select this, it is not for the Uncut Extra Collection version we use later on.)
-    - [ ] YUP Patch
+    - [ ] Uncut Extra Collection Patch
+      - Do **NOT** select Uncut Extra Collection Patch, it is not for the Uncut Extra Collection version we use later on.
   - Uncut Wasteland Patches:<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland plus NPCs<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Outside Bets)<br/>
