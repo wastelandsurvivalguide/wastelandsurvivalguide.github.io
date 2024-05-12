@@ -127,16 +127,20 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
 :::
 
 - Main File - TTW Quick Start
-- Main File - [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832) - Prevents starting with generic, pre-determined items.
-- Main File - [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789?tab=files&file_id=1000130698&nmm=1) - Provides stat based starting gear at the beginning of a playthrough.
-- Main File - [TTW No Free Levelup Quick Start](https://www.nexusmods.com/newvegas/mods/82173?tab=files&file_id=1000125281&nmm=1) - Prevents a free level up upon starting the game with TTW Quick Start.
-- Main File - [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311) - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
+- Main File - [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
+  - Prevents starting with generic, pre-determined items.
+- Main File - [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789?tab=files&file_id=1000130698&nmm=1)
+  - Provides stat based starting gear at the beginning of a playthrough.
+- Main File - [TTW No Free Levelup Quick Start](https://www.nexusmods.com/newvegas/mods/82173?tab=files&file_id=1000125281&nmm=1)
+  - Prevents a free level up upon starting the game with TTW Quick Start.
+- Main File - [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311)
+  - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
 
 :::note Instructions:
 To travel to the Mojave Wasteland, select yes when prompted "is this just a dream" after leaving the vault.
 :::
 
-### [Benny Humbles You](https://www.nexusmods.com/newvegas/mods/71112)
+### [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
 
 Resets the player's level and skills, as well as removes gear upon travelling from the Capital Wasteland to the Mojave for the first time. Players get to keep their perks during this transition and eventually recover their items.
 
@@ -170,8 +174,10 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 #### Installation:
 
 - Main File - Just Assorted Mods
-- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1) - Various settings optimized to best fit the mods contained within the guide.
-- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075) - If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section.
+- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1)
+  - Various settings optimized to best fit the mods contained within the guide.
+- Main File - [ySI - Colorful Icons Fix (JLM)](https://www.nexusmods.com/newvegas/mods/85075)
+  - If you downloaded [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075) from the [User Interface & HUD](https://wastelandsurvivalguide.com/docs/ui) section.
 - Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
 - Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324)
 
@@ -190,7 +196,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 :::
 
 :::note
-Consider **DISABLING** the VATS hotkey and using Bullet Time exclusively for a more **hardcore** experience.
+Consider **DISABLING** the VATS hotkey in controls and using Bullet Time exclusively for a more **hardcore** experience.
 :::
 
 ### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
@@ -299,7 +305,8 @@ Replaces the formula for weapon jamming when firing and reloading.
 #### Installation:
 
 - Main File - Weapon Jamming Tweaks
-- Main File - Sweet's Configuration - **OPTIONAL** for those who desire a more **hardcore** experience.
+- Main File - Sweet's Configuration
+  - **OPTIONAL** for those who desire a more **hardcore** experience.
 
 ### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
 
@@ -375,17 +382,18 @@ A set of perks that grant bonuses once idolized by various factions.
 
 #### Installation:
 - Main File - Friends With Benefits Perk Pack
-- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) - Disables the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately. 
-
-:::note
-STARS users may forego the Faction Disguise Remover, as STARS has a similar function.
-:::
+- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) OR [STARS](https://www.nexusmods.com/newvegas/mods/76016)
+  - Both mods disable the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately. STARS has a much more complicated setup process.
 
 ## Optional Extras
 
 :::danger Spicy Mods Ahead
 The **OPTIONAL** mods ahead may deviate significantly from the vanilla experience. However, many of us consider them indespensible and feel that they greatly enhance the game. **Procceed with caution!**
 :::
+
+### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910)
+
+Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the perk packs included in the guide (particularly Vegas Elysium), which add many new traits.
 
 ### [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) 
 
@@ -397,10 +405,6 @@ A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and 
 
 - Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) - Required for SPECIAL based trait selection. This should already be installed if following the guide.
 - Main File - Vegas Elysium Perks
-
-### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910)
-
-Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the above perk packs (particularly Vegas Elysium), which add many new traits.
 
 ### [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) 
 
@@ -422,4 +426,5 @@ Real-time, character-skill based replacement for hacking and lockpicking. Refer 
 Adds contextual leaning around corners.
 
 - Main File - B42 True Leaning
-- Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1) - Intentionally disables lean hotkeys in favor of the contextual lean feature.
+- Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
+  - Intentionally disables lean hotkeys in favor of the contextual lean feature.
