@@ -232,23 +232,14 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432)
+### [Consistent Pip-Boy Icons v5 - Framework Plugin]
 
-A framework for the following Consistent Pip-Boy Icon mods.
+Greatly expands the framework for Pip-Boy Icon creation.
 
-### [Consistent Pip-Boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
-
-High-quality Pip-Boy icons.
-
-#### Installation:
-
-- Main File - 1. Consistent Pip-boy Icons
- 
-### More High Quality Menus
-
-<details>
-<summary>The rest of ItsMeJesusHChrist's mods.</summary>
-<p>Placed here for organizational purposes. If you want more high-quality UI mods, continue on.
+:::
+note
+**REQUIRED** for the following 'Icons' mods.
+:::
 
 ### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516)
 
@@ -262,53 +253,6 @@ High-quality Pip-Boy icons.
     - [x] Extension - Hunger, Dehydration, Sleep and Radiation
     - [x] Extension - Reputation
     - [x] Extension - Challanges
-
-### [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
-
-More high-quality item icons.
-
-### [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
-
-More high-quality weapon icons.
-
-### [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
-
-More high-quality apparel icons.
-
-### [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
-
-More high-quality assorted icons.
-
-### [Consistent Pip-Boy Icons v5 - Addendumb](https://www.nexusmods.com/newvegas/mods/85024)
-
-More high-quality assorted icons.
-
-### [Consistent Pip-Boy Icons v5 - Dynamicon](https://www.nexusmods.com/newvegas/mods/85411)
-
-More high-quality perk icons that dynamically change depending on your rank.
-
-#### Installation:
-
-- Main File - Consistent Pip-Boy Icons v5 - Dynamicon
-  - Dynamicon:
-    - [x] Main Mod
-    - [x] Optional ESPLess Plugin
-
-### [Consistent Pip-Boy Icons v5 - DLC's Items](https://www.nexusmods.com/newvegas/mods/83629)
-
-More high-quality DLC item icons.
-
-### [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
-
-More high-quality reputation icons.
-
-### [Consistent Pip-Boy Icons v5 - Stats (and Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
-
-More high-quality stats, special, skill, and perk icons.
-
-### [Consistent Pip-Boy Icons v5 - Vault Girl Extension](https://www.nexusmods.com/newvegas/mods/84838)
-
-More high-quality apparel icons.
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
 
@@ -326,13 +270,29 @@ A total overhaul to Map Marker icons, also including an extension that replaces 
     - [x] Unique Location Icons
     - [x] Unique Icons with General Mod Support
 
-### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
+### Consistent Pip-Boy Icons Collection
 
-A collection of patches and V5 Icons for Tale Of Two Wastelands.
+Various high-quality Pip-Boy icons.
 
 #### Installation:
 
-- Main File - TTW Goodies
+- Main File - [1. Consistent Pip-boy Icons](https://www.nexusmods.com/newvegas/mods/65046?tab=files&file_id=1000096843&nmm=1)
+- Main File - [CPI - Mod Patches](https://www.nexusmods.com/newvegas/mods/65046?tab=files&file_id=1000096876&nmm=1)
+- Main File - [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
+- Main File - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
+- Main File - [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
+- Main File - [Consistent Pip-Boy Icons v5 - Extension](https://www.nexusmods.com/newvegas/mods/83639)
+- Main File - [Consistent Pip-Boy Icons v5 - Addendumb](https://www.nexusmods.com/newvegas/mods/85024)
+- Main File - [Consistent Pip-Boy Icons v5 - Dynamicon](https://www.nexusmods.com/newvegas/mods/85411)
+  - Dynamicon:
+    - [x] Main Mod
+    - [x] Optional ESPLess Plugin
+- Main File - [Consistent Pip-Boy Icons v5 - DLC's Items](https://www.nexusmods.com/newvegas/mods/83629)
+- Main File - [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
+- Main File - 
+ [Consistent Pip-Boy Icons v5 - Stats (and Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
+- Main File - [Consistent Pip-Boy Icons v5 - Vault Girl Extension](https://www.nexusmods.com/newvegas/mods/84838)
+- Main File - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603b)
   - Patch for Pop-Up Message Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
@@ -347,10 +307,7 @@ A collection of patches and V5 Icons for Tale Of Two Wastelands.
     - [x] Numbered Vaults
     - [x] Unique Location Icons
     - [x] Unique DLC Starter Marker
-    - [ ] None for me, thanks!
-
-That's a wrap.</p>
-</details>
+    - [ ] None for me, thanks
 
 ### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902)
 
