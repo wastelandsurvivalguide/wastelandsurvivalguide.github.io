@@ -21,7 +21,7 @@ Adjusts a few shader flags to litter meshes to stop the litter from flickering.
 
 #### Installation:
 
-Main File - Mainframes Litter Flickering Fix v5. 
+Main File - Mainframes Litter Flickering Fix v5
 
 :::note
 This mod **MUST** load after NVMIM, which should already be true if following the guide.
@@ -65,8 +65,12 @@ Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad ble
 
 Removes the requirement to patch weapons manually for ISControl nodes of animations. **Required** for multiple weapon and animation mods in the guide.
 
-:::note Read the Instructions!
-The instruction page describes how to fix any weapon clipping you may experience with weapons after following the guide.
+:::note Instructions:
+- Hold the aim button and right shift until the ISControl crosshair appears, then release right shift while still holding aim.
+- Adjust the sights angle by moving the mouse.
+- Adjust the sights distance with the mouse wheel.
+- Adjust the sights position by holding left shift and moving the mouse.
+- Press enter to save your iron sight alterations.
 :::
 
 ### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
