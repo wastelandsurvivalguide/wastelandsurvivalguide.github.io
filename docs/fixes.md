@@ -25,7 +25,7 @@ A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL 
 A script extender plugin that adds many new functions to the game. 
 
 :::note
-**Required** for mods within the guide.
+**REQUIRED** for mods within the guide.
 :::
 
 ### [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160)
@@ -33,7 +33,7 @@ A script extender plugin that adds many new functions to the game.
 Another script extender plugin that adds new functions to the game. 
 
 :::note
-**Required** for mods within the guide.
+**REQUIRED** for mods within the guide.
 :::
 
 ### [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
@@ -41,7 +41,7 @@ Another script extender plugin that adds new functions to the game.
 Implements an ESPless framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files. 
 
 :::note
-**Required** for mods within the guide.
+**REQUIRED** for mods within the guide.
 :::
 
 ### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
@@ -115,7 +115,7 @@ Fixes vanilla FaceGen tints.
 - Main File - FaceGen Tint Fixes for TTW
 
 :::note
-The plugin will appear crossed out, this is normal and expected. DO NOT hide the plugin.
+The plugin will appear crossed out, this is normal and expected. **DO NOT** hide the plugin.
 :::
 
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
