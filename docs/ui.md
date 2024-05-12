@@ -444,7 +444,7 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 
 #### Installation:
 
-- Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088) (you should already have this if following the guide)
+- Main File - [Keywords](https://www.nexusmods.com/newvegas/mods/83088) - This should already be installed if following the guide.
 - Main File - Simple Night Vision
   - Main File:
     - [x] Plugin (Recommended)
