@@ -1042,6 +1042,57 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 **IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the Always Run key** in controls, then **REBIND the sprint key in the Enhanced Movement MCM**.
 :::
 
+## Perks
+
+### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) <sup>~~Vanilla +~~</sup>
+
+This is a complete rebalance and overhaul of many base game perks.
+
+#### Installation:
+
+- Main File - Sweet Perk Overhaul
+
+### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) <sup>~~Vanilla +~~</sup>
+
+The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
+
+#### Installation:
+
+- Main File - Sweet 6 Shooter Perk Pack TTW Version
+
+### [Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682) <sup>~~Vanilla +~~</sup>
+
+A set of perks that grant bonuses once idolized by various factions.
+
+#### Installation:
+
+- Main File - Friends With Benefits Perk Pack
+- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445) <sup>~~Vanilla +~~</sup>
+
+:::warning
+Only install A Very Uncreative Faction Disguise Remover if **NOT** installing [STARS](https://www.nexusmods.com/newvegas/mods/76016). The Friends With Benefits Perk Pack requires a faction disguise removal function, which can be accomplished with **EITHER** of these options.
+:::
+
+### [Tree New Perks](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101118&nmm=1)
+
+Adds new unique perks for the various endings to the Oasis questline.
+
+### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910) <sup>~~Vanilla +~~</sup>
+
+Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the perk packs included in the guide (particularly Vegas Elysium), which add many new traits.
+
+### [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) <sup>~~Vanilla +~~</sup>
+
+:::danger DISTURBING CONTENT
+Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
+:::
+
+A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
+
+- Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
+  - Required because the Vegas Elysium Perk Pack requires SPECIAL based trait selection. This should already be installed if following the guide.
+- Main File - Vegas Elysium Perks
+
 
 **CombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombat**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
@@ -1134,49 +1185,6 @@ Enhances NPCs ability to detect the player at medium and long ranges, ameliorati
 
 - Main File - SDDS
 - Optional File - TTW Patch
-
-## Perks
-
-### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) <sup>~~Vanilla +~~</sup>
-
-This is a complete rebalance and overhaul of many base game perks.
-
-#### Installation:
-
-- Main File - Sweet Perk Overhaul
-- Optional File - No Big Guns Patch - **OPTIONAL** for those who **DO NOT WANT** the Guns Skill seperated into Guns and Big Guns skills. If skipping this patch and wanting to use the Big Guns Skill, **ENABLE** bEnableBigGunsSkill=1 in the JIP LN NVSE INI.
-
-### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) <sup>~~Vanilla +~~</sup>
-
-The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
-
-#### Installation:
-
-- Main File - Sweet 6 Shooter Perk Pack TTW Version
-
-### [Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682) <sup>~~Vanilla +~~</sup>
-
-A set of perks that grant bonuses once idolized by various factions.
-
-#### Installation:
-- Main File - Friends With Benefits Perk Pack
-- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445?tab=files) OR [STARS](https://www.nexusmods.com/newvegas/mods/76016)
-  - Both mods disable the faction disguise function, which is extremely broken at baseline and causes this mod function inappropriately. STARS has a much more complicated setup process.
-
-### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910) <sup>~~Vanilla +~~</sup>
-
-Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the perk packs included in the guide (particularly Vegas Elysium), which add many new traits.
-
-### [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) <sup>~~Vanilla +~~</sup>
-
-:::danger DISTURBING CONTENT
-Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
-:::
-
-A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
-
-- Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) - Required for SPECIAL based trait selection. This should already be installed if following the guide.
-- Main File - Vegas Elysium Perks
 
 ### [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) <sup>~~Vanilla +~~</sup>
 
