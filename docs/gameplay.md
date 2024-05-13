@@ -288,10 +288,6 @@ Replaces the weapon spread mechanics with one that is far more intuitive and app
 
 Adds working recoil to the wasteland. 
 
-:::note
-Consider choosing the hardcore preset in the MCM options for a more **hardcore** experience.
-:::
-
 ### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) 
 
 Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Highly customizable.
