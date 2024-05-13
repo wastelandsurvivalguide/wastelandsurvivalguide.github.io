@@ -1,4 +1,4 @@
-_____________________________________________________________________________________________________changelog
+**ChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelog**
 ## Changelog - Ghost Page
 
 Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. <3 - Kamchatka
@@ -16,7 +16,9 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 
 ### Additions
 - 
-_____________________________________________________________________________________________________Extra Utilities & Fixes
+
+
+**Extra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & Fixes**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -184,7 +186,9 @@ Certain weapon mods have an empty line above the description. This simple fix re
 ### [zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) 
 
 Updates zlib to the latest version for faster loading and less stutter.
-_____________________________________________________________________________________________________User Interface & HUD
+
+
+**User Interface & HUDUser Interface & HUDUser Interface & HUDUser Interface & HUDUser Interface & HUDUser Interface & HUDUser Interface & HUD**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -614,7 +618,9 @@ Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 :::warning
 This mod **REMOVES INFORMATION** that new players may find useful. If playing Fallout: New Vegas for the first time, consider **SKIPPING** this mod.
 :::
-_____________________________________________________________________________________________________Gameplay
+
+
+**GameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplayGameplay**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -1039,7 +1045,9 @@ Adds contextual leaning around corners.
 - Main File - B42 True Leaning
 - Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
   - Intentionally disables lean hotkeys in favor of the contextual lean feature.
-_____________________________________________________________________________________________________Combat
+
+
+**CombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombatCombat**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -1053,7 +1061,9 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Combat**.
 
 ## 
-_____________________________________________________________________________________________________Content
+
+
+**ContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContentContent**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -1203,7 +1213,9 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 - Main File - Tactapack
 - Main File - Hotfix 1.6a
   - **DO NOT** install thye hotfix seperately, merge it into the main Tactapack file.
-_____________________________________________________________________________________________________Overhaul
+
+
+**OverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaulOverhaul**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -1316,7 +1328,9 @@ A complete overhaul and rebalancing of doctors, sleep, endurance, infirmary base
 #### Installation:
 
 - Main File - Sweet Healing Systems
-_____________________________________________________________________________________________________STARS
+
+  
+**STARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARSSTARS**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -1370,7 +1384,9 @@ STARS will provide an alert in-game if any assets are missing or managed incorre
   - HIDE the Book of Steel.esp plugin
 - Main FIle - [Tammer's NIF-Bashed Armor Mega-Pack v4.8.rar](https://drive.google.com/drive/folders/1A3EyIk7dyb9ytXLDLCfK1BMVEZVY3H4_) - The bottommost version (v4.8) is the correct file.
   - HIDE the Tammer's NIF-Bashed Armor Mega-Pack.esm plugin
-_____________________________________________________________________________________________________Optimizations
+
+
+**OptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizationsOptimizations**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
@@ -1460,7 +1476,9 @@ Optimizes more than 200 interior cells with roombounds and occlusion planes to i
 #### Installation:
 
 - Main File - Fallout 3 Interior Optimization Project
-_____________________________________________________________________________________________________Ambience
+
+
+**AmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbienceAmbience**
 ﻿# Visuals
 
 ---
@@ -1747,7 +1765,9 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 :::note
 Weather mods **MUST** always load after all other mods, which should already be true if following the guide.
 :::
-_____________________________________________________________________________________________________Final Steps
+
+
+**Final StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal StepsFinal Steps**
 ﻿# Final Steps
 
 ---
@@ -1903,7 +1923,9 @@ Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. Fo
 # Additional Mods
 
 Check out our [Additions](https://wastelandsurvivalguide.com/docs/additions) page for mods approved and recommended by our team that did not make it into the guide for one reason or another. Unfortunately, we do not have the time or energy to provide support for setups that install extra mods on top of the guide. We cannot stress enough that it is only recommended to add your own mods if you are an experienced modder and know how to manually make conflict resolution patches and sort your load order! If you don't know [how to do that](https://moddinglinked.com/themethod.html) in [xEdit](https://moddinglinked.com/xedit.html), or you are unwilling to spend the time to do so, it is not recommended to add your own mods. You can't just throw a bunch of mods on top of the guide without doing any conflict resolution, or use automated tools like LOOT as a substitute for proper conflict resolution, and expect your game to function as intended. Once again, **we will not support setups that have added any mods**.
-_____________________________________________________________________________________________________Additions
+
+
+**AdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditionsAdditions**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
