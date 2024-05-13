@@ -36,7 +36,7 @@ const sidebars = {
     "content",
     "overhaul",
     "optimizations",
-    "visuals",
+    "ambience",
     "finish",
     "faq",
     {
