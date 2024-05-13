@@ -34,7 +34,7 @@ const sidebars = {
     "ui",
     "gameplay",
     "content",
-    "hardcore",
+    "overhaul",
     "optimizations",
     "visuals",
     "finish",
