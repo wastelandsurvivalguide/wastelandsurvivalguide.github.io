@@ -131,6 +131,10 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
 An add-on for Another Millenia that adds many guns that did not make the original weapon pack.
 
+#### Installation: 
+- Main File - Another Millenia Gun Add-on
+- Update File - Hotfix 1
+
 ### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
 
 Adds over a dozen high quality firearms, energy weapons, and melee weapons made by Zealotlee.
