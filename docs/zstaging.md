@@ -1,22 +1,40 @@
 **ChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelogChangelog**
 ## Changelog - Ghost Page
 
-Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. <3 - Kamchatka
+Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. <3 - Kamchatka
 
 ### 5/13/2024
 
 ### Bugfixes/Clarifications
-- a
+- Various clarifications made throughout the guide.
 
 ### Reorganization
-- a
+- Completely rebuilt load order with new conflict resolution from the ground up. Added and created patches where necessary.
+- Renamed Hardcore page to Overhauls.
+- Added Combat page to break up the length of the Gameplay page.
+- Added <sup>Vanilla +</sup>, <sup>~~Vanilla +~~</sup>, and <sup>Hardcore</sup> tags to each mod.
+- Moved PipBoyOn Node Fixes to Ambience page.
+
+Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
+
+#### Installation:
+
+- Main File - BoyOn Node Fixes TTW
 
 ### Removals
-- a
+- Removed PerkPackPlus due to balance concerns.
+- Removed Combat Enhancer Updated due to breaking of scripted events.
+- Removed JLM - ySI - Colorful Icons Fix Patch, as it is now built into ySI - Colorful Icons Fix.
 
 ### Additions
-- a
-
+- Added Simple AI Merge as a safer alternative to Combat Enhancer Updated.
+- Added Sweet Keywords.
+- Added Faster Main Menu.
+- Added Faster Sleep-Wait.
+- Added Ammo Script Fixes.
+- Added Critical and Effects - Fixes and Tweaks.
+- Added NPCa - NPC Prevention of Chem addiction - ESPless.
+- Added Tranquility Lane Pipboy Glove and Custom Race Fix.
 
 **Extra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & FixesExtra Utilities & Fixes**
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
@@ -33,61 +51,86 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Extra Utilities
 
-### [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
+### [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
-### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127133&nmm=1)
+### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127133&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
 
-### [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
+### [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012) <sup>Vanilla +</sup>
 
 A script extender plugin that adds many new functions to the game. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
-### [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160)
+### [SUP NVSE](https://www.nexusmods.com/newvegas/mods/73160) <sup>Vanilla +</sup>
 
 Another script extender plugin that adds new functions to the game. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
-### [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
+### [Keywords](https://www.nexusmods.com/newvegas/mods/83088) <sup>Vanilla +</sup>
 
-Implements an ESPless framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files. 
+Implements a framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files.
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
-### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
+#### Installation:
+
+- Main File - KEYWORDS
+- Main File - [Sweet Keywords](https://www.nexusmods.com/newvegas/mods/83781)
+
+### [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205) <sup>Vanilla +</sup>
 
 Fixes bugs and adds utilities for weather mods.
 
-### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612)
+### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612) <sup>Vanilla +</sup>
 
-Adds pseudo-animated clouds for horizons and panoramic cloud systems. 
+Adds pseudo-animated clouds for horizons and panoramic cloud systems.
+
+### [Faster Main Menu](https://www.nexusmods.com/newvegas/mods/67811) <sup>Vanilla +</sup>
+
+Makes the games main menu load faster.
+
+### [Faster Sleep-Wait](https://www.nexusmods.com/newvegas/mods/66785) <sup>Vanilla +</sup>
+
+Decreases the delay between hours while waiting or sleeping.
+
+#### Installation:
+
+Main File - Faster Sleep Wait
 
 ## Fixes
 
-### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617)
+### [Ammo Script Fixes](https://www.nexusmods.com/newvegas/mods/63997) <sup>Vanilla +</sup>
+
+Fixes several problems at a fundamental level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
+
+### [Aqua Performa](https://www.nexusmods.com/newvegas/mods/78617) <sup>Vanilla +</sup>
 
 Significantly improves performance on the New Vegas strip by removing unseen water LOD.
 
-### [Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974)
+### [Consistent Spread - Firearms Accuracy and Wobble Fix](https://www.nexusmods.com/newvegas/mods/77974) <sup>Vanilla +</sup>
 
 Fixes firearms inconsistent accuracy caused by vanilla weapon wobble and bugged character spread settings.
 
-### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
+### [Critical and Effects - Fixes and Tweaks](https://www.nexusmods.com/newvegas/mods/69200) <sup>Vanilla +</sup>
+
+Fixes damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects, plus some personal tweaks.
+
+### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200) <sup>Vanilla +</sup>
 
 Fix for depth of field bleeding over onto player's viewmodel.
 
-### [Equip and Movement Speed Fix - ESPless](https://www.nexusmods.com/newvegas/mods/71774) 
+### [Equip and Movement Speed Fix - ESPless](https://www.nexusmods.com/newvegas/mods/71774) <sup>Vanilla +</sup>
 
 Fixes animation speed not updating correctly while in-game for weapon drawing, weapon holstering, and running.
 
@@ -95,39 +138,39 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 - Main File - Equip and Movement Speed Fix - ESPless
 
-### [External Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443)
+### [External Emittance Fix](https://www.nexusmods.com/newvegas/mods/80443) <sup>Vanilla +</sup>
 
 Fixes a bug that would cause certain particles to appear black.
 
-### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
+### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316) <sup>Vanilla +</sup>
 
 Fixes some alpha rendering issues like broken effects when using Transparency Multisampling.
 
-### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
+### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516) <sup>Vanilla +</sup>
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
 
-### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
+### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933) <sup>Vanilla +</sup>
 
 Increases bloom precision, thus reducing flicker.
 
-### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
+### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400) <sup>Vanilla +</sup>
 
 Increases the resolution of water depth render target, thus significantly reducing aliasing and improving image quality.
 
-### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
+### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) <sup>Vanilla +</sup>
 
 Fixes exterior lighting bugs and allows up to 4x the number of active lights.
 
-### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
+### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330) <sup>Vanilla +</sup>
 
 Standardizes all of the player's body part damage multipliers.
 
-### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
+### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683) <sup>Vanilla +</sup>
 
 Fixes moonlight, making the moon the light caster instead of the sun.
 
-### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
+### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577) <sup>Vanilla +</sup>
 
 Fixes vanilla FaceGen tints.
 
@@ -135,27 +178,23 @@ Fixes vanilla FaceGen tints.
 
 - Main File - FaceGen Tint Fixes for TTW
 
-:::note
+:::warning
 The plugin will appear crossed out, this is normal and expected. **DO NOT** hide the plugin.
 :::
 
-### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
+### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201) <sup>Vanilla +</sup>
 
 Fixes muzzle flash lights not being culled after firing, which would cause the game to continue using them for illumination.
 
-### [Pip-Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957)
+### [NPCa - NPC Prevention of Chem addiction - ESPless](https://www.nexusmods.com/newvegas/mods/73622) <sup>Vanilla +</sup>
+
+Prevents NPCs from gaining addiction effects when using chems or alcohol, as they do not attempt to resolve said debuffs.
+
+### [Pip-Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957) <sup>Vanilla +</sup>
 
 Fixes a bug that caused the Pip-Boy to ignore external lights and appear oddly dark, especially in interiors.
 
-### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
-
-Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
-
-#### Installation:
-
-- Main File - BoyOn Node Fixes TTW
-
-### [Smooth True Iron Sights Camera](https://www.nexusmods.com/newvegas/mods/69074) 
+### [Smooth True Iron Sights Camera](https://www.nexusmods.com/newvegas/mods/69074) <sup>Vanilla +</sup>
 
 Aim down sights without the camera snapping to place.
 
@@ -163,27 +202,35 @@ Aim down sights without the camera snapping to place.
 
 - Main File - Smooth True Ironsights
 
-### [Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094)
+### [Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094) <sup>Vanilla +</sup>
 
 Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
 
-### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
+### [Tranquility Lane Pipboy Glove and Custom Race Fix](https://www.nexusmods.com/newvegas/mods/77018) <sup>Vanilla +</sup>
+
+Stops Tranquility Lane from de-aging you to a child, which breaks multiple race replacers and alternative Pip-Boy replacers.
+
+:::important
+**REQUIRED** for mods within the guide.
+:::
+
+### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051) <sup>Vanilla +</sup>
 
 Adds the SF_Eye_Enviroment_Mapping shader flag to vent meshes, fixing associated lighting.
 
-### [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
+### [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781) <sup>Vanilla +</sup>
 
 Fixes incorrect specular lighting and lack of muzzle flash lights on viewmodel.
 
-### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
+### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443) <sup>Vanilla +</sup>
 
 Fix for massive shaking during aiming caused by floating point precision loss.
 
-### [Weapon Mod Description Fix (TTW)](https://www.nexusmods.com/newvegas/mods/85957)
+### [Weapon Mod Description Fix (TTW)](https://www.nexusmods.com/newvegas/mods/85957) <sup>Vanilla +</sup>
 
 Certain weapon mods have an empty line above the description. This simple fix rectifies that issue.
 
-### [zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) 
+### [zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267) <sup>Vanilla +</sup>
 
 Updates zlib to the latest version for faster loading and less stutter.
 
@@ -207,7 +254,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 Adds a settings menu to configure mods in-game. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -224,7 +271,7 @@ The mod **WILL NOT FUNCTION** without the update file!
 
 Modernized vanilla-style UI with many enhancements and bug fixes. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -331,7 +378,7 @@ The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained a
 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
-:::note Known Bug!
+:::warning Known Bug!
 This mod can cause the screen to turn grey with VATS. If this happens, reset the settings to default. If persistent, remove the mod.
 :::
 
@@ -392,7 +439,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
 
-:::note Instructions:
+:::important Instructions:
 - Press **M** from the pause menu to access the MCM.
 - Press **N** from the pause or main menu to configure MAPMO's settings.
 
@@ -429,7 +476,7 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 Greatly expands the framework for Pip-Boy Icon creation.
 
-:::note
+:::important
 **REQUIRED** for the following 'Icons' mods.
 :::
 
@@ -1496,6 +1543,14 @@ If you do decide to use the New Vegas Visual Renewal guide, **move the mods in t
 
 ## Visual Improvements
 
+### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775) <sup>Vanilla +</sup>
+
+Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
+
+#### Installation:
+
+- Main File - BoyOn Node Fixes TTW
+
 ### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
 
 Adjusts a few shader flags to litter meshes to stop the litter from flickering.
@@ -1802,6 +1857,7 @@ ClassicPack.esm
 MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
+TTW 3.3.2a Hotfix.esp
 YUPTTW.esm
 NavmeshOverhaul.esm
 TTW Ultimate Invisible Wall Remover.esm
@@ -1814,6 +1870,9 @@ Tale of Bi Wastelands + TTW Reputations Patch.esm
 TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
+TGMIO.esm
+3DNPCFNVBundle.esm
+3DNPCFO3Bundle.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
@@ -1823,84 +1882,123 @@ Uncut Wasteland.esp
 Uncut Extra Collection.esp
 Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
 AWorldOfPainFO3.esm
-Sweet Pain.esm
 A World of Pain Revised.esm
+EDGE TTW.esm
+Sweet Pain.esm
 Sweet Pain NV.esm
 MoreMojave.esm
+Faction Wasteland Presence.esm
+Mojave Raiders.esm
+Mojave Raiders - TTW Patch.esm
+Mojave Wildlife (FO3-Style + No Chanced).esp
+TTW NPC Overhaul.esm
+TTW NPC Overhaul - FPGE Patch.esm
+TTW NPC Overhaul - Uncut Wasteland and Extra Collections Patch.esm
+SD_Transporters.esp
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
-zl_Armaments_Remastered.esm
 [RWM]-Complete.esm
 mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
+zl_Armaments_Remastered.esm
 Tactapack.esp
-SD_Transporters.esp
-TLD LVLI Total Overhaul.esp
+AmmoScriptFixes.esp
+CriticalEffectFixes.esp
+TTW No PipBoy Glove Equipping or Race Changes.esp
 TTW FaceGen Fix.esp
 ExRB-TTW.esp
-Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
-FOVSlider.esp
+Vanilla UI Plus.esp
 Power Armor Holo Panel.esp
-PipBoyUITweaks.esp
-ItemCards.esp
-3DGrenadeIndicator.esp
-QuickSelect.esp
-SimpleNightVision.esp
-Immersive Minigames.esp
-[RWM]-Complete Added.esp
-Casino Exchange All.esp
-DelayDLCRedux.esp
-Root 'n Loot.esp
-TTW Quick Start.esp
-TTW Quick Start Item Remover.esp
-TTW Quick NV Train Start.esp
-Wasteland Starting Gear DC.esp
-TTW No Free Levelup Quick Start.esp
-JIP Companions Command & Control.esp
-Stash Organizer.esp
 JustAssortedMods.esp
 JBTImproved.esp
-ImmersiveRecoil.esp
-Reload Reloaded.esp
-DynamicDetectionSystem.esp
-TTWZetaRewards.esp
-TTWTransportalponderEx.esp
-Supplemental Ammo Crafting.esp
-Sweet Bounties.esp
-Benny Humbles You and Steals Your Stuff.esp
-GRA Scavenger Hunt Unbalanced.esp
-GUWR - TTW Patch.esp
+JIP Companions Command & Control.esp
+Stash Organizer.esp
+QuickSelect.esp
+FOVSlider.esp
+TTWMoreMapMarkers.esp
+Map Markers - Reputations Patch.esp
+TTW Quick Start.esp
+TTW Quick Start Item Remover.esp
+Wasteland Starting Gear DC.esp
+TTW No Free Levelup Quick Start.esp
+TTW Quick NV Train Start.esp
+DelayDLCRedux.esp
 DelayDLCReduxPOPP.esp
+TTWTransportalponderEx.esp
+SD_Transporters spelling.esp
+Benny Humbles You and Steals Your Stuff.esp
+TLD LVLI Total Overhaul.esp
 SP TTW Patch.esp
+FPGE - Sweet Pain Patch.esp
 MoreMojave - FPGE Patch.esp
-MigArmorDegen.esp
+Mojave Raiders.esp
+Mojave Raiders - TTW Patch.esp
+MR - Uncut Patch.esp
+MR - NPCO Patch.esp
+MR - Uncut - NPCO Patch.esp
+Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
+[RWM]-Complete Added.esp
+Immersive Minigames.esp
+Unfound Loot.esp
+3DGrenadeIndicator.esp
+WeaponRequirementSystem.esp
+ImmersiveRecoil.esp
+IRNPC.esp
+Reload Reloaded.esp
 MigCrippled.esp
+MigArmorDegen.esp
+RAD.esp
+BURN - Hardcore Fire Effects.esp
+PurchaseDisplay.esp
+Forced Entry.esp
+Quickthrow.esp
+QuickthrowTweaks.esp
+Supplemental Ammo Crafting.esp
+EDGE Master Patch.esp
+EDGE - Speech - Reputations Patch.esp
+EDGE - FPGE Patch.esp
+EdgeNPCO.esp
+EDGE - NPCO - FPGE Patch.esp
+TTW Dialogue and Interactions Expansion Overhaul.esp
+DIEO - Tale of Bi Wastelands Patch.esp
+DIEO - AWOPFO3 Patch.esp
 New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
-S6S Base Perks Redux No Big Guns Patch TTW.esp
 S6S Perks.esp
 Friends With Benefits Perk Pack.esp
+Tree New Perks.esp
 Vegas Elysium.esp
-RAD.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
 Aid Addon.esp
 Healing Systems.esp
-Unfound Loot.esp
-WeaponRequirementSystem.esp
-B42Inertia.esp
-TTW Dialogue and Interactions Expansion Overhaul.esp
-DIEO - Tale of Bi Wastelands Patch.esp
-DIEO - AWOPFO3 Patch.esp
+Player Combat Priority.esp
+PCP Reduced Chance To Attack Doggo Patch.esp
+DynamicDetectionSystem.esp
 TheAIMerge.esp
-RadiationVisuals.esp
-Impostors and LOD Flicker Fix.esp
-NVMIM.esp
-Tactapack_-_TTW_Patch.esp
+GRA Scavenger Hunt Unbalanced.esp
+GUWR - TTW Patch.esp
+Simple Attack Reactions - NV+TTW.esp
+MigPowerAttack.esp
+Hitstop.esp
 Enhanced Movement.esp
+B42Inertia.esp
+NVMIM.esp
+Impostors and LOD Flicker Fix.esp
+Tactapack_-_TTW_Patch.esp
+STAR TTW 2.esp
+STAR TTW - Uncut Extra Collection Patch.esp
+StarsNPCO.esp
+STARS - Uncut - NPCO Patch.esp
+STARS - MR - NPCO Patch.esp
+AWSOMER.esp
+ATMOS Ambient Overhaul.esp
+ATMOS NV - TTW Patch.esp
+ATMOS NV + FPGE Patch.esp
+ATMOS Sound Overhaul - TTW.esp
 Atmospheric Lighting Tweaks TTW.esp
 Natural Interior.esp
 DNWeathers.esp
