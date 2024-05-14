@@ -21,7 +21,7 @@ A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 - Main File - Tweaks for TTW
 - Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000130920&nmm=1&game_id=130)
 
-### [SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Hardcore
+### [SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) <sup>Hardcore</sup>
 
 Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment to enhance difficulty.
 
