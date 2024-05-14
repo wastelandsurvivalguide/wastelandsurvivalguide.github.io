@@ -29,6 +29,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Removed Mothership Zeta Rewards due to the unnecessary nature of the mod.
 - Removed Combat Enhancer Updated due to breaking of scripted events.
 - Removed PerkPackPlus due to balance concerns.
+- Removed Clean Pipboy Icons Mod Patches, as it is no longer necessary.
 
 ### Additions
 - Added Sweet Keywords.
