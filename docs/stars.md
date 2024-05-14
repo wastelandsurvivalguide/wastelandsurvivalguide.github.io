@@ -56,7 +56,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
     - Extract the Bethesda Archive Extractor.
     - Navigate to the Spice of Life mod in MO2, right click it, click open in explorer.
     - Right click the 1nivVSLArmors.bsa file, click open with, click choose another app, click choose an app on your PC, navigate to location where you extracted the Bethesda Archive Extractor folder, select bae.exe, then select open with bae.exe.
-    - Click the extract button, then ignore the select folder path prompt briefly.
+    - Click the extract button, then ignore the select folder path prompt briefly. **DO NOT** select a random folder. This step will be completed shortly.
     - Navigate back to your Spice of Life mod folder, click the folder path at the top, and copy the path.
       - Example: C:\Games\Mod.Organizer-2.4.5alpha3\mods\Spice of Life.
     - Navigate back to the select folder path prompt in Bethesda Archive Extractor and paste the Spice of Life path into the prompt, then click select prompt.
