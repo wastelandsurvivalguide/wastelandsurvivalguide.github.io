@@ -30,6 +30,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Removed Combat Enhancer Updated due to breaking of scripted events.
 - Removed PerkPackPlus due to balance concerns.
 - Removed Clean Pipboy Icons Mod Patches, as it is no longer necessary.
+- Removed BHYSYS Custom INI, as this is no longer necessary with Sweets most recent update.
 
 ### Additions
 - Added Sweet Keywords.
