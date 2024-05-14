@@ -121,6 +121,7 @@ Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
 Immersive Minigames.esp
 Unfound Loot.esp
 3DGrenadeIndicator.esp
+DirectionalSneak.esp
 WeaponRequirementSystem.esp
 ImmersiveRecoil.esp
 IRNPC.esp
