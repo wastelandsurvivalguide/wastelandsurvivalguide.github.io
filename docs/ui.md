@@ -349,6 +349,14 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
+### [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) <sup>Vanilla +</sup>
+
+Adds map markers to many existing places, some for convenience, others to assist exploration.
+
+:::Warning
+When starting the game, you will be prompted to download more map markers. **SELECT NO**, or it will preemptively populate your map with all of the new map markers. You will still find the new map markers through exploration.
+:::
+
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432) <sup>Vanilla +</sup>
 
 Greatly expands the framework for Pip-Boy Icon creation.
@@ -436,10 +444,6 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963) <sup>Vanilla +</sup>
 
 Sharper, clearer local maps.
-
-### [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) <sup>Vanilla +</sup>
-
-Adds map markers to many existing places, some for convenience, others to assist exploration.
 
 ### [Pip-Boy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343) <sup>Vanilla +</sup>
 
