@@ -72,7 +72,6 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Added Mojave Wildlife.
 - Added The Great Mojave Interior Overhaul.
 - Added EDGE and various associated patches.
-- Added ySI - Aid Addon Patch.
 - Added STARS, all of its dependencies, and various associated patches.
 - Added additional PipBoyOn Node Fixes.
 - Added TTW NPC Overhaul and various associated patches
@@ -1516,15 +1515,28 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced and designed for **hardcore** mode. **Procceed with caution!**
 :::
 
-:::note
-Sweet's mod pages will tell you to use **Normal** difficulty with her mods, but with Better Damage Multipliers, other difficulty choices may be reasonable.
-:::
-
 ## General
+
+### [EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) <sup>~~Vanilla +~~</sup>
+
+A comprehensive TTW overhaul that enhances countless aspects of the game. Adjusts ample creatures, NPCs, companions, vendors, encounters, locations, quests, reputation, karma, perks, and SPECIAL effects.
+
+#### Installation:
+
+- Main File - EDGE TTW
+- Main File - EDGE Master Patch
+- Main File - [EDGE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130918&nmm=1)
+  - A custom INI for EDGE with the recommended settings enabled.
+- Main File - [EDGE - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130962&nmm=1)
+- Main File - [EDGE - Speech - Reputations Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130963&nmm=1)
+
+:::warning
+Any support requests pertaining to changes made by this mod (quests or otherwise) will be **IGNORED**. Please review the description page carefully.
+:::
 
 ## Economy
 
-### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) 
+### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) <sup>Vanilla +</sup>
 
 Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
 
@@ -1535,7 +1547,9 @@ Choose one of the following:
 - Main File - Sicko Mode
   - **OPTIONAL** alternative to the Harder Barter Faster Stronger main file for those who desire a more **hardcore** barter economy.
 
-### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot)
+## Loot
+
+### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot) <sup>Vanilla +</sup>
 
 A highly customizable loot scarcity mod.
 
@@ -1545,9 +1559,9 @@ A highly customizable loot scarcity mod.
 - Main File - [Unfound Loot - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1)
   - **OPTIONAL** INI preset for those desiring a more **hardcore** loot economy.
 
-## Damage & Radiation Effects
+## Radiation
 
-### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) 
+### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) <sup>~~Vanilla +~~</sup>
 
 Overhauls all aspects of radiation, making it far more consequential.
 
@@ -1555,7 +1569,7 @@ Overhauls all aspects of radiation, making it far more consequential.
 
 - Main File - RAD - Overhaul
 
-### [More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) 
+### [More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) <sup>~~Vanilla +~~</sup>
 
 User-configurable increase or decrease in the radius and intensity of all ambient radiation in the game. The default settings functionally double the intensity and triple the radius of radiation.
 
@@ -1563,7 +1577,9 @@ User-configurable increase or decrease in the radius and intensity of all ambien
 
 - Main File - More Rads No Irradiated Lonesome Road
 
-### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
+## Combat
+
+### [New Blood](https://www.nexusmods.com/newvegas/mods/75666) <sup>~~Vanilla +~~</sup>
 
 Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage rebalancing, and a DT/DR/resistance overhaul for creatures.
 
@@ -1575,16 +1591,16 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bl
 
 ## Aid, Consumables, & Healing
 
-### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
+### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379) <sup>~~Vanilla +~~</sup>
 
 Features 16 new healing items and new Survival healing options, including a bandage that removes the bleeding effect imparted by the New Blood mod.
 
 #### Installation:
 
 - Main File - Aid Addon
-- Optional File - [ySI - Sorting Icons - S6S Aid Addon patch](https://www.nexusmods.com/newvegas/mods/74358)
+- Optional File - [ySI - Sorting Icons - S6S Aid Addon Patch](https://www.nexusmods.com/newvegas/mods/74358)
 
-### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
+### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) <sup>~~Vanilla +~~</sup>
 
 A top to bottom overhaul and rebalancing of consumable and misc items.
 
@@ -1596,7 +1612,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 Using this mod **WITHOUT hardcore mode** enabled will still display FOD and H2O item effects in consumable descriptions, despite being non-functional. **DO NOT** open support requests about this.
 :::
 
-### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) 
+### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) <sup>~~Vanilla +~~</sup>
 
 A complete overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
 
@@ -1629,7 +1645,7 @@ This is a **COMPLICATED** installation process that must be followed very carefu
 STARS will provide an alert in-game if any assets are missing or managed incorrectly. Many plugins and folders will need to be **HIDDEN** throughout the installation process. This can be accomplished by installing the mod as instructed, right clicking the mod, clicking information, navigating to the filetree tab, right clicking on the pertinent plugin or folder, and selecting hide. Support **WILL NOT** be provided for those who fail to follow these instructions.
 :::
 
-### [STARS TTW - Sweet's Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016)
+### [STARS TTW - Sweet's Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) <sup>~~Vanilla +~~</sup>
 
 #### Installation:
 
@@ -1657,7 +1673,7 @@ STARS will provide an alert in-game if any assets are missing or managed incorre
   - HIDE the boa ncrpahelmet.esp plugin
 - Main File - [Book of Steel - Compatibility Edition](https://www.nexusmods.com/newvegas/mods/60666?tab=files&file_id=1000044227&nmm=1)
   - HIDE the Book of Steel.esp plugin
-- Main FIle - [Tammer's NIF-Bashed Armor Mega-Pack v4.8.rar](https://drive.google.com/drive/folders/1A3EyIk7dyb9ytXLDLCfK1BMVEZVY3H4_) - The bottommost version (v4.8) is the correct file.
+- Main FIle - [Tammer's NIF-Bashed Armor Mega-Pack v4.8.rar]() - The bottommost version (v4.8) is the correct file.
   - HIDE the Tammer's NIF-Bashed Armor Mega-Pack.esm plugin
 
 
