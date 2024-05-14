@@ -12,7 +12,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## User Interface
 
-### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507) - <sup>Vanilla +</sup>
+### [Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507) <sup>Vanilla +</sup>
 
 Adds a settings menu to configure mods in-game. 
 
@@ -29,7 +29,7 @@ Adds a settings menu to configure mods in-game.
 The mod **WILL NOT FUNCTION** without the update file!
 :::
 
-### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv) - <sup>Vanilla +</sup>
+### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv) <sup>Vanilla +</sup>
 
 Modernized vanilla-style UI with many enhancements and bug fixes. 
 
@@ -48,15 +48,15 @@ Modernized vanilla-style UI with many enhancements and bug fixes.
   - Keybinds:
     - [x] WASD Compatible
    
-### [Menu Search](https://www.nexusmods.com/newvegas/mods/81743) - <sup>Vanilla +</sup>
+### [Menu Search](https://www.nexusmods.com/newvegas/mods/81743) <sup>Vanilla +</sup>
 
 Add Ctrl-F to search in PipBoy, Container, Barter, Recipe, Levelup Perks and Save/Load menus.
 
-### [No Exit to Main Menu](https://www.nexusmods.com/newvegas/mods/86136) - <sup>Vanilla +</sup>
+### [No Exit to Main Menu](https://www.nexusmods.com/newvegas/mods/86136) <sup>Vanilla +</sup>
 
 Removes the Pause Menu option for exiting to the Main Menu, helping prevent issues that can arise from loading saves or starting a new game after exiting.
 
-### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357) - <sup>Vanilla +</sup>
+### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357) <sup>Vanilla +</sup>
 
 Fixes various UI bugs and adds new UI features.
 
@@ -99,7 +99,7 @@ bReplaceHotkeyIcons = 1
 bEnableCategories = 1
 ```
 
-### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358) - <sup>Vanilla +</sup>
+### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358) <sup>Vanilla +</sup>
 
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
 
@@ -116,7 +116,7 @@ Uses yUI features to add many custom icons and advanced sorting logic to improve
 - Main File - [ySI - Assorted Fixes](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
 - Optional File - [Exit Categories with Tab](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
 
-### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352) - <sup>Vanilla +</sup>
+### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352) <sup>Vanilla +</sup>
 
 A complete high-resolution and more detailed rework of the Tale of Two Wastelands Main menu image.
 
@@ -124,7 +124,7 @@ A complete high-resolution and more detailed rework of the Tale of Two Wasteland
 
 - Choose the file matching your monitor's resolution.
 
-### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915) - <sup>Vanilla +</sup>
+### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915) <sup>Vanilla +</sup>
 
 Makes the loadwheel less intrusive by moving it to the corner of the screen and removing the associated bars.
 
@@ -132,7 +132,7 @@ Makes the loadwheel less intrusive by moving it to the corner of the screen and 
 
 - Main File - Scum's Considerably Cute Corner Load Wheel (Vanilla)
 
-### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974) - <sup>Vanilla +</sup>
+### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974) <sup>Vanilla +</sup>
 
 Replaces the vanilla loading wheel with a sleek, minimalist design.
 
@@ -140,13 +140,13 @@ Replaces the vanilla loading wheel with a sleek, minimalist design.
 
 - Main File - Radiation Loadwheel
 
-### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148) - <sup>Vanilla +</sup>
+### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148) <sup>Vanilla +</sup>
 
 The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained and lost based on the time selected.
 
 ## HUD
 
-### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085) - <sup>Vanilla +</sup>
+### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085) <sup>Vanilla +</sup>
 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
@@ -168,7 +168,7 @@ A stripped down and updated version of No PipBoy in Power Armor, which replaces 
 - Main File - [Alternate Holographic Panel - Background Version](https://www.nexusmods.com/newvegas/mods/82636)
   - Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
 
-### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001) - <sup>Vanilla +</sup>
+### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001) <sup>Vanilla +</sup>
 
 Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
 
@@ -194,19 +194,19 @@ Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
     - [x] I am not a Height Indicator User
     - [ ] Alternative Just Hit Indicator
    
-### [Clean AP and Health Bars](https://www.nexusmods.com/newvegas/mods/81662) - <sup>Vanilla +</sup>
+### [Clean AP and Health Bars](https://www.nexusmods.com/newvegas/mods/81662) <sup>Vanilla +</sup>
 
 Clean Vanilla-Style Health & AP Bars.
 
-### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085) - <sup>Vanilla +</sup>
+### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085) <sup>Vanilla +</sup>
 
 Changes the corner notifications to improve readability. Multiple messages appear simultaneously and fade out as newer ones appear.
 
-### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180) - <sup>Vanilla +</sup>
+### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180) <sup>Vanilla +</sup>
 
 Adds a UI widget that displays your recent loot.
 
-### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365) - <sup>Vanilla +</sup>
+### [MAPMO](https://www.nexusmods.com/newvegas/mods/74365) <sup>Vanilla +</sup>
 
 Adds ample features to the Main and Pause menus. Fully customizable.
 
@@ -230,7 +230,7 @@ Apply the WSG preset by opening the MAPMO configuration screen with **N** while 
 
 Adds a UI element showing the position of grenades in 3D space, additionally highlighting blast radius and fuse timer.
 
-### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - <sup>Vanilla +</sup>
+### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) <sup>Vanilla +</sup>
 
 Adds Item Cards with detailed stat comparisons while hovering over weapons, armor, and more.
 
@@ -242,7 +242,7 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
     - [ ] Scriptrunner
 - Main File - [Item Cards - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129342&nmm=1)
 
-### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841) - <sup>Vanilla +</sup>
+### [Drowning Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84841) <sup>Vanilla +</sup>
 
 Adds a customizable visual effect when the player is drowning or holding their breath.
 
@@ -297,7 +297,7 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 - Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130916&nmm=1)
   - Remaps the hotkeys for weapons to 1 and aid to 2. Disables throwables in favor of B42 quickthrow.
 
-### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer) - <sup>Vanilla +</sup>
+### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer) <sup>Vanilla +</sup>
 
 Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 
@@ -307,7 +307,7 @@ This mod **REMOVES INFORMATION** that new players may find useful. If playing Fa
 
 ## Pip-Boy
 
-### [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136) - <sup>Vanilla +</sup>
+### [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136) <sup>Vanilla +</sup>
 
 A faithful HD remake of the vanilla Monofonto and Futura fonts.
 
@@ -315,15 +315,15 @@ A faithful HD remake of the vanilla Monofonto and Futura fonts.
 
 - Main File - Vanilla Fonts Revisited
 
-### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989) - <sup>Vanilla +</sup>
+### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989) <sup>Vanilla +</sup>
 
 Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
-### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966) - <sup>Vanilla +</sup>
+### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966) <sup>Vanilla +</sup>
 
 This is a faithful recreation of the Vault Boy Paper Doll, which appears when taking damage or in the Condition menu in your Pip-Boy. Also fixes some alignment issues.
 
-### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486) - <sup>Vanilla +</sup>
+### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486) <sup>Vanilla +</sup>
 
 This is a interface overhaul that improves all of the low resolution icons and the textures of the Companion Wheel.
 
@@ -331,7 +331,7 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432) - <sup>Vanilla +</sup>
+### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432) <sup>Vanilla +</sup>
 
 Greatly expands the framework for Pip-Boy Icon creation.
 
@@ -339,7 +339,7 @@ Greatly expands the framework for Pip-Boy Icon creation.
 **REQUIRED** for the following 'Icons' mods.
 :::
 
-### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516) - <sup>Vanilla +</sup>
+### [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516) <sup>Vanilla +</sup>
 
 "Pop-Up Message Icons!" Is an overhaul to every single Pop-Up Vault Boy Head that you see in the top left corner of the screen.
 
@@ -352,7 +352,7 @@ Greatly expands the framework for Pip-Boy Icon creation.
     - [x] Extension - Reputation
     - [x] Extension - Challanges
 
-### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575) - <sup>Vanilla +</sup>
+### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575) <sup>Vanilla +</sup>
 
 A total overhaul to Map Marker icons, also including an extension that replaces 87 generic Map Markers Icons with something that is more memorable and unique. 
 
@@ -368,7 +368,7 @@ A total overhaul to Map Marker icons, also including an extension that replaces 
     - [x] Unique Location Icons
     - [x] Unique Icons with General Mod Support
 
-### Consistent Pip-Boy Icons Collection - <sup>Vanilla +</sup>
+### Consistent Pip-Boy Icons Collection <sup>Vanilla +</sup>
 
 Various high-quality Pip-Boy icons.
 
@@ -407,7 +407,7 @@ Various high-quality Pip-Boy icons.
     - [x] Unique DLC Starter Marker
     - [ ] None for me, thanks
 
-### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902) - <sup>Vanilla +</sup>
+### [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902) <sup>Vanilla +</sup>
 
 Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving readability and utility.
 
@@ -416,15 +416,15 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 - Main File - Simple Maps - TTW
 - Optional File - Simple Maps - No Urban Shading - TTW
 
-### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963) - <sup>Vanilla +</sup>
+### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963) <sup>Vanilla +</sup>
 
 Sharper, clearer local maps.
 
-### [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) - <sup>Vanilla +</sup>
+### [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) <sup>Vanilla +</sup>
 
 Adds map markers to many existing places, some for convenience, others to assist exploration.
 
-### [Pip-Boy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343) - <sup>Vanilla +</sup>
+### [Pip-Boy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343) <sup>Vanilla +</sup>
 
 Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item comparisons, colorful stat info, ySI Icon integration, and more! 
 
@@ -439,7 +439,7 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
     - [x] MAPMO Bottle Cap Icon
     - [x] Colorful Interface Icons
    
-### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294) - <sup>Vanilla +</sup>
+### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294) <sup>Vanilla +</sup>
 
 Speeds up the animation for pulling out and putting away the Pip-Boy.
 
@@ -447,6 +447,6 @@ Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 - Choose the desired speed and the version that aligns with your character's sex.
 
-### [Female Pipboy Aligned](https://www.nexusmods.com/newvegas/mods/85888) - <sup>Vanilla +</sup>
+### [Female Pipboy Aligned](https://www.nexusmods.com/newvegas/mods/85888) <sup>Vanilla +</sup>
 
 Fixes the tilted Pip-Boy for female characters.
