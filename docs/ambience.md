@@ -277,6 +277,17 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - Laser Rifle
       - [x] Hitman
       - [ ] Rockbiter
+  - EDGE TTW kNVSE Animation Options:
+    - Hunting Rifle
+      - [x] Hitman
+      - [ ] Rockbiter
+  - The Regulators kNVSE Animation Options:
+    - 10mm Submachine Gun
+      - [x] Hitman
+      - [ ] Rockbiter
+    - Sawed-Off Shotgun
+      - [x] Hitman
+      - [ ] Rockbiter
 
 ### [B42 Optics - ESPless](https://www.nexusmods.com/newvegas/mods/81641) <sup>Vanilla +</sup>
 
