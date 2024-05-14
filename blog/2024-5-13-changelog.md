@@ -41,7 +41,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Added NPCa - NPC Prevention of Chem addiction - ESPless.
 - Added Tranquility Lane Pipboy Glove and Custom Race Fix.
 - Added Menu Search.
-- Added No Exit to Main Menu.
+- Added No Exit to Main Menu, then subsequently removed it due to redundancy with a MAPMO feature doing the same.
 - Added ySI - Assorted Fixes and Exit Categories with Tab.
 - Added Clean AP and Health Bars.
 - Added Quick Select - Custom INI.
