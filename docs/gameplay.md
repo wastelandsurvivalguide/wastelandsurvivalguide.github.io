@@ -19,7 +19,7 @@ A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 #### Installation:
 
 - Main File - Tweaks for TTW
-- Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121591&nmm=1)
+- Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/77934?tab=files&file_id=1000112938&nmm=1)
 
 ### [SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Hardcore
 
