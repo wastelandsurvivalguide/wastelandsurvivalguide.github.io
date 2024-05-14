@@ -10,7 +10,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Optimizations**.
 
-:::important What will these optimizations do?
+:::note What will these optimizations do?
 These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
 :::
 
