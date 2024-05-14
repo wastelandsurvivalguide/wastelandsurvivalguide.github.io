@@ -33,6 +33,7 @@ const sidebars = {
     "fixes",
     "ui",
     "gameplay",
+    "combat",
     "content",
     "overhaul",
     "stars",
