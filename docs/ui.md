@@ -230,7 +230,7 @@ Apply the WSG preset by opening the MAPMO configuration screen with **N** while 
 
 Adds a UI element showing the position of grenades in 3D space, additionally highlighting blast radius and fuse timer.
 
-### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) <su - Vanilla +
+### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Vanilla +
 
 Adds Item Cards with detailed stat comparisons while hovering over weapons, armor, and more.
 
