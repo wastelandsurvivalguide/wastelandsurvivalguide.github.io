@@ -224,7 +224,7 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [ ] Alton IL
     - [x] A World of Pain for Fallout 3
     - [ ] DC Arsenal
-    - [ ] EDGE
+    - [x] EDGE
     - [x] The Regulators
   - Standalone Weapons: 
     - [ ] Hitman's RPD
