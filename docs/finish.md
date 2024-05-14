@@ -92,6 +92,9 @@ JBTImproved.esp
 JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
+ItemCards.esp
+RadiatonVisuals.esp
+SimpleNightVision.esp
 FOVSlider.esp
 TTWMoreMapMarkers.esp
 Map Markers - Reputations Patch.esp
