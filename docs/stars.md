@@ -56,10 +56,11 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
     - Extract the Bethesda Archive Extractor.
     - Navigate to the Spice of Life mod in MO2, right click it, click open in explorer.
     - Right click the 1nivVSLArmors.bsa file, click open with, click choose another app, click choose an app on your PC, navigate to location where you extracted the Bethesda Archive Extractor folder, select bae.exe, then select open with bae.exe.
+    - Click the extract button, then ignore the select folder path prompt briefly.
     - Navigate back to your Spice of Life mod folder, click the folder path at the top, and copy the path.
       - Example: C:\Games\Mod.Organizer-2.4.5alpha3\mods\Spice of Life.
-    - Paste the Spice of Life path into the Bethesda Archive Extractor's path bar, then click extract.
-    - You will **NOT** see a visual confirmation upon completing this step.
+    - Navigate back to the select folder path prompt in Bethesda Archive Extractor and paste the Spice of Life path into the prompt, then click select prompt.
+    - If done correctly, you will see a brief 1-2 second extraction process run.
 - Main File - [Deus Specs](https://www.nexusmods.com/newvegas/mods/76125?tab=files&file_id=1000090887&nmm=1)
   - **HIDE** the DeusSpecs.esp plugin.
 - Main File - [REAL main File](https://www.nexusmods.com/newvegas/mods/63745?tab=files&file_id=1000043981&nmm=1)
