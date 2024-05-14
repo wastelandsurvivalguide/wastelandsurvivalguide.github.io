@@ -95,7 +95,6 @@ QuickSelect.esp
 FOVSlider.esp
 TTWMoreMapMarkers.esp
 Map Markers - Reputations Patch.esp
-PipBoyUITweaks.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
