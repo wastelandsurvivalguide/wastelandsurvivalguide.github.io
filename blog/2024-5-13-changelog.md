@@ -2,7 +2,7 @@
 
 ## Changelog - Ghost Page
 
-Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 - Kamchatka
+Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 :) - Kamchatka
 
 ### 5/13/2024
 
