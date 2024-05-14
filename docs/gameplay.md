@@ -42,10 +42,6 @@ Consider **SKIPPING** this mod for a more **hardcore** experience.
 
 Improves the usability of the Caravan minigame.
 
-#### Installation:
-
-- Main File - Hardcore Perk Every Level
-
 ### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766) <sup>Vanilla +</sup>
 
 Gives TTW vendors better selections.
