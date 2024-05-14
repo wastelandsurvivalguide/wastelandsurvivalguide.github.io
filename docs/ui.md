@@ -111,6 +111,24 @@ Uses yUI features to add many custom icons and advanced sorting logic to improve
 - Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 - Main File - [ySI - Assorted Fixes](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
 - Optional File - [Exit Categories with Tab](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
+- Main File - [ySI Extended TTW](https://www.nexusmods.com/newvegas/mods/84352)
+- Main File - [ySI Vanilla MiscQuest Items Patch](https://www.nexusmods.com/newvegas/mods/81230)
+
+### [True Condition](https://www.nexusmods.com/newvegas/mods/78796) <sup>Vanilla +</sup>
+
+A small UI mod that shows the true value of your armor and weapons condition.
+
+#### Installation:
+
+- Main File - True Condition Percentage
+
+### [CCCP - Cool Clean Cursor Pack](https://www.nexusmods.com/newvegas/mods/85751)
+
+A variety of high-quality cursors to choose from and use in-game.
+
+#### Installation
+
+- Choose your preferred cursor aesthetic.
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352) <sup>Vanilla +</sup>
 
@@ -225,6 +243,10 @@ Apply the WSG preset by opening the MAPMO configuration screen with **N** while 
 ### [3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243) <sup>~~Vanilla +~~</sup>
 
 Adds a UI element showing the position of grenades in 3D space, additionally highlighting blast radius and fuse timer.
+
+### [Directional Indicator](https://www.nexusmods.com/newvegas/mods/86387) <sup>~~Vanilla +~~</sup>
+
+Adds a new sneak indicator showing the direction and detection status of nearby NPCs.
 
 ### [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) <sup>Vanilla +</sup>
 
