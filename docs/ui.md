@@ -375,7 +375,6 @@ Various high-quality Pip-Boy icons.
 #### Installation:
 
 - Main File - [1. Consistent Pip-boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
-- Main File - [CPI - Mod Patches](https://www.nexusmods.com/newvegas/mods/65046)
 - Main File - [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
 - Main File - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
 - Main File - [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
