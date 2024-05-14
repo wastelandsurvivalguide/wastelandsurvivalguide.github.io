@@ -1,7 +1,7 @@
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
-# Additions
+# Additions 
 
 This section is intended for advanced users who are looking for a more robust modding experience beyond the foundation laid by WSG. <u>Users <b>must</b> be capable of performing their own load order adjustments, patching, and troubleshooting.</u>
 
