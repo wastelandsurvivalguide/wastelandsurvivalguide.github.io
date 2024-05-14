@@ -34,7 +34,7 @@ Changes some gamesettings, like base/mults for carry weight, crippled limb penal
 
 Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
 
-:::tip
+:::note
 Consider **SKIPPING** this mod for a more **hardcore** experience.
 :::
 
@@ -191,7 +191,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
   - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time.
 :::
 
-:::tip
+:::note
 Consider **DISABLING** the VATS hotkey in controls and using Bullet Time exclusively for a more **hardcore** experience.
 :::
 
@@ -246,7 +246,7 @@ Real-time, character-skill based replacement for hacking and lockpicking. Refer 
 
 Allows the player to bypass locks on containers and doors by simply attacking them.
 
-:::tip
+:::note
 This mod serves as a good option for using excess ammo.
 :::
 
@@ -272,7 +272,7 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
     - [x] Tale of Two Wastelands
 - Main File - [SD_Transporters Spelling Pathc](https://www.nexusmods.com/newvegas/mods/83130)
 
-:::tip
+:::note
 Consider **DISABLING** traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
 :::
 
