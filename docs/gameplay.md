@@ -12,7 +12,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Gameplay Enhancements
 
-### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934) <sup>Vanilla +</sup>
+### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130920&nmm=1) <sup>Vanilla +</sup>
 
 A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 
