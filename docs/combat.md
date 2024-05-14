@@ -136,7 +136,7 @@ Adds a simple animation command line to each grunt when hit. Greatly enhances th
 - Update File - (A) SAR Settings - DT
 - Update File - (B) SAR Settings - DT - Player
 
-### [BURN <sup>Hardcore</sup> Fire Effects](https://www.nexusmods.com/newvegas/mods/76060) <sup>~~Vanilla +~~</sup>
+### [BURN Hardcore Fire Effects](https://www.nexusmods.com/newvegas/mods/76060) <sup>~~Vanilla +~~</sup>
 
 Causes unprotected humans and flammable creatures to panic and flee when set on fire, adding an extra gameplay mechanic for incendiary weapons and ammo.
 
@@ -145,7 +145,7 @@ This mod restores cut content that involves distressing screams. **Procceed with
 :::
 
 #### Installation:
-- Main File - BURN <sup>Hardcore</sup> Fire Effects
+- Main File - BURN Hardcore Fire Effects
 - Main File - BURN - TTW Patch (Script Runner)
 
 ## Combat AI
