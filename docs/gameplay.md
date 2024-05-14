@@ -114,7 +114,7 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 - Main File - Delay DLC Redux TTW
 - Optional File - Delay DLC Redux TTW - Pre-Order Pack Placement
 
-### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) <sup>Vanilla +</sup>
+### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) 
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
