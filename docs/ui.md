@@ -222,7 +222,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 Apply the WSG preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
 :::
 
-### [3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243) <sup>~~<sup>Vanilla +</sup>~~</sup>
+### [3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243) <sup>~~Vanilla +~~</sup>
 
 Adds a UI element showing the position of grenades in 3D space, additionally highlighting blast radius and fuse timer.
 
@@ -242,7 +242,7 @@ Adds Item Cards with detailed stat comparisons while hovering over weapons, armo
 
 Adds a customizable visual effect when the player is drowning or holding their breath.
 
-### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917) <sup>~~<sup>Vanilla +</sup>~~</sup>
+### [Radiation Visuals - ESPless](https://www.nexusmods.com/newvegas/mods/84917) <sup>~~Vanilla +~~</sup>
 
 Adds a customizable visual effect when the player is exposed to radiation. Ionizing particles, static noise, blurred vision, and more!
 
@@ -258,7 +258,7 @@ Adds a customizable visual effect when the player is exposed to radiation. Ioniz
   - Texture Options:
     - [x] Compress Textures
 
-### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) <sup>~~<sup>Vanilla +</sup>~~</sup>
+### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) <sup>~~Vanilla +~~</sup>
 
 Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! 
 
@@ -281,7 +281,7 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 - Hold **N** to add night vision support to your current headgear.
 :::
 
-### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) <sup>~~<sup>Vanilla +</sup>~~</sup>
+### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249) <sup>~~Vanilla +~~</sup>
 
 Adds high-quality quick select menus for weapons and items. Dramatically improves item usability and weapon swapping in combat and on the go!
 
