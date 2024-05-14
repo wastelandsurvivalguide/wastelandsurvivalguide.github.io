@@ -41,10 +41,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
 
-[ySI Expanded](https://www.nexusmods.com/newvegas/mods/84352) - Adds additional ySI sorting subcategories and icons.
-
-[ySI Misc Quest Items Patch](https://www.nexusmods.com/newvegas/mods/81230?tab=files) - Adds additional ySI sorting icons for sheet music, pre-war books, and dog-tags.
-
 
 ## Gameplay 
 ### Quality of Life
@@ -466,7 +462,7 @@ The following are designed to be placed in the following load order if using the
 - Transferred ATMOS Ambience Overhaul, Melee Hitstop Effects, EDGE, TTW NPC Overhaul, Accurate NASA Stars, 3DNPCs DC, 3DNPCs NV, Mojave Wildlife, STARS, Mojave Raiders, Faction Wasteland Presence, Immersive Recoil NPC, Simple Night Vision, Bottle the Water, Forced Entry, SMAC - Simple Melee Attack Canceling, Purchase Items on Display (xNVSE), Female Pipboy Aligned, NPCa - NPC Prevention of Chem addiction - ESPless, Tranquility Lane Pipboy Glove and Custom Race Fix, B42 Optics, Cookable Grenades, and Faster Sleep-Wait to the main WSG guide.
 
 1.4 - 5/5/2024
-- Transferred several mods from Additions to the main portion of the guide, including Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, Reload Reloaded, TTW Quick Train to NV Prompt, PerkPackPlus, Vegas Elysium Perk Pack, Levelup Traits, and B42 True Leaning.
+- Transferred several mods from Additions to the main portion of the guide, including ySI Misc Quest Items Patch, ySI Expanded, Mostly Fixed FaceGen Tints(NV or TTW), Imposters and LOD Flicker Fix, Pip-Boy Light Flicker Fix - NVSE, Smooth True Iron Sights Camera, Swimming Creatures Fix - ESPless, Vent Lighting Fix, Weapon Mod Description Fix (TTW), zlib Updated - NVSE, Show Water Source H2O - ESPless, Sleep, Wait, Hardcore Needs, 3D Grenade Indicator, Drowning Visuals - ESPless, Radiation Visuals - ESPless, Equip and Movement Speed Fix - ESPless, Iron Sights Aligned, Immersive Minigames, Crippled Limb Reaction Enforcer, Real Weapon Mods 2, Weapon Jamming Tweaks, Sweet Dynamic Detection System, SSS - Sweet Simple Settings, More or Less Rads, Reload Reloaded, TTW Quick Train to NV Prompt, PerkPackPlus, Vegas Elysium Perk Pack, Levelup Traits, and B42 True Leaning.
 - Removed Inaccurate NPCs due to redundancy with Combat Enhancer Updated from the main portion of the guide.
 - Added Metro Map Replacer.
 
