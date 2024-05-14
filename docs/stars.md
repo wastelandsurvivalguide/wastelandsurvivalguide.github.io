@@ -61,6 +61,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
       - Example: C:\Games\Mod.Organizer-2.4.5alpha3\mods\Spice of Life.
     - Navigate back to the select folder path prompt in Bethesda Archive Extractor and paste the Spice of Life path into the prompt, then click select prompt.
     - If done correctly, you will see a brief 1-2 second extraction process run.
+    - You can confirm the extraction process was completed by checking your Spice of Life mod folder, where there should now be Meshes and Textures folders.
 - Main File - [Deus Specs](https://www.nexusmods.com/newvegas/mods/76125?tab=files&file_id=1000090887&nmm=1)
   - **HIDE** the DeusSpecs.esp plugin.
 - Main File - [REAL main File](https://www.nexusmods.com/newvegas/mods/63745?tab=files&file_id=1000043981&nmm=1)
