@@ -86,6 +86,7 @@ ExRB-TTW.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 Power Armor Holo Panel.esp
+PipBoyUITweaks.esp
 JustAssortedMods.esp
 JBTImproved.esp
 JIP Companions Command & Control.esp
@@ -94,7 +95,7 @@ QuickSelect.esp
 FOVSlider.esp
 TTWMoreMapMarkers.esp
 Map Markers - Reputations Patch.esp
-TTW Quick Start.esp
+TTW Quick Start.espPipBoyUITweaks.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
 TTW No Free Levelup Quick Start.esp
