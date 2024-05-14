@@ -16,6 +16,10 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 
+:::note
+This will change skill tagging to a classic Fallout format, in which tagged perks will **NO LONGER** receive a flat point bonus. **INSTEAD**, increasing tagged skills will cause them to increase by **2** skill points, rather than the normal 1 skill point. **DO NOT** open support requests pertaining to this.
+:::
+
 #### Installation:
 
 - Main File - Tweaks for TTW
