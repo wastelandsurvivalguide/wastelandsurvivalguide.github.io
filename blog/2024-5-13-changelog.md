@@ -16,7 +16,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Added a Combat page to break up the length of the Gameplay page.
 - Moved all combat oriented mods from thge Gameplay page to the Combat page.
 - Added a STARS page for a rewritten STARS installation guide.
-- Added Vanilla +, NOT Vanilla +, and Hardcore tags to each mod, and removed the Optional sections at the bottom that I had previously used to denote deviations from vanilla +. Because of this change, I moved several mods to more appropriate locations on their respective pages.
+- Added <sup>Vanilla +</sup>, <sup>~~Vanilla +~~</sup>, and <sup>Hardcore</sup> tags to each mod, and removed the Optional sections at the bottom that I had previously used to denote deviations from vanilla +. Because of this change, I moved several mods to more appropriate locations on their respective pages.
 - Moved PipBoyOn Node Fixes to Ambience and STARS page.
 - Moved SSS - Sweets Simple Settings to Gameplay page.
 
