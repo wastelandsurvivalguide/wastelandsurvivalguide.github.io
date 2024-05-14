@@ -122,22 +122,6 @@ A small UI mod that shows the true value of your armor and weapons condition.
 
 - Main File - True Condition Percentage
 
-### [CCCP - Cool Clean Cursor Pack](https://www.nexusmods.com/newvegas/mods/85751)
-
-A variety of high-quality cursors to choose from and use in-game.
-
-#### Installation
-
-- Choose your preferred cursor aesthetic.
-
-### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352) <sup>Vanilla +</sup>
-
-A complete high-resolution and more detailed rework of the Tale of Two Wastelands Main menu image.
-
-#### Installation:
-
-- Choose the file matching your monitor's resolution.
-
 ### [Scum's Considerably Cute Corner Load Wheel](https://www.nexusmods.com/newvegas/mods/71915) <sup>Vanilla +</sup>
 
 Makes the loadwheel less intrusive by moving it to the corner of the screen and removing the associated bars.
@@ -239,6 +223,22 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 
 Apply the WSG preset by opening the MAPMO configuration screen with **N** while in the pause menu, then selecting **Presets -> Wasteland Survival Guide**.
 :::
+
+### [CCCP - Cool Clean Cursor Pack](https://www.nexusmods.com/newvegas/mods/85751)
+
+A variety of high-quality cursors to choose from and use in-game.
+
+#### Installation
+
+- Choose your preferred cursor aesthetic.
+
+### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352) <sup>Vanilla +</sup>
+
+A complete high-resolution and more detailed rework of the Tale of Two Wastelands Main menu image.
+
+#### Installation:
+
+- Choose the file matching your monitor's resolution.
 
 ### [3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243) <sup>~~Vanilla +~~</sup>
 
