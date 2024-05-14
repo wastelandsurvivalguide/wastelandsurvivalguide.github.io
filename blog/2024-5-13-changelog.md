@@ -85,6 +85,11 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Added AWSOMER and various associated patches.
 - Added Accurate NASA Stars.
 - Added NillaPlus Maximum Moon.
+- Added ySI Extended TTW.
+- Added ySI Vanilla MiscQuest Items Patch.
+- Added True Condition.
+- Added Directional Sneak Indicator
+- Added CCCP - Cool Clean Cursor Pack.
 
 ## Changelog - Atom Bomb
 
