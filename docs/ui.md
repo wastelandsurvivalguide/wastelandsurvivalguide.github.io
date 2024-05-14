@@ -52,10 +52,6 @@ Modernized vanilla-style UI with many enhancements and bug fixes.
 
 Add Ctrl-F to search in PipBoy, Container, Barter, Recipe, Levelup Perks and Save/Load menus.
 
-### [No Exit to Main Menu](https://www.nexusmods.com/newvegas/mods/86136) <sup>Vanilla +</sup>
-
-Removes the Pause Menu option for exiting to the Main Menu, helping prevent issues that can arise from loading saves or starting a new game after exiting.
-
 ### [yUI - User Ynterface](https://www.nexusmods.com/newvegas/mods/74357) <sup>Vanilla +</sup>
 
 Fixes various UI bugs and adds new UI features.
