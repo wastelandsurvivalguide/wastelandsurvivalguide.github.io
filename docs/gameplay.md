@@ -114,11 +114,13 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 - Main File - Delay DLC Redux TTW
 - Optional File - Delay DLC Redux TTW - Pre-Order Pack Placement
 
-### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) 
+### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) <sup>~~Vanilla +~~</sup>
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
 :::note
+**HIGHLY** recommended for balance, though inappropriate for those playing the base games for the first time.
+
 **READ THE DESCRIPTION** for details on the new location of the Medicine Bobblehead.
 :::
 
