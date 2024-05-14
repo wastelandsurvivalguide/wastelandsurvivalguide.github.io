@@ -145,7 +145,6 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 #### Installation:
 
 - Main File - Benny Humbles You and Steals Your Stuff
-- Main File - [BHYSYS - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121839&nmm=1)
 
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files) <sup>Vanilla +</sup>
 
