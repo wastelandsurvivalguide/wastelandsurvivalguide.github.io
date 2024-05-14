@@ -19,7 +19,6 @@ Implements customizable Strength and Skill requirements for weapons, making them
 #### Installation:
 
 - Main File - Weapon Requirements System
-- Update File - Weapon Requirements System
 - Main File - [Weapon Requirement System - Sweet's Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130906&nmm=1) <sup>Hardcore</sup>
   - A custom INI for Weapon Requirement System created by Sweet6Shooter. Increases penalties beyond that of default settings, making weapons far out of your skill level far more difficult to use. Also turns off several frustrating settings.
 
