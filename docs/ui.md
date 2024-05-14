@@ -294,7 +294,7 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 - Main File - [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160)
   - This should already be installed if following the guide.
 - Main File - Quick Select
-- Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130916&nmm=1)
+- Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131042&nmm=1)
   - Remaps the hotkeys for weapons to 1 and aid to 2. Disables throwables in favor of B42 quickthrow.
 
 ### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer) <sup>Vanilla +</sup>
