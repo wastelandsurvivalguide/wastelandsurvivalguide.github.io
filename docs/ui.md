@@ -464,6 +464,6 @@ Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 - Choose the desired speed and the version that aligns with your character's sex.
 
-### [Female Pipboy Aligned](https://www.nexusmods.com/newvegas/mods/85888) <sup>Vanilla +</sup>
-
-Fixes the tilted Pip-Boy for female characters.
+:::note
+The female version has built in realignment, which fixes the tilt that could sometimes occur when opening the Pip-Boy. Some Pip-Boy replacers **ALREADY** realign the Pip-Boy, causing this effect to compound. If this happens to you, **try the regular (non-female) version instead**.
+:::
