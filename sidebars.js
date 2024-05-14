@@ -35,6 +35,7 @@ const sidebars = {
     "gameplay",
     "content",
     "overhaul",
+    "stars",
     "optimizations",
     "ambience",
     "finish",
