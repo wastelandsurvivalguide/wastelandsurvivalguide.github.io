@@ -110,7 +110,6 @@ SD_Transporters spelling.esp
 Benny Humbles You and Steals Your Stuff.esp
 TLD LVLI Total Overhaul.esp
 SP TTW Patch.esp
-FPGE - Sweet Pain Patch.esp
 MoreMojave - FPGE Patch.esp
 Mojave Raiders.esp
 Mojave Raiders - TTW Patch.esp
