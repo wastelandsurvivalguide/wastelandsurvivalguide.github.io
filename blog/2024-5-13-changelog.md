@@ -1,5 +1,89 @@
 # May 2024
 
+## Changelog - Ghost Page
+
+Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 - Kamchatka
+
+### 5/13/2024
+
+### Bugfixes/Clarifications/Updates
+- Various clarifications made throughout the guide.
+- Updated several INIs, including JIP LN NVSE, Stewies Tweaks, Enhanced Movement, and Tweaks for TTW.
+
+### Reorganization
+- Completely rebuilt load order with new conflict resolution from the ground up. Added and created patches where necessary.
+- Renamed Hardcore page to Overhauls.
+- Added a Combat page to break up the length of the Gameplay page.
+- Moved all combat oriented mods from thge Gameplay page to the Combat page.
+- Added a STARS page for a rewritten STARS installation guide.
+- Added <sup>Vanilla +</sup>, <sup>~~Vanilla +~~</sup>, and <sup>Hardcore</sup> tags to each mod, and removed the Optional sections at the bottom that I had previously used to denote deviations from vanilla +. Because of this change, I moved several mods to more appropriate locations on their respective pages.
+- Moved PipBoyOn Node Fixes to Ambience and STARS page.
+- Moved SSS - Sweets Simple Settings to Gameplay page.
+
+### Removals
+- Removed JLM - ySI - Colorful Icons Fix Patch, as it is now built into ySI - Colorful Icons Fix.
+- Removed Root n Loot due to the unnecessary nature of the mod.
+- Removed Casino Exchange All due to the unnecessary nature of the mod.
+- Removed Charisma Tweaks - Karuts INI in favor of EDGE's implementation of Charisma effects reputation.
+- Removed Nail Gun Semi-Automatic Rework due to the unnecessary nature of the mod.
+- Removed Mothership Zeta Rewards due to the unnecessary nature of the mod.
+- Removed Combat Enhancer Updated due to breaking of scripted events.
+- Removed PerkPackPlus due to balance concerns.
+
+### Additions
+- Added Sweet Keywords.
+- Added Faster Main Menu.
+- Added Faster Sleep-Wait.
+- Added Ammo Script Fixes.
+- Added Critical and Effects - Fixes and Tweaks.
+- Added NPCa - NPC Prevention of Chem addiction - ESPless.
+- Added Tranquility Lane Pipboy Glove and Custom Race Fix.
+- Added Menu Search.
+- Added No Exit to Main Menu.
+- Added ySI - Assorted Fixes and Exit Categories with Tab.
+- Added Clean AP and Health Bars.
+- Added Quick Select - Custom INI.
+- Added Simple Maps - No Urban Shading - TTW
+- Added TTW - More Map Markers.
+- Added Female Pipboy Aligned.
+- Added Reputations - More Map Markers Patch.
+- Added Charisma Tweaks - Custom INI.
+- Added Purchase Items on Display.
+- Added Bottle the Water.
+- Added Forced Entry.
+- Added Transporters - Spelling and Pedantry Patch.
+- Added Tree New Perks.
+- Added Weapon Requirement System - Custom INI.
+- Added Immersive Recoil NPC.
+- Added Cookable Grenades.
+- Added B42 Quickthrow.
+- Added B42 Quickthrow Tweaks - Give player perks method.
+- Added Quickthrow Stylized HUD Icons.
+- Added BURN - Hardcore Fire Effects.
+- Added Simple Attack Reactions - Limb-Specific Animations.
+- Added Power Armor Tweaks.
+- Added SMAC - Simple Melee Attack Canceling.
+- Added Melee Hitstop Effects.
+- Added Player Combat Priority.
+- Added Player Combat Priority Alt Chance To Attack Dog Patch.
+- Added Simple AI Merge as a safer alternative to Combat Enhancer Updated.
+- Added 3DNPC DC and 3D NPC NV.
+- Added Faction Wasteland Presence - Improved Edition.
+- Added Mojave Raiders.
+- Added Mojave Wildlife.
+- Added The Great Mojave Interior Overhaul.
+- Added EDGE and various associated patches.
+- Added STARS, all of its dependencies, and various associated patches.
+- Added additional PipBoyOn Node Fixes.
+- Added TTW NPC Overhaul and various associated patches
+- Added Weapon Based Hands Clip Distance.
+- Added Blended Locomotion (no idea how I forgot to add this last update!)
+- Added B42 Optics and various associated patches.
+- Added ATMOS DC and ATMOS NV.
+- Added AWSOMER and various associated patches.
+- Added Accurate NASA Stars.
+- Added NillaPlus Maximum Moon.
+
 ## Changelog - Atom Bomb
 
 A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. <3 - Kamchatka
