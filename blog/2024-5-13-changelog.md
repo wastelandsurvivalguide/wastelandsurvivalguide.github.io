@@ -31,6 +31,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Removed PerkPackPlus due to balance concerns.
 - Removed Clean Pipboy Icons Mod Patches, as it is no longer necessary.
 - Removed BHYSYS Custom INI, as this is no longer necessary with Sweets most recent update.
+- Removed Female Pipboy Aligned, as functionality is built into Instant and Faster Pipboy (No Stutter), though also noted a caveat to this.
 
 ### Additions
 - Added Sweet Keywords.
