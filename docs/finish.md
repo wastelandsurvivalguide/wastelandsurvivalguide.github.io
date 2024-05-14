@@ -93,7 +93,7 @@ JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
 ItemCards.esp
-RadiatonVisuals.esp
+RadiationVisuals.esp
 SimpleNightVision.esp
 FOVSlider.esp
 TTWMoreMapMarkers.esp
