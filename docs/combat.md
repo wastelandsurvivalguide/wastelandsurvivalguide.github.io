@@ -94,7 +94,7 @@ This mod completely overhauls the way armor damage is calculated, fully replacin
 - Main File - [ADO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131074&nmm=1)
   - A custom INI for Armor Damage Overhaul that makes the standard formula much more forgiving.
 
-:::warning KNOWN BUG!
+:::caution KNOWN BUG!
 You may experience a massive performance drop when using heavy weapons alongside this mod. The author is aware of this and working on a fix. This mod is **STILL HIGHLY RECOMMENDED** despite this bug.
 :::
 
