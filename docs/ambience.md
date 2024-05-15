@@ -448,6 +448,6 @@ Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.
 - Main File - Climate Control - Rain
 - Optional File - Climate Control - 3D Rain
 
-:::warning
+:::caution
 Weather mods **MUST** always load after all other mods, which should already be true if following the guide.
 :::
