@@ -331,7 +331,7 @@ A set of perks that grant bonuses once idolized by various factions.
 - Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445) <sup>~~Vanilla +~~</sup>
 
 :::important
-Only install A Very Uncreative Faction Disguise Remover if **NOT** installing [STARS](https://www.nexusmods.com/newvegas/mods/76016). The Friends With Benefits Perk Pack requires a faction disguise removal function, which can be accomplished with **EITHER** of these options.
+Only install A Very Uncreative Faction Disguise Remover if **NOT** installing [STARS](https://www.nexusmods.com/newvegas/mods/76016) later in the guide. The Friends With Benefits Perk Pack requires a faction disguise removal function, which can be accomplished with **EITHER** of these options.
 :::
 
 ### [Tree New Perks](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101118&nmm=1) <sup>~~Vanilla +~~</sup>
