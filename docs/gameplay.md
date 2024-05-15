@@ -95,6 +95,10 @@ Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay an
 
 This mod makes it so that your Charisma and the Intellence of the person you're speaking to impacts barter and speech checks.
 
+:::caution
+Many skill checks, including speech checks, will display **DIFFERENT** skill values than your actual skill, because charisma is now imparting a multiplier on the skill check. **DO NOT** open support requests pertaining to this.
+:::
+
 #### Installation:
 
 - Main File - CHR Tweaks
