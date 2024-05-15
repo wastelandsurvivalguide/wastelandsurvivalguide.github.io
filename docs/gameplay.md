@@ -25,7 +25,7 @@ A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 
 Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment to enhance difficulty.
 
-:::warning
+:::caution
 This will change skill tagging to a classic Fallout format, in which tagged perks will **NO LONGER** receive a flat point bonus. **INSTEAD**, increasing tagged skills will cause them to increase by **2** skill points, rather than the normal 1 skill point. **DO NOT** open support requests pertaining to this.
 :::
 
@@ -345,7 +345,7 @@ Grants the option to pick a new trait per a variable amount of levelups. This is
 ### [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) <sup>~~Vanilla +~~</sup>
 
 :::danger DISTURBING CONTENT
-Read the **TRIGGER WARNING** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
+Read the **TRIGGER caution** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
 :::
 
 A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
