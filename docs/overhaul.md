@@ -107,7 +107,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 
 - Main File - Sweet Consumables TTW
 
-:::note
+:::warning
 Using this mod **WITHOUT hardcore mode** enabled will still display FOD and H2O item effects in consumable descriptions, despite being non-functional. **DO NOT** open support requests about this.
 :::
 
