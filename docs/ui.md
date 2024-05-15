@@ -25,7 +25,7 @@ Adds a settings menu to configure mods in-game.
 - Main File - The Mod Configuration Menu
 - Update File - MCM Bugfix 2 
 
-:::important
+:::caution
 The mod **WILL NOT FUNCTION** without the update file!
 :::
 
