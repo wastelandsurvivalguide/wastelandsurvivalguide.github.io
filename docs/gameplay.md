@@ -139,7 +139,7 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
   - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
 
 :::important Instructions:
-To travel to the Mojave Wasteland, select yes when prompted "is this just a dream" after leaving the vault.
+To travel to the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory" immediately after leaving the vault.
 :::
 
 ### [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112) <sup>Vanilla +</sup>
