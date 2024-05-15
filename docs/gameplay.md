@@ -25,7 +25,7 @@ A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 
 Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment to enhance difficulty.
 
-:::note
+:::warning
 This will change skill tagging to a classic Fallout format, in which tagged perks will **NO LONGER** receive a flat point bonus. **INSTEAD**, increasing tagged skills will cause them to increase by **2** skill points, rather than the normal 1 skill point. **DO NOT** open support requests pertaining to this.
 :::
 
@@ -38,7 +38,7 @@ This will change skill tagging to a classic Fallout format, in which tagged perk
 
 Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
 
-:::note
+:::tip
 Consider **SKIPPING** this mod for a more **hardcore** experience.
 :::
 
@@ -57,7 +57,7 @@ Gives TTW vendors better selections.
 
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604) <sup>Vanilla +</sup>
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -72,7 +72,7 @@ Main File - [Reputations - More Map Markers Patch](https://www.nexusmods.com/new
 
 Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -109,7 +109,7 @@ Improved damage multipliers for the game's difficulty settings. In the base game
 
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. 
 
-:::note Instructions:
+:::important Instructions:
 **READ THE DESCRIPTION** for instructions on accessing DLCs with this mod enabled.
 :::
 
@@ -122,7 +122,7 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
-:::note
+:::tip
 **HIGHLY** recommended for balance, though inappropriate for those playing the base games for the first time.
 
 **READ THE DESCRIPTION** for details on the new location of the Medicine Bobblehead.
@@ -138,7 +138,7 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
 - Main File - [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311)
   - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
 
-:::note Instructions:
+:::important Instructions:
 To travel to the Mojave Wasteland, select yes when prompted "is this just a dream" after leaving the vault.
 :::
 
@@ -178,7 +178,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 - Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1)
   - Various settings optimized to best fit the mods contained within the guide.
 
-:::note Instructions:
+:::important Instructions:
 **IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Bullet Time after a killcam is activated.
 
 - To apply the Custom INI settings:
@@ -192,7 +192,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
   - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time.
 :::
 
-:::note
+:::tip
 Consider **DISABLING** the VATS hotkey in controls and using Bullet Time exclusively for a more **hardcore** experience.
 :::
 
@@ -214,7 +214,7 @@ Automatically organizes your items in any interior cell. Can be tricky to set up
 
 - Main File - Stash Organizer
 
-:::note Instructions:
+:::important Instructions:
 - Press the **VATS** hotkey while looking at a container to access the Stash Organizer menu.
 
 **READ THE DESCRIPTION** for further instructions on use.
@@ -236,7 +236,7 @@ Real-time, character-skill based replacement for hacking and lockpicking. Refer 
 
 - Main File - Immersive Minigames
 
-:::note Instructions:
+:::important Instructions:
 - Press **M** from the pause menu to access the MCM.
 - Navigate to Immersive Minigames.
 - **DISABLE** "Activate after Unlock."
@@ -247,7 +247,7 @@ Real-time, character-skill based replacement for hacking and lockpicking. Refer 
 
 Allows the player to bypass locks on containers and doors by simply attacking them.
 
-:::note
+:::tip
 This mod serves as a good option for using excess ammo.
 :::
 
@@ -273,7 +273,7 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
     - [x] Tale of Two Wastelands
 - Main File - [SD_Transporters Spelling Pathc](https://www.nexusmods.com/newvegas/mods/83130)
 
-:::note
+:::tip
 Consider **DISABLING** traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
 :::
 
@@ -294,7 +294,7 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130915&nmm=1)
 
-:::note Instructions:
+:::important Instructions:
 - To apply the Custom INI settings:
   - Press M from the pause menu to access the MCM.
   - Navigate to Enhanced Movement.
@@ -330,7 +330,7 @@ A set of perks that grant bonuses once idolized by various factions.
 - Main File - Friends With Benefits Perk Pack
 - Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445) <sup>~~Vanilla +~~</sup>
 
-:::note
+:::important
 Only install A Very Uncreative Faction Disguise Remover if **NOT** installing [STARS](https://www.nexusmods.com/newvegas/mods/76016). The Friends With Benefits Perk Pack requires a faction disguise removal function, which can be accomplished with **EITHER** of these options.
 :::
 
