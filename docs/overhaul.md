@@ -30,7 +30,7 @@ A comprehensive TTW overhaul that enhances countless aspects of the game. Adjust
   - If you downloaded [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
 - Main File - [EDGE - Speech - Reputations Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130963&nmm=1)
 
-:::warning
+:::caution
 Any support requests pertaining to changes made by this mod (quests or otherwise) will be **IGNORED**. Please review the description page carefully.
 :::
 
@@ -107,7 +107,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 
 - Main File - Sweet Consumables TTW
 
-:::warning
+:::caution
 Using this mod **WITHOUT hardcore mode** enabled will still display FOD and H2O item effects in consumable descriptions, despite being non-functional. **DO NOT** open support requests about this.
 :::
 
