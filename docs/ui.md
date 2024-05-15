@@ -157,7 +157,7 @@ This mod can cause the screen to turn grey with VATS. If this happens, reset the
 A stripped down and updated version of No PipBoy in Power Armor, which replaces the Pip-Boy with a holopanel while wearing power armor.
 
 :::important
-**REQUIRED** for STARS.
+**REQUIRED** for STARS, which is discussed in detail later in the guide.
 :::
 
 #### Installation:
