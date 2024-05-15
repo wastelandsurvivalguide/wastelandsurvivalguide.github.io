@@ -357,3 +357,7 @@ A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and 
 - Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
   - Required because the Vegas Elysium Perk Pack requires SPECIAL based trait selection. This should already be installed if following the guide.
 - Main File - Vegas Elysium Perks
+
+:::note
+For new players who choose **NOT** to use TTW Quick Start, [TTW - Trait Menu Change](https://www.nexusmods.com/newvegas/mods/77418) is an alternative option that can facilitate use of Vegas Elysium Perks.
+:::
