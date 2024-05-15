@@ -12,7 +12,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Extra Utilities
 
-### [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130919&nmm=1) <sup>Vanilla +</sup>
+### [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131176&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
