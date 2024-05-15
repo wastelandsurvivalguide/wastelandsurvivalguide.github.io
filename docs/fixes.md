@@ -16,7 +16,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
-### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131085&nmm=1) <sup>Vanilla +</sup>
+### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131119&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
 
