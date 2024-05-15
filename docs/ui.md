@@ -16,9 +16,8 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 Adds a settings menu to configure mods in-game. 
 
-:::important
+[!NOTE]
 **REQUIRED** for mods within the guide.
-:::
 
 #### Installation:
 
