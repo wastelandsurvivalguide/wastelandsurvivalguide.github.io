@@ -183,9 +183,9 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
   - Various settings optimized to best fit the mods contained within the guide.
 
 :::important Instructions:
-**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Bullet Time after a killcam is activated.
+**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Bullet Time after a killcam is activated. This is **DONE BY DEFAULT** if using the Stewies Tweaks - Custom INI from earlier in the guide.
 
-- To apply the Custom INI settings:
+- To apply the JAM - Custom INI settings:
   - Press **M** from the pause menu to access the MCM.
   - Navigate to Just Mods.
   - Enable "Automatic INI Management" then restart your game.
