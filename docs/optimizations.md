@@ -10,7 +10,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Optimizations**.
 
-:::note What will these optimizations do?
+:::important What will these optimizations do?
 These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
 :::
 
@@ -22,7 +22,7 @@ Fixes and improves vanilla game pathfinding errors and will provide a better and
 
 - Main File - Navmesh Overhaul
 
-:::note
+:::important
 A compatibility patch is **NO LONGER** required for this mod.
 :::
 
@@ -34,7 +34,7 @@ A comprehensive invisible wall remover for Tale of Two Wastelands.
 
 - Main File - TTW Ultimate Invisible Wall Remover (ESM Version)
 
-:::note
+:::warning
 **MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building).
 :::
 
