@@ -16,7 +16,7 @@ STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It co
 This is a **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed very carefully to avoid missing textures in game. STARS will **deviate SIGNIFICANTLY** from the vanilla experience, though is widely considered to be the gold standard of armor related modding. **Procceed with caution!**
 :::
 
-:::note **IMPORTANT INSTRUCTIONS!**
+:::important **IMPORTANT INSTRUCTIONS!**
 Many plugins and folders will need to be **HIDDEN** throughout the installation process. This can be accomplished by installing the mod as instructed, right clicking the mod, clicking information, navigating to the filetree tab, right clicking on the pertinent plugin or folder, and selecting hide. Support **WILL NOT** be provided for those who fail to follow these instructions. STARS will provide an alert in-game if any assets are missing or managed incorrectly.
 :::
 
