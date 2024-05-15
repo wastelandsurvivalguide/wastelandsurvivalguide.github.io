@@ -148,7 +148,7 @@ The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained a
 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
-:::warning Known Bug!
+:::caution Known Bug!
 This mod can cause the screen to turn grey with VATS. If this happens, reset the settings to default. If persistent, remove the mod.
 :::
 
@@ -353,7 +353,7 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 Adds map markers to many existing places, some for convenience, others to assist exploration.
 
-:::Warning
+:::caution
 When starting the game, you will be prompted to download more map markers. **SELECT NO**, or it will preemptively populate your map with all of the new map markers. You will still find the new map markers through exploration.
 :::
 
