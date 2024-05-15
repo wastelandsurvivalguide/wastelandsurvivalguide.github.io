@@ -24,11 +24,10 @@ Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove t
 
 #### Installation:
 
-- Main File - PipBoyOn Node Fixes NV
 - Main File - PipBoyOn Node Fixes TTW
 
 :::note
-You should have already installed these **IF** you followed the STARS page in its entirety.
+You should have already installed this **IF** you followed the STARS page in its entirety.
 :::
 
 ### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076) <sup>Vanilla +</sup>
