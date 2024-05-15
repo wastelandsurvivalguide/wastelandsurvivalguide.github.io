@@ -94,7 +94,7 @@ This mod completely overhauls the way armor damage is calculated, fully replacin
 - Main File - [ADO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131074&nmm=1)
   - A custom INI for Armor Damage Overhaul that makes the standard formula much more forgiving.
 
-:::note KNOWN BUG!
+:::warning KNOWN BUG!
 You may experience a massive performance drop when using heavy weapons alongside this mod. The author is aware of this and working on a fix. This mod is **STILL HIGHLY RECOMMENDED** despite this bug.
 :::
 
@@ -111,7 +111,7 @@ Adds brand new, modern throwing weapons mechanics, as seen in Metro, COD, Fallou
   - A patch that makes B42 Quickthrow compatible with perks.
 - Main File - [Quickthrow Stylized FNV Icons](https://www.nexusmods.com/newvegas/mods/66876)
 
-:::note Instructions:
+:::important Instructions:
 - Press **M** from the pause menu to access the MCM, then navigate to B42 Quickthrow to customize the hotkeys.
 :::
 
