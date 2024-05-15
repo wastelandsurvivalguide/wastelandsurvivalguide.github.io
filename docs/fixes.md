@@ -139,7 +139,7 @@ Fixes vanilla FaceGen tints.
 
 - Main File - FaceGen Tint Fixes for TTW
 
-:::warning
+:::caution
 The plugin will appear crossed out, this is normal and expected. **DO NOT** hide the plugin.
 :::
 
