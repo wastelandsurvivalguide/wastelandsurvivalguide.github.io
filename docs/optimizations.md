@@ -35,7 +35,7 @@ A comprehensive invisible wall remover for Tale of Two Wastelands.
 - Main File - TTW Ultimate Invisible Wall Remover (ESM Version)
 
 :::warning
-**MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building).
+**MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building), but is otherwise a MASSIVE quality of life improvement.
 :::
 
 ### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946) <sup>Vanilla +</sup>
