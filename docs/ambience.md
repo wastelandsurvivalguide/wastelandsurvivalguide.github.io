@@ -60,21 +60,21 @@ A lore friendly and restrained visual overhaul of TTW's NPCs.
 
 - Main File - TTW NPC Overhaul
 - Main File - [FPGE Patch](https://www.nexusmods.com/newvegas/mods/81984)
-  - If you downloaded [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
+  - If you downloaded [FPGE](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
 - Optional File - [EDGE - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) earlier in the guide.
+  - If you downloaded [EDGE](https://www.nexusmods.com/newvegas/mods/74921) earlier in the guide.
 - Optional File - [EDGE - FPGE - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) and [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide. This is needed in **ADDITION** to the EDGE - NPCO and FPGE patches.
+  - If you downloaded [EDGE](https://www.nexusmods.com/newvegas/mods/74921) and [FPGE](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide. This is needed in **ADDITION** to the EDGE - NPCO and FPGE patches.
 - Optional File - [Mojave Raiders - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
   - If you downloaded [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) earlier in the guide.
 - Optional File - [Mojave Raiders - Uncut Wastes - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
   - If you downloaded [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660), [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1), and [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) earlier in the guide. This is needed in **ADDITION** to the Mojave Raiders - NPCO patch.
 - Main File - [STARS - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [STARS TTW - Sweet's Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) earlier in the guide.
+  - If you downloaded [STARS](https://www.nexusmods.com/newvegas/mods/76016) earlier in the guide.
 - Optional File - [STARS - Uncut Wastes - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [STARS TTW - Sweet's Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016), [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1), and [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) earlier in the guide. This is needed in **ADDITION** to the STARS - NPCO patch.
+  - If you downloaded [STARS](https://www.nexusmods.com/newvegas/mods/76016), [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1), and [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) earlier in the guide. This is needed in **ADDITION** to the STARS - NPCO patch.
 - Optional File - [STARS - Mojave Raiders - NPCO](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [STARS TTW - Sweet's Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) and [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) earlier in the guide. This is needed in **ADDITION** to the STARS - NPCO and Mojave Raiders - NPCO patches.
+  - If you downloaded [STARS](https://www.nexusmods.com/newvegas/mods/76016) and [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) earlier in the guide. This is needed in **ADDITION** to the STARS - NPCO and Mojave Raiders - NPCO patches.
 
 ## LOD
 
