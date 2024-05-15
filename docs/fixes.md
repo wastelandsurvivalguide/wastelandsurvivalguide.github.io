@@ -24,7 +24,7 @@ A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL 
 
 A script extender plugin that adds many new functions to the game. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -32,7 +32,7 @@ A script extender plugin that adds many new functions to the game.
 
 Another script extender plugin that adds new functions to the game. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -40,7 +40,7 @@ Another script extender plugin that adds new functions to the game.
 
 Implements a framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files.
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -139,7 +139,7 @@ Fixes vanilla FaceGen tints.
 
 - Main File - FaceGen Tint Fixes for TTW
 
-:::note
+:::warning
 The plugin will appear crossed out, this is normal and expected. **DO NOT** hide the plugin.
 :::
 
@@ -171,7 +171,7 @@ Gives the "swim" movement flag to the few vanilla creatures that have associated
 
 Stops Tranquility Lane from de-aging you to a child, which breaks multiple race replacers and alternative Pip-Boy replacers.
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
