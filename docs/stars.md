@@ -166,14 +166,13 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
 - Optional File - [Classic Fallout Tesla Consistent Icons v0.1](https://www.nexusmods.com/newvegas/mods/80347?tab=description)
 - Main File - [AVCCA - Animated Visor for Classic Combat Armor](https://www.nexusmods.com/newvegas/mods/81974)
   - Select the Installed Mods:
-    - [x] 1. Classic Fallout combat armor
-    - [x] 2. Classic Fallout combat armor Mark 2
-    - [ ] 3. Classic Combat Armor Replacer (Riley, US Army, Desert)
-    - [ ] 4. Brotherhood of Steel and Enclave Classic Combat Armors
-    - [x] 5. Classic Combat Armor Replacer Redux
-    - [x] 6. Classic Replacers for TTW
-    - [ ] 7. Classic Brotherhood Combat Armor
-- Main File - [PipBoyOn Node Fixes NV](https://www.nexusmods.com/newvegas/mods/81775)
+    - [x] Classic Fallout combat armor
+    - [x] Classic Fallout combat armor Mark 2
+    - [ ] Classic Combat Armor Replacer (Riley, US Army, Desert)
+    - [ ] Brotherhood of Steel and Enclave Classic Combat Armors
+    - [x] Classic Combat Armor Replacer Redux
+    - [x] Classic Replacers for TTW
+    - [ ] Classic Brotherhood Combat Armor
 - Main File - [PipBoyOn Node Fixes TTW](https://www.nexusmods.com/newvegas/mods/81775)
 - Optional File - [PipBoyOn Node Fixes PAVE](https://www.nexusmods.com/newvegas/mods/81775)
 - Optional File - [BHYSYS Starting Gear Patch](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
