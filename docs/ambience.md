@@ -10,7 +10,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Aesthetics & Ambience **.
 
-:::note Why the small selection of texture, lighting, animation, and audio mods?
+:::important Why the small selection of texture, lighting, animation, and audio mods?
 Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for New Vegas Visual Renewal is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 
 If you do decide to use the New Vegas Visual Renewal guide, **move the mods in this section** down to the corresponding seperators referenced in that guide.
@@ -39,7 +39,7 @@ Adjusts a few shader flags to litter meshes to stop the litter from flickering.
 
 Main File - Mainframes Litter Flickering Fix v5
 
-:::note
+:::important
 This mod **MUST** load after NVMIM, which should already be true if following the guide.
 :::
 
@@ -105,7 +105,7 @@ Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad ble
 
 Allows for manual repositioning of the gun and crosshair. **Required** for multiple weapon and animation mods in the guide.
 
-:::note Instructions:
+:::important Instructions:
 - Hold the aim button and right shift until the ISControl crosshair appears, then release right shift while still holding aim.
 - Adjust the sights angle by moving the mouse.
 - Adjust the sights distance with the mouse wheel.
@@ -117,7 +117,7 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 
 Allows for manual repositioning of the players hand clip distance.
 
-:::note Instructions:
+:::important Instructions:
 - Hold the aim button and press right alt. Alternatively, if adjusting clip distance while your weapon is at the hip, simply press right alt.
 - Adjust the hand clip distance with the mouse wheel.
 - Press enter to save your hand clip distance alterations.
@@ -448,6 +448,6 @@ Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.
 - Main File - Climate Control - Rain
 - Optional File - Climate Control - 3D Rain
 
-:::note
+:::warning
 Weather mods **MUST** always load after all other mods, which should already be true if following the guide.
 :::
