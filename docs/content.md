@@ -148,7 +148,7 @@ TTW Patches for Mojave Raiders and Mojave Wildlife.
       - [ ] Mojave Wildlife (Vanilla-Style)
       - [ ] None
 
-:::note
+:::important Instructions:
 If you only installed one of Mojave Raiders or Mojave Wildlife, select only the patches corresponding to that mod.
 :::
 
