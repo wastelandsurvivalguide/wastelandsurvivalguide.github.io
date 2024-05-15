@@ -354,7 +354,7 @@ This is a interface overhaul that improves all of the low resolution icons and t
 Adds map markers to many existing places, some for convenience, others to assist exploration.
 
 :::caution
-When starting the game, you will be prompted to download more map markers. **SELECT NO**, or it will preemptively populate your map with all of the new map markers. You will still find the new map markers through exploration.
+When starting the game, you will be prompted to download more map markers. **SELECT "Skip download"**, or it will preemptively populate your map with the new map markers.
 :::
 
 ### [Consistent Pip-Boy Icons v5 - Framework Plugin](https://www.nexusmods.com/newvegas/mods/83432) <sup>Vanilla +</sup>
