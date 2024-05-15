@@ -16,15 +16,16 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 Adds a settings menu to configure mods in-game. 
 
-[!NOTE]
+:::important
 **REQUIRED** for mods within the guide.
+:::
 
 #### Installation:
 
 - Main File - The Mod Configuration Menu
 - Update File - MCM Bugfix 2 
 
-:::note
+:::important
 The mod **WILL NOT FUNCTION** without the update file!
 :::
 
@@ -32,7 +33,7 @@ The mod **WILL NOT FUNCTION** without the update file!
 
 Modernized vanilla-style UI with many enhancements and bug fixes. 
 
-:::note
+:::important
 **REQUIRED** for mods within the guide.
 :::
 
@@ -98,7 +99,7 @@ bEnableCategories = 1
 
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
 
-:::note
+:::important
 **REQUIRES** `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which was done in the previous step.
 :::
 
@@ -147,7 +148,7 @@ The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained a
 
 Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
 
-:::note Known Bug!
+:::warning Known Bug!
 This mod can cause the screen to turn grey with VATS. If this happens, reset the settings to default. If persistent, remove the mod.
 :::
 
@@ -155,7 +156,7 @@ This mod can cause the screen to turn grey with VATS. If this happens, reset the
 
 A stripped down and updated version of No PipBoy in Power Armor, which replaces the Pip-Boy with a holopanel while wearing power armor.
 
-:::note
+:::important
 **REQUIRED** for STARS.
 :::
 
@@ -216,7 +217,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
 - Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127132&nmm=1)
 
-:::note Instructions:
+:::important Instructions:
 - Press **M** from the pause menu to access the MCM.
 - Press **N** from the pause or main menu to configure MAPMO's settings.
 
@@ -297,7 +298,7 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
   - Texture Options:
     - [x] Compress Textures
 
-:::note Instructions:
+:::important Instructions:
 - Press **N** to toggle night vision.
 - Hold **N** to add night vision support to your current headgear.
 :::
@@ -360,7 +361,7 @@ When starting the game, you will be prompted to download more map markers. **SEL
 
 Greatly expands the framework for Pip-Boy Icon creation.
 
-:::note
+:::important
 **REQUIRED** for the following 'Icons' mods.
 :::
 
