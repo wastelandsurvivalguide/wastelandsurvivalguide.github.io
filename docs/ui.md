@@ -319,7 +319,7 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 
 Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
 
-:::note
+:::tip
 This mod **REMOVES INFORMATION** that new players may find useful. If playing Fallout: New Vegas for the first time, consider **SKIPPING** this mod.
 :::
 
