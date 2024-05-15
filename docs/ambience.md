@@ -200,9 +200,11 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [x] Vanilla
     - [ ] WAP
     - [ ] Custom
+
 :::important
 In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in the guide.
 :::
+
 - Main File - Iron Sights Aligned - Mod Support
   - Weapon Meshes:
     - [ ] Vanilla
@@ -298,9 +300,11 @@ Adds working Dual-Render Scopes!
 #### Installation:
 
 - Main File - B42 Optics
+
 :::important
 In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in the guide.
 :::
+
 - Main File - [B42 Optics NV Patches](https://www.nexusmods.com/newvegas/mods/82136)
   - Main File:
     - [x] New Vegas
@@ -328,9 +332,11 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] VT-191 Murdelizer
   - Weapon Replacers:
     - [ ] WAP Weapon Replacers
+
 :::important
 In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in the guide.
 :::
+
 - Main File - [B42 Optics TTW Patches](https://www.nexusmods.com/newvegas/mods/81884)
   - Main Files:
     - [x] Tale of Two Wastelands
