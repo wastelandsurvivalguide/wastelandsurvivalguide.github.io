@@ -10,7 +10,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **Aesthetics & Ambience **.
 
-:::important Why the small selection of texture, lighting, animation, and audio mods?
+:::tip Why the small selection of texture, lighting, animation, and audio mods?
 Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for New Vegas Visual Renewal is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 
 If you do decide to use the New Vegas Visual Renewal guide, **move the mods in this section** down to the corresponding seperators referenced in that guide.
