@@ -215,5 +215,7 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 
 #### Installation:
 - Main File - Tactapack
+- Main File - TTW Cell Forwarding Patch
+  - **DO NOT** install the TTW Cell Forwarding Patch seperately, merge it into the main Tactapack file.
 - Main File - Hotfix 1.6a
   - **DO NOT** install the hotfix seperately, merge it into the main Tactapack file.
