@@ -20,9 +20,9 @@ Wasteland Survival Guide is a **modding guide** for Tale of Two Wastelands and n
 The guide assumes you are already familiar with the skills you learned during [**The Best of Times**](https://thebestoftimes.moddinglinked.com/), such as how to install mods with Mod Organizer 2. When in doubt, please reference that guide.
 
 Mods will be denoted with the following labels:
-- <sup>Vanilla +</sup> - This label means that the mod remains extremely close to the original game experience.
-- <sup>~~Vanilla +~~</sup> - This label means that the mod deviates either mildly or significantly from original game experience.
-- <sup>Hardcore</sup> - This label means that the mod increases the games difficulty in one facet or another.
+  <sup>Vanilla +</sup> - This label means that the mod remains extremely close to the original game experience.
+  <sup>~~Vanilla +~~</sup> - This label means that the mod deviates either mildly or significantly from original game experience.
+  <sup>Hardcore</sup> - This label means that the mod increases the games difficulty in one facet or another.
 
 ## Discord
 
