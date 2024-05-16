@@ -378,7 +378,7 @@ Greatly expands the framework for Pip-Boy Icon creation.
     - [x] Extension - Reputation
     - [x] Extension - Challanges
    
-### [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/70001) <sup>Vanilla +</sup>
+### [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/83476) <sup>Vanilla +</sup>
 
 Adds custom icons for weapons in hotkeys.
 
