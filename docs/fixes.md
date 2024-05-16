@@ -23,7 +23,11 @@ This version was created and uploaded by the **original author, JazzIsParis**, h
 #### Installation:
 - Main FIle - [JIP LN NVSE Plugin](https://cdn.discordapp.com/attachments/889511645989175416/1195666892539572264/JIP_LN_NVSE_Plugin.7z?ex=6645d791&is=66448611&hm=5bfd149a9f6eb6d63033c30637829efac22fca94635602bf260924e213998b49&)
 - This must be manually installed:
-  - Click the "Install New Mod From Archive" button at the top of MO2, select JIP_LN_NVSE_Plugin.7z in your downloads folder, then name the mod "JIP LN NVSE Plugin - Update" and install normally. Make sure this is loaded in the left pane **after** the JIP LN Plugin mod from The Best of Times.
+  - Click the "Install New Mod From Archive" button at the top of MO2, select JIP_LN_NVSE_Plugin.7z in your downloads folder, then name the mod "JIP LN NVSE Plugin - Update" and install normally.
+
+:::note
+This **DOES NOT** need to be merged or moved.
+:::
 
 ### [JIP LN NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130919&nmm=1) <sup>Vanilla +</sup>
 
