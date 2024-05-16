@@ -26,7 +26,7 @@ This version was created and uploaded by the **original author, JazzIsParis**, h
   - Click the "Install New Mod From Archive" button at the top of MO2, select JIP_LN_NVSE_Plugin.7z in your downloads folder, then name the mod "JIP LN NVSE Plugin - Update" and install normally.
 
 :::note
-This **DOES NOT** need to be merged or moved.
+This **DOES NOT** need to be merged or moved. **DO NOT** delete your original JIP LN NVSE Plugin.
 :::
 
 ### [JIP LN NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130919&nmm=1) <sup>Vanilla +</sup>
