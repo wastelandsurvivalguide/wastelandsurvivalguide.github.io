@@ -377,6 +377,20 @@ Greatly expands the framework for Pip-Boy Icon creation.
     - [x] Extension - Hunger, Dehydration, Sleep and Radiation
     - [x] Extension - Reputation
     - [x] Extension - Challanges
+   
+### [Weapon Hotkey Icons](https://www.nexusmods.com/newvegas/mods/70001) <sup>Vanilla +</sup>
+
+Adds custom icons for weapons in hotkeys.
+
+#### Installation:
+
+- Main File - Weapon Hotkey Icons
+  - Optionals:
+    - [x] ItsMeJesusHChrist Mods Support
+    - [ ] FO3 Weapons Restoration
+  - Compatibility Patches:
+    - [x] Just Assorted Mods Compatibility Patch
+    - [ ] Just Weapon Hweel Compatibility Patch
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575) <sup>Vanilla +</sup>
 
@@ -423,8 +437,8 @@ Various high-quality Pip-Boy icons.
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
   - Patch for Weapon Hotkey Icons:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Install It<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Don't<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
   - Patch for Map Marker Icons:
     - [x] Vanilla Plus
     - [x] Numbered Vaults
