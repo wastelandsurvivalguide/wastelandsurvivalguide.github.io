@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **STARS**.
 
 :::danger Spicy Mods Ahead
-STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It completely rebalances every single armor in the game, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the nexus.
+STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It completely rebalances the ***stats, appearance, and effects of every single armor in the game***, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the nexus. As such, support requests pertaining to **INTENTIONAL** changes made by STARS will be **IGNORED**. **READ THE DESCRIPTION** on the mod page carefully.
 
 This is a **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed very carefully to avoid missing textures in game. STARS will **deviate SIGNIFICANTLY** from the vanilla experience, though is widely considered to be the gold standard of armor related modding. **Procceed with caution!**
 :::
