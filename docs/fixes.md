@@ -34,7 +34,7 @@ This version was created and uploaded by the **original author, JazzIsParis**, h
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
-### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131183&nmm=1) <sup>Vanilla +</sup>
+### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000131285&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
 
