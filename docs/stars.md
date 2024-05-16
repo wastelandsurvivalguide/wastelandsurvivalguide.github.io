@@ -25,12 +25,12 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
 #### Installation:
 
 - Main File - [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277), you should already have this from following The Best of Times guide.
-  - Main File - [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1), you should already have this if following the guide.
+  - Main File - [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000130919&nmm=1), you should already have this if following the guide.
     - **Ensure the following INI settings are enabled**, which they should already be if using the provided Custom INI.
       - bLocalizedDTDR=1
       - uNPCPerks=1
 - Main File - [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347), you should already have this from following The Best of Times guide.
-  - Main File - [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000127133&nmm=1), you should already have this if following the guide.
+  - Main File - [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000131285&nmm=1), you should already have this if following the guide.
     - **Ensure the following INI settings are enabled**, which they should already be if using the provided Custom INI.
       - bDisableStealthEffectInPipboy = 0
       - bWeightlessWornArmor = 1
