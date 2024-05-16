@@ -29,7 +29,7 @@ Gives weapon mods real meshes and adds them to random locations across the Mojav
 #### Installation:
 
 - Main File - Real Weapon Mods Complete - Requires all DLC and GRA
-- Main File - [TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=files&file_id=1000104527&nmm=1)
+- Main File - [RWM Rebalanced TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=description)
 
 ### [B42 FireMode - Selective Fire and First Shot Precision - ESPless](https://www.nexusmods.com/newvegas/mods/82576) <sup>Vanilla +</sup>
 
