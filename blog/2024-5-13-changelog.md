@@ -61,7 +61,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Added Cookable Grenades.
 - Added B42 Quickthrow.
 - Added B42 Quickthrow Tweaks - Give player perks method.
-- Added Quickthrow Stylized HUD Icons.
+- Added Quickthrow Stylized HUD Icons, then subsequently removed it due to a fundamental misunderstanding of how Quickthrow Tweaks functioned.
 - Added BURN - Hardcore Fire Effects.
 - Added Simple Attack Reactions - Limb-Specific Animations.
 - Added Power Armor Tweaks.
@@ -91,6 +91,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 - Added True Condition.
 - Added Directional Sneak Indicator
 - Added CCCP - Cool Clean Cursor Pack.
+- Added Weapon Hotkey Icons.
 
 ## Changelog - Atom Bomb
 
