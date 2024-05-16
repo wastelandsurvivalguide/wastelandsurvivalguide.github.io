@@ -108,8 +108,7 @@ Adds brand new, modern throwing weapons mechanics, as seen in Metro, COD, Fallou
 
 - Main File - B42 Quickthrow
 - Main File - [B42 Quickthrow Tweaks - Give Player Perks Method](https://www.nexusmods.com/newvegas/mods/77674)
-  - A patch that makes B42 Quickthrow compatible with perks.
-- Main File - [Quickthrow Stylized FNV Icons](https://www.nexusmods.com/newvegas/mods/66876)
+  - A patch that makes B42 Quickthrow compatible with perks and other player effects.
 
 :::important Instructions:
 - Press **M** from the pause menu to access the MCM, then navigate to B42 Quickthrow to customize the hotkeys.
