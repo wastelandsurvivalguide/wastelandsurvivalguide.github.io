@@ -23,7 +23,7 @@ This version was created and uploaded by the **original author, JazzIsParis**, h
 #### Installation:
 - Main FIle - [JIP LN NVSE Plugin](https://drive.google.com/file/d/1NOyL4u6HPVUurtaX3P3XU13qeN3O6G_b/view?usp=drivesdk)
 - This must be manually installed.
-  - Right click the JIP LN NVSE Plugin in your Utilities seperator in MO2
+  - Right click the JIP LN NVSE Plugin mod in your Utilities seperator in MO2
   - Select open in explorer.
   - Open the NVSE folder, then the Plugins folder. 
     - To confirm you are in the correct folder, you should see a file titled jip_nvse.dll (the same name as the file you downloaded earlier).
