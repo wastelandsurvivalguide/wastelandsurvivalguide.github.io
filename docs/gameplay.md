@@ -317,6 +317,10 @@ This is a complete rebalance and overhaul of many base game perks.
 
 - Main File - Sweet Perk Overhaul
 
+:::tip
+Those who decided to **DISABLE** the Big Guns skill earlier in the guide will also need the No Big Guns Patch optional file.
+:::
+
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) <sup>~~Vanilla +~~</sup>
 
 The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
