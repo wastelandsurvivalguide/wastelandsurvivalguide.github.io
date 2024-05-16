@@ -34,6 +34,13 @@ This version was created and uploaded by the **original author, JazzIsParis**, h
 
 A custom INI for JIP LN NVSE Plugin with enhanced gameplay options enabled, such as weapon mods on NPCs and localized DT/DR.
 
+:::tip
+For those who **DO NOT** want the Guns skill split into Guns and Big Guns, which is the recommended setup for many of the mods in the guide:
+- Double click your JIP LN NVSE - INI mod.
+- Navigate to INI Files.
+- Change bEnableBigGunsSkill=1 to bEnableBigGunsSkill=0.
+:::
+
 ### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000131285&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
