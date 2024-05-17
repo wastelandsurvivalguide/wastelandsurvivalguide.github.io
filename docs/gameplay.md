@@ -275,7 +275,7 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
     - [ ] Fallout New Vegas
     - [ ] Downloadable Content
     - [x] Tale of Two Wastelands
-- Main File - [SD_Transporters Spelling Pathc](https://www.nexusmods.com/newvegas/mods/83130)
+- Main File - [SD_Transporters Spelling Patch](https://www.nexusmods.com/newvegas/mods/83130)
 
 :::tip
 Consider **DISABLING** traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
