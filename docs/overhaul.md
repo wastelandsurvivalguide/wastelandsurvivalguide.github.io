@@ -108,7 +108,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 - Main File - Sweet Consumables TTW
 
 :::caution
-Using this mod **WITHOUT hardcore mode** enabled will still display FOD and H2O item effects in consumable descriptions, despite being non-functional. **DO NOT** open support requests about this.
+Due to the nature of this mod's change to make survival healing extending duration rather than magnitude, using this mod WITHOUT hardcore mode enabled will still display FOD and H2O item effects in consumable descriptions to indicate how much survival healing will be granted, despite needs penalties not actually advancing or applying. This is not a bug. DO NOT open support requests about this.
 :::
 
 ### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) <sup>Hardcore</sup>
