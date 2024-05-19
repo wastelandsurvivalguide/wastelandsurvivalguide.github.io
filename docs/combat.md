@@ -52,6 +52,10 @@ Adds contextual leaning around corners.
 - Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
   - A custom INI for B42 True Leaning that intentionally disables lean hotkeys in favor of the contextual lean feature.
 
+### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
+
+This small scriptrunner standardizes all of the player's body part damage multipliers so the AI doesn't always aim for the head.
+
 ## Melee
 
 ### [Power Attack Tweaks](https://www.nexusmods.com/newvegas/mods/69238) <sup>Vanilla +</sup>
