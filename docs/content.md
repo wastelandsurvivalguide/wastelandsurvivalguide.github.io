@@ -209,6 +209,10 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 Adds over a dozen high quality firearms, energy weapons, and melee weapons made by Zealotlee.
 
+### [ZL Armaments Remastered And FNV 3DNPC Bundle Updated Patch](https://www.nexusmods.com/newvegas/mods/87064)
+
+This mod moves the Westside diner introduced in 3DNPCSNV to another location just across the street because ZL shop also occupies the same location.
+
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) <sup>~~Vanilla +~~</sup>
 
 A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanced, and reintegrated!
