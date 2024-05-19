@@ -118,6 +118,7 @@ Supplemental Ammo Crafting.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
+zlArms3DNPCsPatch.esp
 Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
