@@ -25,8 +25,6 @@ A simple and comprehensive loot scarcity mod using event-based scripting. Preven
 - Main File - [Famine - TTW Exceptions](https://www.nexusmods.com/newvegas/mods/83127)
 - Main File - [TTW Fix Famine Raven Rock](https://www.nexusmods.com/newvegas/mods/81011)
 
-## Radiation
-
 ### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) <sup>Hardcore</sup>
 
 Overhauls all aspects of radiation, making it far more consequential.
