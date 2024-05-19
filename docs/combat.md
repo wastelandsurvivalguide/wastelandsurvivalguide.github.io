@@ -16,21 +16,6 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 Implements customizable Strength and Skill requirements for weapons, making them actually adhere to their previously inconsequential listed requirements.
 
-#### Installation:
-
-- Main File - Weapon Requirements System
-- Main File - [Weapon Requirement System - Sweet's Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131125&nmm=1) <sup>Hardcore</sup>
-  - A custom INI for Weapon Requirement System created by Sweet6Shooter. Increases penalties beyond that of default settings, making weapons far out of your skill level far more difficult to use. Also turns off several frustrating settings.
-
-### [Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) <sup>Vanilla +</sup>
-
-Gives weapon mods real meshes and adds them to random locations across the Mojave. Rebalanced by Sweet.
-
-#### Installation:
-
-- Main File - Real Weapon Mods Complete - Requires all DLC and GRA
-- Main File - [RWM Rebalanced TTW Version](https://www.nexusmods.com/newvegas/mods/74502?tab=description)
-
 ### [B42 FireMode - Selective Fire and First Shot Precision - ESPless](https://www.nexusmods.com/newvegas/mods/82576) <sup>Vanilla +</sup>
 
 Replaces the weapon spread mechanics with one that is far more intuitive and appropriate, without the fundamental flaws present in other mods that alter weapon spread.
@@ -58,7 +43,6 @@ Replaces the formula for weapon jamming when firing and reloading.
 #### Installation:
 
 - Main File - Weapon Jamming Tweaks
-- Main File - Sweet's Configuration <sup>Hardcore</sup>
 
 ### [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872) <sup>~~Vanilla +~~</sup>
 
@@ -134,18 +118,6 @@ Adds a simple animation command line to each grunt when hit. Greatly enhances th
 - Update File - (A) SAR Settings - DT
 - Update File - (B) SAR Settings - DT - Player
 
-### [BURN Hardcore Fire Effects](https://www.nexusmods.com/newvegas/mods/76060) <sup>~~Vanilla +~~</sup>
-
-Causes unprotected humans and flammable creatures to panic and flee when set on fire, adding an extra gameplay mechanic for incendiary weapons and ammo.
-
-:::danger
-This mod restores cut content that involves distressing screams. **Procceed with caution!**
-:::
-
-#### Installation:
-- Main File - BURN Hardcore Fire Effects
-- Main File - BURN - TTW Patch (Script Runner)
-
 ## Combat AI
 
 ### [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699) <sup>Hardcore</sup>
@@ -158,15 +130,6 @@ Prevents the game becoming too easy by making enemies more likely to target the 
 - Main File - [PCP Doggo Patch](https://www.nexusmods.com/newvegas/mods/80339)
   - A patch that further compounds the effects of Player Combat Priority in order to make dogs more survivable in combat.
 
-### [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) <sup>Hardcore</sup>
-
-Enhances NPCs ability to detect the player at medium and long ranges, ameliorating the wildly overpowered state of sniping.
-
-#### Installation:
-
-- Main File - SDDS
-- Optional File - TTW Patch
-
 ### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) <sup>Hardcore</sup>
 
 A reliable collection of AI tweaks designed to improve AI intelligence in combat while still preserving scripted sequences.
@@ -174,4 +137,3 @@ A reliable collection of AI tweaks designed to improve AI intelligence in combat
 #### Installation:
 
 - Main File - The AI Merge
-
