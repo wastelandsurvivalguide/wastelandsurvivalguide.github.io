@@ -71,6 +71,34 @@ Fixes dozens of game models across the base game and DLCs.
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
+### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076) <sup>Vanilla +</sup>
+
+Adjusts a few shader flags to litter meshes to stop the litter from flickering.
+
+#### Installation:
+
+Main File - Mainframes Litter Flickering Fix v5
+
+### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
+
+Adds a shader flag to vent meshes that fixes flickering and lighting issues.
+
+### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775) <sup>Vanilla +</sup>
+
+Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
+
+#### Installation:
+
+- Main File - PipBoyOn Node Fixes TTW
+
+### [Aqua Performa - Strip Performance Fix](https://www.nexusmods.com/newvegas/mods/78617)
+
+Drastically improves performance on The Strip by getting rid of unseen water LOD.
+
+### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
+
+Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
+
 ### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501) <sup>Vanilla +</sup>
 
 Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
