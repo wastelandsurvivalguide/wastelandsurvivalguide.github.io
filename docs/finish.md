@@ -32,7 +32,6 @@ ClassicPack.esm
 MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
-TTW 3.3.2a Hotfix.esp
 YUPTTW.esm
 NavmeshOverhaul.esm
 TTW Ultimate Invisible Wall Remover.esm
@@ -46,7 +45,6 @@ TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
 TGMIO.esm
-3DNPCFNVBundle.esm
 3DNPCFO3Bundle.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
@@ -58,7 +56,6 @@ Uncut Extra Collection.esp
 Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
 AWorldOfPainFO3.esm
 A World of Pain Revised.esm
-EDGE TTW.esm
 Sweet Pain.esm
 Sweet Pain NV.esm
 MoreMojave.esm
@@ -66,13 +63,9 @@ Faction Wasteland Presence.esm
 Mojave Raiders.esm
 Mojave Raiders - TTW Patch.esm
 Mojave Wildlife (FO3-Style + No Chanced).esp
-TTW NPC Overhaul.esm
-TTW NPC Overhaul - FPGE Patch.esm
-TTW NPC Overhaul - Uncut Wasteland and Extra Collections Patch.esm
 SD_Transporters.esp
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
-[RWM]-Complete.esm
 mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
@@ -92,12 +85,8 @@ JBTImproved.esp
 JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
-ItemCards.esp
-RadiationVisuals.esp
 SimpleNightVision.esp
 FOVSlider.esp
-TTWMoreMapMarkers.esp
-Map Markers - Reputations Patch.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
@@ -114,14 +103,7 @@ MoreMojave - FPGE Patch.esp
 Mojave Raiders.esp
 Mojave Raiders - TTW Patch.esp
 MR - Uncut Patch.esp
-MR - NPCO Patch.esp
-MR - Uncut - NPCO Patch.esp
 Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
-[RWM]-Complete Added.esp
-Immersive Minigames.esp
-Unfound Loot.esp
-3DGrenadeIndicator.esp
-DirectionalSneak.esp
 WeaponRequirementSystem.esp
 ImmersiveRecoil.esp
 IRNPC.esp
@@ -129,34 +111,28 @@ Reload Reloaded.esp
 MigCrippled.esp
 MigArmorDegen.esp
 RAD.esp
-BURN - Hardcore Fire Effects.esp
-PurchaseDisplay.esp
-Forced Entry.esp
+RAD-Fixed-TTW.esp
 Quickthrow.esp
 QuickthrowTweaks.esp
 Supplemental Ammo Crafting.esp
-EDGE Master Patch.esp
-EDGE - Speech - Reputations Patch.esp
-EDGE - FPGE Patch.esp
-EdgeNPCO.esp
-EDGE - NPCO - FPGE Patch.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
+Famine.esp
+Famine - Flora.esp
+Famine - Flora TTW.esp
 New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
+S6S Base Perks Redux No Big Guns Patch TTW.esp
 S6S Perks.esp
 Friends With Benefits Perk Pack.esp
-Tree New Perks.esp
-Vegas Elysium.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
 Aid Addon.esp
 Healing Systems.esp
 Player Combat Priority.esp
 PCP Reduced Chance To Attack Doggo Patch.esp
-DynamicDetectionSystem.esp
 TheAIMerge.esp
 GRA Scavenger Hunt Unbalanced.esp
 GUWR - TTW Patch.esp
@@ -168,13 +144,6 @@ B42Inertia.esp
 NVMIM.esp
 Impostors and LOD Flicker Fix.esp
 Tactapack_-_TTW_Patch.esp
-STAR TTW 2.esp
-BHYSYS STARS Gear Patch.esp
-WSGDC STAR Patch.esp
-STAR TTW - Uncut Extra Collection Patch.esp
-StarsNPCO.esp
-STARS - Uncut - NPCO Patch.esp
-STARS - MR - NPCO Patch.esp
 AWSOMER.esp
 ATMOS Ambient Overhaul.esp
 ATMOS NV - TTW Patch.esp
