@@ -36,7 +36,6 @@ const sidebars = {
     "combat",
     "content",
     "overhaul",
-    "stars",
     "optimizations",
     "ambience",
     "finish",
@@ -48,6 +47,7 @@ const sidebars = {
         "contributors",
         "incompatible",
         "additions",
+        "stars",
         {
           type: "link",
           label: "LOD Guide",
