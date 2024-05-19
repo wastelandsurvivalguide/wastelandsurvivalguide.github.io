@@ -56,6 +56,9 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) and [Drowning Visuals](https://www.nexusmods.com/newvegas/mods/84841) - Adds screen affects when you're in rads or drowning
 
 ## Gameplay 
+
+[Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds many perks inspired by Diso Elysium
+
 ### Quality of Life
 [Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
 
@@ -198,6 +201,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
 [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - A fair amount of game settings changes
+
+[Sweet's Custom INI for Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131125)
 
 [Vanilla SWEEP - Sweet Weapon Enhancement and Expansion Package](https://www.nexusmods.com/newvegas/mods/81043) - A complete rebalance of the weapons in TTW to create a cohesively balanced system that takes more time for progressive and diminishes the degree to which later weapons eclipse earlier ones.
 - ONLY alters vanilla TTW weapons.
@@ -390,6 +395,8 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
 - Texture replacers for the underground metro maps, making them more useful for navigation.
 
+[Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) and [Real Weapon Mods 2 Rebalanced](https://www.nexusmods.com/newvegas/mods/74502) - Adds real weapon-mod meshes to weapons
+
 [TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
 [Taller DC TTW 3.3 Conversion](https://www.nexusmods.com/newvegas/mods/76595) - Adds skyscrapers to the DC area of the Capital Wasteland.
@@ -482,7 +489,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.6 - 5/19/2024
-- Added Menu Search, True Condition, Clean AP and Health bars, CCCP Cool Clean Cursor Pack, 3D Grenade Indicator and Directional Sneak Indicator, Item Cards, Radiation & Drowning visuals, TTW - More Map Markers, Forced Entry, Immersive Minigames, Purchase Items on Display, Sweets Simple Settings
+- Added Menu Search, True Condition, Clean AP and Health bars, CCCP Cool Clean Cursor Pack, 3D Grenade Indicator and Directional Sneak Indicator, Item Cards, Radiation & Drowning visuals, TTW - More Map Markers, Forced Entry, Immersive Minigames, Purchase Items on Display, Sweets Simple Settings, Vegas Elysium Perk Pack, Sweet's Custom INI for Weapon Requirements System, Real Weapon Mods 2
 
 1.5 - 5/13/2024
 - Transferred ATMOS Ambience Overhaul, Melee Hitstop Effects, EDGE, TTW NPC Overhaul, Accurate NASA Stars, 3DNPCs DC, 3DNPCs NV, Mojave Wildlife, STARS, Mojave Raiders, Faction Wasteland Presence, Immersive Recoil NPC, Simple Night Vision, Bottle the Water, Forced Entry, SMAC - Simple Melee Attack Canceling, Purchase Items on Display (xNVSE), Female Pipboy Aligned, NPCa - NPC Prevention of Chem addiction - ESPless, Tranquility Lane Pipboy Glove and Custom Race Fix, B42 Optics, Cookable Grenades, and Faster Sleep-Wait to the main WSG guide.
