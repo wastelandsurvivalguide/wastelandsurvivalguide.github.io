@@ -4,7 +4,7 @@
 
 ### The WSG Team
 
-- [Audixas](https://www.nexusmods.com/users/4196295)
+- [Audixas](https://www.nexusmods.com/users/4196295) - [Donate](https://ko-fi.com/audixas)
 - [very](https://www.nexusmods.com/users/163915398)
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/users/3644561)
@@ -35,6 +35,7 @@
 - [Matt](https://www.nexusmods.com/users/6056449) - [Donate](https://www.patreon.com/mdbakpo)
 - [Missing Mesh TV](https://www.nexusmods.com/users/38167085) - [Twitch](https://www.twitch.tv/missingmeshtv)
 - [Nehred](https://www.nexusmods.com/users/2867679)
+- [Norvito](https://www.nexusmods.com/newvegas/users/95061233) - [Donate](https://ko-fi.com/norvitodraws)
 - [OceanGaming](https://www.nexusmods.com/users/34390455)
 - [Patchier](https://www.nexusmods.com/users/3068108)
 - [Qolore7](https://www.nexusmods.com/users/26289839)

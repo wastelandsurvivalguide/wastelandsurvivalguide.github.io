@@ -1,4 +1,4 @@
-﻿# Final Steps
+﻿# Final Steps 
 
 ---
 
@@ -44,6 +44,8 @@ Tale of Bi Wastelands + TTW Reputations Patch.esm
 TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
+TGMIO.esm
+3DNPCFO3Bundle.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
 TLD_Travelers.esm
@@ -53,84 +55,100 @@ Uncut Wasteland.esp
 Uncut Extra Collection.esp
 Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
 AWorldOfPainFO3.esm
-Sweet Pain.esm
 A World of Pain Revised.esm
+Sweet Pain.esm
 Sweet Pain NV.esm
 MoreMojave.esm
+Faction Wasteland Presence.esm
+Mojave Raiders.esm
+Mojave Raiders - TTW Patch.esm
+Mojave Wildlife (FO3-Style + No Chanced).esp
+SD_Transporters.esp
 Home and Safehouse Tweaks.esm
 Home and Safehouse Tweaks - TTW Addon.esm
-zl_Armaments_Remastered.esm
-[RWM]-Complete.esm
 mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
+zl_Armaments_Remastered.esm
 Tactapack.esp
-SD_Transporters.esp
-TLD LVLI Total Overhaul.esp
+AmmoScriptFixes.esp
+CriticalEffectFixes.esp
+TTW No PipBoy Glove Equipping or Race Changes.esp
 TTW FaceGen Fix.esp
 ExRB-TTW.esp
-Vanilla UI Plus.esp
 The Mod Configuration Menu.esp
-FOVSlider.esp
+Vanilla UI Plus.esp
 Power Armor Holo Panel.esp
 PipBoyUITweaks.esp
-ItemCards.esp
-3DGrenadeIndicator.esp
-QuickSelect.esp
-SimpleNightVision.esp
-Immersive Minigames.esp
-[RWM]-Complete Added.esp
-Casino Exchange All.esp
-DelayDLCRedux.esp
-Root 'n Loot.esp
-TTW Quick Start.esp
-TTW Quick Start Item Remover.esp
-TTW Quick NV Train Start.esp
-Wasteland Starting Gear DC.esp
-TTW No Free Levelup Quick Start.esp
-JIP Companions Command & Control.esp
-Stash Organizer.esp
 JustAssortedMods.esp
 JBTImproved.esp
-ImmersiveRecoil.esp
-Reload Reloaded.esp
-DynamicDetectionSystem.esp
-TTWZetaRewards.esp
-TTWTransportalponderEx.esp
-Supplemental Ammo Crafting.esp
-Sweet Bounties.esp
-Benny Humbles You and Steals Your Stuff.esp
-GRA Scavenger Hunt Unbalanced.esp
-GUWR - TTW Patch.esp
+JIP Companions Command & Control.esp
+Stash Organizer.esp
+QuickSelect.esp
+SimpleNightVision.esp
+FOVSlider.esp
+TTW Quick Start.esp
+TTW Quick Start Item Remover.esp
+Wasteland Starting Gear DC.esp
+TTW No Free Levelup Quick Start.esp
+TTW Quick NV Train Start.esp
+DelayDLCRedux.esp
 DelayDLCReduxPOPP.esp
+TTWTransportalponderEx.esp
+SD_Transporters spelling.esp
+Benny Humbles You and Steals Your Stuff.esp
+TLD LVLI Total Overhaul.esp
 SP TTW Patch.esp
 MoreMojave - FPGE Patch.esp
-MigArmorDegen.esp
+Mojave Raiders.esp
+Mojave Raiders - TTW Patch.esp
+MR - Uncut Patch.esp
+Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
+WeaponRequirementSystem.esp
+ImmersiveRecoil.esp
+IRNPC.esp
+Reload Reloaded.esp
 MigCrippled.esp
+MigArmorDegen.esp
+RAD.esp
+RAD-Fixed-TTW.esp
+Quickthrow.esp
+QuickthrowTweaks.esp
+Supplemental Ammo Crafting.esp
+TTW Dialogue and Interactions Expansion Overhaul.esp
+DIEO - Tale of Bi Wastelands Patch.esp
+DIEO - AWOPFO3 Patch.esp
+Famine.esp
+Famine - Flora.esp
+Famine - Flora TTW.esp
 New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
 S6S Base Perks Redux No Big Guns Patch TTW.esp
 S6S Perks.esp
 Friends With Benefits Perk Pack.esp
-Vegas Elysium.esp
-RAD.esp
 New Blood TTW Patch.esp
 Sweet Consumables.esp
 Aid Addon.esp
 Healing Systems.esp
-Unfound Loot.esp
-WeaponRequirementSystem.esp
-B42Inertia.esp
-TTW Dialogue and Interactions Expansion Overhaul.esp
-DIEO - Tale of Bi Wastelands Patch.esp
-DIEO - AWOPFO3 Patch.esp
+Player Combat Priority.esp
+PCP Reduced Chance To Attack Doggo Patch.esp
 TheAIMerge.esp
-RadiationVisuals.esp
-Impostors and LOD Flicker Fix.esp
-NVMIM.esp
-Tactapack_-_TTW_Patch.esp
+GRA Scavenger Hunt Unbalanced.esp
+GUWR - TTW Patch.esp
+Simple Attack Reactions - NV+TTW.esp
+MigPowerAttack.esp
+Hitstop.esp
 Enhanced Movement.esp
+B42Inertia.esp
+NVMIM.esp
+Impostors and LOD Flicker Fix.esp
+Tactapack_-_TTW_Patch.esp
+AWSOMER.esp
+ATMOS Ambient Overhaul.esp
+ATMOS NV - TTW Patch.esp
+ATMOS NV + FPGE Patch.esp
+ATMOS Sound Overhaul - TTW.esp
 Atmospheric Lighting Tweaks TTW.esp
 Natural Interior.esp
 DNWeathers.esp

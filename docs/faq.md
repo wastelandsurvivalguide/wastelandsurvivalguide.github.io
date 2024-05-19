@@ -79,10 +79,6 @@ iSize H=1440
 6. **fPipboy1stPersonFOV** (FOV in the Pip-Boy or while using a terminal)
 7. Save and exit.
 
-### Why are parts of the terrain black?
-
-Disable - [Improved Lighting Shaders](visuals#improved-lighting-shaders) is your Mod Organizer 2 modlist by unchecking its box. This issue seems to be hardware related but we do not know the specific cause at the moment.
-
 ### Can I add _mods X Y and Z_?
 
 <details>

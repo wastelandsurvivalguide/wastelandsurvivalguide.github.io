@@ -1,4 +1,147 @@
-# May 2024
+# May 2024 
+
+## Changelog - There's A Place
+
+This update sees a lot of removals from the previous iteration as well as reorganizing and restructuring of the majority of mods.
+
+### 5/19/2024
+
+### Bugfixes, Clarifications, Updates
+- Redone several INIs to remove a lot of personal preference tweaks and changes.
+- Updated some mod descriptions and install instructions where needed.
+
+### Reorganization
+- Reorganized pretty much every page in the guide for a better flow.
+- Moved around mods to more fitting pages.
+- Moved Optimizations to be right after Extra Utilities & Fixes.
+- Updated load order.
+
+### Removals
+
+- Removed Sweet Keywords as it's no longer needed.
+- Removed Menu Search as it's not really needed unless you want to change its settings, which is not recommended.
+- Removed True Condition due to the Pip-Boy screen being cluttered enough already.
+- Removed Clean AP and Health Bar.
+- Removed CCCP - Cool Clean Cursor Pack as only one cursor fits the game and is already included in MAPMO.
+- Removed 3D Grenade Indicator and Directional Sneak Indicator due to them being rather cheaty and cluttering the screen.
+- Removed Item Cards.
+- Removed Drowning Visuals and Radiation Visuals because all they do is obstruct vision.
+- Removed TTW - More Map Markers as vanilla already has enough of them.
+- Removed Sweet's Simple Settings because none of the options there fit the guide.
+- Removed Purchase Items on Display, flavor mod taking up space.
+- Removed Immersive Minigames, very subjective change and does not integrate well with the rest of the game.
+- Removed Forced Entry for the same reason.
+- Removed Tree New Perks, not significant enough to warrant inclusion.
+- Removed Levelup Traits as it was only needed for the following mod.
+- Removed Vegas Elysium Perk as it doesn't fit the rest of the guide.
+- Removed Sweet's Custom INI for Weapon Requirements System, it was too restrictive and the default values are good enough.
+- Removed Real Weapon Mods 2 and its rebalance, unnecessary flavor mod.
+- Removed Sweet's Configuration for Weapon Jamming Tweaks as the values are unhinged and not recommended for anyone.
+- Removed BURN.
+- Removed Sweet Dynamic Detection System.
+- Removed EDGE and all of its patches, simply changes way too much of the game and creates a lot of compatibility issues as well as balance concerns.
+- Removed Unfound Loot, it doesn't work nearly as well as Famine, which has taken its place.
+- Removed More or Less Rads.
+- Removed TTW NPC Overhaul and its patches, compatability nightmare.
+
+### Additions
+- Added Auto-Save Manager so it can be customized in the Tweaks menu.
+- Added No Big Guns Patch for Sweet Perk Overhaul.
+- Added Famine to take place of Unfound Loot which has been removed.
+- Added RAD - Overhaul - with Injection Fix to fix a few issues with RAD.
+
+## Changelog - Ghost Page
+
+Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 :) - Kamchatka
+
+### 5/13/2024
+
+### Bugfixes, Clarifications, Updates
+- Various clarifications made throughout the guide.
+- Updated several INIs, including JIP LN NVSE, Stewies Tweaks, Enhanced Movement, and Tweaks for TTW.
+
+### Reorganization
+- Completely rebuilt load order with new conflict resolution from the ground up. Added and created patches where necessary.
+- Renamed Hardcore page to Overhauls.
+- Added a Combat page to break up the length of the Gameplay page.
+- Moved all combat oriented mods from thge Gameplay page to the Combat page.
+- Added a STARS page for a rewritten STARS installation guide.
+- Added <sup>Vanilla +</sup>, <sup>~~Vanilla +~~</sup>, and <sup>Hardcore</sup> tags to each mod, and removed the Optional sections at the bottom that I had previously used to denote deviations from vanilla +. Because of this change, I moved several mods to more appropriate locations on their respective pages.
+- Moved PipBoyOn Node Fixes to Ambience and STARS page.
+- Moved SSS - Sweets Simple Settings to Gameplay page.
+
+### Removals
+- Removed JLM - ySI - Colorful Icons Fix Patch, as it is now built into ySI - Colorful Icons Fix.
+- Removed Root n Loot due to the unnecessary nature of the mod.
+- Removed Casino Exchange All due to the unnecessary nature of the mod.
+- Removed Charisma Tweaks - Karuts INI in favor of EDGE's implementation of Charisma effects reputation.
+- Removed Nail Gun Semi-Automatic Rework due to the unnecessary nature of the mod.
+- Removed Mothership Zeta Rewards due to the unnecessary nature of the mod.
+- Removed Combat Enhancer Updated due to breaking of scripted events.
+- Removed PerkPackPlus due to balance concerns.
+- Removed Clean Pipboy Icons Mod Patches, as it is no longer necessary.
+- Removed BHYSYS Custom INI, as this is no longer necessary with Sweets most recent update.
+- Removed Female Pipboy Aligned, as functionality is built into Instant and Faster Pipboy (No Stutter), though also noted a caveat to this.
+
+### Additions
+- Added Sweet Keywords.
+- Added Faster Main Menu.
+- Added Faster Sleep-Wait.
+- Added Ammo Script Fixes.
+- Added Critical and Effects - Fixes and Tweaks.
+- Added NPCa - NPC Prevention of Chem addiction - ESPless.
+- Added Tranquility Lane Pipboy Glove and Custom Race Fix.
+- Added Menu Search.
+- Added No Exit to Main Menu, then subsequently removed it due to redundancy with a MAPMO feature doing the same.
+- Added ySI - Assorted Fixes and Exit Categories with Tab.
+- Added Clean AP and Health Bars.
+- Added Quick Select - Custom INI.
+- Added Simple Maps - No Urban Shading - TTW
+- Added TTW - More Map Markers.
+- Added Female Pipboy Aligned.
+- Added Reputations - More Map Markers Patch.
+- Added Charisma Tweaks - Custom INI.
+- Added Purchase Items on Display.
+- Added Bottle the Water.
+- Added Forced Entry.
+- Added Transporters - Spelling and Pedantry Patch.
+- Added Tree New Perks.
+- Added Weapon Requirement System - Custom INI.
+- Added Immersive Recoil NPC.
+- Added Cookable Grenades.
+- Added B42 Quickthrow.
+- Added B42 Quickthrow Tweaks - Give player perks method.
+- Added Quickthrow Stylized HUD Icons, then subsequently removed it due to a fundamental misunderstanding of how Quickthrow Tweaks functioned.
+- Added BURN - Hardcore Fire Effects.
+- Added Simple Attack Reactions - Limb-Specific Animations.
+- Added Power Armor Tweaks.
+- Added SMAC - Simple Melee Attack Canceling.
+- Added Melee Hitstop Effects.
+- Added Player Combat Priority.
+- Added Player Combat Priority Alt Chance To Attack Dog Patch.
+- Added Simple AI Merge as a safer alternative to Combat Enhancer Updated.
+- Added 3DNPC DC and 3D NPC NV.
+- Added Faction Wasteland Presence - Improved Edition.
+- Added Mojave Raiders.
+- Added Mojave Wildlife.
+- Added The Great Mojave Interior Overhaul.
+- Added EDGE and various associated patches.
+- Added STARS, all of its dependencies, and various associated patches.
+- Added additional PipBoyOn Node Fixes.
+- Added TTW NPC Overhaul and various associated patches
+- Added Weapon Based Hands Clip Distance.
+- Added Blended Locomotion (no idea how I forgot to add this last update!)
+- Added B42 Optics and various associated patches.
+- Added ATMOS DC and ATMOS NV.
+- Added AWSOMER and various associated patches.
+- Added Accurate NASA Stars.
+- Added NillaPlus Maximum Moon.
+- Added ySI Extended TTW.
+- Added ySI Vanilla MiscQuest Items Patch.
+- Added True Condition.
+- Added Directional Sneak Indicator
+- Added CCCP - Cool Clean Cursor Pack.
+- Added Weapon Hotkey Icons.
 
 ## Changelog - Atom Bomb
 

@@ -31,21 +31,23 @@ const sidebars = {
   sidebar: [
     "intro",
     "fixes",
+    "optimizations",
     "ui",
     "gameplay",
+    "combat",
     "content",
     "overhaul",
-    "optimizations",
-    "visuals",
+    "ambience",
     "finish",
-    "faq",
     {
       type: "category",
       label: "Appendix",
       items: [
+        "faq",
         "contributors",
         "incompatible",
         "additions",
+        "stars",
         {
           type: "link",
           label: "LOD Guide",
