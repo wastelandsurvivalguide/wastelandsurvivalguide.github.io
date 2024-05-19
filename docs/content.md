@@ -126,7 +126,7 @@ TTW Patches for Mojave Raiders and Mojave Wildlife.
 
 #### Installation:
 
-- Main File - [A Very Uncreative Collection of TTW Patches](https://www.nexusmods.com/newvegas/mods/78465?tab=files&file_id=1000127735&nmm=1)
+- Main File - [A Very Uncreative Collection of TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
   - Patch Selection: 
     - Plugins:
       - [ ] Afterschool Special
@@ -136,7 +136,6 @@ TTW Patches for Mojave Raiders and Mojave Wildlife.
       - [ ] Mojave NPCs
       - [ ] The New Bison Steve
       - [ ] Primm Reputation Restored Revised
-      - [ ] Wendy Gilbert Companion
       - [ ] Willow - A Better Companion Experience
     - Mojave Raiders:
       - [x] Mojave Raiders ESM
