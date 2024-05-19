@@ -1,5 +1,55 @@
 # May 2024 
 
+## Changelog - There's A Place
+
+This update sees a lot of removals from the previous iteration as well as reorganizing and restructuring of the majority of mods.
+
+### 5/19/2024
+
+### Bugfixes, Clarifications, Updates
+- Redone several INIs to remove a lot of personal preference tweaks and changes.
+- Updated some mod descriptions and install instructions where needed.
+
+### Reorganization
+- Reorganized pretty much every page in the guide for a better flow.
+- Moved around mods to more fitting pages.
+- Moved Optimizations to be right after Extra Utilities & Fixes.
+- Updated load order.
+
+### Removals
+
+- Removed Sweet Keywords as it's no longer needed.
+- Removed Menu Search as it's not really needed unless you want to change its settings, which is not recommended.
+- Removed True Condition due to the Pip-Boy screen being cluttered enough already.
+- Removed Clean AP and Health Bar.
+- Removed CCCP - Cool Clean Cursor Pack as only one cursor fits the game and is already included in MAPMO.
+- Removed 3D Grenade Indicator and Directional Sneak Indicator due to them being rather cheaty and cluttering the screen.
+- Removed Item Cards.
+- Removed Drowning Visuals and Radiation Visuals because all they do is obstruct vision.
+- Removed TTW - More Map Markers as vanilla already has enough of them.
+- Removed Sweet's Simple Settings because none of the options there fit the guide.
+- Removed Purchase Items on Display, flavor mod taking up space.
+- Removed Immersive Minigames, very subjective change and does not integrate well with the rest of the game.
+- Removed Forced Entry for the same reason.
+- Removed Tree New Perks, not significant enough to warrant inclusion.
+- Removed Levelup Traits as it was only needed for the following mod.
+- Removed Vegas Elysium Perk as it doesn't fit the rest of the guide.
+- Removed Sweet's Custom INI for Weapon Requirements System, it was too restrictive and the default values are good enough.
+- Removed Real Weapon Mods 2 and its rebalance, unnecessary flavor mod.
+- Removed Sweet's Configuration for Weapon Jamming Tweaks as the values are unhinged and not recommended for anyone.
+- Removed BURN.
+- Removed Sweet Dynamic Detection System.
+- Removed EDGE and all of its patches, simply changes way too much of the game and creates a lot of compatibility issues as well as balance concerns.
+- Removed Unfound Loot, it doesn't work nearly as well as Famine, which has taken its place.
+- Removed More or Less Rads.
+- Removed TTW NPC Overhaul and its patches, compatability nightmare.
+
+### Additions
+- Added Auto-Save Manager so it can be customized in the Tweaks menu.
+- Added No Big Guns Patch for Sweet Perk Overhaul.
+- Added Famine to take place of Unfound Loot which has been removed.
+- Added RAD - Overhaul - with Injection Fix to fix a few issues with RAD.
+
 ## Changelog - Ghost Page
 
 Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 :) - Kamchatka
