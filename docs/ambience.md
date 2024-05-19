@@ -18,29 +18,23 @@ If you do decide to use the New Vegas Visual Renewal guide, **move the mods in t
 
 ## Visual Improvements
 
-### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775) <sup>Vanilla +</sup>
+### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691) <sup>Vanilla +</sup>
 
-Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
+Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
 
-#### Installation:
+### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898) <sup>Vanilla +</sup>
 
-- Main File - PipBoyOn Node Fixes TTW
+Adds LOD noise texture for Mid Frequency Details, which helps blend far terrain with closer details.
 
-:::note
-You should have already installed this **IF** you followed the STARS page in its entirety.
-:::
+- Main File - Contrasted LOD Noise 2k
 
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076) <sup>Vanilla +</sup>
+### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933) <sup>Vanilla +</sup>
 
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
+This mod edits the resolution of the bloom render target, allowing it to use higher screen resolutions instead of the hardcoded quarter size.
 
-#### Installation:
+### [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400)
 
-Main File - Mainframes Litter Flickering Fix v5
-
-:::important
-This mod **MUST** load after NVMIM, which should already be true if following the guide.
-:::
+Increases resolution of water depth render target, thus significantly reducing aliasing.
 
 ### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203) <sup>Vanilla +</sup>
 
@@ -53,42 +47,6 @@ Upscales grass texture, improving visual quality with negligible performance imp
 #### Installation:
 
 - Main File - Simply Upscaled Grass - Vanilla Style - 2k
-
-### [TTW NPC Overhaul](https://www.nexusmods.com/newvegas/mods/79809) <sup>Vanilla +</sup>
-
-A lore friendly and restrained visual overhaul of TTW's NPCs.
-
-- Main File - TTW NPC Overhaul
-- Main File - [FPGE Patch](https://www.nexusmods.com/newvegas/mods/81984)
-  - If you downloaded [FPGE](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
-- Optional File - [EDGE - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [EDGE](https://www.nexusmods.com/newvegas/mods/74921) earlier in the guide.
-- Optional File - [EDGE - FPGE - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [EDGE](https://www.nexusmods.com/newvegas/mods/74921) and [FPGE](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide. This is needed in **ADDITION** to the EDGE - NPCO and FPGE patches.
-- Optional File - [Mojave Raiders - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) earlier in the guide.
-- Optional File - [Mojave Raiders - Uncut Wastes - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660), [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1), and [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) earlier in the guide. This is needed in **ADDITION** to the Mojave Raiders - NPCO patch.
-- Main File - [STARS - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [STARS](https://www.nexusmods.com/newvegas/mods/76016) earlier in the guide.
-- Optional File - [STARS - Uncut Wastes - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [STARS](https://www.nexusmods.com/newvegas/mods/76016), [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1), and [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) earlier in the guide. This is needed in **ADDITION** to the STARS - NPCO patch.
-- Optional File - [STARS - Mojave Raiders - NPCO Patch](https://www.nexusmods.com/newvegas/mods/83929)
-  - If you downloaded [STARS](https://www.nexusmods.com/newvegas/mods/76016) and [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) earlier in the guide. This is needed in **ADDITION** to the STARS - NPCO and Mojave Raiders - NPCO patches.
-
-## LOD
-
-### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898) <sup>Vanilla +</sup>
-
-Adds LOD noise texture for Mid Frequency Details, which helps blend far terrain with closer details.
-
-- Main File - Contrasted LOD Noise 2k
-
-### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691) <sup>Vanilla +</sup>
-
-Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
-
-**************
 
 ## Animations
 
@@ -398,6 +356,14 @@ A full replacement of all ballistic, explosive and energy weapon sounds.
 
 ## Lighting
 
+### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) <sup>Vanilla +</sup>
+
+xNVSE plugin that almost completely fixes the exterior lighting bug, and allows up to 4x the number of active lights!
+
+#### Installation:
+
+- Main File - Improved Lighting Shaders
+
 ### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378) <sup>Vanilla +</sup>
 
 Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
@@ -407,6 +373,10 @@ Makes changes to Image Spaces and Lighting Templates to give interiors a more dy
 Remove the tints from Interiors.
 
 ## Weather
+
+### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683) <sup>Vanilla +</sup>
+
+Fixes moonlight, making the moon the light caster instead of the sun.
 
 ### [Longer Weather Transitions ESPless](https://www.nexusmods.com/newvegas/mods/85286) <sup>Vanilla +</sup>
 
@@ -435,6 +405,10 @@ MOOOOOOOOON (it's bigger, it's brighter, it's round...er?)
 #### Installation:
 
 - Optional File - NillaPlus Majestic Moon (medium) 1K
+
+### [Cloud Upgrade NVSE](https://www.nexusmods.com/newvegas/mods/79612)
+
+NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems.
 
 ### [Interior Rain](https://www.nexusmods.com/newvegas/mods/79656) <sup>Vanilla +</sup>
 
