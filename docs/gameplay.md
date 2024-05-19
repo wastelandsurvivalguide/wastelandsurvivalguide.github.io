@@ -112,7 +112,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 - Main File - Just Assorted Mods
 - Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
 - Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) <sup>~~Vanilla +~~</sup>
-- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1)
+- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131621&nmm=1)
   - Various settings optimized to best fit the mods contained within the guide.
 
 ### [JIP LN NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
