@@ -31,12 +31,12 @@ const sidebars = {
   sidebar: [
     "intro",
     "fixes",
+    "optimizations",
     "ui",
     "gameplay",
     "combat",
     "content",
     "overhaul",
-    "optimizations",
     "ambience",
     "finish",
     "faq",
