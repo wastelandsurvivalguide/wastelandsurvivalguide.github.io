@@ -39,11 +39,11 @@ const sidebars = {
     "overhaul",
     "ambience",
     "finish",
-    "faq",
     {
       type: "category",
       label: "Appendix",
       items: [
+        "faq",
         "contributors",
         "incompatible",
         "additions",
