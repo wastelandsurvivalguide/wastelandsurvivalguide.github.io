@@ -4,7 +4,7 @@
 
 ### The WSG Team
 
-- [Audixas](https://www.nexusmods.com/users/4196295)
+- [Audixas](https://www.nexusmods.com/users/4196295) - [Donate](https://ko-fi.com/audixas)
 - [very](https://www.nexusmods.com/users/163915398)
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/users/3644561)
