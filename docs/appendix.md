@@ -16,6 +16,10 @@ A _non-exhaustive_ list of mods that are known to be incompatible with TTW (or o
 
 A _non-exhaustive_ list of recommended mods that are recommended, but require manual conflict resolution to work with the guide.
 
+### [STARS Install Guide](stars)
+
+A guide for installing the STARS mod and all of its requirements.
+
 ### [LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html)
 
 Guide on how to generate LOD with FNVLODgen.
