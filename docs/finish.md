@@ -122,6 +122,7 @@ zlArms3DNPCsPatch.esp
 Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
+Famine - TTW Exceptions.esp
 New Blood.esp
 S6S Base Game Perks Redux.esp
 S6S Base Game Perks Redux TTW Side.esp
