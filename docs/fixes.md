@@ -151,3 +151,10 @@ Fixes vanilla FaceGen tints.
 ### [Weapon Mod Description Fix (TTW)](https://www.nexusmods.com/newvegas/mods/85957) <sup>Vanilla +</sup>
 
 Certain weapon mods have an empty line above the description. This simple fix rectifies that issue.
+
+#### Installation:
+
+  - Main File:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Vanilla (Plugin)<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Tale of Two Wastelands (Plugin)<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> Scriptrunner (ESPless)<br/>
