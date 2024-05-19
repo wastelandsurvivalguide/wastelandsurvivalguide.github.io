@@ -186,7 +186,7 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] Alton IL
     - [x] A World of Pain for Fallout 3
     - [ ] DC Arsenal
-    - [x] EDGE
+    - [ ] EDGE
     - [x] The Regulators
   - Standalone Weapons: 
     - [ ] Hitman's RPD
@@ -241,7 +241,7 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
       - [ ] Rockbiter
   - EDGE TTW kNVSE Animation Options:
     - Hunting Rifle
-      - [x] Hitman
+      - [ ] Hitman
       - [ ] Rockbiter
   - The Regulators kNVSE Animation Options:
     - 10mm Submachine Gun
@@ -302,7 +302,7 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] .32 Caliber Weapon Pack
     - [ ] Anchorage Gameplay Expansion
     - [x] A World of Pain for Fallout 3
-    - [x] EDGE
+    - [ ] EDGE
     - [ ] R91 and Friends
     - [ ] Rebuild the Capital
     - [ ] The Overpass
