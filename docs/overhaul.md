@@ -14,49 +14,16 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced and designed for **hardcore** mode. **Procceed with caution!**
 :::
 
-## General
+### [Famine](https://www.nexusmods.com/newvegas/mods/74985)
 
-### [EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) <sup>Hardcore</sup>
-
-A comprehensive TTW overhaul that enhances countless aspects of the game. Adjusts ample creatures, NPCs, companions, vendors, encounters, locations, quests, reputation, karma, perks, and SPECIAL effects.
+A simple and comprehensive loot scarcity mod using event-based scripting. Prevents the player becoming overpowered too quickly due to the massive amounts of loot in the vanilla game.
 
 #### Installation:
 
-- Main File - EDGE TTW
-- Main File - EDGE Master Patch
-- Main File - [EDGE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130918&nmm=1)
-  - A custom INI for EDGE with the recommended settings enabled.
-- Main File - [EDGE - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130962&nmm=1)
-  - If you downloaded [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
-- Main File - [EDGE - Speech - Reputations Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130963&nmm=1)
-
-:::caution
-Any support requests pertaining to changes made by this mod (quests or otherwise) will be **IGNORED**. Please review the description page carefully.
-:::
-
-## Economy
-
-### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) <sup>Vanilla +</sup>
-
-Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
-
-#### Installation:
-
-Choose one of the following:
-- Main File - Harder Barter Faster Stronger
-- Main File - Sicko Mode  <sup>Hardcore</sup>
-  - Sicko Mode is an **OPTIONAL** alternative to the Harder Barter Faster Stronger main file for those who desire a more **hardcore** barter economy.
-
-## Loot
-
-### [Unfound Loot](https://mod.pub/falloutnv/24-unfound-loot) <sup>Vanilla +</sup>
-
-A highly customizable loot scarcity mod.
-
-#### Installation:
-
-- Main File - Unfound Loot
-- Main File - [Unfound Loot - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000129340&nmm=1) <sup>Hardcore</sup>
+- Main File - Famine
+- Optional File - Famine - Flora TTW Patch
+- Main File - [Famine - TTW Exceptions](https://www.nexusmods.com/newvegas/mods/83127)
+- Main File - [TTW Fix Famine Raven Rock](https://www.nexusmods.com/newvegas/mods/81011)
 
 ## Radiation
 
@@ -67,16 +34,13 @@ Overhauls all aspects of radiation, making it far more consequential.
 #### Installation:
 
 - Main File - RAD - Overhaul
-
-### [More or Less Rads](https://www.nexusmods.com/newvegas/mods/84757) <sup>Hardcore</sup>
-
-User-configurable increase or decrease in the radius and intensity of all ambient radiation in the game. The default settings functionally double the intensity and triple the radius of radiation.
-
-#### Installation:
-
-- Main File - More Rads No Irradiated Lonesome Road
-
-## Combat
+- Main File - [RAD - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077)
+  - Main:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> New Vegas Ultimate Edition<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> New Vegas Ultimate Edition + YUP<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> Tale of Two Wastelands<br/>
+  - Optional:
+    - [ ] Better Stealth Suit Mk II
 
 ### [New Blood](https://www.nexusmods.com/newvegas/mods/75666) <sup>Hardcore</sup>
 
@@ -84,11 +48,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bl
 
 #### Installation:
 
-- Main File - [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
-  - This should already be installed if following the guide.
 - Main File - New Blood
-
-## Aid, Consumables, & Healing
 
 ### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379) <sup>Hardcore</sup>
 
@@ -118,3 +78,11 @@ A complete overhaul and rebalancing of doctors, sleep, endurance, infirmary base
 #### Installation:
 
 - Main File - Sweet Healing Systems
+
+### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) <sup>Vanilla +</sup>
+
+Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
+
+#### Installation:
+
+- Main File - Harder Barter Faster Stronger
