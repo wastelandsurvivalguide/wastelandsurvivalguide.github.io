@@ -12,69 +12,13 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Gameplay Enhancements
 
-### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934) <sup>Vanilla +</sup>
-
-A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
-
-#### Installation:
-
-- Main File - Tweaks for TTW
-- Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131199&nmm=1)
-
-### [SSS - Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) <sup>Hardcore</sup>
-
-Changes some gamesettings, like base/mults for carry weight, crippled limb penalties, karma changes, skill's effects on weapon damage, AP, damage threshold passthrough, health, tag skills, vats, and dismemberment to enhance difficulty.
-
-:::caution
-This will change skill tagging to a classic Fallout format, in which tagged perks will **NO LONGER** receive a flat point bonus. **INSTEAD**, increasing tagged skills will cause them to increase by **2** skill points, rather than the normal 1 skill point. **DO NOT** open support requests pertaining to this.
-:::
-
-#### Installation:
-
-- Main File - SSS
-- Main File - Tag Perk Description Adjustment
-
-### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1) <sup>Vanilla +</sup>
-
-Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
-
-:::tip
-Consider **SKIPPING** this mod for a more **hardcore** experience.
-:::
-
-### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002) <sup>Vanilla +</sup>
-
-Improves the usability of the Caravan minigame.
-
-### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766) <sup>Vanilla +</sup>
-
-Gives TTW vendors better selections.
-
-#### Installation:
-
-- Main File - Craterside Supply Expansion
-- Main File - Flak n Shrapnel Expansion
-
 ### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604) <sup>Vanilla +</sup>
 
-:::important
-**REQUIRED** for mods within the guide.
-:::
-
 Adds a functional reputation system to Fallout 3 for parity with New Vegas.
-
-#### Installation:
-
-Main File - TTW Reputations
-Main File - [Reputations - More Map Markers Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130937&nmm=1)
 
 ### [TTW N.V. Speech Checks](https://www.nexusmods.com/newvegas/mods/68736) <sup>Vanilla +</sup>
 
 Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
-
-:::important
-**REQUIRED** for mods within the guide.
-:::
 
 #### Installation:
 
@@ -104,10 +48,15 @@ Many skill checks, including speech checks, will display **DIFFERENT** skill val
 - Main File - CHR Tweaks
 - Optional File - [Charisma Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130921&nmm=1)
   - Enables recommended settings while disabling Charisma Affects Reputation in favor of EDGEs implementation of the same.
- 
-### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495) <sup>Vanilla +</sup>
 
-Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
+### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934) <sup>Vanilla +</sup>
+
+A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
+
+#### Installation:
+
+- Main File - Tweaks for TTW
+- Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131619&nmm=1)
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851) <sup>Vanilla +</sup>
 
@@ -154,6 +103,50 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 
 - Main File - Benny Humbles You and Steals Your Stuff
 
+### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666) <sup>Vanilla +</sup>
+
+JAM is a compilation of interface and gameplay-enhancing mods in one package, configurable in MCM. Features a FO4-style Loot Menu, Bullet Time, and much more.
+
+#### Installation:
+
+- Main File - Just Assorted Mods
+- Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
+- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) <sup>~~Vanilla +~~</sup>
+- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1)
+  - Various settings optimized to best fit the mods contained within the guide.
+
+### [JIP LN NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121586&nmm=1)
+
+A custom configuration file with additional gameplay options enabled, such as FO3 style repair, localized DT/DR, weapon mods on enemy weapons, etc.
+
+### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468) <sup>~~Vanilla +~~</sup>
+
+Revolutionizes the way companions are controlled and interacted with.
+
+Main Files:
+
+- JIP Companions Command and Control
+- [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
+- [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
+
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) <sup>Vanilla +</sup>
+
+Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
+
+### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) <sup>~~Vanilla +~~</sup>
+
+Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
+
+#### Installation:
+
+- Main File - Stash Organizer
+
+:::important Instructions:
+- Press the **VATS** hotkey while looking at a container to access the Stash Organizer menu.
+
+**READ THE DESCRIPTION** for further instructions on use.
+:::
+
 ### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files) <sup>Vanilla +</sup>
 
 Adds crafting stations and additional containers to several vanilla player homes. 
@@ -170,94 +163,55 @@ Adds crafting stations and additional containers to several vanilla player homes
 - Main File - Home and Safehouse Tweaks INI File
 - After installing the main file, double-click the mod, go to INI Files, and customize the INI settings to your preferences.
 
-### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666) <sup>Vanilla +</sup>
-
-JAM is a compilation of interface and gameplay-enhancing mods in one package, configurable in MCM. Features a FO4-style Loot Menu, Bullet Time, and much more.
-
-#### Installation:
-
-- Main File - Just Assorted Mods
-- Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
-- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) <sup>~~Vanilla +~~</sup>
-- Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130114&nmm=1)
-  - Various settings optimized to best fit the mods contained within the guide.
-
-:::important Instructions:
-**IF YOU USE THIS MOD YOU** ***MUST*** **DISABLE KILLCAMS**, otherwise you will encounter a timescale bug when exiting Bullet Time after a killcam is activated. This is **DONE BY DEFAULT** if using the Stewies Tweaks - Custom INI from earlier in the guide.
-
-- To apply the JAM - Custom INI settings:
-  - Press **M** from the pause menu to access the MCM.
-  - Navigate to Just Mods.
-  - Enable "Automatic INI Management" then restart your game.
-  - If **VATS is preferred over Bullet Time**, disable the Bullet Time subsection, though the **use of Bullet Time is** ***HIGHLY RECOMMENDED*** **for the integrity of balance**.
-  - If the Sprint subsection is now disabled, **STOP HERE**.
-
-  - If Sprint is still enabled, open each subsection individually and select "Load from INI."
-  - The subsections include Crosshair, Hit Marker, Hit Indicator, Objectives, Loot Hweel, Sprint, Hold Breath, and Bullet Time.
-:::
-
-:::tip
-Consider **DISABLING** the VATS hotkey in controls and using Bullet Time exclusively for a more **hardcore** experience.
-:::
-
-### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468) <sup>~~Vanilla +~~</sup>
-
-Revolutionizes the way companions are controlled and interacted with.
-
-Main Files:
-
-- JIP Companions Command and Control
-- [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
-- [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
-
-### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) <sup>~~Vanilla +~~</sup>
-
-Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
-
-#### Installation:
-
-- Main File - Stash Organizer
-
-:::important Instructions:
-- Press the **VATS** hotkey while looking at a container to access the Stash Organizer menu.
-
-**READ THE DESCRIPTION** for further instructions on use.
-:::
-
-### [Purchase Items on Display (xNVSE)](https://www.nexusmods.com/newvegas/mods/78873) <sup>~~Vanilla +~~</sup>
-
-Allows you to purchase items that are on display in a shop without having to go through the barter menu with a merchant.
-
 ### [Bottle The Water](https://www.nexusmods.com/newvegas/mods/83913) <sup>~~Vanilla +~~</sup>
 
 Adds the option to bottle water from any source when you hold Shift and activate the source, assuming you have an empty bottle.
 
-### [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) <sup>~~Vanilla +~~</sup>
+### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) <sup>~~Vanilla +~~</sup>
 
-Real-time, character-skill based replacement for hacking and lockpicking. Refer to the MCM settings to learn how to use this.
+Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! 
 
-#### Installation: 
+#### Installation:
 
-- Main File - Immersive Minigames
+- Main File - Simple Night Vision
+  - Main File:
+    - [x] Plugin (Recommended)
+    - [ ] Scriptrunner
+  - Texture Quality:
+    - [x] 2k
+    - [ ] 1k
+  - Texture Options:
+    - [x] Compress Textures
 
 :::important Instructions:
-- Press **M** from the pause menu to access the MCM.
-- Navigate to Immersive Minigames.
-- **DISABLE** "Activate after Unlock."
-- To use, hold **E** while looking at a locked container. This key can be remapped in the MCM.
+- Press **N** to toggle night vision.
+- Hold **N** to add night vision support to your current headgear.
 :::
 
-### [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) <sup>~~Vanilla +~~</sup>
+### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1) <sup>Vanilla +</sup>
 
-Allows the player to bypass locks on containers and doors by simply attacking them.
+Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
 
 :::tip
-This mod serves as a good option for using excess ammo.
+Consider **SKIPPING** this mod for a more **hardcore** experience.
 :::
 
-### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) <sup>Vanilla +</sup>
+### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002) <sup>Vanilla +</sup>
 
-Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
+Improves the usability of the Caravan minigame.
+
+### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766) <sup>Vanilla +</sup>
+
+Gives TTW vendors better selections.
+
+#### Installation:
+
+- Main File - Craterside Supply Expansion
+- Main File - Flak n Shrapnel Expansion
+ 
+### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495) <sup>Vanilla +</sup>
+
+Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
 
 ## Movement & Travel
 
@@ -296,15 +250,13 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 #### Installation:
 
 - Main File - Enhanced Movement
-- Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130915&nmm=1)
+- Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131622&nmm=1)
 
 :::important Instructions:
 - To apply the Custom INI settings:
   - Press M from the pause menu to access the MCM.
   - Navigate to Enhanced Movement.
   - Enable "Use INI."
-
-**IF YOU USE THIS MOD YOU** ***MUST*** **REMAP the Always Run key** in controls, then **REBIND the sprint key in the Enhanced Movement MCM**.
 :::
 
 ## Perks
@@ -316,10 +268,7 @@ This is a complete rebalance and overhaul of many base game perks.
 #### Installation:
 
 - Main File - Sweet Perk Overhaul
-
-:::tip
-Those who decided to **DISABLE** the Big Guns skill earlier in the guide will also need the No Big Guns Patch optional file.
-:::
+- Optional File - No Big Guns Patch
 
 ### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) <sup>~~Vanilla +~~</sup>
 
@@ -337,31 +286,3 @@ A set of perks that grant bonuses once idolized by various factions.
 
 - Main File - Friends With Benefits Perk Pack
 - Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445) <sup>~~Vanilla +~~</sup>
-
-:::important
-Only install A Very Uncreative Faction Disguise Remover if **NOT** installing [STARS](https://www.nexusmods.com/newvegas/mods/76016) later in the guide. The Friends With Benefits Perk Pack requires a faction disguise removal function, which can be accomplished with **EITHER** of these options.
-:::
-
-### [Tree New Perks](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101118&nmm=1) <sup>~~Vanilla +~~</sup>
-
-Adds new unique perks for the various endings to the Oasis questline.
-
-### [Levelup Traits](https://www.nexusmods.com/newvegas/mods/83910) <sup>~~Vanilla +~~</sup>
-
-Grants the option to pick a new trait per a variable amount of levelups. This is useful alongside many of the perk packs included in the guide (particularly Vegas Elysium), which add many new traits.
-
-### [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) <sup>~~Vanilla +~~</sup>
-
-:::danger DISTURBING CONTENT
-Read the **TRIGGER caution** prior to installing, as this mod contains difficult psychological topics. **Procceed with caution!**
-:::
-
-A perk and trait pack inspired by Disco Elysium. Includes a thought cabinet and a new flaw system.
-
-- Main File - [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
-  - Required because the Vegas Elysium Perk Pack requires SPECIAL based trait selection. This should already be installed if following the guide.
-- Main File - Vegas Elysium Perks
-
-:::note
-For new players who choose **NOT** to use TTW Quick Start, [TTW - Trait Menu Change](https://www.nexusmods.com/newvegas/mods/77418) is an alternative option that can facilitate use of Vegas Elysium Perks.
-:::
