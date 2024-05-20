@@ -50,7 +50,7 @@ Implements a framework to create and automatically load keywords in a simple use
 
 Fixes bugs and adds utilities for weather mods.
 
-### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131614&nmm=1) <sup>Vanilla +</sup>
+### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131759&nmm=1) <sup>Vanilla +</sup>
 
 A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
 
