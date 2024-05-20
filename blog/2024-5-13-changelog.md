@@ -13,6 +13,7 @@
 - Removed ammo weight for non-hardcore.
 - Tweaked Fallout 76 Encumbrance AP drain.
 - Moved ammo type label below ammo count.
+- Enabled Save Manager - will create autosaves every 3 minutes.
 
 ### Enhanced Movement
 - Lowered sprint speed bonus to 50%.
