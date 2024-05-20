@@ -176,6 +176,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 ### Balance
 [ANVIL - Ammo New Variants in Loot](https://www.nexusmods.com/newvegas/mods/78561) - Adds ammo variants to loot pools.
 
+[BURN](https://www.nexusmods.com/newvegas/mods/76060) - Causes unprotected humans and flammable creatures to panic and flee when set on fire
+
 [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) - A caliber expansion mod.
 - Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
 - Compatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) through use of Audixas' [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
@@ -200,9 +202,15 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Incompatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175).
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
 
-[Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - A fair amount of game settings changes
+[Sweet's Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - A fair amount of game settings changes
 
 [Sweet's Custom INI for Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131125)
+
+[Sweet's Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898)
+
+[Sweet's EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls major pieces of early game gameplay, and may require many compatability patches
+
+[Sweet's Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPCs' ability to detect the player at medium and long ranges
 
 [Vanilla SWEEP - Sweet Weapon Enhancement and Expansion Package](https://www.nexusmods.com/newvegas/mods/81043) - A complete rebalance of the weapons in TTW to create a cohesively balanced system that takes more time for progressive and diminishes the degree to which later weapons eclipse earlier ones.
 - ONLY alters vanilla TTW weapons.
@@ -489,7 +497,7 @@ The following are designed to be placed in the following load order if using the
 
 ## Changelog
 1.6 - 5/19/2024
-- Added Menu Search, True Condition, Clean AP and Health bars, CCCP Cool Clean Cursor Pack, 3D Grenade Indicator and Directional Sneak Indicator, Item Cards, Radiation & Drowning visuals, TTW - More Map Markers, Forced Entry, Immersive Minigames, Purchase Items on Display, Sweets Simple Settings, Vegas Elysium Perk Pack, Sweet's Custom INI for Weapon Requirements System, Real Weapon Mods 2
+- Added Menu Search, True Condition, Clean AP and Health bars, CCCP Cool Clean Cursor Pack, 3D Grenade Indicator and Directional Sneak Indicator, Item Cards, Radiation & Drowning visuals, TTW - More Map Markers, Forced Entry, Immersive Minigames, Purchase Items on Display, Sweets Simple Settings, Vegas Elysium Perk Pack, Sweet's Custom INI for Weapon Requirements System, Real Weapon Mods 2, Sweet's Weapon Jamming Tweaks, Sweet's EDGE TTW, Sweet's Dynamic Detection System, BURN
 
 1.5 - 5/13/2024
 - Transferred ATMOS Ambience Overhaul, Melee Hitstop Effects, EDGE, TTW NPC Overhaul, Accurate NASA Stars, 3DNPCs DC, 3DNPCs NV, Mojave Wildlife, STARS, Mojave Raiders, Faction Wasteland Presence, Immersive Recoil NPC, Simple Night Vision, Bottle the Water, Forced Entry, SMAC - Simple Melee Attack Canceling, Purchase Items on Display (xNVSE), Female Pipboy Aligned, NPCa - NPC Prevention of Chem addiction - ESPless, Tranquility Lane Pipboy Glove and Custom Race Fix, B42 Optics, Cookable Grenades, and Faster Sleep-Wait to the main WSG guide.
