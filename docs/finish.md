@@ -109,7 +109,6 @@ ImmersiveRecoil.esp
 IRNPC.esp
 Reload Reloaded.esp
 MigCrippled.esp
-MigArmorDegen.esp
 RAD.esp
 RAD-Fixed-TTW.esp
 Quickthrow.esp
