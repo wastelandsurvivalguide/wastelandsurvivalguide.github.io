@@ -70,22 +70,6 @@ Blocking interrupts your melee/unarmed attacks for quick and responsive defense!
 
 Adds hitstop to melee weapons by slowing down gametime to 0.1 for a few frames, then restoring it. Greatly improves the flow of combat.
 
-## Armor
-
-### [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267) <sup>Vanilla +</sup>
-
-This mod completely overhauls the way armor damage is calculated, fully replacing the non-sensical formula that governed condition degradation and damage taken.
-
-#### Installation:
-
-- Main File - ADO - Armor Damage Overhaul
-- Main File - [ADO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131074&nmm=1)
-  - A custom INI for Armor Damage Overhaul that makes the standard formula much more forgiving.
-
-:::caution KNOWN BUG!
-You may experience a massive performance drop when using heavy weapons alongside this mod. The author is aware of this and working on a fix. This mod is **STILL HIGHLY RECOMMENDED** despite this bug.
-:::
-
 ## Grenades
 
 ### [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686) <sup>~~Vanilla +~~</sup>
