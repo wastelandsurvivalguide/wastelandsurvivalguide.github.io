@@ -1,10 +1,32 @@
 # May 2024 
 
+### 20/05/2024
+
+### Bugfixes, Clarifications, Updates
+- Added a note about MoreMojave - AWO(L)P Patch in Content.
+- Updated Stewies Tweaks - Custom INI.
+- Updated Enhanced Movement - Custom INI.
+- Updated load order.
+
+### Stewie's Tweaks
+- Removed AddItem icons.
+- Removed ammo weight for non-hardcore.
+- Tweaked Fallout 76 Encumbrance AP drain.
+- Moved ammo type label below ammo count.
+
+### Enhanced Movement
+- Lowered sprint speed bonus to 50%.
+- Removed sprint hydration consumption.
+- Made AP drain in and out of combat.
+
+### Removals
+- Removed Armor Damage Overhaul.
+
 ## Changelog - There's A Place
 
 This update sees a lot of removals from the previous iteration as well as reorganizing and restructuring of the majority of mods.
 
-### 5/19/2024
+### 19/05/2024
 
 ### Bugfixes, Clarifications, Updates
 - Redone several INIs to remove a lot of personal preference tweaks and changes.
@@ -54,7 +76,7 @@ This update sees a lot of removals from the previous iteration as well as reorga
 
 Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 :) - Kamchatka
 
-### 5/13/2024
+### 13/05/2024
 
 ### Bugfixes, Clarifications, Updates
 - Various clarifications made throughout the guide.
@@ -147,7 +169,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 
 A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. <3 - Kamchatka
 
-### 5/05/2024
+### 05/05/2024
 
 ### Bugfixes
 - Updated load order to move NavmeshOverhaul.esm AFTER YUPTTW.esm.
