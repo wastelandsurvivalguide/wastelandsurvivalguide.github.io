@@ -70,6 +70,10 @@ Adds many more locations to the New Vegas landscape to further expand upon spars
 - Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122122&nmm=1)
 - Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000122211&nmm=1&game_id=130)
 
+:::important
+The **MoreMojave - AWO(L)P Patch** is not needed when using **Sweet Pain**.
+:::
+
 ### Uncut Wasteland & Extra Collection <sup>Vanilla +</sup>
 
 Restores a huge amount of scenery, NPCs, creatures, and other details which were patched out of New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
