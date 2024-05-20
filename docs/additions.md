@@ -41,8 +41,24 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [PipBoy DoF Disabler](https://www.nexusmods.com/newvegas/mods/77321) - Removes the depth of field effect while in the pip-boy interface.
 
+[Menu search](https://www.nexusmods.com/newvegas/mods/81743) - Adds the ability to CTRL+F in your Pipboy and other places
+
+[True Condition](https://www.nexusmods.com/newvegas/mods/78796) - Displays the condition of armour & weapons in a percentage or numbered format
+
+[Clean AP and Health bars](https://www.nexusmods.com/newvegas/mods/81662) - Alternative cleaner AP & HP bars
+
+[CCCP - Cool Clean Cursor Pack](https://www.nexusmods.com/newvegas/mods/85751) - A collection of alternative cursors
+
+[3D Grenade Indicator](https://www.nexusmods.com/newvegas/mods/86243) and [Directional Sneak Indicator](https://www.nexusmods.com/newvegas/mods/86387) - Self-explainable
+
+[Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Customizable detailed stats menu for items, when hovering or pressing a defined hotkey
+
+[Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) and [Drowning Visuals](https://www.nexusmods.com/newvegas/mods/84841) - Adds screen affects when you're in rads or drowning
 
 ## Gameplay 
+
+[Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds many perks inspired by Diso Elysium
+
 ### Quality of Life
 [Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
 
@@ -117,6 +133,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [TTW Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/75829) - An assortment of quests to help with the collection of all Bobbleheads, Steel Ingots, Keller Family Transcripts, Intel Briefcases, and Alien Captive Recorded Logs.
 - If experiencing crashes when picking up notes with this mod, this can be remedied by updating to the unreleased JIP file pinned in the WSG discord server.
 
+[TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) and optionally [TTW - More Map Markers - No Download Map Markers](https://www.nexusmods.com/newvegas/mods/86655) - Adds a few more map markers to TTW
+
 [Unmissable Casino Rewards](https://www.nexusmods.com/newvegas/mods/83485) - Prevents you from bypassing reward tiers in casinos.
 
 [Viewmodel Recoil](https://www.nexusmods.com/newvegas/mods/71852) - A recoil mod that affects the 1st person model only and does not move the camera. It is purely aesthetic. Can be used in conjunction with [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973).
@@ -124,6 +142,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ### Functional Additions
 [Camping](https://www.nexusmods.com/newvegas/mods/85061) - A sleeping bag and campfire that you can carry with you and drop anywhere.
+
+[Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Force yourself into locks & containers, requires [Sweets Keywords](https://www.nexusmods.com/newvegas/mods/83781) 
 
 [Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Feastures many returning favorites from Fallout games past and present. Includes custom animations.
 - Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
@@ -134,9 +154,13 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Immersive Sleeping Encounters](https://www.nexusmods.com/newvegas/mods/74289) - A user configurable overhaul of the sleep system that implements D&D styled random encounters when the player naps.
 
+[Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Real-time alternative to the menu-mode hacking and lockpicking mini-games
+
 [Magic Sewer](https://www.nexusmods.com/newvegas/mods/75589) - For all your cross-continental travel needs.
 
 [Pip-boy Weapon Mod Vendor](https://www.nexusmods.com/newvegas/mods/84997) - Purchase weapon mods directly through the Pip-boy interface. Optionally have them shipped to any unlocked dropbox.
+
+[Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Let's you purchase items that're on display at vendors
 
 [Simple Diseases](https://www.nexusmods.com/newvegas/mods/74802) - A simple and modular disease system for Fallout New Vegas. Adds a the chance to get sick from eating bad food and drinking untreated water as well as the risk of contracting diseases from wild animal attacks.
 
@@ -151,6 +175,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ### Balance
 [ANVIL - Ammo New Variants in Loot](https://www.nexusmods.com/newvegas/mods/78561) - Adds ammo variants to loot pools.
+
+[BURN](https://www.nexusmods.com/newvegas/mods/76060) - Causes unprotected humans and flammable creatures to panic and flee when set on fire
 
 [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) - A caliber expansion mod.
 - Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
@@ -175,6 +201,16 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [SPARE - Sweet Part and Ammo Rebalance and Expansion](https://www.nexusmods.com/newvegas/mods/83937) - A complete rebalance of the ammo crafting system.
 - Incompatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175).
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) through the use of Conzo’s [CaliberZL - SPARE Patch](https://www.nexusmods.com/newvegas/mods/85632).
+
+[Sweet's Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - A fair amount of game settings changes
+
+[Sweet's Custom INI for Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131125)
+
+[Sweet's Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898)
+
+[Sweet's EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls major pieces of early game gameplay, and may require many compatability patches
+
+[Sweet's Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPCs' ability to detect the player at medium and long ranges
 
 [Vanilla SWEEP - Sweet Weapon Enhancement and Expansion Package](https://www.nexusmods.com/newvegas/mods/81043) - A complete rebalance of the weapons in TTW to create a cohesively balanced system that takes more time for progressive and diminishes the degree to which later weapons eclipse earlier ones.
 - ONLY alters vanilla TTW weapons.
@@ -367,6 +403,8 @@ Sal's [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewa
 [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
 - Texture replacers for the underground metro maps, making them more useful for navigation.
 
+[Real Weapon Mods 2](https://www.nexusmods.com/newvegas/mods/46873) and [Real Weapon Mods 2 Rebalanced](https://www.nexusmods.com/newvegas/mods/74502) - Adds real weapon-mod meshes to weapons
+
 [TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
 [Taller DC TTW 3.3 Conversion](https://www.nexusmods.com/newvegas/mods/76595) - Adds skyscrapers to the DC area of the Capital Wasteland.
@@ -458,6 +496,9 @@ The following are designed to be placed in the following load order if using the
 
 
 ## Changelog
+1.6 - 5/19/2024
+- Added Menu Search, True Condition, Clean AP and Health bars, CCCP Cool Clean Cursor Pack, 3D Grenade Indicator and Directional Sneak Indicator, Item Cards, Radiation & Drowning visuals, TTW - More Map Markers, Forced Entry, Immersive Minigames, Purchase Items on Display, Sweets Simple Settings, Vegas Elysium Perk Pack, Sweet's Custom INI for Weapon Requirements System, Real Weapon Mods 2, Sweet's Weapon Jamming Tweaks, Sweet's EDGE TTW, Sweet's Dynamic Detection System, BURN
+
 1.5 - 5/13/2024
 - Transferred ATMOS Ambience Overhaul, Melee Hitstop Effects, EDGE, TTW NPC Overhaul, Accurate NASA Stars, 3DNPCs DC, 3DNPCs NV, Mojave Wildlife, STARS, Mojave Raiders, Faction Wasteland Presence, Immersive Recoil NPC, Simple Night Vision, Bottle the Water, Forced Entry, SMAC - Simple Melee Attack Canceling, Purchase Items on Display (xNVSE), Female Pipboy Aligned, NPCa - NPC Prevention of Chem addiction - ESPless, Tranquility Lane Pipboy Glove and Custom Race Fix, B42 Optics, Cookable Grenades, and Faster Sleep-Wait to the main WSG guide.
 
