@@ -18,17 +18,17 @@ If you do decide to use the New Vegas Visual Renewal guide, **move the mods in t
 
 ## Visual Improvements
 
-### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691) <sup>Vanilla +</sup>
+### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691)
 
 Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
 
-### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898) <sup>Vanilla +</sup>
+### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898)
 
 Adds LOD noise texture for Mid Frequency Details, which helps blend far terrain with closer details.
 
 - Main File - Contrasted LOD Noise 2k
 
-### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933) <sup>Vanilla +</sup>
+### [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
 
 This mod edits the resolution of the bloom render target, allowing it to use higher screen resolutions instead of the hardcoded quarter size.
 
@@ -36,11 +36,11 @@ This mod edits the resolution of the bloom render target, allowing it to use hig
 
 Increases resolution of water depth render target, thus significantly reducing aliasing.
 
-### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203) <sup>Vanilla +</sup>
+### [Mobile Pip-Boy Light](https://www.nexusmods.com/newvegas/mods/81203)
 
 Attaches the Pip-Boy light to the Pip-Boy so it moves with the player's arm.
 
-### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716) <sup>Vanilla +</sup>
+### [Simply Upscaled Grass](https://www.nexusmods.com/newvegas/mods/79716)
 
 Upscales grass texture, improving visual quality with negligible performance impact.
 
@@ -50,7 +50,7 @@ Upscales grass texture, improving visual quality with negligible performance imp
 
 ## Animations
 
-### [3rd Person Animation Fixpack](https://www.nexusmods.com/newvegas/mods/85198) <sup>Vanilla +</sup>
+### [3rd Person Animation Fixpack](https://www.nexusmods.com/newvegas/mods/85198)
 
 Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad blending, etc, of 3rd person animations.
 
@@ -58,7 +58,7 @@ Fixes gliding, stuttering, limb popping, broken fingers, animation bugs, bad ble
 
 - Main File - 3rd Person Animation Fixpack
 
-### [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417) <sup>Vanilla +</sup>
+### [ISControl Enabler](https://www.nexusmods.com/newvegas/mods/75417)
 
 Allows for manual repositioning of the gun and crosshair. **Required** for multiple weapon and animation mods in the guide.
 
@@ -70,7 +70,7 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 - Press enter to save your iron sight alterations.
 :::
 
-### [Weapon Based Hands Clip Distance](https://www.nexusmods.com/newvegas/mods/82093) <sup>Vanilla +</sup>
+### [Weapon Based Hands Clip Distance](https://www.nexusmods.com/newvegas/mods/82093)
 
 Allows for manual repositioning of the players hand clip distance.
 
@@ -81,11 +81,11 @@ Allows for manual repositioning of the players hand clip distance.
 - Press backspace to exit the editor.
 :::
 
-### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335) <sup>Vanilla +</sup>
+### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
 
 Gives weapons realistic inertia movement.
 
-### [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158) <sup>Vanilla +</sup>
+### [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158)
 
 Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion, Iron Sights Recoil Animations, and Fire Animation Variants. Also includes some previously unreleased animations.
 
@@ -93,7 +93,7 @@ Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion,
 
 - Main File - Anniversary Anim Pack
 
-### [New Vegas Animation Overhaul - Guns](https://www.nexusmods.com/newvegas/mods/86354) <sup>Vanilla +</sup>
+### [New Vegas Animation Overhaul - Guns](https://www.nexusmods.com/newvegas/mods/86354)
 
 The definitive first-person animation pack for guns in Fallout: New Vegas and TTW. Two-and-a-half years in this making, this pack covers (almost) every weapon in base New Vegas, its DLCs, and in TTW.
 
@@ -105,7 +105,7 @@ The definitive first-person animation pack for guns in Fallout: New Vegas and TT
     - [ ] WAP Friendly
     - [ ] Custom
    
-### [Butcher Pete Complete - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/79146) <sup>Vanilla +</sup>
+### [Butcher Pete Complete - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/79146)
 
 A comprehensive melee animation overhaul for almost every single one-handed melee weapon in New Vegas, its DLCs, and TTW.
 
@@ -113,7 +113,7 @@ A comprehensive melee animation overhaul for almost every single one-handed mele
 
 - Main File - 1. Butcher Pete Complete - A Melee Animation Overhaul (Hitman Locomotion)
 
-### [Wasteland Warrior - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/80277) <sup>Vanilla +</sup>
+### [Wasteland Warrior - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/80277)
 
 Reanimates all animations for all two-handed melee weapon in the game.
 
@@ -121,7 +121,7 @@ Reanimates all animations for all two-handed melee weapon in the game.
 - Main File - 1. Wasteland Warrior - A Melee Animation Overhaul (Hitman Locomotion)
 - Update File - Left Attack Fix
 
-### [Blended Locomotion](https://www.nexusmods.com/newvegas/mods/79295) <sup>Vanilla +</sup>
+### [Blended Locomotion](https://www.nexusmods.com/newvegas/mods/79295)
 
 Blends Hit - Locomotion, rockomotion, and some of hitman's old locomotion (jump files) into one locomotion set.
 
@@ -129,7 +129,7 @@ Blends Hit - Locomotion, rockomotion, and some of hitman's old locomotion (jump 
 
 - Main File - Blended Locomotion
 
-### [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933) <sup>Vanilla +</sup>
+### [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933)
 
 Comprehensively aligns iron sights across mods that alter or add animations and weapons.
 
@@ -251,66 +251,57 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
       - [x] Hitman
       - [ ] Rockbiter
 
-### [B42 Optics - ESPless](https://www.nexusmods.com/newvegas/mods/81641) <sup>Vanilla +</sup>
+### [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701)
 
-Adds working Dual-Render Scopes!
+Configurable tweaks when aiming with a scope such as blur and fade in from black.
 
 #### Installation:
 
-- Main File - B42 Optics
-
-:::important
-In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in the guide.
-:::
-
-- Main File - [B42 Optics NV Patches](https://www.nexusmods.com/newvegas/mods/82136)
-  - Main File:
-    - [x] New Vegas
-  - Animations:
-    - [x] Anniversary Anim Pack Fix
-  - New Vegas Mods:
-    - [ ] A World Of Pain
-    - [ ] Dead Money Tweaks
-    - [ ] Havasu Blues
-    - [ ] Salt Lake Stories
-    - [ ] The New Bison Steve
-  - Weapon Packs:
-    - [x] Another Millenia
-    - [x] Another Millenia Add-on
-    - [ ] CarlZee's Weapon Pack
-    - [ ] Complete Uniques
+- Main File - PSRO - Peripheral Scope Reticle Overhaul
+  - Continue?:
+    - [x] Let me in.
+  - Background Visibility:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 0% (Original)<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 25%<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 50%<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> 75% (Recommended)<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 100% (Vanilla Replacer)<br/>
+  - Fin?:
+    - [x] Finish.
+- Optional File - PSRO - Mod Compatibility Compendium - FOMOD
+  - Continue?:
+    - [x] I got everthing. Let me in.
+  - Select Your Patches:
+    - [ ] AMAC-1500 Sniper Rifle
+    - [ ] CFA - Classic Wattz 2000 Laser Rifle
+    - [ ] Classic AK-112 - The Adytum Rifle
     - [ ] Classic Fallout Weapons Remastered
-    - [ ] FO3 Weapons Restoration
-    - [ ] Project Nevada Equipment
-    - [ ] R91 and No Friends
-    - [x] ZL Armaments Remastered
-  - Standalone Weapons:
-    - [ ] VK's Ranger Repeater Rifle
-    - [ ] VK's Voodoo Laser Sniper Rifle
-    - [ ] VT-191 Murdelizer
-  - Weapon Replacers:
-    - [ ] WAP Weapon Replacers
+    - [ ] DMT - Dead Money Tweaks - Complete Overhaul
+    - [ ] EVE - Essential Visual Enhancements
+    - [ ] Gyrojet Carbine
+    - [ ] LaFrance Specialties M16-K
+    - [ ] Mosin Nagant - Sniper Rifle
+    - [ ] Mossberg 590 Special Purpose Shotgun
+    - [ ] Panzermann's Changes
+    - [ ] Sturmgewehr 44 (STG 44)
+    - [x] Tactapack
+    - [ ] Turbo Gatling Plasma
+  - Mossberg 590 Special Purpose Shotgun:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 0%<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 25%<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 50%<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> 75% (Recommended)<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 100%<br/>
+  - Tactapack:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 0%<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 25%<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 50%<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> 75%<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> 100%<br/>
+  - Finished:
+    - [x] Oh ye. We did it. Finished.
 
-:::important
-In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in the guide.
-:::
-
-- Main File - [B42 Optics TTW Patches](https://www.nexusmods.com/newvegas/mods/81884)
-  - Main Files:
-    - [x] Tale of Two Wastelands
-  - Standalone Weapons:
-    - [ ] .32 Caliber Weapon Pack
-    - [ ] Anchorage Gameplay Expansion
-    - [x] A World of Pain for Fallout 3
-    - [ ] EDGE
-    - [ ] R91 and Friends
-    - [ ] Rebuild the Capital
-    - [ ] The Overpass
-    - [ ] Unique Items Overhaul
-    - [ ] Washington's Malevolence
-- Main File - [Tactapack - B42 Optics Patch](https://www.nexusmods.com/newvegas/mods/81793)
-
-### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776) <sup>Vanilla +</sup>
+### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
 
 Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.
 
@@ -324,12 +315,12 @@ This mod **MUST** load after any other skeleton containing mods, which should al
 
 ## Audio
 
-### [ATMOS Ambient Sound Overhaul - TTW](https://www.nexusmods.com/newvegas/mods/84054) <sup>Vanilla +</sup>
+### [ATMOS Ambient Sound Overhaul - TTW](https://www.nexusmods.com/newvegas/mods/84054)
 
 A port of ATMOS Ambient Sound Overhaul from Fallout 3, adding more than 200 new ambient sound effects. Over 3000 hand placed sound emitters.
 3D sound effect with actual distance and direction in the world. Only affects the Capital Wasteland.
 
-### [ATMOS Ambience Overhaul](https://www.nexusmods.com/newvegas/mods/85939) <sup>Vanilla +</sup>
+### [ATMOS Ambience Overhaul](https://www.nexusmods.com/newvegas/mods/85939)
 
 Modernized ambient soundscape with an object based directional sound system. Estimated near 1000 new custom-built sound effects, crafted with film industry grade equipment. Only affects the Mojave Wasteland.
 
@@ -340,7 +331,7 @@ Modernized ambient soundscape with an object based directional sound system. Est
 - Main File - [ATMOS NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130991&nmm=1)
   - If you downloaded [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
 
-### [All Weapon Sound Overhaul Modern Edition Redone - AWSOMER](https://www.nexusmods.com/newvegas/mods/84235) <sup>Vanilla +</sup>
+### [All Weapon Sound Overhaul Modern Edition Redone - AWSOMER](https://www.nexusmods.com/newvegas/mods/84235)
 
 A full replacement of all ballistic, explosive and energy weapon sounds.
 
@@ -356,7 +347,7 @@ A full replacement of all ballistic, explosive and energy weapon sounds.
 
 ## Lighting
 
-### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833) <sup>Vanilla +</sup>
+### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
 
 xNVSE plugin that almost completely fixes the exterior lighting bug, and allows up to 4x the number of active lights!
 
@@ -364,25 +355,25 @@ xNVSE plugin that almost completely fixes the exterior lighting bug, and allows 
 
 - Main File - Improved Lighting Shaders
 
-### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378) <sup>Vanilla +</sup>
+### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378)
 
 Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
 
-### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420) <sup>Vanilla +</sup>
+### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
 
 Remove the tints from Interiors.
 
 ## Weather
 
-### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683) <sup>Vanilla +</sup>
+### [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
 
 Fixes moonlight, making the moon the light caster instead of the sun.
 
-### [Longer Weather Transitions ESPless](https://www.nexusmods.com/newvegas/mods/85286) <sup>Vanilla +</sup>
+### [Longer Weather Transitions ESPless](https://www.nexusmods.com/newvegas/mods/85286)
 
 A small improvement that extends the weather transition time by a factor of 20, which fixes abrupt weather transitions when using varied weather types.
 
-### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437) <sup>Vanilla +</sup>
+### [Desert Natural Weathers TTW](https://www.nexusmods.com/newvegas/mods/75437)
 
 An overhaul of weathers with 360 degree panoramic cloud textures, improved lighting, and DLC support.
 
@@ -390,7 +381,7 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 
 - Main File - Desert Natural Weathers TTW
 
-### [Accurate NASA Stars](https://www.nexusmods.com/newvegas/mods/75522) <sup>Vanilla +</sup>
+### [Accurate NASA Stars](https://www.nexusmods.com/newvegas/mods/75522)
 
 4k star texture and mesh using NASA satellite images to create a real-world accurate starfield.
 
@@ -398,7 +389,7 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 
 - Main File - Accurate Stars
 
-### [NillaPlus Maximum Moon 4K 2K 1K](https://www.nexusmods.com/newvegas/mods/86153) <sup>Vanilla +</sup>
+### [NillaPlus Maximum Moon 4K 2K 1K](https://www.nexusmods.com/newvegas/mods/86153)
 
 MOOOOOOOOON (it's bigger, it's brighter, it's round...er?)
 
@@ -410,7 +401,7 @@ MOOOOOOOOON (it's bigger, it's brighter, it's round...er?)
 
 NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems.
 
-### [Interior Rain](https://www.nexusmods.com/newvegas/mods/79656) <sup>Vanilla +</sup>
+### [Interior Rain](https://www.nexusmods.com/newvegas/mods/79656)
 
 Interior rain sounds powered by Climate Control NVSE.
 
@@ -419,7 +410,7 @@ Interior rain sounds powered by Climate Control NVSE.
 - Main File - Interior Rain
 - Optional File - Interior Rain - TTW
 
-### [3D Rain](https://www.nexusmods.com/newvegas/mods/79652) <sup>Vanilla +</sup>
+### [3D Rain](https://www.nexusmods.com/newvegas/mods/79652)
 
 Replace the poorly designed 2D rain found in Zion Canyon (as well as in most weather mods) with a new 3D version. Rain no longer looks abnormal when you look up or down.
 
@@ -427,7 +418,7 @@ Replace the poorly designed 2D rain found in Zion Canyon (as well as in most wea
 
 - Main File - 3D Rain
 
-### [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661) <sup>Vanilla +</sup>
+### [Climate Control - Rain](https://www.nexusmods.com/newvegas/mods/79661)
 
 Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.
 
