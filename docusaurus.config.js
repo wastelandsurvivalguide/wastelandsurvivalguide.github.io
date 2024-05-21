@@ -125,7 +125,7 @@ const config = {
             href: "https://moddinglinked.com",
           },
           {
-            label: "WallSoGB's Performance Guide",
+            label: "Performance Guide",
             href: "https://wallsogb.github.io/FalloutNV-Performance-Guide",
           },
           {
@@ -139,6 +139,10 @@ const config = {
           {
             label: "GECK Wiki",
             href: "https://geckwiki.com",
+          },
+          {
+            label: "Patreon",
+            href: "https://www.patreon.com/WastelandSurvivalGuide",
           },
         ],
         logo: {
