@@ -12,11 +12,11 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Gameplay Enhancements
 
-### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604) <sup>Vanilla +</sup>
+### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
 
 Adds a functional reputation system to Fallout 3 for parity with New Vegas.
 
-### [TTW N.V. Speech Checks](https://www.nexusmods.com/newvegas/mods/68736) <sup>Vanilla +</sup>
+### [TTW N.V. Speech Checks](https://www.nexusmods.com/newvegas/mods/68736)
 
 Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
 
@@ -25,7 +25,7 @@ Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
 - Main File - TTW New Vegas Speech Checks
 - Optional File - TTW New Vegas Speech Checks - TTW Reputations Patch
 
-### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) <sup>Vanilla +</sup>
+### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
 
 Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay and lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
 
@@ -35,7 +35,7 @@ Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay an
 - Main File - [Tale of Bi Wastelands - TTW New Vegas Speech Checks](https://www.nexusmods.com/newvegas/mods/76206)
 - Main File - [Tale of Bi Wastelands - TTW Reputations Patch](https://www.nexusmods.com/newvegas/mods/76206)
 
-### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310) <sup>Vanilla +</sup>
+### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
 
 This mod makes it so that your Charisma and the Intellence of the person you're speaking to impacts barter and speech checks.
 
@@ -49,7 +49,7 @@ Many skill checks, including speech checks, will display **DIFFERENT** skill val
 - Optional File - [Charisma Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130921&nmm=1)
   - Enables recommended settings while disabling Charisma Affects Reputation in favor of EDGEs implementation of the same.
 
-### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934) <sup>Vanilla +</sup>
+### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
 A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 
@@ -58,7 +58,7 @@ A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
 - Main File - Tweaks for TTW
 - Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131619&nmm=1)
 
-### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851) <sup>Vanilla +</sup>
+### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. 
 
@@ -71,7 +71,7 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 - Main File - Delay DLC Redux TTW
 - Optional File - Delay DLC Redux TTW - Pre-Order Pack Placement
 
-### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) <sup>~~Vanilla +~~</sup>
+### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
@@ -95,7 +95,7 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
 To travel to the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory" immediately after leaving the vault.
 :::
 
-### [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112) <sup>Vanilla +</sup>
+### [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
 
 Resets the player's level and skills, as well as removes gear upon travelling from the Capital Wasteland to the Mojave for the first time. Players get to keep their perks during this transition and eventually recover their items.
 
@@ -103,7 +103,7 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 
 - Main File - Benny Humbles You and Steals Your Stuff
 
-### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666) <sup>Vanilla +</sup>
+### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 
 JAM is a compilation of interface and gameplay-enhancing mods in one package, configurable in MCM. Features a FO4-style Loot Menu, Bullet Time, and much more.
 
@@ -111,7 +111,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 
 - Main File - Just Assorted Mods
 - Main File - [Clean Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/82724)
-- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324) <sup>~~Vanilla +~~</sup>
+- Main File - [Bullet Time Improved - a JAM Addon](https://www.nexusmods.com/newvegas/mods/78324)
 - Main File - [JAM - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131621&nmm=1)
   - Various settings optimized to best fit the mods contained within the guide.
 
@@ -119,7 +119,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 
 A custom configuration file with additional gameplay options enabled, such as FO3 style repair, localized DT/DR, weapon mods on enemy weapons, etc.
 
-### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468) <sup>~~Vanilla +~~</sup>
+### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
 
 Revolutionizes the way companions are controlled and interacted with.
 
@@ -129,11 +129,11 @@ Main Files:
 - [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
 - [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
 
-### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) <sup>Vanilla +</sup>
+### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
 
 Adds crafting and breakdown recipes for all ballistic ammo types that lacked said recipes in the base game.
 
-### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer) <sup>~~Vanilla +~~</sup>
+### [Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer)
 
 Automatically organizes your items in any interior cell. Can be tricky to set up initially, though pays dividends in item organization later in the game.
 
@@ -147,7 +147,7 @@ Automatically organizes your items in any interior cell. Can be tricky to set up
 **READ THE DESCRIPTION** for further instructions on use.
 :::
 
-### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files) <sup>Vanilla +</sup>
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
 
 Adds crafting stations and additional containers to several vanilla player homes. 
 
@@ -163,11 +163,11 @@ Adds crafting stations and additional containers to several vanilla player homes
 - Main File - Home and Safehouse Tweaks INI File
 - After installing the main file, double-click the mod, go to INI Files, and customize the INI settings to your preferences.
 
-### [Bottle The Water](https://www.nexusmods.com/newvegas/mods/83913) <sup>~~Vanilla +~~</sup>
+### [Bottle The Water](https://www.nexusmods.com/newvegas/mods/83913)
 
 Adds the option to bottle water from any source when you hold Shift and activate the source, assuming you have an empty bottle.
 
-### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991) <sup>~~Vanilla +~~</sup>
+### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
 
 Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! 
 
@@ -188,7 +188,7 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 - Hold **N** to add night vision support to your current headgear.
 :::
 
-### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1) <sup>Vanilla +</sup>
+### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
 Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
 
@@ -196,11 +196,11 @@ Changes TTW's Hardcore mode to grant a perk every level, instead of every two.
 Consider **SKIPPING** this mod for a more **hardcore** experience.
 :::
 
-### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002) <sup>Vanilla +</sup>
+### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
 
 Improves the usability of the Caravan minigame.
 
-### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766) <sup>Vanilla +</sup>
+### [TTW Merchant Supply Expansion](https://www.nexusmods.com/newvegas/mods/74766)
 
 Gives TTW vendors better selections.
 
@@ -209,17 +209,17 @@ Gives TTW vendors better selections.
 - Main File - Craterside Supply Expansion
 - Main File - Flak n Shrapnel Expansion
  
-### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495) <sup>Vanilla +</sup>
+### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
 Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
 
 ## Movement & Travel
 
-### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128) <sup>Vanilla +</sup>
+### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
 Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
 
-### [Transporters](https://www.nexusmods.com/newvegas/mods/77645) <sup>~~Vanilla +~~</sup>
+### [Transporters](https://www.nexusmods.com/newvegas/mods/77645)
 
 A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well.
 
@@ -235,7 +235,7 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
 Consider **DISABLING** traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
 :::
 
-### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745) <sup>Vanilla +</sup>
+### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
 
 An implementation of combat sprinting for melee NPCs.
 
@@ -243,7 +243,7 @@ An implementation of combat sprinting for melee NPCs.
 
 - Main File - NPCs Sprint kNVSE - ESPless
 
-### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) <sup>Vanilla +</sup>
+### [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
 An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st person diagonal movement, enhanced sprint, enhanced sneak, enhanced leaning, animated prone framework, new animations, and more. 
 
@@ -261,7 +261,7 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 
 ## Perks
 
-### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) <sup>~~Vanilla +~~</sup>
+### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
 
 This is a complete rebalance and overhaul of many base game perks.
 
@@ -270,7 +270,7 @@ This is a complete rebalance and overhaul of many base game perks.
 - Main File - Sweet Perk Overhaul
 - Optional File - No Big Guns Patch
 
-### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) <sup>~~Vanilla +~~</sup>
+### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
 
 The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
 
@@ -278,11 +278,11 @@ The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a
 
 - Main File - Sweet 6 Shooter Perk Pack TTW Version
 
-### [Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682) <sup>~~Vanilla +~~</sup>
+### [Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682)
 
 A set of perks that grant bonuses once idolized by various factions.
 
 #### Installation:
 
 - Main File - Friends With Benefits Perk Pack
-- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445) <sup>~~Vanilla +~~</sup>
+- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445)
