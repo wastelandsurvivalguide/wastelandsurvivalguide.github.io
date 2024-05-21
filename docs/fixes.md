@@ -153,7 +153,7 @@ Fixes vanilla FaceGen tints.
 Certain weapon mods have an empty line above the description. This simple fix rectifies that issue.
 
 #### Installation:
--Main File - Consistent Weapon Mod Descriptions
+- Main File - Consistent Weapon Mod Descriptions
   - Main File:<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Vanilla (Plugin)<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Tale of Two Wastelands (Plugin)<br/>
