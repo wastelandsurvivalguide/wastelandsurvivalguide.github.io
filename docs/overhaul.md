@@ -25,7 +25,7 @@ A simple and comprehensive loot scarcity mod using event-based scripting. Preven
 - Main File - [Famine - TTW Exceptions](https://www.nexusmods.com/newvegas/mods/83127)
 - Main File - [TTW Fix Famine Raven Rock](https://www.nexusmods.com/newvegas/mods/81011)
 
-### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) <sup>Hardcore</sup>
+### [RAD - Radiation (Is) Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541)
 
 Overhauls all aspects of radiation, making it far more consequential.
 
@@ -40,7 +40,7 @@ Overhauls all aspects of radiation, making it far more consequential.
   - Optional:
     - [ ] Better Stealth Suit Mk II
 
-### [New Blood](https://www.nexusmods.com/newvegas/mods/75666) <sup>Hardcore</sup>
+### [New Blood](https://www.nexusmods.com/newvegas/mods/75666)
 
 Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bleeding effects on bladed weapon hits that penetrate DT, formula based knockdown effects for blunt weapons and shotguns that penetrate DT, body part damage rebalancing, and a DT/DR/resistance overhaul for creatures.
 
@@ -48,7 +48,7 @@ Sweet's take on a lighter alternative to BLEED's damage overhaul. It includes bl
 
 - Main File - New Blood
 
-### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379) <sup>Hardcore</sup>
+### [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379)
 
 Features 16 new healing items and new Survival healing options, including a bandage that removes the bleeding effect imparted by the New Blood mod.
 
@@ -57,7 +57,7 @@ Features 16 new healing items and new Survival healing options, including a band
 - Main File - Aid Addon
 - Optional File - [ySI - Sorting Icons - S6S Aid Addon Patch](https://www.nexusmods.com/newvegas/mods/74358)
 
-### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) <sup>Hardcore</sup>
+### [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437)
 
 A top to bottom overhaul and rebalancing of consumable and misc items.
 
@@ -69,7 +69,7 @@ A top to bottom overhaul and rebalancing of consumable and misc items.
 Due to the nature of this mod's change to make survival healing extending duration rather than magnitude, using this mod WITHOUT hardcore mode enabled will still display FOD and H2O item effects in consumable descriptions to indicate how much survival healing will be granted, despite needs penalties not actually advancing or applying. This is not a bug. DO NOT open support requests about this.
 :::
 
-### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) <sup>Hardcore</sup>
+### [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473)
 
 A complete overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, radiation dispersal, infirmary detox, and addiction removal.
 
@@ -77,7 +77,7 @@ A complete overhaul and rebalancing of doctors, sleep, endurance, infirmary base
 
 - Main File - Sweet Healing Systems
 
-### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360) <sup>Vanilla +</sup>
+### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360)
 
 Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
 
