@@ -14,7 +14,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
 :::
 
-### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003) <sup>Vanilla +</sup>
+### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)
 
 Fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI. **ONLY** affects the Mojave worldspace. Navmeshes in the Capital Wasteland are already high quality.
 
@@ -26,7 +26,7 @@ Fixes and improves vanilla game pathfinding errors and will provide a better and
 A compatibility patch is **NO LONGER** required for this mod.
 :::
 
-### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975) <sup>Vanilla +</sup>
+### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975)
 
 A comprehensive invisible wall remover for Tale of Two Wastelands.
 
@@ -38,7 +38,7 @@ A comprehensive invisible wall remover for Tale of Two Wastelands.
 **MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building), but is otherwise a MASSIVE quality of life improvement.
 :::
 
-### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946) <sup>Vanilla +</sup>
+### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
 
 Improves collision meshes in the Capital Wasteland.
 
@@ -46,7 +46,7 @@ Improves collision meshes in the Capital Wasteland.
 
 - Main File - Collision Meshes FO3
 
-### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149) <sup>Vanilla +</sup>
+### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
 
 Improves collision meshes in the Mojave Wasteland.
 
@@ -55,7 +55,7 @@ Improves collision meshes in the Mojave Wasteland.
 - Main File - Collision Meshes FNV
 - Main File - Update Collision Meshes FNV 1.6.3 to 1.6.4
 
-### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295) <sup>Vanilla +</sup>
+### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
 
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
@@ -63,15 +63,15 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 - Main File - New Vegas Mesh Improvement Mod
 
-### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815) <sup>Vanilla +</sup>
+### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
 Fixes dozens of game models across the base game and DLCs.
 
-### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622) <sup>Vanilla +</sup>
+### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076) <sup>Vanilla +</sup>
+### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
 
 Adjusts a few shader flags to litter meshes to stop the litter from flickering.
 
@@ -83,7 +83,7 @@ Main File - Mainframes Litter Flickering Fix v5
 
 Adds a shader flag to vent meshes that fixes flickering and lighting issues.
 
-### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775) <sup>Vanilla +</sup>
+### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
 Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
 
@@ -99,7 +99,7 @@ Drastically improves performance on The Strip by getting rid of unseen water LOD
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
 
-### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501) <sup>Vanilla +</sup>
+### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501)
 
 Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
 
@@ -112,7 +112,7 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
   - Step 2:
     - [ ] A World of Pain - **DO NOT** install this patch. It is incompatible with the overhauls used in the guide
 
-### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909) <sup>Vanilla +</sup>
+### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 
 Optimizes more than 200 interior cells with roombounds and occlusion planes to improve performance in the Capital Wasteland.
 
