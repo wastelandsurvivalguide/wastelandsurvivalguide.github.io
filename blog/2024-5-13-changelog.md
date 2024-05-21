@@ -1,5 +1,20 @@
 # May 2024 
 
+### 21/05/2024
+
+### Bugfixes, Clarifications, Updates
+- Updated a few mod descriptions and clarified install instructions.
+- Removed all of the Vanilla+/Hardcore notations.
+
+### Removals
+- Removed Weapon Jamming Tweaks.
+- Removed B42 Optics in favor of PSRO.
+
+### Additions
+- Added Weapon Requirements System - Custom INI.
+- Added Scope Aim Tweaks.
+- Added PSRO - Peripheral Scope Reticle Overhaul.
+
 ### 20/05/2024
 
 ### Bugfixes, Clarifications, Updates
