@@ -9,12 +9,12 @@
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/users/3644561)
 - [Shabby Pirate](https://www.nexusmods.com/users/78372218)
-- Kamchatka
 
 ### Past Contributors & Shoutouts
 
 - [The Many](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 - [Ungeziefi](https://www.nexusmods.com/users/204130013) - [Donate](https://paypal.me/Ungeziefi)
+- Kamchatka
 - [AVeryUncreativeUsername](https://www.nexusmods.com/users/78355343)
 - [Adam Adamowicz](https://www.flickr.com/photos/47857688@N08/sets/72157629320774861)
 - [anhatthezoo](https://www.nexusmods.com/users/38240420)
