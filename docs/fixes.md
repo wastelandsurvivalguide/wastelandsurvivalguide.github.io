@@ -12,24 +12,6 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Extra Utilities
 
-### JIP LN NVSE Plugin - Unreleased Update File
-
-An **UNRELEASED** update file for JIP LN NVSE. The current version available on Nexus and directed to by The Best of Times guide has a **CRITICAL BUG** that is prone to crashes. This version addresses said crashes. 
-
-:::danger CRITICAL UPDATE! DO NOT SKIP!
-This version was created and uploaded by the **original author, JazzIsParis**, however he has since gone on hiatus and has not formally uploaded it to Nexus.
-:::
-
-#### Installation:
-- Main FIle - [jip_nvse.dll](https://drive.google.com/file/d/1NOyL4u6HPVUurtaX3P3XU13qeN3O6G_b/view?usp=drivesdk)
-- This must be manually installed.
-  - Right click the JIP LN NVSE Plugin mod in your Utilities seperator in MO2.
-  - Select open in explorer.
-  - Open the NVSE folder, then the Plugins folder. 
-    - To confirm you are in the correct folder, you should see a file titled jip_nvse.dll (the same name as the file you downloaded earlier).
-  - Drag the new jip_nvse.dll file from your downloads folder into the JIP Plugins folder.
-  - When prompted, select replace original file.
-
 ### [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
 
 A script extender plugin that adds many new functions, required by some of the mods in the guide. 
