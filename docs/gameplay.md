@@ -47,7 +47,6 @@ Many skill checks, including speech checks, will display **DIFFERENT** skill val
 
 - Main File - CHR Tweaks
 - Optional File - [Charisma Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130921&nmm=1)
-  - Enables recommended settings while disabling Charisma Affects Reputation in favor of EDGEs implementation of the same.
 
 ### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
 
