@@ -187,6 +187,8 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 
 ### [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)
 
+Makes the GRA unique weapons unavailable for purchase and scatters them across the Mojave, Zion, and the Big MT - just like all the other unique weapons.
+
 #### Installation:
 
 - Main File - GRA UWR Unbalanced
