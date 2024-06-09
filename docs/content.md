@@ -189,8 +189,7 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 
 #### Installation:
 
-- Main File - GUWR Unbalanced
-- Main File - [GRA Unique Weapons Relocated - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000121577&nmm=1)
+- Main File - GRA UWR Unbalanced
 
 ### [Another Milenia](https://www.nexusmods.com/newvegas/mods/76133)
 
