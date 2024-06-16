@@ -159,6 +159,11 @@ If you only installed one of Mojave Raiders or Mojave Wildlife, select only the 
 
 An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
 
+#### Installation:
+
+- Main File - The Great Mojave Interior Overhaul
+- Optional Files - [FPGE - Functional Post Game Ending - Patch](https://www.nexusmods.com/newvegas/mods/72933)
+
 ## New Quests
 
 ### [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
