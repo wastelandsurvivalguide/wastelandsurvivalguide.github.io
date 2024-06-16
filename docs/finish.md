@@ -137,7 +137,7 @@ Player Combat Priority.esp
 PCP Reduced Chance To Attack Doggo Patch.esp
 TheAIMerge.esp
 GRA Scavenger Hunt Unbalanced.esp
-GUWR - TTW Patch.esp
+GRA Scavenger Hunt Unbalanced TTW.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
 Hitstop.esp
