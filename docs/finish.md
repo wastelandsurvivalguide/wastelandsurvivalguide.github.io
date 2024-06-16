@@ -147,6 +147,7 @@ NVMIM.esp
 Impostors and LOD Flicker Fix.esp
 Tactapack_-_TTW_Patch.esp
 AWSOMER.esp
+TGMIO_FPGE_Patch.esp
 ATMOS Ambient Overhaul.esp
 ATMOS NV - TTW Patch.esp
 ATMOS NV + FPGE Patch.esp
