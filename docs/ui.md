@@ -220,10 +220,10 @@ Uses yUI features to add many custom icons and advanced sorting logic to improve
 - Main File - ySI - Sorting Icons
 - Main File - [Colorful Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674)
 - Main File - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
+- Optional Files - ySI - Colorful Icons Support (Categories LITE)
 - Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 - Main File - [ySI - Assorted Fixes](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
 - Optional File - [Exit Categories with Tab](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
-- Main File - [ySI Extended TTW](https://www.nexusmods.com/newvegas/mods/84352)
 - Main File - [ySI Vanilla MiscQuest Items Patch](https://www.nexusmods.com/newvegas/mods/81230)
 
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
