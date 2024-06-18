@@ -299,7 +299,7 @@ A total overhaul to Map Marker icons, also including an extension that replaces 
     - [x] Unique Location Icons
     - [x] Unique Icons with General Mod Support
 
-### Consistent Pip-Boy Icons Collection <sup>Vanilla +</sup>
+### Consistent Pip-Boy Icons Collection
 
 Various high-quality Pip-Boy icons.
 
