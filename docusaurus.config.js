@@ -7,7 +7,7 @@ const config = {
   title: "Wasteland Survival Guide",
   tagline: "A Tale of Two Wastelands Modding Guide",
   favicon: "img/wsg.webp",
-  url: "https://wastelandsurvivalguide.com",
+  url: "https://wastelandsurvivalguide.github.io/",
   baseUrl: "/",
   organizationName: "wastelandsurvivalguide",
   projectName: "wastelandsurvivalguide.github.io",
