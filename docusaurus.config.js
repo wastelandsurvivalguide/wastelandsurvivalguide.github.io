@@ -126,7 +126,7 @@ const config = {
           },
           {
             label: "Performance Guide",
-            href: "https://wallsogb.github.io/FalloutNV-Performance-Guide",
+            href: "https://performance.moddinglinked.com/falloutnv.html",
           },
           {
             label: "New Vegas Visual Renewal",
