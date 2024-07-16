@@ -4,8 +4,8 @@
   <ShortName>Wasteland Survival Guide</ShortName>
   <Description>Search Wasteland Survival Guide</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://wastelandsurvivalguide.com/img/wsg.webp</Image>
-  <Url type="text/html" method="get" template="https://wastelandsurvivalguide.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://wastelandsurvivalguide.com/opensearch.xml" />
-  <moz:SearchForm>https://wastelandsurvivalguide.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://wastelandsurvivalguide.github.io/img/wsg.webp</Image>
+  <Url type="text/html" method="get" template="https://wastelandsurvivalguide.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://wastelandsurvivalguide.github.io/opensearch.xml" />
+  <moz:SearchForm>https://wastelandsurvivalguide.github.io/</moz:SearchForm>
 </OpenSearchDescription>
