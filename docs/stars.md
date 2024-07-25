@@ -39,7 +39,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
 - Main File - [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927), you should already have this from following The Best of Times guide.
 - Main FIle - [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330), you should already have this if following the guide.
 - Main File - [SPAHUD](https://www.nexusmods.com/newvegas/mods/86369), you should already have this if following the guide.
-- Main File - [Tranquility Lane Fix](https://www.nexusmods.com/newvegas/mods/77018?tab=files&file_id=1000094179&nmm=1)
+- Main File - [Tranquility Lane Fix](https://www.nexusmods.com/newvegas/mods/77018?tab=files&file_id=1000094179&nmm=1), you should already have this if following the guide.
 - Main File - [Wasteland Soldier - NV Edition Main File](https://www.nexusmods.com/newvegas/mods/46278?tab=files&file_id=105348&nmm=1)
   - **HIDE** the Wasteland Soldier - NV Edition.esp plugin.
 - Main File - [Wasteland Soldier Redux](https://www.nexusmods.com/newvegas/mods/74025?tab=files&file_id=1000082462&nmm=1)
