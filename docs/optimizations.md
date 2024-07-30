@@ -71,10 +71,6 @@ Fixes dozens of game models across the base game and DLCs.
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
-
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
-
 #### Installation:
 
 Main File - Mainframes Litter Flickering Fix v5
