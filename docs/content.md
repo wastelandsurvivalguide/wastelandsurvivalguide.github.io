@@ -141,18 +141,10 @@ TTW Patches for Mojave Raiders and Mojave Wildlife.
       - [ ] The New Bison Steve
       - [ ] Primm Reputation Restored Revised
       - [ ] Willow - A Better Companion Experience
-    - Mojave Raiders:
-      - [x] Mojave Raiders ESM
-      - [x] Mojave Raiders ESP
-    - Mojave Wildlife:
-      - [x] Mojave Wildlife (FO3-Style + No Chanced)
-      - [ ] Mojave Wildlife (FO3-Style)
-      - [ ] Mojave Wildlife (Vanilla-Style + No Chanced)
-      - [ ] Mojave Wildlife (Vanilla-Style)
-      - [ ] None
-
-:::important Instructions:
-If you only installed one of Mojave Raiders or Mojave Wildlife, select only the patches corresponding to that mod.
+   
+:::
+important Message:
+When i installed this mod it didn't show "next" it only showed installed please cheek it out and finout if the file we need is an old one
 :::
 
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
