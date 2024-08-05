@@ -89,10 +89,6 @@ Holding a grenade before throwing it decreases its fuse.
 
 ## Reactions & Animations
 
-### [Crippled Limb Reaction Enforcer](https://www.nexusmods.com/newvegas/mods/73147)
-
-Makes idle animations for crippled limbs persist in situations where the game does not enforce them correctly. Also gives NPCs debuffs when crippled, similar to those that the player receives.
-
 ### [Simple Attack Reactions - Limb-Specific Animations](https://www.nexusmods.com/newvegas/mods/79687)
 
 Adds a simple animation command line to each grunt when hit. Greatly enhances the flow and realism of combat.
