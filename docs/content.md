@@ -130,7 +130,7 @@ TTW Patches for Mojave Raiders and Mojave Wildlife.
 
 #### Installation:
 
-- Main File - [A Very Uncreative Collection of TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
+- Main File - [A Very Uncreative Collection of TTW Patches](https://www.nexusmods.com/newvegas/mods/78465?tab=files&file_id=1000131628&nmm=1)
   - Patch Selection: 
     - Plugins:
       - [ ] Afterschool Special
@@ -159,15 +159,16 @@ If you only installed one of Mojave Raiders or Mojave Wildlife, select only the 
 
 An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
 
-## New Quests
+#### Installation:
 
-### [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
-
-Adds a quest that takes you to 10 different locations across the Capital Wasteland in search of treasure.
-
-### [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
-
-Allows you to take on various missions from the Regulators HQ to hunt down fugitives.
+- Main File - The Great Mojave Interior Overhaul
+  - Main Files:
+    - [x] The Great Mojave Interior Overhaul Main File
+  - Patches:
+    - [x] FPGE - Functional Post Game Ending
+    - [ ] Gun Runner's Arsenal Displayed
+    - [x] The Living Desert
+    - [ ] Classic Adobe Buildings
 
 ## Dialogue
 
@@ -209,14 +210,6 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 - Main File - Another Millenia Gun Add-on
 - Update File - Hotfix 1
 
-### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
-
-Adds over a dozen high quality firearms, energy weapons, and melee weapons made by Zealotlee.
-
-### [ZL Armaments Remastered And FNV 3DNPC Bundle Updated Patch](https://www.nexusmods.com/newvegas/mods/87064)
-
-This mod moves the Westside diner introduced in 3DNPCSNV to another location just across the street because ZL shop also occupies the same location.
-
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
 A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanced, and reintegrated!
@@ -224,6 +217,16 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 #### Installation:
 - Main File - Tactapack
 - Update File - Hotfix 1.6a
-  - **DO NOT** install the hotfix seperately, merge it into the main Tactapack fileby renaming it to "Tactapack" during installation.
 - Optional File - TTW Cell Forwarding Patch
-  - **DO NOT** install the TTW Cell Forwarding Patch seperately, merge it into the main Tactapack file by renaming it to "Tactapack" during installation.
+
+### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
+
+Adds over a dozen high quality firearms, energy weapons, and melee weapons made by Zealotlee.
+
+:::tip Note
+You can enable lore friendly names in the mod's INI file.
+:::
+
+### [ZL Armaments Remastered And FNV 3DNPC Bundle Updated Patch](https://www.nexusmods.com/newvegas/mods/87064)
+
+This mod moves the Westside diner introduced in 3DNPCSNV to another location just across the street because ZL shop also occupies the same location.
