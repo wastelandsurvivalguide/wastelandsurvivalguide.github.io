@@ -29,7 +29,7 @@ The mod **WILL NOT FUNCTION** without the update file!
 
 Modernized vanilla-style UI with many enhancements and bug fixes.
 
-:::tip Installation help:
+:::tip Installation
 If you don't know how to install a mod manually, refer to the [instructions in the The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?).
 :::
 
@@ -244,9 +244,10 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
   - Interface:
     - [x] ySI - Sorting Icons
     - [x] Map Markers
-  - Optional:
-    - [x] ySI - Categories Lite
-    - [ ] ySI - Categories Full
+  - ySI - Categories:
+    - [x] Lite
+    - [ ] Full
+    - [ ] None
 
 ### [ySI - Contextual Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 
