@@ -44,7 +44,7 @@ After a moderate hiatus, I am once again updating the guide. A lot of maintenanc
 - Removed the entire AI section. They were causing far too many problems that were not worth keeping them for.
 
 ### Content
-- Updated install instructions fro A Very Uncreative Collection of TTW Patches.
+- Updated install instructions for A Very Uncreative Collection of TTW Patches.
 - Added install instructions for The Great Mojave Interior Overhaul.
 - Removed A Trail of Crumbs and The Regulators. They were relatively low quality and didn't much to the game, plus The Regulators had conflicts with other content mods.
 - Removed the unnecessary warnings on Tactapack's update and optional files.
