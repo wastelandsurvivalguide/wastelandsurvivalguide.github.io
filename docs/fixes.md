@@ -32,13 +32,13 @@ Implements a framework to create and automatically load keywords in a simple use
 
 Fixes bugs and adds utilities for weather mods.
 
-### [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131763&nmm=1)
+### [Stewies Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137710&nmm=1)
 
-A custom INI file for Stewie's Tweaks that enables many useful gameplay and QoL tweaks.
+A custom INI file for Stewie's Tweaks that enables many useful gameplay and quality of life tweaks.
 
 ### [Faster Main Menu](https://www.nexusmods.com/newvegas/mods/67811)
 
-Makes the games main menu load faster.
+Makes the game's main menu load faster.
 
 ### [Faster Sleep-Wait](https://www.nexusmods.com/newvegas/mods/66785)
 
@@ -110,6 +110,10 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 - Main File - Equip and Movement Speed Fix - ESPless
 
+### [Gas Trap Performance Fix](https://www.nexusmods.com/newvegas/mods/88587)
+
+Fixes the script lag﻿ occurring in cells with numerous gas traps, especially noticeable in locations such as Vault 22.
+
 ### [NPCa - NPC Prevention of Chem addiction - ESPless](https://www.nexusmods.com/newvegas/mods/73622)
 
 Prevents NPCs from gaining addiction effects when using chems or alcohol, as they do not attempt to resolve said debuffs.
@@ -140,3 +144,13 @@ Certain weapon mods have an empty line above the description. This simple fix re
     <RadioButtonUncheckedIcon fontSize="small" /> Vanilla (Plugin)<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Tale of Two Wastelands (Plugin)<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Scriptrunner (ESPless)<br/>
+  - Additional Options:
+    - [ ] Remove Stat Values
+
+### [Flashbang Tutorial Remover - ESPLESS](https://www.nexusmods.com/newvegas/mods/87162)
+
+Removes the tutorial script from Lonesome Road's Flashbangs. Can even help inventory performance if you carry hundreds of them.
+
+### [Slideshow FOV Fix - ESPLess](https://www.nexusmods.com/newvegas/mods/87119)
+
+Fixes the issue with slideshows being the wrong size based on your FOV.
