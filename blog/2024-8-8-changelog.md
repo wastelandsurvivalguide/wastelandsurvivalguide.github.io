@@ -38,8 +38,9 @@ After a moderate hiatus, I am once again updating the guide. A lot of maintenanc
 - Removed MCM instructions for Enhanced Movement. Seems like "Use INI" is enabled by default, so the instructions felt unnecessary. If that's not the case for everyone, let me know.
 - Removed all perk mods. The changes were too drastic for most and also came with a performance impact. Also, having to install a mod that changes how the disguise system works for one perk pack was too much. A new perk overhaul has been added to the Overhauls page.
 
- ### Combat
+### Combat
 - Added a custom INI for Immersive Recoil 2.0 with much more reasonable recoil settings.
+- Removed Crippled Limb Reaction Enforcer as it was causing crashes.
 - Removed the entire AI section. They were causing far too many problems that were not worth keeping them for.
 
 ### Content
