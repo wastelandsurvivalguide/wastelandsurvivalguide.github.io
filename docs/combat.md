@@ -31,7 +31,12 @@ Adds selective fire to various weapons and introduces first shot accuracy mechan
 
 ### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
 
-Adds working recoil to the wasteland. 
+Adds working recoil to the wasteland.
+
+#### Installation:
+
+- Main File - Immersive Recoil 2.4.1
+- Main File - [Immersive Recoil 2.0 - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137724&nmm=1)
 
 ### [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971)
 
@@ -98,23 +103,3 @@ Adds a simple animation command line to each grunt when hit. Greatly enhances th
 - Main File - Simple Attack Reactions - TTW
 - Update File - (A) SAR Settings - DT
 - Update File - (B) SAR Settings - DT - Player
-
-## Combat AI
-
-### [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699)
-
-Prevents the game becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
-#### Installation:
-
-- Main File - Player Combat Priority
-- Main File - [PCP Doggo Patch](https://www.nexusmods.com/newvegas/mods/80339)
-  - A patch that further compounds the effects of Player Combat Priority in order to make dogs more survivable in combat.
-
-### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
-
-A reliable collection of AI tweaks designed to improve AI intelligence in combat while still preserving scripted sequences.
-
-#### Installation:
-
-- Main File - The AI Merge
