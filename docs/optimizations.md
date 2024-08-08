@@ -71,13 +71,9 @@ Fixes dozens of game models across the base game and DLCs.
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
+### [Optimized Weapon World Models (ESPLESS)](https://www.nexusmods.com/newvegas/mods/88611)
 
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
-
-#### Installation:
-
-Main File - Mainframes Litter Flickering Fix v5
+Adds new "world models" for weapons on the ground for better combat performance with zero visual or gameplay changes from vanilla.
 
 ### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
 
@@ -85,7 +81,7 @@ Adds a shader flag to vent meshes that fixes flickering and lighting issues.
 
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
-Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
+Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
 
 #### Installation:
 
