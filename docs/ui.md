@@ -27,7 +27,11 @@ The mod **WILL NOT FUNCTION** without the update file!
 
 ### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 
-Modernized vanilla-style UI with many enhancements and bug fixes. 
+Modernized vanilla-style UI with many enhancements and bug fixes.
+
+:::tip Installation help:
+If you don't know how to install a mod manually, refer to the [instructions in the The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?).
+:::
 
 #### Installation:
 
@@ -123,8 +127,8 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 #### Installation:
 
 - Main File - Quick Select
-- Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131042&nmm=1)
-  - Remaps the hotkeys for weapons to 1 and aid to 2. Disables throwables in favor of B42 quickthrow.
+- Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137712&nmm=1)
+  - Remaps the hotkeys for weapons to 1 and aid to 3. Disables throwables in favor of B42 Quickthrow.
  
 ### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
 
@@ -218,13 +222,35 @@ Uses yUI features to add many custom icons and advanced sorting logic to improve
 #### Installation:
 
 - Main File - ySI - Sorting Icons
-- Main File - [Colorful Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674)
-- Main File - [ySI - Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
-- Main File - [ySI - Pick Up Prompts](https://www.nexusmods.com/newvegas/mods/85117)
-- Main File - [ySI - Assorted Fixes](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
-- Optional File - [Exit Categories with Tab](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
-- Main File - [ySI Extended TTW](https://www.nexusmods.com/newvegas/mods/84352)
+- Main File - [ySI - Assorted Fixes](https://www.nexusmods.com/newvegas/mods/86715)
+- Optional File - [Exit Categories with Tab](https://www.nexusmods.com/newvegas/mods/86715)
 - Main File - [ySI Vanilla MiscQuest Items Patch](https://www.nexusmods.com/newvegas/mods/81230)
+
+### [Colorful Inventory Ycons](https://www.nexusmods.com/newvegas/mods/78674)
+
+Turns the white icons from ySI - Sorting Ycons into colored ones.
+
+#### Installation:
+
+- Main File - Color Inventory Ycons
+
+### [Colorful Icons Support](https://www.nexusmods.com/newvegas/mods/85075)
+
+Colorful UI icons will retain their look regardless of interface tint. Also includes categories for the Aid and Misc sections of the Pip-Boy.
+
+#### Installation:
+
+- Main File - Colorful Icons Support
+  - Interface:
+    - [x] ySI - Sorting Icons
+    - [x] Map Markers
+  - Optional:
+    - [x] ySI - Categories Lite
+    - [ ] ySI - Categories Full
+
+### [ySI - Contextual Prompts](https://www.nexusmods.com/newvegas/mods/85117)
+
+Adds contextual ySI - Sorting Icons to the crosshair prompt.
 
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
 
@@ -234,15 +260,14 @@ Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
 Sharper, clearer local maps.
 
-### [Simple Power Armor HUD](https://www.nexusmods.com/newvegas/mods/86369)
+### [Pipboy Holo Panel ESPless](https://www.nexusmods.com/newvegas/mods/86483)
 
-A stripped down and updated version of No PipBoy in Power Armor, which replaces the Pip-Boy with a holopanel while wearing power armor.
+Replaces the Pip-Boy with a holopanel while wearing power armor.
 
 #### Installation:
 
-- Main File - SPAHUD
-- Main File - [Alternate Holographic Panel - Background Version](https://www.nexusmods.com/newvegas/mods/82636)
-  - Provides an improved holographic control panel interface for use alongside Simple Power Armor HUD.
+- Main File - Pipboy Holo Panel ESPless
+- Main File - [Pipboy Holo Panel - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137714&nmm=1)
 
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
@@ -280,7 +305,7 @@ Adds custom icons for weapons in hotkeys.
     - [x] ItsMeJesusHChrist Mods Support
     - [ ] FO3 Weapons Restoration
   - Compatibility Patches:
-    - [x] Just Assorted Mods Compatibility Patch
+    - [ ] Just Assorted Mods Compatibility Patch
     - [ ] Just Weapon Hweel Compatibility Patch
 
 ### [Map Marker Icons](https://www.nexusmods.com/newvegas/mods/83575)
@@ -299,7 +324,7 @@ A total overhaul to Map Marker icons, also including an extension that replaces 
     - [x] Unique Location Icons
     - [x] Unique Icons with General Mod Support
 
-### Consistent Pip-Boy Icons Collection <sup>Vanilla +</sup>
+### Consistent Pip-Boy Icons Collection
 
 Various high-quality Pip-Boy icons.
 
@@ -319,8 +344,14 @@ Various high-quality Pip-Boy icons.
   - Dynamicon:
     - [x] Main Mod
     - [x] Optional ESPLess Plugin
-- Main File - [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
-  - TTW patches for the above 'Icons' mods.
+
+### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
+
+TTW patches for the above 'Icons' mods.
+
+#### Installation:
+
+- Main File - TTW Goodies
   - Patch for Pop-Up Message Icons:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Install It<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Don't<br/>
@@ -357,7 +388,7 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
     - [x] Plugin (Recommended)
     - [ ] Scriptrunner
   - Texture Addon:
-    - [x] Smooth Glow Cursor
+    - [x] Clean Glow Cursor
     - [x] MAPMO Bottle Cap Icon
     - [x] Colorful Interface Icons
    
@@ -367,8 +398,4 @@ Speeds up the animation for pulling out and putting away the Pip-Boy.
 
 #### Installation:
 
-- Choose the desired speed and the version that aligns with your character's sex.
-
-:::note
-The female version has built in realignment, which fixes the tilt that could sometimes occur when opening the Pip-Boy. Some Pip-Boy replacers **ALREADY** realign the Pip-Boy, causing this effect to compound. If this happens to you, **try the regular (non-female) version instead**.
-:::
+- Main File - Faster Pipboy
