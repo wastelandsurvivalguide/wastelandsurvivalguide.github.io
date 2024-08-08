@@ -42,7 +42,7 @@ Overhauls all aspects of radiation, making it far more consequential.
 
 ### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360)
 
-Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.
+Makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max selling and min buying prices.
 
 #### Installation:
 
