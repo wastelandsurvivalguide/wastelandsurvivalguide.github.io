@@ -18,10 +18,6 @@ If you do decide to use the New Vegas Visual Renewal guide, **move the mods in t
 
 ## Visual Improvements
 
-### [Impostors and LOD Flicker Fix](https://www.nexusmods.com/newvegas/mods/83691)
-
-Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.
-
 ### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898)
 
 Adds LOD noise texture for Mid Frequency Details, which helps blend far terrain with closer details.
@@ -111,23 +107,23 @@ A comprehensive melee animation overhaul for almost every single one-handed mele
 
 #### Installation:
 
-- Main File - 1. Butcher Pete Complete - A Melee Animation Overhaul (Hitman Locomotion)
+- Main File - 1. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)
 
 ### [Wasteland Warrior - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/80277)
 
 Reanimates all animations for all two-handed melee weapon in the game.
 
 #### Installation:
-- Main File - 1. Wasteland Warrior - A Melee Animation Overhaul (Hitman Locomotion)
+- Main File - 1. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)
 - Update File - Left Attack Fix
 
-### [Blended Locomotion](https://www.nexusmods.com/newvegas/mods/79295)
+### [Enhanced Locomotion](https://www.nexusmods.com/newvegas/mods/88446)
 
-Blends Hit - Locomotion, rockomotion, and some of hitman's old locomotion (jump files) into one locomotion set.
+Complete 1st person locomotion animation overhaul. Covers all animations: running, walking, jumping, landing, sneaking, limping, etc, for all weapon types.
 
 #### Installation:
 
-- Main File - Blended Locomotion
+- Main File - Enhanced Locomotion
 
 ### [Iron Sights Aligned](https://www.nexusmods.com/newvegas/mods/81933)
 
@@ -147,16 +143,18 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [x] New Vegas Animation Overhaul - Guns
     - [ ] EliV3's ETJ kNVSE Animations
   - Weapon Replacers:
-    - [ ] Laser Weapon Iron Sights
     - [ ] WAP Weapon Replacers
+    - [ ] Laser Weapon Iron Sights
+    - [ ] 10mm Pistol and Friends
     - [ ] C.A.R and OUR Friends
+    - [ ] Combat Shotgun and Friends
+    - [ ] DKS and Friends
     - [ ] R91 and Friends
   - Additional Patches:
     - [ ] Yukichigai's Unofficial Patch
     - [ ] Hitman's Anims No Burst Fire
   - Animation Preset:
     - [x] Vanilla
-    - [ ] WAP
     - [ ] Custom
 
 :::important
@@ -184,14 +182,11 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
   - Tale of Two Wasteland Mods: 
     - [ ] .32 Caliber Weapons Pack
     - [ ] Alton IL
-    - [x] A World of Pain for Fallout 3
+    - [ ] A World of Pain for Fallout 3
     - [ ] DC Arsenal
     - [ ] EDGE
-    - [x] The Regulators
+    - [ ] The Regulators
   - Standalone Weapons: 
-    - [ ] Hitman's RPD
-    - [ ] Hitman's KRISS Vector
-  - Weapon Packs: 
     - [ ] Hitman's RPD
     - [ ] Hitman's KRISS Vector
   - Weapon Packs:
@@ -217,39 +212,10 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] Marlin Thumper
     - [ ] Raging Bull
     - [ ] Rainer AK - Remastered
-  - AWOP FO3 kNVSE Animation Options:
-    - .44 Magnum Revolver
-      - [x] Hitman
-      - [ ] Rockbiter
-    - 10mm Submachine Gun
-      - [x] Hitman
-      - [ ] Rockbiter
-    - Assault Rifle
-      - [x] Hitman
-      - [ ] Rockbiter
-    - Chinese Assault Rifle
-      - [x] Hitman
-      - [ ] Rockbiter
-    - Hunting Rifle
-      - [x] Hitman
-      - [ ] Rockbiter
-    - Plasma Pistol
-      - [x] Hitman
-      - [ ] Rockbiter
-    - Laser Rifle
-      - [x] Hitman
-      - [ ] Rockbiter
-  - EDGE TTW kNVSE Animation Options:
-    - Hunting Rifle
-      - [ ] Hitman
-      - [ ] Rockbiter
-  - The Regulators kNVSE Animation Options:
-    - 10mm Submachine Gun
-      - [x] Hitman
-      - [ ] Rockbiter
-    - Sawed-Off Shotgun
-      - [x] Hitman
-      - [ ] Rockbiter
+
+### [kNVSE Fixpack](https://www.nexusmods.com/newvegas/mods/88243)
+
+A selection of kNVSE related bug fixes, covering issues that commonly occur when using kNVSE animation mods.
 
 ### [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701)
 
@@ -337,7 +303,11 @@ Modernized ambient soundscape with an object based directional sound system. Est
 - Main File - ATMOS Ambient Sound Overhaul - WAV version
 - Main File - [ATMOS NV - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130990&nmm=1)
 - Main File - [ATMOS NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130991&nmm=1)
-  - If you downloaded [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) earlier in the guide.
+- Main File - [ATMOS - ExRB Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137728&nmm=1)
+
+### [PhySFX](https://www.nexusmods.com/newvegas/mods/87832)
+
+Replaces the impact sounds of various physics objects in the game, such as metal objects and glass, with newer, higher quality audio.
 
 ### [All Weapon Sound Overhaul Modern Edition Redone - AWSOMER](https://www.nexusmods.com/newvegas/mods/84235)
 
@@ -347,11 +317,8 @@ A full replacement of all ballistic, explosive and energy weapon sounds.
 
 - Main File - AWSOMER
 - Main File - [Another Millenia - AWSOMER Patch](https://www.nexusmods.com/newvegas/mods/85014)
-  - If you downloaded [Another Milenia](https://www.nexusmods.com/newvegas/mods/76133) earlier in the guide.
 - Main File - [Another Millenia Gun-Addon - AWSOMER Patch](https://www.nexusmods.com/newvegas/mods/85014)
-  - If you downloaded [Another Milenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358) earlier in the guide.
 - Main File - [Tactapack - AWSOMER Patch](https://www.nexusmods.com/newvegas/mods/85014)
-  - If you downloaded [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) earlier in the guide.
 
 ## Lighting
 
@@ -366,6 +333,11 @@ xNVSE plugin that almost completely fixes the exterior lighting bug, and allows 
 ### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378)
 
 Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.
+
+#### Installation:
+
+- Main File - Atmospheric Lighting Tweaks - TTW
+- Main File - [ATMOS - Atmospheric Lighting Tweaks Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137727&nmm=1)
 
 ### [Natural Interiors](https://www.nexusmods.com/newvegas/mods/81420)
 
@@ -396,10 +368,11 @@ An overhaul of weathers with 360 degree panoramic cloud textures, improved light
 #### Installation:
 
 - Main File - Accurate Stars
+- Optional File - Accurate Stars - Mothership Zeta Patch
 
 ### [NillaPlus Maximum Moon 4K 2K 1K](https://www.nexusmods.com/newvegas/mods/86153)
 
-MOOOOOOOOON (it's bigger, it's brighter, it's round...er?)
+Improved, higher resolution texture for the moon.
 
 #### Installation:
 
