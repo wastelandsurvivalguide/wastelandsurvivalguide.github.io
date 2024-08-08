@@ -208,7 +208,7 @@ Gives TTW vendors better selections.
 - Main File - Craterside Supply Expansion
 - Main File - Flak n Shrapnel Expansion
  
-### [Better Damage Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
+### [Better Damage - Superior Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
 Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
 
@@ -229,9 +229,10 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
     - [ ] Downloadable Content
     - [x] Tale of Two Wastelands
 - Main File - [SD_Transporters Spelling Pathc](https://www.nexusmods.com/newvegas/mods/83130)
+  - The name is not a typo.
 
 :::tip
-Consider **DISABLING** traditional fast traveling in Stewies Tweaks for a more **hardcore** experience.
+Consider **DISABLING** traditional fast traveling in Stewie's Tweaks for a more **hardcore** experience.
 :::
 
 ### [NPCs Sprint kNVSE - ESPless](https://www.nexusmods.com/newvegas/mods/83745)
@@ -250,38 +251,3 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 
 - Main File - Enhanced Movement
 - Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131761&nmm=1)
-
-:::important Instructions:
-- To apply the Custom INI settings:
-  - Press M from the pause menu to access the MCM.
-  - Navigate to Enhanced Movement.
-  - Enable "Use INI."
-:::
-
-## Perks
-
-### [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946)
-
-This is a complete rebalance and overhaul of many base game perks.
-
-#### Installation:
-
-- Main File - Sweet Perk Overhaul
-- Optional File - No Big Guns Patch
-
-### [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438)
-
-The Sweet 6 Shooter perk pack adds many new perks and traits to the game, with a heavy focus on proper balance, role-playing, and promoting build variety.
-
-#### Installation:
-
-- Main File - Sweet 6 Shooter Perk Pack TTW Version
-
-### [Friends With Benefits Perk Pack](https://www.nexusmods.com/newvegas/mods/74682)
-
-A set of perks that grant bonuses once idolized by various factions.
-
-#### Installation:
-
-- Main File - Friends With Benefits Perk Pack
-- Main File - [A Very Uncreative Faction Disguise Remover](https://www.nexusmods.com/newvegas/mods/81445)
