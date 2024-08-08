@@ -194,7 +194,7 @@ Makes the GRA unique weapons unavailable for purchase and scatters them across t
 
 - Main File - GRA UWR Unbalanced
 
-### [Another Milenia](https://www.nexusmods.com/newvegas/mods/76133)
+### [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133)
 
 A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
@@ -202,7 +202,7 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 - Main File - Another Millenia
 - Main File - Another Millenia - TTW Unique Placements
 
-### [Another Milenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
+### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
 
 An add-on for Another Millenia that adds many guns that did not make the original weapon pack.
 
