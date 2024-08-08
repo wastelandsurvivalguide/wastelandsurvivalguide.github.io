@@ -65,3 +65,7 @@ After a moderate hiatus, I am once again updating the guide. A lot of maintenanc
 - Added PhySFX.
 - Added ATMOS - Atmospheric Lighting Tweaks Patch.
 - Added Accurate Stars - Motheship Zeta Patch.
+
+### Final Steps
+- Updated load order.
+- Fixed the link to the Additions page.
