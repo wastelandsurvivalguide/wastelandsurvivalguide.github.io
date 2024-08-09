@@ -87,6 +87,10 @@ Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remov
 
 - Main File - PipBoyOn Node Fixes TTW
 
+### [Female Pipboy Fixed - Ultimate Edition](https://www.nexusmods.com/newvegas/mods/87642)
+
+Fixes misaligned Pip-Boy view for female characters as well as wrist gaps in first person.
+
 ### [Aqua Performa - Strip Performance Fix](https://www.nexusmods.com/newvegas/mods/78617)
 
 Drastically improves performance on The Strip by getting rid of unseen water LOD.
