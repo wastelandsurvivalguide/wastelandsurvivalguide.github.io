@@ -14,6 +14,9 @@
 - Added Kyu's Ballistics - Fixed.
 - Added Bullet Trails.
 
+### Final Steps
+- Updated load order.
+
 ### 08/08/2024
 
 After a moderate hiatus, I am once again updating the guide. A lot of maintenance needed to be done, between mod updates, crash prone mods and new fixes and improvements coming out. The entire guide has received various changes, so these will be listed out in order, rather than type of change as it was in previous changelogs.
