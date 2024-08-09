@@ -129,6 +129,8 @@ TTWPerkOverhaul.esp
 B42Inertia.esp
 NVMIM.esp
 Tactapack_-_TTW_Patch.esp
+Kyu_Ballistics_TTW.esp
+BulletTrails.esp
 AWSOMER.esp
 ATMOS Ambient Overhaul.esp
 ATMOS - ExRB Patch.esp
