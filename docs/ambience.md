@@ -287,6 +287,31 @@ Allows multiple mods that edit the skeleton mesh to work together, required for 
 This mod **MUST** load after any other skeleton containing mods, which should already be true if following the guide.
 :::
 
+## Weapons
+
+### [aWRP - Another Weapon Retexture Project](https://www.nexusmods.com/newvegas/mods/82558)
+
+Millenia's Weapon Retexture Project, configured as scriptrunner-based model replacers.
+
+#### Installation:
+
+- Main File - aWRP - Resource
+- Main File - aWRP - Scripts (TTW)
+- Update File - aWRP - Resource Hotfix
+- Main File - [aWRP - NVAO-Guns Patch](https://www.nexusmods.com/newvegas/mods/88567)
+
+### [Kyu's Ballistics - Fixed](https://www.nexusmods.com/newvegas/mods/84939)
+
+Visually updates all the muzzle flashes, impacts and tracers that ballistic weapons use.
+
+#### Installation:
+
+- Main File - Kyu's Ballistics Fixed - TTW
+
+### [Bullet Trails](https://www.nexusmods.com/newvegas/mods/75122)
+
+Adds those non-sensical, but cool looking, smoky trails to bullets that cool games use today.
+
 ## Audio
 
 ### [ATMOS Ambient Sound Overhaul - TTW](https://www.nexusmods.com/newvegas/mods/84054)
