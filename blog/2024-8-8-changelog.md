@@ -1,5 +1,16 @@
 # Changelog - Remember
 
+### 11/08/2024
+
+### Extra Utilities & Fixes
+- Updated Stewie's Tweaks Custom INI _again_ with actually enabled ammo weight in hardcore (and in non-hardcore, nothing I can do without Stewie changing how the tweak works) and also removed switching ammo types by reloading with a full mag.
+
+### User Interface & HUD
+- Added a new MAPMO Preset - Wasteland Survival Guide v2. Includes changed pause background, better Capital Wasteland HUD colors, matching Pip-Boy colors and different quest change keybind for compatibility with B42 FireMode.
+
+### Final Steps
+- Updated load order. TTW Perk Overhaul has been moved above Supplemental Ammo Crafting to prevent conflicts.
+
 ### 09/08/2024
 
 ### Extra Utilities & Fixes
