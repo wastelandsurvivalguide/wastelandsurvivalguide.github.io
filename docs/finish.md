@@ -112,6 +112,7 @@ RAD.esp
 RAD-Fixed-TTW.esp
 Quickthrow.esp
 QuickthrowTweaks.esp
+TTWPerkOverhaul.esp
 Supplemental Ammo Crafting.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
@@ -125,7 +126,6 @@ Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
 Hitstop.esp
 Enhanced Movement.esp
-TTWPerkOverhaul.esp
 B42Inertia.esp
 NVMIM.esp
 Tactapack_-_TTW_Patch.esp
