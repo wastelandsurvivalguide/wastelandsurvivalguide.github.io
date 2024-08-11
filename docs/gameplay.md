@@ -146,21 +146,13 @@ Automatically organizes your items in any interior cell. Can be tricky to set up
 **READ THE DESCRIPTION** for further instructions on use.
 :::
 
-### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
+### [Home and Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391)
 
 Adds crafting stations and additional containers to several vanilla player homes. 
 
 #### Installation:
 
-- Main File - Home and Safehouse Tweaks
-  - Main file:
-    - [x] Home and Safehouse Tweaks
-  - Patches:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> None<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> YUP Patch<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> TTW Addon<br/>
-- Main File - Home and Safehouse Tweaks INI File
-- After installing the main file, double-click the mod, go to INI Files, and customize the INI settings to your preferences.
+- Main File - Home and Safehouse Tweaks TTW
 
 ### [Bottle The Water](https://www.nexusmods.com/newvegas/mods/83913)
 
