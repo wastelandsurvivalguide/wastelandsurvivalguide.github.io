@@ -1,5 +1,19 @@
 # Changelog - Remember
 
+### 25/08/2024
+
+### Extra Utilities & Fixes
+- Updated Gas Trap Performance Fix install instructions.
+
+### Optimizations
+- Reverted NVMIM to an older version until it is updated to fix character creation bug.
+
+### Gameplay
+- Updated Simple Night Vision install instructions.
+
+### Aesthetics & Ambience
+- Replaced Butcher Pete and Wasteland Warrior with New Vegas Animation Overhaul - Melee.
+
 ### 11/08/2024
 
 ### Extra Utilities & Fixes
