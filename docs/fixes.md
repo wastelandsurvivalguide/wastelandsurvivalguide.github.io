@@ -114,6 +114,12 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 Fixes the script lag﻿ occurring in cells with numerous gas traps, especially noticeable in locations such as Vault 22.
 
+#### Installation:
+- Main File - Gas Trap Performance Fix
+  - Main File:<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Scriptrunner<br/>
+
 ### [NPCa - NPC Prevention of Chem addiction - ESPless](https://www.nexusmods.com/newvegas/mods/73622)
 
 Prevents NPCs from gaining addiction effects when using chems or alcohol, as they do not attempt to resolve said debuffs.
