@@ -77,6 +77,14 @@ Allows for manual repositioning of the players hand clip distance.
 - Press backspace to exit the editor.
 :::
 
+### [HIPControl - Weapon Idle Position Adjuster - ESPless](https://www.nexusmods.com/newvegas/mods/81967)
+
+Allows easy adjustment of weapon position on screen. Mainly required for animation mods.
+
+#### Installation:
+
+- Main File - HIPControl
+
 ### [B42 Weapon Inertia](https://www.nexusmods.com/newvegas/mods/64335)
 
 Gives weapons realistic inertia movement.
@@ -101,21 +109,13 @@ The definitive first-person animation pack for guns in Fallout: New Vegas and TT
     - [ ] WAP Friendly
     - [ ] Custom
    
-### [Butcher Pete Complete - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/79146)
+### [New Vegas Animation Overhaul - Melee](https://www.nexusmods.com/newvegas/mods/79146)
 
-A comprehensive melee animation overhaul for almost every single one-handed melee weapon in New Vegas, its DLCs, and TTW.
-
-#### Installation:
-
-- Main File - 1. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)
-
-### [Wasteland Warrior - A Melee Animation Overhaul](https://www.nexusmods.com/newvegas/mods/80277)
-
-Reanimates all animations for all two-handed melee weapon in the game.
+The definitive first-person animation pack for all melee and unarmed weapons in New Vegas and TTW. Every one-handed, two-handed, and unarmed/fist-type melee weapon has been re-animated.
 
 #### Installation:
-- Main File - 1. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)
-- Update File - Left Attack Fix
+
+- Main File - New Vegas Animation Overhaul - Melee
 
 ### [Enhanced Locomotion](https://www.nexusmods.com/newvegas/mods/88446)
 
