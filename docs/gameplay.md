@@ -168,6 +168,8 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
   - Main File:
     - [x] Plugin (Recommended)
     - [ ] Scriptrunner
+  - Add-ons:
+    - [ ] HUD Overlay
   - Texture Quality:
     - [x] 2k
     - [ ] 1k
