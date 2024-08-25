@@ -14,7 +14,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
 :::
 
-### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)
+### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/74295?tab=files&file_id=1000103667&nmm=1)
 
 Fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI. **ONLY** affects the Mojave worldspace. Navmeshes in the Capital Wasteland are already high quality.
 
