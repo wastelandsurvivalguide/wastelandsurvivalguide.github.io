@@ -109,7 +109,7 @@ The definitive first-person animation pack for guns in Fallout: New Vegas and TT
     - [ ] WAP Friendly
     - [ ] Custom
    
-### [New Vegas Animation Overhaul - Melee](https://www.nexusmods.com/newvegas/mods/79146)
+### [New Vegas Animation Overhaul - Melee](https://www.nexusmods.com/newvegas/mods/88830)
 
 The definitive first-person animation pack for all melee and unarmed weapons in New Vegas and TTW. Every one-handed, two-handed, and unarmed/fist-type melee weapon has been re-animated.
 
