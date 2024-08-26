@@ -6,7 +6,7 @@
 - Updated Gas Trap Performance Fix install instructions.
 
 ### Optimizations
-- Reverted NVMIM to an older version until it is updated to fix character creation bug.
+- ~~Reverted NVMIM to an older version until it is updated to fix character creation bug.~~ Fixed.
 
 ### Gameplay
 - Updated Simple Night Vision install instructions.
