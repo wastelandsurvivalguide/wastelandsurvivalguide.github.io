@@ -75,8 +75,6 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
 :::tip
-**HIGHLY** recommended for balance, though inappropriate for those playing the base games for the first time.
-
 **READ THE DESCRIPTION** for details on the new location of the Medicine Bobblehead.
 :::
 
@@ -91,7 +89,7 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
   - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
 
 :::important Instructions:
-To travel to the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory" immediately after leaving the vault.
+To start in the Mojave Wasteland, select "Memory" when prompted "Is this now, or just a memory" immediately after leaving the vault.
 :::
 
 ### [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
