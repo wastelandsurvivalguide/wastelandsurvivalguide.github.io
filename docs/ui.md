@@ -253,6 +253,15 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
 
 Adds contextual ySI - Sorting Icons to the crosshair prompt.
 
+#### Installation:
+
+- Main File - ySI - Contextual Prompts
+  - Main Files:
+    - [x] Required
+  - Icon Add-on:
+    - [ ] Default
+    - [x] Colorful
+
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
 
 Sharper, clearer screens for terminals, Pip-Boy, and other screens.
