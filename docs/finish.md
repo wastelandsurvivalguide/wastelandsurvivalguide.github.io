@@ -124,6 +124,7 @@ Famine - Flora TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
+SMAC - Simple Melee Attack Cancelling and Parry.esp
 Hitstop.esp
 Enhanced Movement.esp
 B42Inertia.esp
