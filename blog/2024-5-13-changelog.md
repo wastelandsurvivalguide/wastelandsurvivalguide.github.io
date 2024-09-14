@@ -1,4 +1,4 @@
-# May 2024 
+# Changelog - There's A Place
 
 ### 21/05/2024
 
@@ -38,11 +38,9 @@
 ### Removals
 - Removed Armor Damage Overhaul.
 
-## Changelog - There's A Place
+### 19/05/2024
 
 This update sees a lot of removals from the previous iteration as well as reorganizing and restructuring of the majority of mods.
-
-### 19/05/2024
 
 ### Bugfixes, Clarifications, Updates
 - Redone several INIs to remove a lot of personal preference tweaks and changes.
