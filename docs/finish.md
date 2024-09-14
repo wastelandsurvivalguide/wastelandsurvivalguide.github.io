@@ -33,6 +33,7 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
+PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
 TTW Ultimate Invisible Wall Remover.esm
 FO3_Optimization.esm
