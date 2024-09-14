@@ -71,6 +71,10 @@ Fixes dozens of game models across the base game and DLCs.
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
+### [Performance Of The Titans](https://www.nexusmods.com/newvegas/mods/89069)
+
+Mod that improves game performance and stability by removing unnecessary and hidden geometry for major areas of the New Vegas worldspace and its DLCs.
+
 ### [Optimized Weapon World Models (ESPLESS)](https://www.nexusmods.com/newvegas/mods/88611)
 
 Adds new "world models" for weapons on the ground for better combat performance with zero visual or gameplay changes from vanilla.
