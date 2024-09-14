@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wastelandsurvivalguide.github.io/blog</id>
     <title>Wasteland Survival Guide Blog</title>
-    <updated>2024-08-08T00:00:00.000Z</updated>
+    <updated>2024-09-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wastelandsurvivalguide.github.io/blog"/>
     <subtitle>Wasteland Survival Guide Blog</subtitle>
     <icon>https://wastelandsurvivalguide.github.io/img/wsg.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - Jumped The Gun]]></title>
+        <id>https://wastelandsurvivalguide.github.io/blog/2024/9/14/changelog</id>
+        <link href="https://wastelandsurvivalguide.github.io/blog/2024/9/14/changelog"/>
+        <updated>2024-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[14/09/2024]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="14092024">14/09/2024<a href="#14092024" class="hash-link" aria-label="Direct link to 14/09/2024" title="Direct link to 14/09/2024">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="extra-utilities--fixes">Extra Utilities &amp; Fixes<a href="#extra-utilities--fixes" class="hash-link" aria-label="Direct link to Extra Utilities &amp; Fixes" title="Direct link to Extra Utilities &amp; Fixes">​</a></h3><ul><li>Removed Pip-Boy Shading Fix as it was merged into Viewmodel Shading Fix.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="optimizations">Optimizations<a href="#optimizations" class="hash-link" aria-label="Direct link to Optimizations" title="Direct link to Optimizations">​</a></h3><ul><li>Added Performance Of The Titans.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="user-interface--hud">User Interface &amp; HUD<a href="#user-interface--hud" class="hash-link" aria-label="Direct link to User Interface &amp; HUD" title="Direct link to User Interface &amp; HUD">​</a></h3><ul><li>Updated Pip-Boy UI Tweaks install instructions.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="content">Content<a href="#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content">​</a></h3><ul><li>Updated install instructions for Another Millenia, Gun Addon and Tactapack.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="finish">Finish<a href="#finish" class="hash-link" aria-label="Direct link to Finish" title="Direct link to Finish">​</a></h3><ul><li>Updated load order.</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - Remember]]></title>
         <id>https://wastelandsurvivalguide.github.io/blog/2024/8/8/changelog</id>
