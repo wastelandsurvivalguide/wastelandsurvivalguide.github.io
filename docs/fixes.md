@@ -78,13 +78,9 @@ Fixes some alpha rendering issues like broken effects when using Transparency Mu
 
 Fixes muzzle flash lights not being culled after firing, which would cause the game to continue using them for illumination.
 
-### [Pip-Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957)
-
-Fixes a bug that caused the Pip-Boy to ignore external lights and appear oddly dark, especially in interiors.
-
 ### [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
 
-Fixes incorrect specular lighting and lack of muzzle flash lights on viewmodel.
+Fixes incorrect specular lighting and lack of muzzle flash lights on viewmodels and pip-boy.
 
 ### [Viewmodel Shake Fix](https://www.nexusmods.com/newvegas/mods/84443)
 
