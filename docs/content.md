@@ -198,9 +198,10 @@ Makes the GRA unique weapons unavailable for purchase and scatters them across t
 
 A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
-#### Installation Instructions:
+#### Installation:
 - Main File - Another Millenia
-- Main File - Another Millenia - TTW Unique Placements
+- Update File - Hotfix 2.5b
+- Optional File - Another Millenia - TTW Unique Placements
 
 ### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
 
@@ -208,7 +209,7 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 #### Installation: 
 - Main File - Another Millenia Gun Add-on
-- Update File - Hotfix 1
+- Update File - Hotfix 2.0a
 
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
@@ -216,7 +217,7 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 
 #### Installation:
 - Main File - Tactapack
-- Update File - Hotfix 1.6a
+- Update File - Hotfix 1.7a
 - Optional File - TTW Cell Forwarding Patch
 
 ### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
