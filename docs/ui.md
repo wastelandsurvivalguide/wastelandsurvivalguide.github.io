@@ -398,9 +398,8 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
     - [x] Plugin (Recommended)
     - [ ] Scriptrunner
   - Texture Addon:
-    - [x] Clean Glow Cursor
-    - [x] MAPMO Bottle Cap Icon
-    - [x] Colorful Interface Icons
+    - [x] Colorful Icons
+    - [x] MAPMO Style Icons
    
 ### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294)
 
