@@ -69,6 +69,7 @@ mil-TTWPlacements.esp
 mil_Add-On.esp
 Tactapack.esp
 zl_Armaments_Remastered.esm
+zlArms3DNPCsPatch.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 GasTrapPerformanceFix.esp
@@ -117,13 +118,13 @@ Supplemental Ammo Crafting.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
-zlArms3DNPCsPatch.esp
 Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
+SMAC - Simple Melee Attack Cancel and Parry.esp
 Hitstop.esp
 Enhanced Movement.esp
 B42Inertia.esp
