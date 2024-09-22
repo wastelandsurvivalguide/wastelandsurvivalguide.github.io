@@ -122,7 +122,7 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 
 #### Installation:
 
-- Main File - Mojave Wildlife - FO3 No Chanced Spawns Version
+- Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
 
 ### Mojave Raiders & Mojave Wildlife TTW Patches
 
