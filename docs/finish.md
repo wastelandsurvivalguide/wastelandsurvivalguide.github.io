@@ -135,6 +135,8 @@ Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
 ATMOS Ambient Overhaul.esp
+ATMOS Ambient Overhaul - Minimal.esp
+ATMOS Ambient Overhaul - Intense.esp
 ATMOS - ExRB Patch.esp
 ATMOS NV - TTW Patch.esp
 ATMOS NV + FPGE Patch.esp
