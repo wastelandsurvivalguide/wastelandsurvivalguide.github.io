@@ -116,10 +116,6 @@ Fixes the script lag﻿ occurring in cells with numerous gas traps, especially n
     <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Scriptrunner<br/>
 
-### [NPCa - NPC Prevention of Chem addiction - ESPless](https://www.nexusmods.com/newvegas/mods/73622)
-
-Prevents NPCs from gaining addiction effects when using chems or alcohol, as they do not attempt to resolve said debuffs.
-
 ### [Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094)
 
 Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
