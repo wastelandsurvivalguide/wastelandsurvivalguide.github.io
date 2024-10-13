@@ -35,28 +35,6 @@ Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay an
 - Main File - [Tale of Bi Wastelands - TTW New Vegas Speech Checks](https://www.nexusmods.com/newvegas/mods/76206)
 - Main File - [Tale of Bi Wastelands - TTW Reputations Patch](https://www.nexusmods.com/newvegas/mods/76206)
 
-### [Charisma Tweaks (NVSE)](https://www.nexusmods.com/newvegas/mods/71310)
-
-This mod makes it so that your Charisma and the Intellence of the person you're speaking to impacts barter and speech checks.
-
-:::caution
-Many skill checks, including speech checks, will display **DIFFERENT** skill values than your actual skill, because charisma is now imparting a multiplier on the skill check. **DO NOT** open support requests pertaining to this.
-:::
-
-#### Installation:
-
-- Main File - CHR Tweaks
-- Optional File - [Charisma Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130921&nmm=1)
-
-### [Tweaks for TTW](https://www.nexusmods.com/newvegas/mods/77934)
-
-A collection of miscellaneous tweaks for TTW to enhance the gameplay experience.
-
-#### Installation:
-
-- Main File - Tweaks for TTW
-- Main File - [Tweaks for TTW - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131619&nmm=1)
-
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest. 
@@ -163,11 +141,13 @@ Adds togglable night vision and thermal imaging modes to power armor helmets. Fu
 #### Installation:
 
 - Main File - Simple Night Vision
-  - Main File:
-    - [x] Plugin (Recommended)
+  - Main Files:
+    - [x] Plugin
     - [ ] Scriptrunner
   - Add-ons:
     - [ ] HUD Overlay
+  - Mod Patches:
+    - [ ] STARS TTW
   - Texture Quality:
     - [x] 2k
     - [ ] 1k
