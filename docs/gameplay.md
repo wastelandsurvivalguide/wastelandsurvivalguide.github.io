@@ -190,6 +190,9 @@ Improved damage multipliers for the game's difficulty settings. In the base game
 
 Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
 
+#### Installation:
+- Main File - TTW Transportalponder Extended
+
 ### [Transporters](https://www.nexusmods.com/newvegas/mods/77645)
 
 A fast-travel overhaul implementing an alternative system using molerats and moleholes. Adds a new faction, settlement, and quest as well.
