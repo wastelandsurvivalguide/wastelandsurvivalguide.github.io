@@ -243,11 +243,13 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
 - Main File - Colorful Icons Support
   - Interface:
     - [x] ySI - Sorting Icons
-    - [x] Map Markers
+    - [ ] Map Markers
   - ySI - Categories:
     - [x] Lite
     - [ ] Full
     - [ ] None
+  - Optional:
+    - [ ] ySI - JSON Patcher
 
 ### [ySI - Contextual Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 
