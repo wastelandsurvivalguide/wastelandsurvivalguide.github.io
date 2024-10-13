@@ -11,9 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Aesthetics & Ambience **.
 
 :::tip Why the small selection of texture, lighting, animation, and audio mods?
-Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [New Vegas Visual Renewal](https://salamand3r.fail/texture-guide). Support for New Vegas Visual Renewal is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
-
-If you do decide to use the New Vegas Visual Renewal guide, **move the mods in this section** down to the corresponding seperators referenced in that guide.
+Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [SALVO](https://salamand3r.fail/salvo). Support for SALVO is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 :::
 
 ## Visual Improvements
@@ -117,6 +115,10 @@ The definitive first-person animation pack for all melee and unarmed weapons in 
 
 - Main File - New Vegas Animation Overhaul - Melee
 
+### [Hit - Millenia Animations - Part 2](https://www.nexusmods.com/newvegas/mods/85192)
+
+Reanimates many more weapons in Another Millenia and its Gun Addon.
+
 ### [Enhanced Locomotion](https://www.nexusmods.com/newvegas/mods/88446)
 
 Complete 1st person locomotion animation overhaul. Covers all animations: running, walking, jumping, landing, sneaking, limping, etc, for all weapon types.
@@ -193,11 +195,12 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] Classic Fallout Weapons Remastered
     - [ ] NS Weapons All in One
     - [ ] Supplementary Weapon Pack
+    - [ ] TheZomX Weapons AIO
     - [x] ZL Armaments Remastered
   - Another Millenia Team:
     - [x] Another Millenia
     - [x] Another Millenia Add-on
-    - [ ] Another Millenia - Hitman Part 2
+    - [x] Another Millenia - Hitman Part 2
     - [x] Tactapack
   - anonx1987:
     - [ ] Wasteland AR Pack
