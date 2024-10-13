@@ -33,13 +33,11 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
-TTW 3.3.3 Hotfix.esm
 PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
 TTW Ultimate Invisible Wall Remover.esm
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
-TweaksTTW.esm
 Tale of Bi Wastelands.esm
 TTW Reputations.esm
 Tale of Bi Wastelands + TTW Reputations Patch.esm
@@ -71,6 +69,7 @@ mil-TTWPlacements.esp
 mil_Add-On.esp
 Tactapack.esp
 zl_Armaments_Remastered.esm
+TTW Dialogue and Interactions Expansion Overhaul.esp
 zlArms3DNPCsPatch.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
@@ -117,7 +116,6 @@ Quickthrow.esp
 QuickthrowTweaks.esp
 TTWPerkOverhaul.esp
 Supplemental Ammo Crafting.esp
-TTW Dialogue and Interactions Expansion Overhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
 Famine.esp
