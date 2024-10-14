@@ -243,7 +243,7 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
 - Main File - Colorful Icons Support
   - Interface:
     - [x] ySI - Sorting Icons
-    - [ ] Map Markers
+    - [x] Map Markers
   - ySI - Categories:
     - [x] Lite
     - [ ] Full
@@ -389,6 +389,21 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 - Main File - Simple Maps - TTW
 - Optional File - Simple Maps - No Urban Shading - TTW
 
+### [True Colorful Map Marker Icons](https://www.nexusmods.com/newvegas/mods/89451)
+
+Adds color to the various map marker icons.
+
+#### Installation:
+
+- Main File - True Colorful Map Marker Icons
+  - Icon Variations:
+    - [ ] Colorful Icons
+    - [ ] Colorful Icons with Black Outline
+    - [x] Faded Icons
+    - [ ] Faded Icons with Black Outline
+    - [ ] Black Icons with White Outline
+    - [ ] White Icons with Black Outline
+
 ### [Pip-Boy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343)
 
 Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item comparisons, colorful stat info, ySI Icon integration, and more! 
@@ -403,6 +418,17 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
     - [x] Colorful Icons
     - [x] MAPMO Style Icons
    
+### [Local Map Overhaul](https://www.nexusmods.com/newvegas/mods/88533)
+
+Overhauls the information shown on the Local Map. Adds dynamic icons to NPCs, creatures, collectables and much more.
+
+#### Installation:
+
+- Main File - Local Map Overhaul
+  - Version:
+    - [ ] Lite
+    - [x] Full
+
 ### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294)
 
 Speeds up the animation for pulling out and putting away the Pip-Boy.
