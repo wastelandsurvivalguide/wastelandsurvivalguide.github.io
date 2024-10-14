@@ -3,6 +3,7 @@
 ### 14/10/2024
 
 ### User Interface & HUD
+- Updated MAPMO WSG Preset.
 - Updated Colorful Icons Support install instructions.
 - Added True Colorful Map Marker Icons.
 - Added Local Map Overhaul.
