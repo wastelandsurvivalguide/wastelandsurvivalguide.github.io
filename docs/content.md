@@ -124,32 +124,14 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
 
-### Mojave Raiders & Mojave Wildlife TTW Patches
+### [Mojave Raiders & Mojave Wildlife TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
 
 TTW Patches for Mojave Raiders and Mojave Wildlife.
 
 #### Installation:
 
-- Main File - [A Very Uncreative Collection of TTW Patches](https://www.nexusmods.com/newvegas/mods/78465?tab=files&file_id=1000131628&nmm=1)
-  - Patch Selection: 
-    - Plugins:
-      - [ ] Afterschool Special
-      - [ ] Autumn Leaves
-      - [ ] Casino Crowds
-      - [ ] Fucking Scary Fiends
-      - [ ] Mojave NPCs
-      - [ ] The New Bison Steve
-      - [ ] Primm Reputation Restored Revised
-      - [ ] Willow - A Better Companion Experience
-    - Mojave Raiders:
-      - [x] Mojave Raiders ESM
-      - [x] Mojave Raiders ESP
-    - Mojave Wildlife:
-      - [x] Mojave Wildlife (FO3-Style + No Chanced)
-      - [ ] Mojave Wildlife (FO3-Style)
-      - [ ] Mojave Wildlife (Vanilla-Style + No Chanced)
-      - [ ] Mojave Wildlife (Vanilla-Style)
-      - [ ] None
+- Main File - Mojave Raiders - TTW Patch
+- Main File - Mojave Wildlife - TTW Patch
 
 :::important Instructions:
 If you only installed one of Mojave Raiders or Mojave Wildlife, select only the patches corresponding to that mod.
