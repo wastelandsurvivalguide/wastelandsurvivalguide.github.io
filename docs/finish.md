@@ -62,6 +62,7 @@ Faction Wasteland Presence.esm
 Mojave Raiders.esm
 Mojave Raiders - TTW Patch.esm
 Mojave Wildlife (FO3-Style + No Chanced).esp
+Mojave Wildlife - TTW Patch.esm
 SD_Transporters.esp
 Home and Safehouse Tweaks.esm
 mil.esp
