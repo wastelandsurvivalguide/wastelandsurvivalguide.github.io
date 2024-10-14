@@ -1,5 +1,18 @@
 # Changelog - All About a Feeling
 
+### 14/10/2024
+
+### User Interface & HUD
+- Updated Colorful Icons Support install instructions.
+- Added True Colorful Map Marker Icons.
+- Added Local Map Overhaul.
+
+### Content
+- Replaced old Mojave Raiders and Mojave Wildlife patches with new ones.
+
+### Finish
+- Updated load order.
+
 ### 13/10/2024
 
 ### User Interface & HUD
