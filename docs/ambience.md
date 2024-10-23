@@ -337,7 +337,7 @@ Double click the mod in the **left** pane, go to the "Optional ESPs" tab and **h
 - Optional File - ATMOS Ambience Overhaul - Complementary Pack
 
 :::important Instructions:
-Double click the mod in the **left** pane, go to the "Optional ESPs" tab and **hide** ATMOS Ambient Overhaul - Intense.esp ***and***ATMOS Ambient Overhaul - Minimal.esp by moving them to the "Optional ESPs" box using the left green arrrow.
+Double click the mod in the **left** pane, go to the "Optional ESPs" tab and **hide** ATMOS Ambient Overhaul - Intense.esp ***and*** ATMOS Ambient Overhaul - Minimal.esp by moving them to the "Optional ESPs" box using the left green arrrow.
 :::
   
 - Main File - [ATMOS NV - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130990&nmm=1)
