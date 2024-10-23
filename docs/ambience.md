@@ -328,7 +328,18 @@ Modernized ambient soundscape with an object based directional sound system. Est
 
 #### Installation:
 
-- Main File - ATMOS Ambient Sound Overhaul - WAV version
+- Main File - ATMOS Ambience Overhaul - Master - Hi-Fi
+  
+:::important Instructions:
+Double click the mod in the **left** pane, go to the "Optional ESPs" tab and **hide** ATMOS Ambient Overhaul.esm by moving it to the "Optional ESPs" box using the left green arrrow.
+:::
+
+- Optional File - ATMOS Ambience Overhaul - Complementary Pack
+
+:::important Instructions:
+Double click the mod in the **left** pane, go to the "Optional ESPs" tab and **hide** ATMOS Ambient Overhaul - Intense.esp ***and***ATMOS Ambient Overhaul - Minimal.esp by moving them to the "Optional ESPs" box using the left green arrrow.
+:::
+  
 - Main File - [ATMOS NV - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130990&nmm=1)
 - Main File - [ATMOS NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130991&nmm=1)
 - Main File - [ATMOS - ExRB Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137728&nmm=1)
