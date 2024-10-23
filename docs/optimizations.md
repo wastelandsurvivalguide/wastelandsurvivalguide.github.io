@@ -95,10 +95,6 @@ Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remov
 
 Fixes misaligned Pip-Boy view for female characters as well as wrist gaps in first person.
 
-### [Aqua Performa - Strip Performance Fix](https://www.nexusmods.com/newvegas/mods/78617)
-
-Drastically improves performance on The Strip by getting rid of unseen water LOD.
-
 ### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
