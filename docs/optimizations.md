@@ -53,7 +53,7 @@ Improves collision meshes in the Mojave Wasteland.
 #### Installation:
 
 - Main File - Collision Meshes FNV
-- Main File - Update Collision Meshes FNV 1.6.3 to 1.6.4
+- Update File - Update Collision Meshes FNV 1.6.3 to 1.6.4 (Safe to merge with the Main File)
 
 ### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
 
