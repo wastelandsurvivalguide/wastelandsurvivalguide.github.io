@@ -134,6 +134,7 @@ Tactapack_-_TTW_Patch.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
+TGMIO_FPGE_Patch.esp
 ATMOS Ambient Overhaul.esp
 ATMOS - ExRB Patch.esp
 ATMOS NV - TTW Patch.esp
