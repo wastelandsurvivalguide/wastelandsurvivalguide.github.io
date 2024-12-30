@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wastelandsurvivalguide.github.io/blog</id>
     <title>Wasteland Survival Guide Blog</title>
-    <updated>2024-10-13T00:00:00.000Z</updated>
+    <updated>2024-12-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wastelandsurvivalguide.github.io/blog"/>
     <subtitle>Wasteland Survival Guide Blog</subtitle>
     <icon>https://wastelandsurvivalguide.github.io/img/wsg.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - Realign]]></title>
+        <id>https://wastelandsurvivalguide.github.io/blog/2024/12/30/changelog</id>
+        <link href="https://wastelandsurvivalguide.github.io/blog/2024/12/30/changelog"/>
+        <updated>2024-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[14/10/2024]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="14102024">14/10/2024<a href="#14102024" class="hash-link" aria-label="Direct link to 14/10/2024" title="Direct link to 14/10/2024">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="user-interface--hud">User Interface &amp; HUD<a href="#user-interface--hud" class="hash-link" aria-label="Direct link to User Interface &amp; HUD" title="Direct link to User Interface &amp; HUD">​</a></h3><ul><li>Updated Colorful Icons Support install instructions.</li><li>Updated Clean Vanilla HUD install instructions.</li><li>Removed FOV Slider as it was buggy and ultimately unnecessary.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="combat">Combat<a href="#combat" class="hash-link" aria-label="Direct link to Combat" title="Direct link to Combat">​</a></h3><ul><li>Updated B42 Quickthrow install instructions.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="content">Content<a href="#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content">​</a></h3><ul><li>Removed 3DNPC Bundle for FO3 due to its many issues.</li><li>Updated install instructions for Another Millenia and AM Gun Addon.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="aesthetics--ambience">Aesthetics &amp; Ambience<a href="#aesthetics--ambience" class="hash-link" aria-label="Direct link to Aesthetics &amp; Ambience" title="Direct link to Aesthetics &amp; Ambience">​</a></h3><ul><li>Updated Iron Sights Aligned install instructions.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="final-steps">Final Steps<a href="#final-steps" class="hash-link" aria-label="Direct link to Final Steps" title="Direct link to Final Steps">​</a></h3><ul><li>Updated load order.</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - All About a Feeling]]></title>
         <id>https://wastelandsurvivalguide.github.io/blog/2024/10/13/changelog</id>
