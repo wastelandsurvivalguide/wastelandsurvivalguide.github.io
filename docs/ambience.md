@@ -148,9 +148,11 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [ ] WAP Weapon Replacers
     - [ ] Laser Weapon Iron Sights
     - [ ] 10mm Pistol and Friends
+    - [ ] 10mm SMG and Friends
     - [ ] C.A.R and OUR Friends
     - [ ] Combat Shotgun and Friends
     - [ ] DKS and Friends
+    - [ ] Lever Action Rifle and Friends
     - [ ] R91 and Friends
   - Additional Patches:
     - [ ] Yukichigai's Unofficial Patch
@@ -193,6 +195,7 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] Hitman's KRISS Vector
   - Weapon Packs:
     - [ ] Classic Fallout Weapons Remastered
+    - [ ] Hitman's Explosives Pack
     - [ ] NS Weapons All in One
     - [ ] Supplementary Weapon Pack
     - [ ] TheZomX Weapons AIO
@@ -206,9 +209,14 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] Wasteland AR Pack
     - [ ] Wicked Pistols Pack
     - [ ] NVRA - AR70
-    - [ ] NVRA - Augomag
+    - [ ] NVRA - Automag
+    - [ ] NVRA - FR F2
+    - [ ] NVRA - HK33
+    - [ ] NVRA - M1 Carbine
     - [ ] NVRA - MPK
+    - [ ] NVRA - PPK
     - [ ] NVRA - Uzi
+    - [ ] NVRA - VSS and VAL
     - [ ] AK-50
     - [ ] Colt 2033
     - [ ] Fedorov Avtomat
