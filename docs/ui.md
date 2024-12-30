@@ -148,14 +148,6 @@ This is a interface overhaul that improves all of the low resolution icons and t
 
 - Main File - Clean Companion Wheel 256x256 Edition
 
-### [FOV Slider](https://www.nexusmods.com/newvegas/mods/55085)
-
-Adds an MCM menu with options for adjusting World Field of View, Player Field of View, Pipboy Field of View, and Terminal Screen Field of View.
-
-:::caution Known Bug!
-This mod can cause the screen to turn grey with VATS. If this happens, reset the settings to default. If the issue persists, remove the mod.
-:::
-
 ### [Tutorial Killer](https://mod.pub/falloutnv/53-esp-less-tutorial-killer)
 
 Removes tutorial messages, one-time help pop-ups, and repeating corner-messages.
@@ -243,9 +235,11 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
     - [x] ySI - Sorting Icons
     - [x] Map Markers
   - ySI - Categories:
-    - [x] Lite
-    - [ ] Full
-    - [ ] None
+    - [ ] Weapons
+    - [ ] Apparel
+    - [x] Aid
+    - [x] Misc
+    - [ ] Ammo
   - Optional:
     - [ ] ySI - JSON Patcher
 
