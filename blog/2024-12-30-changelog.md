@@ -6,6 +6,7 @@
 - Updated Colorful Icons Support install instructions.
 - Updated Clean Vanilla HUD install instructions.
 - Removed FOV Slider as it was buggy and ultimately unnecessary.
+- Added a compressed version of Simple Maps - TTW.
 
 ### Combat
 - Updated B42 Quickthrow install instructions.
