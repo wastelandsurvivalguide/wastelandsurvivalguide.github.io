@@ -379,7 +379,9 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 #### Installation:
 
 - Main File - Simple Maps - TTW
-- Optional File - Simple Maps - No Urban Shading - TTW
+- Main File - [Simple Maps - TTW Compressed](https://drive.google.com/file/d/1WCK3ILqNQw2gHpRHKIklkTcX7Ac689hm/view?usp=sharing)
+
+The second file must be manually downloaded and installed. If you don't know how to install a mod manually, refer to the [instructions in the The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?). Make sure it **overwrites** the main mod.
 
 ### [True Colorful Map Marker Icons](https://www.nexusmods.com/newvegas/mods/89451)
 
