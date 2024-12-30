@@ -44,7 +44,6 @@ Tale of Bi Wastelands + TTW Reputations Patch.esm
 TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
-3DNPCFO3Bundle.esm
 3DNPCFNVBundle.esm
 Functional Post Game Ending.esm
 Functional Post Game Ending - TTW Patch.esm
@@ -72,9 +71,11 @@ Tactapack.esp
 zl_Armaments_Remastered.esm
 TTW Dialogue and Interactions Expansion Overhaul.esp
 zlArms3DNPCsPatch.esp
-AmmoScriptFixes.esp
+ATMOS Ambient Overhaul.esp
+WordleHack.esm
 CriticalEffectFixes.esp
 GasTrapPerformanceFix.esp
+AmmoScriptFixes.esp
 TTW No PipBoy Glove Equipping or Race Changes.esp
 TTW FaceGen Fix.esp
 ExRB-TTW.esp
@@ -87,7 +88,6 @@ JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
 SimpleNightVision.esp
-FOVSlider.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
@@ -106,7 +106,6 @@ MoreMojave - FPGE Patch.esp
 Mojave Raiders.esp
 Mojave Raiders - TTW Patch.esp
 MR - Uncut Patch.esp
-Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
 WeaponRequirementSystem.esp
 ImmersiveRecoil.esp
 IRNPC.esp
@@ -115,8 +114,8 @@ RAD.esp
 RAD-Fixed-TTW.esp
 Quickthrow.esp
 QuickthrowTweaks.esp
-TTWPerkOverhaul.esp
 Supplemental Ammo Crafting.esp
+TTWPerkOverhaul.esp
 DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
 Famine.esp
@@ -134,7 +133,6 @@ Tactapack_-_TTW_Patch.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
-ATMOS Ambient Overhaul.esp
 ATMOS - ExRB Patch.esp
 ATMOS NV - TTW Patch.esp
 ATMOS NV + FPGE Patch.esp
