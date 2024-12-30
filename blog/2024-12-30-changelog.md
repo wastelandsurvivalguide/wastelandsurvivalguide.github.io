@@ -16,6 +16,7 @@
 
 ### Aesthetics & Ambience
 - Updated Iron Sights Aligned install instructions.
+- Updated ATMOS install instructions (thanks, Audley <3).
 
 ### Final Steps
 - Updated load order.
