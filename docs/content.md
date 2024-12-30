@@ -86,14 +86,6 @@ Main Files:
 - Main File - [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1)
 - Main File - [Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000107025&nmm=1)
 
-### [Fallout 3 3DNPC Bundle for TTW](https://www.nexusmods.com/newvegas/mods/83484)
-
-Adds 15 quests, 8 companions, many background NPCs, and a radio channel to the Capital Wasteland.
-
-#### Installation:
-
-- Main FIle - 3DNPC Fallout 3 Bundle for TTW All In One Plugin
-
 ### [FNV 3DNPC Bundle Updated](https://www.nexusmods.com/newvegas/mods/84274)
 
 Adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
@@ -182,7 +174,7 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
 #### Installation:
 - Main File - Another Millenia
-- Update File - Hotfix 2.5b
+- Update File - Hotfix 2.6a
 - Optional File - Another Millenia - TTW Unique Placements
 
 ### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
@@ -191,7 +183,7 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 #### Installation: 
 - Main File - Another Millenia Gun Add-on
-- Update File - Hotfix 2.0a
+- Update File - Hotfix 2.1b
 
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
