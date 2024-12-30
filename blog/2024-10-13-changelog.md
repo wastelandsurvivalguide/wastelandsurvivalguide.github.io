@@ -1,6 +1,6 @@
 # Changelog - All About a Feeling
 
-### 14/10/2024
+### 30/12/2024
 
 ### User Interface & HUD
 - Updated MAPMO WSG Preset.
