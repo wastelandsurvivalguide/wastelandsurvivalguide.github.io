@@ -68,7 +68,7 @@ Adds many more locations to the New Vegas landscape to further expand upon spars
 
 - Main File - MoreMojave
 - Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122122&nmm=1)
-- Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000122211&nmm=1&game_id=130)
+- Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122211&nmm=1)
 
 :::important
 The **MoreMojave - AWO(L)P Patch** is not needed when using **Sweet Pain**.
