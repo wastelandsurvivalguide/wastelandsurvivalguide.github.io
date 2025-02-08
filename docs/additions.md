@@ -45,7 +45,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Customizable detailed stats menu for items, when hovering or pressing a defined hotkey
 
-[Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) and [Drowning Visuals](https://www.nexusmods.com/newvegas/mods/84841) - Adds screen affects when you're in rads or drowning
 
 ## Gameplay 
 
@@ -92,8 +91,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Point Lookout Doctors TTW](https://www.nexusmods.com/newvegas/mods/85219) - Adds functional doctors to point lookout.
 
-[Power Armor Explosive Resistance](https://www.nexusmods.com/newvegas/mods/83995) - Provides direct explosion resistance for power armor.
-
 [Realistic Ammo Name Replacer - RANR](https://www.nexusmods.com/newvegas/mods/86133?tab=description) - Changes all ballistic ammo names in NV and TTW to better emphasize realism. 
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399), [Tactapack](https://www.nexusmods.com/newvegas/mods/80219), [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175), and [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
 
@@ -123,7 +120,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - May make chems too plentiful if playing without loot scarcity mods.
 
 [Immersive Fast Travel Encounters](https://www.nexusmods.com/newvegas/mods/73879) - A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
-- Incompatible with [Transporters](https://www.nexusmods.com/newvegas/mods/77645) and any other mod that travel through means other than the pip-boy map.
 
 [Immersive Sleeping Encounters](https://www.nexusmods.com/newvegas/mods/74289) - A user configurable overhaul of the sleep system that implements D&D styled random encounters when the player naps.
 
@@ -163,9 +159,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Claim the Mojave (and the Capital)](https://www.nexusmods.com/newvegas/mods/75196) - An expansive end-game mod that allows the player to build outposts at locations across the two wastelands.
 - This mod will require a significant number of patches to maintain compatibility.
 
-[DMT - Dead Money Tweaks - Complete Overhaul](https://www.nexusmods.com/newvegas/mods/72139) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience and inspired by Resident Evil.
-- Please review the mod page requirements and patch availability carefully.
-
 [True Open World DC](https://www.nexusmods.com/newvegas/mods/84575) - Disables the FO3 main quest, and allows you to visit all main quest locked locations such as Raven Rock and Vault 101 through alternate means, providing a true open world experience in the Capital Wasteland.
 - Incompatible with [TTW Quick Start](https://mod.pub/ttw/54-ttw-3-3-esp-less-quick-start) as both mods alter the game's start.
 - Incompatible with [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030).
@@ -195,6 +188,8 @@ All of the mods in this section require LOD generation. Instructions are provide
 [The Strip - 2023 Lite](https://www.nexusmods.com/newvegas/mods/82959) - Best overhaul for the Strip when it comes to pure compatibility, and performance. 
 - If you can afford the perfomance hit, pairs amazing with [Strip Cinematic Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/86501).
 
+[Lived-In All-In-One](https://www.nexusmods.com/newvegas/mods/90682) - Lightweight overhauls of multiple settlements/smaller locations with NPCs. Has patches for other mods in optional files.
+
 [Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
@@ -218,29 +213,14 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Hoover Dam Bridge Overhaul](https://www.nexusmods.com/newvegas/mods/84212) - Overhauls the Hoover Dam Bridge.
 
-[Interiors Improved - Vault 21](https://www.nexusmods.com/newvegas/mods/84082) - Overhauls Vault 21.
-- Use alongside [Interiors Improved - Vault 21 (Fixed and Patched)](https://www.nexusmods.com/newvegas/mods/85642).
-
 [Irradiated Lonesome Road](https://www.nexusmods.com/newvegas/mods/74599) - Irradiates the entirety of Lonesome Road to increase difficulty and highlight the desolation of the divide.
 
 [Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights.
 - Combines nicely with [Animated Spotlights for Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/85553).
 
-[Lux Aeterna - The True Revival of Luxury - An Ultra-Luxe Overhaul](https://www.nexusmods.com/newvegas/mods/63251) - Overhauls The Ultra-Luxe.
-
 [Meresti Metro Redesign TTW](https://www.nexusmods.com/newvegas/mods/83799) - Overhauls the Meresti Metro.
 
-[Nellis Air Force Base Lightweight Overhaul](https://www.nexusmods.com/newvegas/mods/68839) - Overhauls Nellis Air Force Base.
-
 [Shanty Arefu](https://www.nexusmods.com/newvegas/mods/83904) - Overhauls Arefu.
-
-[The Town of Vice - A Gomorrah Overhaul](https://www.nexusmods.com/newvegas/mods/64499) - Overhauls Gomorrah and the Omertas.
-
-[Ultra-Luxe Fountain Expanded](https://www.nexusmods.com/newvegas/mods/69781) - Overhauls the Ultra-Luxe fountain.
-
-[Van Graff Faction Overhaul](https://www.nexusmods.com/newvegas/mods/68500) - Overhauls the Van Graffs and The Silver Rush.
-  - Also requires [Van Graff Faction Overhaul Fixed](https://www.nexusmods.com/newvegas/mods/75896) in order to avoid dirty edits and deleted records.
-  - Patches for [Brave New World](https://www.nexusmods.com/newvegas/mods/69562), [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623), and [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) are provided on the main mod page.
 
 [Vault 22 Flora Overhauled Remastered](https://www.nexusmods.com/newvegas/mods/71521) - Overhauls Vault 22.
 
@@ -267,12 +247,6 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 
 ### Creature, Enemy, Weapon, & Armor Overhauls
-
-[Another Millenia](https://www.nexusmods.com/newvegas/mods/76133) - The #1 choice for your weapon pack needs, based on the amazing work of Millenia, and all her resources. Refreshed, improved, full of adjusted assets and new animations, balanced and integrated, all thanks to the AM Team.
-
-[Another Millenia - Gun Addon](https://www.nexusmods.com/newvegas/mods/77358) - A home for Millenia guns that don't fit the criteria of the main pack.
-
-[Tactapack](https://www.nexusmods.com/newvegas/mods/80219) - Combination of weapons from TactaGhoul, cleaned up, rebalanced, and integrated.
 
 [Classic Sentry Bot Overhaul](https://www.nexusmods.com/newvegas/mods/84977) - A mod recreating the sentry bots from Fallout 2, new assets and animations, nice bit of variety when using the standalone version.
 
@@ -354,10 +328,10 @@ The following are designed to be placed in the following load order if using the
 - Incompatible with [HD Head and Face Textures](https://www.nexusmods.com/newvegas/mods/78229).
 - Use the optional CKR - IVMB - T4 patch provided on the main mod page.
 - Avoid the uncompressed face patch, as it will have a substantial performance impact.
+- The hair module is extremely performance intensive, avoid for best experience.
 - [CKR - Teeth](https://www.nexusmods.com/newvegas/mods/82146) 
 - [CKR - Hands](https://www.nexusmods.com/newvegas/mods/82148)
   - Also get the optional IVMB - T4 patch provided on the main mod page.
-- [CKR - Hair](https://www.nexusmods.com/newvegas/mods/82147) - WARNING: Can cause issues, as it increases memory usage. The hair is 90% of the reason CKR is way more memory intensive. Forgoing it is RECOMMENDED, but not necessary. 
 - [Facegen Patches](https://www.nexusmods.com/newvegas/articles/55233) - Lack of appropriate patching will result in SIGNIFICANT visual oddities. Alternatively, the bLoadFaceGenHeadEGTFiles setting in the falloutcustom.ini can be enabled in lieu of using facegen patches. Enabling this setting WILL have a large performance impact.
   - [TTW Facegen Patch](https://www.nexusmods.com/newvegas/mods/82447)
   - Facegen Patches for Various Mods
@@ -391,6 +365,9 @@ The following are designed to be placed in the following load order if using the
 
 
 ## Changelog
+1.8 - 2/8/2025
+- This whole section is a mess. Clean up.
+  
 1.7 - 10/6/2024
 - New management. Updates, general clean up, I can't be bothered listing it all just trust me.
 
