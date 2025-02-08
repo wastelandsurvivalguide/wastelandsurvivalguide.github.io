@@ -49,7 +49,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ## Gameplay 
 
-[Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds many perks inspired by Diso Elysium
+[Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds many perks inspired by Disco Elysium
 
 ### Quality of Life
 
@@ -74,8 +74,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Creatures Aren’t Evil](https://www.nexusmods.com/newvegas/mods/83403) - Prevents karma gain from killing creatures.
 
-[Destroyable Bottles](https://www.nexusmods.com/newvegas/mods/85631) - A mod that lets bottles and other glass objects be destroyed when hit with weapons. Yields a small performance benefit.
-
 [Hardcore Forever](https://www.nexusmods.com/newvegas/mods/75682) - Enables Hardcore mode and disables the selection message.
 
 [Lootable Statics](https://www.nexusmods.com/newvegas/mods/83946) - Uses [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934) to allow you to loot previously static vents, hollowed trees/logs, lockers, desks, etc.
@@ -96,12 +94,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Power Armor Explosive Resistance](https://www.nexusmods.com/newvegas/mods/83995) - Provides direct explosion resistance for power armor.
 
-[PSRO - Peripheral Scope Reticle Overhaul](https://www.nexusmods.com/newvegas/mods/71781) - A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.
-- Less performance intensive than [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641), though still visually pleasing.
-- Compatible with all vanilla TTW scopes.
-- A mod compatibility patch for any mods that add new weapons to the game is also provided on the main mod page.
-- Pairs nicely with Nehred's [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701).
-
 [Realistic Ammo Name Replacer - RANR](https://www.nexusmods.com/newvegas/mods/86133?tab=description) - Changes all ballistic ammo names in NV and TTW to better emphasize realism. 
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399), [Tactapack](https://www.nexusmods.com/newvegas/mods/80219), [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175), and [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
 
@@ -120,8 +112,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) and optionally [TTW - More Map Markers - No Download Map Markers](https://www.nexusmods.com/newvegas/mods/86655) - Adds a few more map markers to TTW
 
 [Unmissable Casino Rewards](https://www.nexusmods.com/newvegas/mods/83485) - Prevents you from bypassing reward tiers in casinos.
-
-[Viewmodel Recoil](https://www.nexusmods.com/newvegas/mods/71852) - A recoil mod that affects the 1st person model only and does not move the camera. It is purely aesthetic. Can be used in conjunction with [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973).
 
 
 ### Functional Additions
@@ -165,8 +155,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [SIDE - Simple Items Distributed Everywhere](https://www.nexusmods.com/newvegas/mods/75746) - Distributes various items that are otherwise not readily available across the wastelands.
 
 [Simple Headshots](https://www.nexusmods.com/newvegas/mods/84763) - After crippling an enemy's head, the next shot will be fatal. Can be configured per enemy type.
-
-[Sweet's EDGE TTW - Early Decisions and Gameplay Enhancement](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls major pieces of early game gameplay, and may require many compatability patches
 
 
 ## Content
@@ -344,14 +332,11 @@ All of the mods in this section require LOD generation. Instructions are provide
 All of the mods in this section require LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 :::
 
-[New Vegas Landscape Overhaul Re-Remastered (NVLORR)](https://www.nexusmods.com/newvegas/mods/74218) - Adds new life the the Mojave Wasteland by making bland locations more detailed.
-- A [NVLORR - MoreMojave Patch](https://www.nexusmods.com/newvegas/mods/83333) is available, courtesy of Conzo.
-- Piber has created [compatibility patches](https://www.nexusmods.com/newvegas/mods/77674?tab=files) for [FPGE](https://www.nexusmods.com/newvegas/mods/66726).
-
-[Enhanced Landscapes](https://www.nexusmods.com/newvegas/mods/69406) - Another revision of the original New Vegas Landscape Overhaul.
-- Compatible with and patched for [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) by using the compatibility version provided on the main mod page.
+[Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867?tab=description) - Adds new life the the Mojave Wasteland by making bland locations more detailed. Great successor to NVLORR
 
 [Desert Landscapes](https://www.nexusmods.com/newvegas/mods/84284) - A comprehensive landscape overhaul for the Mojave Wasteland.
+- Incompatible with above, pick one or the other.
+- Higher level of general incompatibility. 
 - Created specifically for compatibility with [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) and [Enhanced Landscapes](https://www.nexusmods.com/newvegas/mods/69406) in mind.
 - Two versions are provided on the main mod page, one of which requires Bale's [Micro Clutter](https://www.nexusmods.com/newvegas/mods/74267).
 
@@ -384,8 +369,6 @@ The following are designed to be placed in the following load order if using the
 
 
 ### Animations
-[Idle Variety](https://www.nexusmods.com/newvegas/mods/85718) - Adds idle animation variants to NPCs - More life and less monotony.
-
 [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Replacers for stagger and crippled animations.
 
 [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=description) - Improves the animations associated with all ragdoll physics.
