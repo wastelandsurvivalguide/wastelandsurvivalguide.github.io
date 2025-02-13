@@ -106,16 +106,6 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 - Main File - Equip and Movement Speed Fix - ESPless
 
-### [Gas Trap Performance Fix](https://www.nexusmods.com/newvegas/mods/88587)
-
-Fixes the script lag﻿ occurring in cells with numerous gas traps, especially noticeable in locations such as Vault 22.
-
-#### Installation:
-- Main File - Gas Trap Performance Fix
-  - Main File:<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Scriptrunner<br/>
-
 ### [Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094)
 
 Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
