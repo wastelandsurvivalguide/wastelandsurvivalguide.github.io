@@ -43,6 +43,7 @@ This changelog includes a couple of previously undocumented small changes.
 - Added Restored Physics Sounds.
 - Added B42 Weapon Iron Sights Foley - Espless.
 - Added Subtle Rifle Equip Sound.
+- Removed Natural Interiors.
 
 ### Final Steps
 - Added an LOD section with pre-generated LOD.
