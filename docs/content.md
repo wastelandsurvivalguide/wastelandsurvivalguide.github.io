@@ -12,27 +12,15 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Major World Changes
 
-### [FPGE - Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
+### [FPGEL - Functional Post Game Ending Lite](https://www.nexusmods.com/newvegas/mods/73668)
 
-Adds a fully functional post-game world to the game, no longer will you be brought to the credits and end your journey there.
+A stripped down version of FPGE that doesn't alter the game's world after the Second Battle of Hoover Dam, but still allows you to continue the game after it's over.
 
 #### Installation:
 
-- Main File - Functional Post Game Ending
-  - Single Patches:
-    - [ ] YUP Patch
-    - [x] Tale of Two Wastelands Patch
-    - [ ] AWOP Patch
-    - [ ] Outside Bets Patch
-    - [ ] Uncut Extra Collection Patch
-      - Do **NOT** select Uncut Extra Collection Patch, it is not for the Uncut Extra Collection version we use later on.
-  - Uncut Wasteland Patches:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland plus NPCs<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Outside Bets)<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Uncut Wasteland (Viva New Vegas)<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> None<br/>
-  - Miscellaneous Patches:
-    - [x] A Very Uncreative Collection of Mod Patches
+- Main File - Functional Post Game Ending Lite
+  - Patches:
+    - [x] Tale of Two Wastelands
 
 ### [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)
 
@@ -40,6 +28,82 @@ Adds several scripted events and hundreds of NPCs who will patrol roads, travel 
 
 - Main File - The Living Desert Main File
 - Main File - [The Living Desert Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
+
+### [Goodies](https://www.nexusmods.com/newvegas/mods/91028)
+
+Large collection of restored content, consistency fixes, integrated content, and "gray area" bug fixes.
+
+#### Installation:
+
+- Main File - Goodies
+  - Main File:
+    - [x] Main File
+  - Extra Goodies:
+    - [ ] Extra Goodies
+  - Patches:
+    - [ ] Better Brotherhood
+    - [ ] Functional Post-Game Ending
+    - [x] Mojave Scenery Overhaul
+    - [ ] Simple Character Expansions
+- Main File - [Goodies - TTW Patch](https://www.nexusmods.com/newvegas/mods/91038)
+
+### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
+
+Mojave Scenery Overhaul remakes and touches up areas that were lackluster and forgettable whilst enhancing the original look and feel.
+
+#### Installation:
+
+- Main File - Mojave Scenery Overhaul
+  - Game Selection:
+    - [ ] FNV
+    - [x] TTW
+  - Patch Selection:
+    - [x] TLD Patch
+    - [x] AWOLP Patch
+    - [ ] More Mojave Patch
+
+### [Lived-In All-in-One](https://www.nexusmods.com/newvegas/mods/90682)
+
+This mod adds some subtle and realistic clutter around the major settlements and other locations across the Mojave.
+
+#### Installation:
+
+- Main File - Lived-In AIO
+  - Main File:
+    - [x] TTW
+  - Patches:
+    - [ ] Caravan Travel
+    - [x] Mojave Scenery Overhaul
+    - [x] Ownership Patch
+    - [x] The Living Desert
+    - [ ] Uncut Wasteland
+
+### [Lived-In Strip](https://www.nexusmods.com/newvegas/mods/91279)
+
+Complete reimagining of The Strip and all its buildings to bring it much closer to its original concept while maintaining the vanilla atmosphere and top-notch performance.
+
+#### Installation:
+
+- Main File - Lived-In Strip
+
+### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
+
+An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
+
+#### Installation:
+
+- Main File - The Great Mojave Interior Overhaul
+  - Main Files:
+    - [x] The Great Mojave Interior Overhaul Main File
+  - Patches:
+    - [x] FPGE - Functional Post Game Ending
+    - [ ] Gun Runner's Arsenal Displayed
+    - [x] The Living Desert
+    - [ ] Classic Adobe Buildings
+
+### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
+
+Vanilla+ project that aims to overhaul many DC locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
 
 ### Sweet Pain DC
 
@@ -60,31 +124,14 @@ Adds many intense and unique locations, new items, companions, and quests to the
 - Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
 - Main File - TTW Patch
 
-### [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809)
+### [More Mojave Dark Side Edition](https://www.nexusmods.com/newvegas/mods/91060)
 
-Adds many more locations to the New Vegas landscape to further expand upon sparser areas.
-
-#### Installation:
-
-- Main File - MoreMojave
-- Main File - [MoreMojave Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122122&nmm=1)
-- Main File - [MoreMojave - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122211&nmm=1)
-
-:::important
-The **MoreMojave - AWO(L)P Patch** is not needed when using **Sweet Pain**.
-:::
-
-### Uncut Wasteland & Extra Collection
-
-Restores a huge amount of scenery, NPCs, creatures, and other details which were patched out of New Vegas post-release. These versions are patched for TTW and FPGE by Kazopert.
+A very simple, lightweight, cleaned up version of More Mojave. An alternative version for maximum compatibility and a more consistent experience. Adds many more locations to the New Vegas landscape to further expand upon sparser areas.
 
 #### Installation:
 
-Main Files:
-
-- Main File - [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1)
-- Main File - [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1)
-- Main File - [Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000107025&nmm=1)
+- Main File - More Mojave Dark Side Edition
+- Optional File - MoreMojave DSE - Mojave Scenery Patch
 
 ### [FNV 3DNPC Bundle Updated](https://www.nexusmods.com/newvegas/mods/84274)
 
@@ -99,14 +146,14 @@ Adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
 
 Adds Great Khans, Securitrons, NCR and Legion patrols and Brotherhood of Steel paladins on lore-friendly locations.
 
-### [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660)
+### [Mojave Raiders Lite](https://www.nexusmods.com/newvegas/mods/90464)
 
-A complete overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
+Increased raider spawns and compatible vanilla rebalance and diversification of raider loot.
 
 #### Installation:
 
-- Main File - Mojave Raiders
-- Main File - [MR - Uncut Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130957&nmm=1)
+- Main File - Mojave Raiders Lite
+- Main File - [Mojave Raiders Lite - TTW Patch](https://www.nexusmods.com/newvegas/mods/78465)
 
 ### [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638)
 
@@ -115,34 +162,7 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 #### Installation:
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
-
-### [Mojave Raiders & Mojave Wildlife TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
-
-TTW Patches for Mojave Raiders and Mojave Wildlife.
-
-#### Installation:
-
-- Main File - Mojave Raiders - TTW Patch
-- Main File - Mojave Wildlife - TTW Patch
-
-:::important Instructions:
-If you only installed one of Mojave Raiders or Mojave Wildlife, select only the patches corresponding to that mod.
-:::
-
-### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
-
-An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
-
-#### Installation:
-
-- Main File - The Great Mojave Interior Overhaul
-  - Main Files:
-    - [x] The Great Mojave Interior Overhaul Main File
-  - Patches:
-    - [x] FPGE - Functional Post Game Ending
-    - [ ] Gun Runner's Arsenal Displayed
-    - [x] The Living Desert
-    - [ ] Classic Adobe Buildings
+- Main File - [Mojave Wildlife - TTW Patch](https://www.nexusmods.com/newvegas/mods/78465)
 
 ## Dialogue
 
@@ -154,9 +174,7 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 
 - Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
 - Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1)
-  - If you downloaded [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721) earlier in the guide.
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1)
-  - If you downloaded [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569) earlier in the guide.
 
 ## Weapons
 
@@ -174,7 +192,7 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
 #### Installation:
 - Main File - Another Millenia
-- Update File - Hotfix 2.6a
+- Update File - update 2.6b
 - Optional File - Another Millenia - TTW Unique Placements
 
 ### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
@@ -183,7 +201,8 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 #### Installation: 
 - Main File - Another Millenia Gun Add-on
-- Update File - Hotfix 2.1b
+- Update File - Update 2.1b
+- Update File - Update 2.1c
 
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
@@ -191,8 +210,6 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 
 #### Installation:
 - Main File - Tactapack
-- Update File - Hotfix 1.7a
-- Optional File - TTW Cell Forwarding Patch
 
 ### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
 
