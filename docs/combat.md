@@ -21,6 +21,10 @@ Implements customizable Strength and Skill requirements for weapons, making them
 - Main File - Weapon Requirements System
 - Main File - [Weapon Requirements System - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131852&nmm=1)
 
+### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266)
+
+Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Highly customizable.
+
 ### [B42 FireMode - Selective Fire and First Shot Precision - ESPless](https://www.nexusmods.com/newvegas/mods/82576)
 
 Adds selective fire to various weapons and introduces first shot accuracy mechanic.
@@ -28,10 +32,6 @@ Adds selective fire to various weapons and introduces first shot accuracy mechan
 #### Installation:
 
 - Main File - B42 FireMode
-
-### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266)
-
-Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Highly customizable.
 
 ### [B42 Recoil - ESPless](https://www.nexusmods.com/newvegas/mods/90536)
 
