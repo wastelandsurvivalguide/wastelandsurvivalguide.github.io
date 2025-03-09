@@ -24,7 +24,7 @@ This changelog includes a couple of previously undocumented small changes.
 - Removed Immersive Recoil NPC.
 - Added Accuracy Manager (NVSE) and Sweet Accuracy Preset.
 
-### Content:
+### Content
 - Replaced FPGE with FPGEL. I was gonna remove FPGE entirely but people voted for it to stay, so I replaced it with FPGEL as a more compatible alternative.
 - Added Goodies and Goodies - TTW Patch.
 - Added Mojave Scenery Overhaul.
