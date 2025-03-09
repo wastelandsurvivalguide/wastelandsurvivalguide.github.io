@@ -48,6 +48,10 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 - Main File - Delay DLC Redux TTW
 - Optional File - Delay DLC Redux TTW - Pre-Order Pack Placement
 
+### [Essential Capital Enhancements Merged](https://www.nexusmods.com/newvegas/mods/89636)
+
+An all-in-one merge of a few gameplay enhancing mods for the Capital Wasteland.
+
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
@@ -179,7 +183,11 @@ Gives TTW vendors better selections.
 
 - Main File - Craterside Supply Expansion
 - Main File - Flak n Shrapnel Expansion
- 
+
+### [Repeatable Quests Rewards Rebalanced](https://www.nexusmods.com/newvegas/mods/89893)
+
+Rebalances TTW repeatable quest rewards such as pre-war books, scrap metal and Outcast technology to be less rewarding and economy breaking.
+
 ### [Better Damage - Superior Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
 Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
