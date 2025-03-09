@@ -62,6 +62,10 @@ Aim down sights without the camera snapping to place.
 
 ## Fixes
 
+### [Audio Region Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91241)
+
+Fixes acoustic spaces not changing with exterior regions.
+
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
 Fix for depth of field bleeding over onto player's viewmodel.
@@ -121,6 +125,10 @@ Fixes vanilla FaceGen tints.
 #### Installation:
 
 - Main File - FaceGen Tint Fixes for TTW
+
+### [Vanilla Placement Fixes TTW](https://www.nexusmods.com/newvegas/mods/90942)
+
+Fixes hundreds of clipping/floating/misaligned objects in the vanilla game that aren't covered by other mods.
 
 ### [Consistent Weapon Mod Descriptions](https://www.nexusmods.com/newvegas/mods/85957)
 
