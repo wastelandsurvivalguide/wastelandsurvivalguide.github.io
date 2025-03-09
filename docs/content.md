@@ -96,7 +96,7 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
   - Main Files:
     - [x] The Great Mojave Interior Overhaul Main File
   - Patches:
-    - [x] FPGE - Functional Post Game Ending
+    - [ ] FPGE - Functional Post Game Ending
     - [ ] Gun Runner's Arsenal Displayed
     - [x] The Living Desert
     - [ ] Classic Adobe Buildings
