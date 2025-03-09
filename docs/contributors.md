@@ -9,6 +9,7 @@
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/users/3644561)
 - [Shabby Pirate](https://www.nexusmods.com/users/78372218)
+- [Norvito](https://next.nexusmods.com/profile/Norvito)
 
 ### Past Contributors & Shoutouts
 
