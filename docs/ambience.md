@@ -87,6 +87,14 @@ Allows easy adjustment of weapon position on screen. Mainly required for animati
 
 Gives weapons realistic inertia movement.
 
+### [B42 Dynamic Pip-Boy](https://www.nexusmods.com/newvegas/mods/90847)
+
+This little mod adds immersive Pip-Boy animations, movement parallax, subtle breathing sway and button clicks.
+
+#### Installation:
+
+- Main File - B42 Dynamic Pip-Boy
+
 ### [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158)
 
 Includes three of Hitman's previous animation/bugfix mods, Subtle Camera Motion, Iron Sights Recoil Animations, and Fire Animation Variants. Also includes some previously unreleased animations.
@@ -118,6 +126,11 @@ The definitive first-person animation pack for all melee and unarmed weapons in 
 ### [Hit - Millenia Animations - Part 2](https://www.nexusmods.com/newvegas/mods/85192)
 
 Reanimates many more weapons in Another Millenia and its Gun Addon.
+
+#### Installation:
+
+- Main File - Hit - Millenia Animations - Part 2
+- Update File - [Hit Millenia Season 2 LAUG Patch](https://www.nexusmods.com/newvegas/mods/76133)
 
 ### [Enhanced Locomotion](https://www.nexusmods.com/newvegas/mods/88446)
 
@@ -341,9 +354,21 @@ Modernized ambient soundscape with an object based directional sound system. Est
 - Main File - [ATMOS NV - FPGE Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130991&nmm=1)
 - Main File - [ATMOS - ExRB Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137728&nmm=1)
 
+### [Restored Physics Sounds](https://www.nexusmods.com/newvegas/mods/90895)
+
+Restores missing physics sounds for some object types in the game.
+
 ### [PhySFX](https://www.nexusmods.com/newvegas/mods/87832)
 
 Replaces the impact sounds of various physics objects in the game, such as metal objects and glass, with newer, higher quality audio.
+
+### [B42 Weapon Iron Sights Foley - Espless](https://www.nexusmods.com/newvegas/mods/90670)
+
+Adds dynamic, varied per weapon iron sights foley sound FX.
+
+### [Subtle Rifle Equip Sound](https://www.nexusmods.com/newvegas/mods/90498)
+
+Replaces the vanilla rifle equip sound with a subtle, immersive and lore-friendly one.
 
 ### [All Weapon Sound Overhaul Modern Edition Redone - AWSOMER](https://www.nexusmods.com/newvegas/mods/84235)
 
