@@ -1,5 +1,19 @@
 # Changelog - A/V
 
+### 11/03/2025
+
+### User Interface & HUD
+- Added High Res Local Maps.
+- Added Modern Minimap - ESPless.
+
+### Content
+- Removed Goodies - TTW patch.
+- Added RyuN21's - TTW Patch Hub which has patches for Goodies, Lived-In AIO and Lived-In Strip.
+
+### Final Steps
+- Updated WSG Object LOD. Regenerated with xLODGen Beta 130 which fixes an issue that causes cell loading stutter.
+- Updated the load order.
+
 ### 09/03/2025
 
 This changelog includes a couple of previously undocumented small changes.
