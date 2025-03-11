@@ -136,6 +136,28 @@ Changes the corner notifications to improve readability. Multiple messages appea
 
 Adds a UI widget that displays your recent loot.
 
+### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
+
+Increases the resolution of local maps from 128 to 512. Required by other mods.
+
+#### Installation:
+
+- Main File - High Res Local Maps
+
+### [Modern Minimap - ESPless](https://www.nexusmods.com/newvegas/mods/90574)
+
+Adds a modern and feature rich minimap to the HUD.
+
+### Installation:
+
+- Main File - Modern Minimap
+  - Version:
+    - [ ] Lite
+    - [x] Full
+  - Icon Add-on:
+    - [ ] Default
+    - [x] Colorful
+
 ### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
 
 The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained and lost based on the time selected.
