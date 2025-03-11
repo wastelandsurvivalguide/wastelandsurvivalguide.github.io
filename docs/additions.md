@@ -1,4 +1,4 @@
-﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+![image](https://github.com/user-attachments/assets/d932283f-b6ef-4829-88a3-f39276d83994)﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 # Additions 
@@ -185,11 +185,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 All of the mods in this section require LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 :::
 
-[The Strip - 2023 Lite](https://www.nexusmods.com/newvegas/mods/82959) - Best overhaul for the Strip when it comes to pure compatibility, and performance. 
-- If you can afford the perfomance hit, pairs amazing with [Strip Cinematic Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/86501).
-
-[Lived-In All-In-One](https://www.nexusmods.com/newvegas/mods/90682) - Lightweight overhauls of multiple settlements/smaller locations with NPCs. Has patches for other mods in optional files.
-
 [Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
@@ -300,21 +295,6 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Window Ambient Light at Night](https://www.nexusmods.com/newvegas/mods/84945) - Windows that light up at night now emit a light and light up their surroundings.
 
 
-### Landscape Overhauls
-
-:::caution Important!
-All of the mods in this section require LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
-:::
-
-[Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867?tab=description) - Adds new life the the Mojave Wasteland by making bland locations more detailed. Great successor to NVLORR
-
-[Desert Landscapes](https://www.nexusmods.com/newvegas/mods/84284) - A comprehensive landscape overhaul for the Mojave Wasteland.
-- Incompatible with above, pick one or the other.
-- Higher level of general incompatibility. 
-- Created specifically for compatibility with [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218) and [Enhanced Landscapes](https://www.nexusmods.com/newvegas/mods/69406) in mind.
-- Two versions are provided on the main mod page, one of which requires Bale's [Micro Clutter](https://www.nexusmods.com/newvegas/mods/74267).
-
-
 ### NPCs
 The following are designed to be placed in the following load order if using the entire suite.
 
@@ -365,6 +345,9 @@ The following are designed to be placed in the following load order if using the
 
 
 ## Changelog
+1.9 - 3/11/2025
+- Removal of duplicate mods added in the newest iteration of WSG.
+
 1.8 - 2/8/2025
 - This whole section is a mess. Clean up.
   
