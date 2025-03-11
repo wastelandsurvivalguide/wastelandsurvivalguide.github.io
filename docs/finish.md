@@ -78,6 +78,9 @@ Either way, all of the following mods are **REQUIRED**:
 #### Installation:
 
 - Main File - VNV LOD Guide Plugins Merge
+  - VNV LOD Guide Plugins Merge:
+    - [x] 00 Without ALML Patch
+    - [ ] 01 With ALML Patch
 
 ### [Nuclear LOD](https://www.nexusmods.com/newvegas/mods/88902)
 
@@ -100,7 +103,7 @@ Do not install the following files if you plan to generate your own LOD.
 
 ### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000147938&nmm=1)
 
-### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000147939&nmm=1)
+### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000148050&nmm=1)
 
 ## Load Order
 
@@ -156,11 +159,12 @@ Functional Post Game Ending Lite TTW Patch.esm
 Lived-In AIO.esm
 Lived-In Strip.esm
 Goodies.esp
-Goodies - TTW Patch.esp
+Goodies - TTW.esp
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
 Lived-In AIO - Mojave Scenery Patch.esm
 Goodies - Mojave Scenery Overhaul Patch.esm
+Lived-In AIO - TTW.esp
 TGMIO.esm
 TGDCIO.esm
 AWorldOfPainFO3.esm
