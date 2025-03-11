@@ -45,7 +45,6 @@ Large collection of restored content, consistency fixes, integrated content, and
     - [ ] Functional Post-Game Ending
     - [x] Mojave Scenery Overhaul
     - [ ] Simple Character Expansions
-- Main File - [Goodies - TTW Patch](https://www.nexusmods.com/newvegas/mods/91038)
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
@@ -85,6 +84,24 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
 #### Installation:
 
 - Main File - Lived-In Strip
+
+### [RuyN21's - TTW Patch Hub](https://www.nexusmods.com/newvegas/mods/91351)
+
+Contains patches for Goodies and Lived-In AIO / Strip.
+
+#### Installation:
+
+- Main File - RuyN21's - TTW Patch Hub
+  - Main Files:
+    - [ ] Strip Lights Region Fix - TTW
+    - [x] Goodies - TTW
+    - [ ] Goodies - SawyerBatty
+    - [ ] Goodies - TTW NPC Overhaul
+    - [ ] Goodies - SawyerBatty - TTW NPC Overhaul
+    - [x] Lived-In AIO - TTW
+    - [ ] SawyerBatty - True Open World DC
+    - [ ] TTW NPC Overhaul - SawyerBatty
+    - [ ] TTW NPC Overhaul - True Open World DC
 
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 
