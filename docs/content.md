@@ -70,7 +70,7 @@ This mod adds some subtle and realistic clutter around the major settlements and
 
 - Main File - Lived-In AIO
   - Main File:
-    - [x] TTW
+    - [x] Main File
   - Patches:
     - [ ] Caravan Travel
     - [x] Mojave Scenery Overhaul
