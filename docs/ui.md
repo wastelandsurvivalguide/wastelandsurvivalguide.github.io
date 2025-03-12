@@ -290,10 +290,6 @@ Adds contextual ySI - Sorting Icons to the crosshair prompt.
 
 Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
-### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
-
-Sharper, clearer local maps.
-
 ### [Pipboy Holo Panel ESPless](https://www.nexusmods.com/newvegas/mods/86483)
 
 Replaces the Pip-Boy with a holopanel while wearing power armor.
