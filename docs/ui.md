@@ -148,7 +148,7 @@ Increases the resolution of local maps from 128 to 512. Required by other mods.
 
 Adds a modern and feature rich minimap to the HUD.
 
-### Installation:
+#### Installation:
 
 - Main File - Modern Minimap
   - Version:
