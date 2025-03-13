@@ -143,10 +143,6 @@ Certain weapon mods have an empty line above the description. This simple fix re
   - Additional Options:
     - [ ] Remove Stat Values
 
-### [Flashbang Tutorial Remover - ESPLESS](https://www.nexusmods.com/newvegas/mods/87162)
-
-Removes the tutorial script from Lonesome Road's Flashbangs. Can even help inventory performance if you carry hundreds of them.
-
 ### [Slideshow FOV Fix - ESPLess](https://www.nexusmods.com/newvegas/mods/87119)
 
 Fixes the issue with slideshows being the wrong size based on your FOV.
