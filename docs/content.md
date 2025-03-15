@@ -86,7 +86,7 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
 - Main File - Lived-In Strip
 
 :::tip Note
-It is recommended that you skip this mod if you plan to use the [SALVO](https://salamand3r.fail/salvo) guide after this.
+It is recommended that you skip Lived-In Strip if you plan to use the [SALVO](https://salamand3r.fail/salvo) guide after this.
 :::
 
 ### [RuyN21's - TTW Patch Hub](https://www.nexusmods.com/newvegas/mods/91351)
