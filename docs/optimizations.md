@@ -53,7 +53,14 @@ Improves collision meshes in the Mojave Wasteland.
 #### Installation:
 
 - Main File - Collision Meshes FNV
-- Main File - Update Collision Meshes FNV 1.6.3 to 1.6.4
+
+### [New Vegas Mesh Improvement Mod - NVMIM](https://www.nexusmods.com/newvegas/mods/74295)
+
+Optimizations and fixes for a large selection of meshes in the base game and DLC.
+
+#### Installation:
+
+- Main File - New Vegas Mesh Improvement Mod
 
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
