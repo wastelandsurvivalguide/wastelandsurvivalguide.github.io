@@ -110,10 +110,6 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 - Main File - Equip and Movement Speed Fix - ESPless
 
-### [Swimming Creatures Fix - ESPless](https://www.nexusmods.com/newvegas/mods/83094)
-
-Gives the "swim" movement flag to the few vanilla creatures that have associated animations, meaning they can now pursue you through water.
-
 ### [Tranquility Lane Pipboy Glove and Custom Race Fix](https://www.nexusmods.com/newvegas/mods/77018)
 
 Stops Tranquility Lane from de-aging you to a child, which breaks multiple race replacers and alternative Pip-Boy replacers.
@@ -126,9 +122,13 @@ Fixes vanilla FaceGen tints.
 
 - Main File - FaceGen Tint Fixes for TTW
 
-### [Vanilla Placement Fixes TTW](https://www.nexusmods.com/newvegas/mods/90942)
+### [Vanilla Placement Fixes](https://www.nexusmods.com/newvegas/mods/90593)
 
 Fixes hundreds of clipping/floating/misaligned objects in the vanilla game that aren't covered by other mods.
+
+#### Installation:
+
+- Main File - Placement Fixes TTW
 
 ### [Consistent Weapon Mod Descriptions](https://www.nexusmods.com/newvegas/mods/85957)
 
