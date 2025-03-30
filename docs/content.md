@@ -74,7 +74,6 @@ This mod adds some subtle and realistic clutter around the major settlements and
   - Patches:
     - [ ] Caravan Travel
     - [x] Mojave Scenery Overhaul
-    - [x] Ownership Patch
     - [x] The Living Desert
     - [ ] Uncut Wasteland
 
