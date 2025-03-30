@@ -52,6 +52,12 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 
 An all-in-one merge of a few gameplay enhancing mods for the Capital Wasteland.
 
+#### Installation:
+
+- Main File - Essential Capital Enhancements Merged
+  - Patches:
+    - [ ] Mothership Zeta Rehaul
+
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
@@ -188,6 +194,12 @@ Gives TTW vendors better selections.
 
 Rebalances TTW repeatable quest rewards such as pre-war books, scrap metal and Outcast technology to be less rewarding and economy breaking.
 
+#### Installation:
+
+- Main File - Repeatable Quests Rewards Rebalanced
+  - Patches:
+    - [ ] Tweaks for TTW
+
 ### [Better Damage - Superior Multipliers](https://www.nexusmods.com/newvegas/mods/84495)
 
 Improved damage multipliers for the game's difficulty settings. In the base game, the approach to difficulty balance involved making enemies bullet sponges. This mod removes that approach.
@@ -208,7 +220,7 @@ A fast-travel overhaul implementing an alternative system using molerats and mol
     - [ ] Fallout New Vegas
     - [ ] Downloadable Content
     - [x] Tale of Two Wastelands
-- Main File - [SD_Transporters Spelling Pathc](https://www.nexusmods.com/newvegas/mods/83130)
+- Main File - [SD_Transporters Selling Patch](https://www.nexusmods.com/newvegas/mods/83130)
   - The name is not a typo.
 
 :::tip
