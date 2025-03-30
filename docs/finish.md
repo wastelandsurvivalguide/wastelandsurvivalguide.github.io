@@ -143,6 +143,7 @@ Placement Fixes.esm
 PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
 TTW Ultimate Invisible Wall Remover.esm
+NVMIM.esp
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
 Tale of Bi Wastelands.esm
@@ -188,13 +189,11 @@ mil-TTWPlacements.esp
 mil_Add-On.esp
 Tactapack.esp
 ZL_Armaments_Remastered.esm
-zlArms3DNPCsPatch.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 ATMOS Ambient Overhaul.esp
-WordleHack.esm
-The Mod Configuration Menu.esp
 TTW FaceGen Fix.esp
 TTW No PipBoy Glove Equipping or Race Changes.esp
+The Mod Configuration Menu.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 ExRB-TTW.esp
@@ -219,7 +218,6 @@ Benny Humbles You and Steals Your Stuff.esp
 TLD LVLI Total Overhaul.esp
 SP TTW Patch.esp
 TGMIO_TLD_Patch.esp
-Lived-In AIO - Ownership Patch.esp
 MoreMojave DSE- Mojave Scenery Patch.esp
 WeaponRequirementSystem.esp
 Reload Reloaded.esp
