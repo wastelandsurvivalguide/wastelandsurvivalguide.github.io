@@ -27,6 +27,7 @@ A stripped down version of FPGE that doesn't alter the game's world after the Se
 Adds several scripted events and hundreds of NPCs who will patrol roads, travel between towns, occupy locations, explore the desert, and react dynamically to your choices throughout the game.
 
 - Main File - The Living Desert Main File
+- Main File - The Living Desert .ini
 - Main File - [The Living Desert Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
 
 ### [Goodies](https://www.nexusmods.com/newvegas/mods/91028)
@@ -143,7 +144,7 @@ Adds many intense and unique locations, new items, companions, and quests to the
 
 - Main File - [AWOP Revised](https://www.nexusmods.com/newvegas/mods/71139)
 - Main File - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
-- Main File - TTW Patch
+- Optional File - Sweet Pain NV TTW Patch
 
 ### [More Mojave Dark Side Edition](https://www.nexusmods.com/newvegas/mods/91060)
 
@@ -213,7 +214,7 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
 #### Installation:
 - Main File - Another Millenia
-- Update File - update 2.6b
+- Update File - update 2.6c
 - Optional File - Another Millenia - TTW Unique Placements
 
 ### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
@@ -222,8 +223,7 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 #### Installation: 
 - Main File - Another Millenia Gun Add-on
-- Update File - Update 2.1b
-- Update File - Update 2.1c
+- Update File - Update 2.1d
 
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
