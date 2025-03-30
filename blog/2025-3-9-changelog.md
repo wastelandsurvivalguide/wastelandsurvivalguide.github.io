@@ -1,5 +1,43 @@
 # Changelog - A/V
 
+### 30/03/2025
+
+### Extra Utilities & Fixes
+- Removed Swimming Creatures Fix, included in Goodies.
+- Replaced Vanilla Placement Fixes TTW with the version on the original mod's page.
+
+### Optimizations
+- Re-added New Vegas Mesh Improvement Mod as it has essential fixes that are not yet included in TTW.
+
+### User Interface & HUD
+- Updated MAPMO WSG Preset.
+- Updated install intructions for Main Menu Redone.
+- Added Modern Minimap - Custom INI.
+- Replaced yUI INI instructions with a custom INI file.
+- Added Condition Meter Icons - espless.
+
+### Gameplay
+- Updated install instructions for Essential Capital Enhancements Merged.
+- Updated install instructions for Repeatable Quests Rewards Rebalanced.
+- Changed the typo for Transporters Spelling Patch to a new one.
+
+### Content
+- Updated install instructions for TLD, the INI is now a separate required file.
+- Updated install instructions for Goodies.
+- Updated the name of the Sweet Pain NV TTW patch.
+- Updated install instructions for Another Millenia and Gun Add-on.
+
+### Overhauls
+- Updated the name of TTW Perk and Consumables Overhaul - Remastered.
+
+### Aesthetics & Ambience
+- Added NVAO Guns hotfix.
+- Added NVAO - Throwverhaul.
+- Updated install instructions for Iron Sights Aligned.
+
+### Final Steps
+- Updated load order.
+
 ### 11/03/2025
 
 ### User Interface & HUD
