@@ -48,10 +48,10 @@ Makes the economy harsher for characters with low barter, makes barter affect pr
 
 - Main File - Harder Barter Faster Stronger
 
-### [TTW Perk Overhaul - A PerkSawyer Derivative](https://www.nexusmods.com/newvegas/mods/87571)
+### [TTW Perk and Consumables Overhaul - Remastered](https://www.nexusmods.com/newvegas/mods/87571)
 
 A completely reworked perk system to emphasize and encourage specialization and improve gameplay balance.
 
 #### Installation:
 
-- Main File - TTW Perk Overhaul
+- Main File - TTW Perk Overhaul - Remastered
