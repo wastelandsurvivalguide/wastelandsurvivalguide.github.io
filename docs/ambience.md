@@ -114,7 +114,8 @@ The definitive first-person animation pack for guns in Fallout: New Vegas and TT
     - [x] Vanilla
     - [ ] WAP Friendly
     - [ ] Custom
-   
+- Update File - Various Hotfixes
+
 ### [New Vegas Animation Overhaul - Melee](https://www.nexusmods.com/newvegas/mods/88830)
 
 The definitive first-person animation pack for all melee and unarmed weapons in New Vegas and TTW. Every one-handed, two-handed, and unarmed/fist-type melee weapon has been re-animated.
@@ -122,6 +123,10 @@ The definitive first-person animation pack for all melee and unarmed weapons in 
 #### Installation:
 
 - Main File - New Vegas Animation Overhaul - Melee
+
+### [New Vegas Animation Overhaul (NVAO) - Throwverhaul](https://www.nexusmods.com/newvegas/mods/91374)
+
+The definitive first-person animation pack for all thrown weapons (spears, hatches, grenades, mines, etc.) in New Vegas and TTW.
 
 ### [Hit - Millenia Animations - Part 2](https://www.nexusmods.com/newvegas/mods/85192)
 
@@ -165,6 +170,7 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [ ] C.A.R and OUR Friends
     - [ ] Combat Shotgun and Friends
     - [ ] DKS and Friends
+    - [ ] Double Barrel Shotgun and Friends
     - [ ] Lever Action Rifle and Friends
     - [ ] R91 and Friends
   - Additional Patches:
