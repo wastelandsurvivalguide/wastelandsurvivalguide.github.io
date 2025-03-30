@@ -85,7 +85,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Main File - Main And Pause Menus Overhaul
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
-- Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000141295&nmm=1)
+- Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149225&nmm=1)
 
 :::important Instructions:
 - Press **M** from the pause menu to access the MCM.
@@ -116,7 +116,7 @@ A complete high-resolution and more detailed rework of the Tale of Two Wasteland
 
 #### Installation:
 
-- Choose the file matching your monitor's resolution.
+- Choose the options in the FOMOD installer matching your monitor's resolution. 2k Texture Resolution is recommended.
 
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249)
 
@@ -157,6 +157,7 @@ Adds a modern and feature rich minimap to the HUD.
   - Icon Add-on:
     - [ ] Default
     - [x] Colorful
+- Main File - [Modern Minimap - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149225&nmm=1)
 
 ### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
 
@@ -195,48 +196,14 @@ Fixes various UI bugs and adds new UI features.
 #### Installation:
 
 - Main File - yUI
-- After installing the main file, double-click the mod, go to **INI Files**, select all of the content within the INI, and replace it with:
-
-```ini title="yUI.ini" showLineNumbers
-[General]
-
-; fix the issue where items with different conditions would 'jump around' on update
-bFixIndefiniteSorting = 1
-
-; fix the issue where Container Menu would display only a single dropped item at a time
-bFixDroppedItems = 1
-
-; fix the issue where Inventory Menu tabline shows up with buttons already selected
-bFixTablineSelected = 1
-
-; enable Sorting and Icons section which controls ySI, don't enable this if you don't have ySI installed unless you know what you are doing
-bSortingIcons = 1
-
-; match cursor color to HUD color
-bMatchingCursor = 1
-
-
-[Sorting and Icons]
-
-; sort inventory according to tag names supplied in .json
-bSortInventory = 1
-
-; add ycons to inventory, container and barter menus
-bAddInventoryIcons = 1
-
-; replace hotkey icons with ycons
-bReplaceHotkeyIcons = 1
-
-; enable keyring-like clickable categories (this destroys vanilla keyring, so you have to have .json files supplying a new keyring category, i.e. ySI.json)
-bEnableCategories = 1
-```
+- Main File - [yUI - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149226&nmm=1)
 
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
 
 :::important
-**REQUIRES** `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which was done in the previous step.
+**REQUIRES** `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which is included in the Custom INI.
 :::
 
 #### Installation:
@@ -285,6 +252,10 @@ Adds contextual ySI - Sorting Icons to the crosshair prompt.
   - Icon Add-on:
     - [ ] Default
     - [x] Colorful
+
+### [Condition Meter Icons - espless](https://www.nexusmods.com/newvegas/mods/91552)
+
+Replaces text labels next to condition meters with ySI icons, which change dynamically to reflect player's current equipment.
 
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
 
