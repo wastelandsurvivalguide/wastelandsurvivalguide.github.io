@@ -85,7 +85,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Main File - Main And Pause Menus Overhaul
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
-- Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149225&nmm=1)
+- Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149224&nmm=1)
 
 :::important Instructions:
 - Press **M** from the pause menu to access the MCM.
