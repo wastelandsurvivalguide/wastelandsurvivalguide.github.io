@@ -74,6 +74,10 @@ Aim down sights without the camera snapping to place.
 
 Fixes acoustic spaces not changing with exterior regions.
 
+### [Cell Offset Generator - NVSE](https://www.nexusmods.com/newvegas/mods/92182)
+
+Removes cell loading stutter caused by unoptimized plugins.
+
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
 Fix for depth of field bleeding over onto player's viewmodel.
