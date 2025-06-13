@@ -24,6 +24,14 @@ Another script extender plugin that adds new functions to the game.
 
 Updates zlib to the latest version for faster loading and less stutter.
 
+### [Cell Offset Generator - NVSE](https://www.nexusmods.com/newvegas/mods/92182)
+
+Removes cell loading stutter caused by unoptimized plugins.
+
+:::important
+On initial load, the game will **take longer** to generate offsets for each plugin. These will be placed in your **overwrite folder** on game exit. This is not a problem and they can either be dragged into the mod in the left pane or left as-is. Subsequent loads will be normal.
+:::
+
 ### [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
 
 Implements a framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files.
