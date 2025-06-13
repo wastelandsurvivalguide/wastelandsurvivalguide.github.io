@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Optimizations**.
 
 :::tip What will these optimizations do?
-These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
+These mods will not have a noticable visual impact, but will significantly improve your performance and experience with AI throughout the game.
 :::
 
 ### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)
@@ -38,7 +38,7 @@ A comprehensive invisible wall remover for Tale of Two Wastelands.
 **MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building), but is otherwise a MASSIVE quality of life improvement.
 :::
 
-### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
+<!-- ### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
 
 Improves collision meshes in the Capital Wasteland.
 
@@ -60,11 +60,11 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 #### Installation:
 
-- Main File - New Vegas Mesh Improvement Mod
+- Main File - New Vegas Mesh Improvement Mod -->
 
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
-Fixes dozens of game models across the base game and DLCs.
+Fixes dozens of game models across the base game and DLCs. 
 
 ### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
 
