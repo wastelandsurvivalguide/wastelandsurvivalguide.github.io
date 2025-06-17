@@ -14,11 +14,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ## Fixes
 
-[Freeside Neon Sign Fix](https://www.nexusmods.com/newvegas/mods/82647) - Fixes the flicker present on several Freeside neon signs.
-
 [Gauss Impact Fix - ESPless](https://www.nexusmods.com/newvegas/mods/69136) - Fixes the Gauss Rifle bug in VATS, correcting damage and explosion effects.
-
-[Gun Runners Kiosk Glass Fix](https://www.nexusmods.com/newvegas/mods/70293) - Fixes the glass texture in the Gun Runners' kiosk.
 
 [Laser Pistol 3rd Person Latch Animation Fix](https://www.nexusmods.com/newvegas/mods/80657) - Fixes a vanilla bug where the latch for the laser pistol would be out of position after reloading or clearing a jam.
 
@@ -29,10 +25,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [MZ Holding Cells Fog Clip Distance Fix](https://www.nexusmods.com/newvegas/mods/77022) - The fog clip distance for the holding cells in TTW's Mothership Zeta is low enough that it's clearly visible in the first area. This fixes it.
 
 [Ranger Combat Helmets Clipping Fix](https://www.nexusmods.com/newvegas/mods/82776) - Fixes the issue of character head clipping through ranger combat helmets.
-
-[TTW 32 Pistol Projectile Clipping Fix](https://www.nexusmods.com/newvegas/mods/75052) - Fixes a Fallout 3 bug where the .32 Pistol was using 7.62 Rifle Bullet Projectiles, causing the bullets to clip through the gun as they're fired.
-
-[TTW Combat Shotgun HQ Reload Sounds](https://www.nexusmods.com/newvegas/mods/75919) - Replaces the low-quality reload sounds of the Combat Shotgun in TTW with the original, higher quality versions.
 
 [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245) - Prevents interactive animation mods used alongside vanilla weapon animations from causing the weapon to disappear.
 
@@ -104,7 +96,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Skill Book Auto-Use](https://www.nexusmods.com/newvegas/mods/82674) - Automatically uses skill books upon pickup.
 
 [TTW Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/75829) - An assortment of quests to help with the collection of all Bobbleheads, Steel Ingots, Keller Family Transcripts, Intel Briefcases, and Alien Captive Recorded Logs.
-- If experiencing crashes when picking up notes with this mod, this can be remedied by updating to the unreleased JIP file pinned in the WSG discord server.
 
 [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) and optionally [TTW - More Map Markers - No Download Map Markers](https://www.nexusmods.com/newvegas/mods/86655) - Adds a few more map markers to TTW
 
