@@ -47,6 +47,14 @@ Large collection of restored content, consistency fixes, integrated content, and
     - [x] Mojave Scenery Overhaul
     - [ ] Simple Character Expansions
 
+### [Goodies Patches - TTW and More](https://www.nexusmods.com/newvegas/mods/91038)
+
+Patches for Qolore's Goodies mod to work with TTW and other mods.
+
+#### Installation:
+
+- Main File - Goodies - TTW 2.2
+
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
 Mojave Scenery Overhaul remakes and touches up areas that were lackluster and forgettable whilst enhancing the original look and feel.
@@ -106,14 +114,6 @@ Contains patches for Goodies and Lived-In AIO / Strip.
     - [ ] SawyerBatty - True Open World DC
     - [ ] TTW NPC Overhaul - SawyerBatty
     - [ ] TTW NPC Overhaul - True Open World DC -->
-
-### Goodies Patches - TTW and More
-
-Patches for Qolore's Goodies mod to work with TTW and other mods.
-
-#### Installation:
-
-- Main File - [Goodies - TTW 2.2](https://www.nexusmods.com/newvegas/mods/91038)
 
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 
