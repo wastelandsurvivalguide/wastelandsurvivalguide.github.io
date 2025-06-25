@@ -51,8 +51,6 @@ Large collection of restored content, consistency fixes, integrated content, and
 
 Patches for Qolore's Goodies mod to work with TTW and other mods.
 
-#### Installation:
-
 - Main File - Goodies - TTW 2.2
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
@@ -133,6 +131,8 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
 ### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
 
 Vanilla+ project that aims to overhaul many DC locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
+
+- Main File - The Great DC Interior Overhaul
 
 ### Sweet Pain DC
 
