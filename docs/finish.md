@@ -160,7 +160,7 @@ Functional Post Game Ending Lite TTW Patch.esm
 Lived-In AIO.esm
 Lived-In Strip.esm
 Goodies.esp
-Goodies - TTW.esp
+Goodies - TTW Patch.esp
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
 Lived-In AIO - Mojave Scenery Patch.esm
@@ -209,6 +209,7 @@ SimpleNightVision.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
+TTW No Free Levelup.esp
 TTW No Free Levelup Quick Start.esp
 TTW Quick NV Train Start.esp
 DelayDLCRedux.esp
