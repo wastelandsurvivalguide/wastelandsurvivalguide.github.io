@@ -358,6 +358,8 @@ Modernized ambient soundscape with an object based directional sound system. Est
 #### Installation:
 
 - Main File - ATMOS Ambience Overhaul - Master - Hi-Fi
+- Main File - ATMOS DLC Overhaul Part I
+- Optional File - ATMOS Ambience Overhaul - AWOP Revision
 - Main File - [ATMOS NV - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130990&nmm=1)
 - Main File - [ATMOS - ExRB Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137728&nmm=1)
 
