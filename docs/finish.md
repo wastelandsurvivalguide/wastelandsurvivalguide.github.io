@@ -2,109 +2,6 @@
 
 ---
 
-## LOD
-
-To ensure that there are no visual glitches with the new content and terrain mods, LOD generation is required. You'll need to either use the pre-generated LOD we provide if you use every mod from WSG, or generate your own by following the [Viva New Vegas LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
-Either way, all of the following mods are **REQUIRED**:
-
-### [LOD Fixes and Improvements - NVSE](https://www.nexusmods.com/newvegas/mods/84171)
-
-#### Installation:
-
-- Main File - LOD Fixes and Improvements - NVSE
-
-### [Much Needed LOD](https://www.nexusmods.com/newvegas/mods/64805)
-
-#### Installation:
-
-- Main File - Much Needed LOD
-- Delete `MuchNeededLOD.esp` and the `meshes\effects\` folder.
-
-### [Much Needed LOD fixed rocks color](https://www.nexusmods.com/newvegas/mods/81524)
-
-### [LOD additions and improvements](https://www.nexusmods.com/newvegas/mods/61206)
-
-#### Installation:
-
-- Delete `tmzLODadditions.esp`.
-
-### [FNV LOD Supplementation](https://www.nexusmods.com/newvegas/mods/72099)
-
-#### Installation:
-
-- Main File - FNV LOD Supplementation
-- Optional File - Optional Overpasses
-
-### [TCM's LOD Overhaul](https://www.nexusmods.com/newvegas/mods/70155)
-
-### [More LODs Additions and fixes](https://www.nexusmods.com/newvegas/mods/81751)
-
-#### Installation:
-
-- Main File - More LODs Additions and fixes
-
-### [Wasted LOD - Cliffs of Mojave](https://www.nexusmods.com/newvegas/mods/83316)
-
-#### Installation:
-
-- Delete `Wasted Mojave Rock LOD.esp`.
-
-### [Wasted LOD - Cliffs of DC](https://www.nexusmods.com/newvegas/mods/79734)
-
-#### Installation:
-
-- Delete `Wasted LOD rocks.esp`.
-
-### [Different LOD mods little tweaks and additions](https://www.nexusmods.com/newvegas/mods/81981)
-
-### [LODIFY - Level of detail improvement for your Fallout (TTW And NV Lods)](https://www.nexusmods.com/newvegas/mods/84165)
-
-#### Installation:
-
-- Main File - LODIFY
-- Delete `TTWLods.esp`.
-- Optional File - LODIFY FNV Wall_SoGB Editon
-- Delete `LODIFY_FNV.esp`.
-
-### [Decent LOD Kit](https://www.nexusmods.com/newvegas/mods/88979)
-
-#### Installation:
-
-- Main File - Decent LOD Kit
-- Delete `Decent LOD Kit.esp`.
-
-### [VNV LOD Guide Plugins Merge](https://www.nexusmods.com/newvegas/mods/79358)
-
-#### Installation:
-
-- Main File - VNV LOD Guide Plugins Merge
-  - VNV LOD Guide Plugins Merge:
-    - [x] 00 Without ALML Patch
-    - [ ] 01 With ALML Patch
-
-### [Nuclear LOD](https://www.nexusmods.com/newvegas/mods/88902)
-
-#### Installation:
-
-- Main File - Nuclear Core
-- Main File - Nuclear Trees - Vanilla
-
-### [High Priority LOD](https://www.nexusmods.com/newvegas/mods/88898)
-
-#### Installation:
-
-- Main File - High Priority Core
-- Main File - High Priority Trees - Vanilla
-- Optional File - High Priority LOD - TTW
-
-:::caution
-Do not install the following files if you plan to generate your own LOD.
-:::
-
-### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000147938&nmm=1)
-
-### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000148050&nmm=1)
-
 ## Load Order
 
 This section ensures that your load order is correct for the guide by overwriting
@@ -142,8 +39,6 @@ Restored Physics Sounds.esm
 Placement Fixes.esm
 PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
-TTW Ultimate Invisible Wall Remover.esm
-NVMIM.esp
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
 Tale of Bi Wastelands.esm
@@ -165,7 +60,6 @@ Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
 Lived-In AIO - Mojave Scenery Patch.esm
 Goodies - Mojave Scenery Overhaul Patch.esm
-Lived-In AIO - TTW.esp
 TGMIO.esm
 TGDCIO.esm
 AWorldOfPainFO3.esm
@@ -191,6 +85,8 @@ Tactapack.esp
 ZL_Armaments_Remastered.esm
 zlArms3DNPCsPatch.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
+PerformanceOfTheTitans - TTW Patch.esm
+TLD_Travelers - TTW Patch.esm
 ATMOS Ambient Overhaul.esp
 TTW FaceGen Fix.esp
 TTW No PipBoy Glove Equipping or Race Changes.esp
@@ -199,17 +95,14 @@ AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 ExRB-TTW.esp
 Vanilla UI Plus.esp
-PipBoyUITweaks.esp
 JustAssortedMods.esp
 JBTImproved.esp
 JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
-SimpleNightVision.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
-TTW No Free Levelup.esp
 TTW No Free Levelup Quick Start.esp
 TTW Quick NV Train Start.esp
 DelayDLCRedux.esp
@@ -246,14 +139,15 @@ BulletTrails.esp
 AWSOMER.esp
 ATMOS - ExRB Patch.esp
 ATMOS NV - TTW Patch.esp
+ATMOS Ambient Overhaul - DLC.esp
+ATMOS Ambient Overhaul - AWOP Revision.esp
 ATMOS Sound Overhaul - TTW.esp
 Atmospheric Lighting Tweaks TTW.esp
 ATMOS - Atmospheric Lighting Tweaks Patch.esp
+LOD additions and improvements - TTW Patch.esp
+Wasted LOD rocks.esp
+TTW Fallout 3 LOD.esp
 VNV LOD Guide Plugins Merge.esp
-Nuclear_LOD.esp
-TreeLOD_Vanilla.esp
-HighPriorityLOD.esp
-HighPriorityLOD_TTW.esp
 DNWeathers.esp
 Interior Rain.esp
 Interior Rain - TTW.esp
