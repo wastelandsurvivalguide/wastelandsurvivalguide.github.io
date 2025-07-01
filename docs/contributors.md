@@ -9,14 +9,14 @@
 - [Salamand3r](https://salamand3r.fail/)
 - [Audley](https://www.nexusmods.com/users/3644561)
 - [Shabby Pirate](https://www.nexusmods.com/users/78372218)
-- [Norvito](https://next.nexusmods.com/profile/Norvito)
+- [Norvito](https://next.nexusmods.com/profile/Norvito) - [Donate](https://ko-fi.com/norvitodraws)
 
 ### Past Contributors & Shoutouts
 
 - [The Many](https://savelife.in.ua/en/donate-en/#donate-army-card-monthly)
 - [Ungeziefi](https://www.nexusmods.com/users/204130013) - [Donate](https://paypal.me/Ungeziefi)
 - Kamchatka
-- [AVeryUncreativeUsername](https://www.nexusmods.com/users/78355343)
+- [AVeryUncreativeUsername](https://next.nexusmods.com/profile/AVeryUncreativeUsername)
 - [Adam Adamowicz](https://www.flickr.com/photos/47857688@N08/sets/72157629320774861)
 - [anhatthezoo](https://www.nexusmods.com/users/38240420)
 - bustafooligan
@@ -36,7 +36,6 @@
 - [Matt](https://www.nexusmods.com/users/6056449) - [Donate](https://www.patreon.com/mdbakpo)
 - [Missing Mesh TV](https://www.nexusmods.com/users/38167085) - [Twitch](https://www.twitch.tv/missingmeshtv)
 - [Nehred](https://www.nexusmods.com/users/2867679)
-- [Norvito](https://www.nexusmods.com/newvegas/users/95061233) - [Donate](https://ko-fi.com/norvitodraws)
 - [OceanGaming](https://www.nexusmods.com/users/34390455)
 - [Patchier](https://www.nexusmods.com/users/3068108)
 - [Qolore7](https://www.nexusmods.com/users/26289839)
