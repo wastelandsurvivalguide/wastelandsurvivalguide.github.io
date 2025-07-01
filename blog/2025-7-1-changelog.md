@@ -52,6 +52,7 @@
 - Updated Iron Sights Aligned install instructions.
 - Moved Scope Aim Tweaks and PSRO to the Weapons section.
 - Removed Improved Lighting Shaders (Vanilla Plus Terrain supersedes it).
+- Added ATMOS DLC Part I and ATMOS Ambience Overhaul - AWOP Revision.
 - Added Vanilla Plus Terrain.
 - Added Vanilla Plus Tonemapper.
 
