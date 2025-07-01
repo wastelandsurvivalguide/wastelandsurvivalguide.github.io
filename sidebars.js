@@ -38,6 +38,7 @@ const sidebars = {
     "content",
     "overhaul",
     "ambience",
+    "lod",
     "finish",
     {
       type: "category",
