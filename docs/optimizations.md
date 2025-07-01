@@ -26,45 +26,28 @@ Fixes and improves vanilla game pathfinding errors and will provide a better and
 A compatibility patch is **NO LONGER** required for this mod.
 :::
 
-### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975)
-
-A comprehensive invisible wall remover for Tale of Two Wastelands.
-
-#### Installation:
-
-- Main File - TTW Ultimate Invisible Wall Remover (ESM Version)
-
-:::warning
-**MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building), but is otherwise a MASSIVE quality of life improvement.
-:::
-
-<!-- ### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
-
-Improves collision meshes in the Capital Wasteland.
-
-#### Installation:
-
-- Main File - Collision Meshes FO3
-
-### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
-
-Improves collision meshes in the Mojave Wasteland.
-
-#### Installation:
-
-- Main File - Collision Meshes FNV
-
-### [New Vegas Mesh Improvement Mod - NVMIM](https://www.nexusmods.com/newvegas/mods/74295)
-
-Optimizations and fixes for a large selection of meshes in the base game and DLC.
-
-#### Installation:
-
-- Main File - New Vegas Mesh Improvement Mod -->
-
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
 Fixes dozens of game models across the base game and DLCs. 
+
+### [MAC-TEN FO3 TTW](https://www.nexusmods.com/newvegas/mods/90284)
+
+MAC-TEN FO3 TTW is a general bug fixing mod for dozens of game models for TTW's DC wasteland.
+
+:::important
+The installation process is similar to the TTW installation. FO3 GOTY **must** be installed for the installer to work.
+:::
+
+#### Installation:
+
+1. Manually download **MAC-10 F3 TTW** and **Installer For MAC-10 F3 TTW**.
+2. Extract both files to a folder such as `C:\Modding\MAC-TEN TTW Installer`.
+3. Run **Mac10 F3 TTW Install.exe**
+4. Open Mod Organizer 2, select the **Show Open Folders menu...** button at the top and select **Open Mods folder**.
+5. Create a new folder inside the `Mods` folder and call it something like **MAC-TEN TTW**, then open it.
+6. Copy the full address from the top and paste it into the installer's **Install Location** field.
+7. Click **Install**.
+8. If done correctly, you should have the mod's files inside the created **MAC-TEN TTW** folder.
 
 ### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
 
@@ -77,10 +60,6 @@ Mod that improves game performance and stability by removing unnecessary and hid
 ### [Optimized Weapon World Models (ESPLESS)](https://www.nexusmods.com/newvegas/mods/88611)
 
 Adds new "world models" for weapons on the ground for better combat performance with zero visual or gameplay changes from vanilla.
-
-### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
-
-Adds a shader flag to vent meshes that fixes flickering and lighting issues.
 
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
