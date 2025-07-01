@@ -25,7 +25,7 @@ Adds a settings menu to configure mods in-game.
 The mod **WILL NOT FUNCTION** without the update file!
 :::
 
-### [Vanilla UI Plus](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
+### [Vanilla UI Plus](https://github.com/ModdingLinked/Viva-New-Vegas/raw/refs/heads/main/files/Vanilla%20UI%20Plus%20New%20Vegas%209.48.7z)
 
 Modernized vanilla-style UI with many enhancements and bug fixes.
 
@@ -85,7 +85,7 @@ Adds ample features to the Main and Pause menus. Fully customizable.
 - Main File - Main And Pause Menus Overhaul
 - Optional File - Extras - Hi-Res Logos
 - Optional File - Extras - Stewie's Tweaks Sorting Icons Replacer
-- Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149224&nmm=1)
+- Main File - [MAPMO - WSG Preset](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154146&nmm=1)
 
 :::important Instructions:
 - Press **M** from the pause menu to access the MCM.
@@ -132,10 +132,6 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 
 Changes the corner notifications to improve readability. Multiple messages appear simultaneously and fade out as newer ones appear.
 
-### [Recent Loot Log](https://www.nexusmods.com/newvegas/mods/80180)
-
-Adds a UI widget that displays your recent loot.
-
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
 Increases the resolution of local maps from 128 to 512. Required by other mods.
@@ -157,7 +153,7 @@ Adds a modern and feature rich minimap to the HUD.
   - Icon Add-on:
     - [ ] Default
     - [x] Colorful
-- Main File - [Modern Minimap - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000149225&nmm=1)
+- Main File - [Modern Minimap - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154147&nmm=1)
 
 ### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
 
@@ -170,6 +166,14 @@ This is a interface overhaul that improves all of the low resolution icons and t
 #### Installation:
 
 - Main File - Clean Companion Wheel 256x256 Edition
+
+### [Character Preset Menu](https://www.nexusmods.com/newvegas/mods/72789)
+
+Integrates character import and export into the character creation menu and allows you to share your designs with others.
+
+#### Installation:
+
+- Main File - Character Preset Menu
 
 ### [Character Build Presets](https://www.nexusmods.com/newvegas/mods/87483)
 
@@ -201,10 +205,6 @@ Fixes various UI bugs and adds new UI features.
 ### [ySI - Sorting Ycons](https://www.nexusmods.com/newvegas/mods/74358)
 
 Uses yUI features to add many custom icons and advanced sorting logic to improve inventory management.
-
-:::important
-**REQUIRES** `bSortingIcons = 1` to be enabled in [yUI.ini](#yui---user-ynterface), which is included in the Custom INI.
-:::
 
 #### Installation:
 
@@ -260,15 +260,6 @@ Replaces text labels next to condition meters with ySI icons, which change dynam
 ### [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
 
 Sharper, clearer screens for terminals, Pip-Boy, and other screens.
-
-### [Pipboy Holo Panel ESPless](https://www.nexusmods.com/newvegas/mods/86483)
-
-Replaces the Pip-Boy with a holopanel while wearing power armor.
-
-#### Installation:
-
-- Main File - Pipboy Holo Panel ESPless
-- Main File - [Pipboy Holo Panel - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137714&nmm=1)
 
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
@@ -402,9 +393,6 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
 #### Installation:
 
 - Main File - Pip-Boy UI Tweaks
-  - Main File:
-    - [x] Plugin (Recommended)
-    - [ ] Scriptrunner
   - Texture Addon:
     - [x] Colorful Icons
     - [x] MAPMO Style Icons
