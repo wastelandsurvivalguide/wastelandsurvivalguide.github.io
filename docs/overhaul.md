@@ -55,3 +55,7 @@ A completely reworked perk system to emphasize and encourage specialization and 
 #### Installation:
 
 - Main File - TTW Perk Overhaul - Remastered
+- Optional File - TTW Perk Overhaul - Another Millenia Patch
+- Optional File - TTW Perk Overhaul - Another Millenia Add-on Patch
+- Optional File - TTW Perk Overhaul - Tactapack Patch
+- Optional File - TTW Perk Overhaul - ZL Armaments Remastered Patch
