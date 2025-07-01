@@ -45,7 +45,7 @@ Large collection of restored content, consistency fixes, integrated content, and
     - [ ] Better Brotherhood
     - [ ] Functional Post-Game Ending
     - [x] Mojave Scenery Overhaul
-    - [ ] Simple Character Expansions
+- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154151&nmm=1)
 
 ### [Goodies Patches - TTW and More](https://www.nexusmods.com/newvegas/mods/91038)
 
@@ -66,7 +66,6 @@ Mojave Scenery Overhaul remakes and touches up areas that were lackluster and fo
   - Patch Selection:
     - [x] TLD Patch
     - [x] AWOLP Patch
-    - [ ] More Mojave Patch
 
 ### [Lived-In All-in-One](https://www.nexusmods.com/newvegas/mods/90682)
 
@@ -90,28 +89,16 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
 #### Installation:
 
 - Main File - Lived-In Strip
+  - Main File:
+    - [x] Lived-In Strip
+    - [ ] Lived-In Casinos
+  - Patches:
+    - [ ] Essential Vanilla Enhancements Merged
+    - [ ] Functional Post-Game Ending
 
 :::tip Note
 It is recommended that you skip Lived-In Strip if you plan to use the [SALVO](https://salamand3r.fail/salvo) guide after this.
 :::
-
-<!-- ### [RuyN21's - TTW Patch Hub](https://www.nexusmods.com/newvegas/mods/91351)
-
-Contains patches for Goodies and Lived-In AIO / Strip.
-
-#### Installation:
-
-- Main File - RuyN21's - TTW Patch Hub
-  - Main Files:
-    - [ ] Strip Lights Region Fix - TTW
-    - [x] Goodies - TTW
-    - [ ] Goodies - SawyerBatty
-    - [ ] Goodies - TTW NPC Overhaul
-    - [ ] Goodies - SawyerBatty - TTW NPC Overhaul
-    - [x] Lived-In AIO - TTW
-    - [ ] SawyerBatty - True Open World DC
-    - [ ] TTW NPC Overhaul - SawyerBatty
-    - [ ] TTW NPC Overhaul - True Open World DC -->
 
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 
@@ -127,6 +114,7 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
     - [ ] Gun Runner's Arsenal Displayed
     - [x] The Living Desert
     - [ ] Classic Adobe Buildings
+    - [ ] Windows of The Mojave
 
 ### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
 
@@ -182,7 +170,6 @@ Increased raider spawns and compatible vanilla rebalance and diversification of 
 #### Installation:
 
 - Main File - Mojave Raiders Lite
-- Main File - [Mojave Raiders Lite - TTW Patch](https://www.nexusmods.com/newvegas/mods/78465)
 
 ### [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638)
 
@@ -191,7 +178,26 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 #### Installation:
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
-- Main File - [Mojave Wildlife - TTW Patch](https://www.nexusmods.com/newvegas/mods/78465)
+
+### [Trooper's TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
+
+A collection of compatibility patches for TTW and various mods.
+
+#### Installation:
+
+- Main File - Trooper's TTW Patches
+  - Patches:
+    - [ ] Casino Crowds
+    - [ ] Cut Sewers Restored
+    - [ ] Meat Prep Animations Restored
+    - [ ] Meltdown Upgrade
+    - [ ] Mojave NPCs
+    - [ ] Mojave Raiders
+    - [x] Mojave Raiders Lite
+    - [x] Mojave Wildlife
+    - [x] Performance of the Titans
+    - [x] The Living Desert
+    - [ ] Uncut Road to Legate's Camp
 
 ## Dialogue
 
@@ -221,7 +227,7 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
 #### Installation:
 - Main File - Another Millenia
-- Update File - update 2.6c
+- Update File - update 2.6d
 - Optional File - Another Millenia - TTW Unique Placements
 
 ### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
@@ -230,7 +236,7 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 #### Installation: 
 - Main File - Another Millenia Gun Add-on
-- Update File - Update 2.1d
+- Update File - Update 2.1e
 
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
@@ -238,6 +244,7 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 
 #### Installation:
 - Main File - Tactapack
+- Optional File - Improved AK-112 Mesh
 
 ### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
 
