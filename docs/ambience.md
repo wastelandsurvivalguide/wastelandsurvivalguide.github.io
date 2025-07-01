@@ -165,12 +165,14 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
   - Weapon Replacers:
     - [ ] WAP Weapon Replacers
     - [ ] Laser Weapon Iron Sights
+  - Xamie and Friends Series:
     - [ ] 10mm Pistol and Friends
     - [ ] 10mm SMG and Friends
     - [ ] C.A.R and OUR Friends
     - [ ] Combat Shotgun and Friends
     - [ ] DKS and Friends
     - [ ] Double Barrel Shotgun and Friends
+    - [ ] Hunting Rifle and Friends
     - [ ] Lever Action Rifle and Friends
     - [ ] R91 and Friends
   - Additional Patches:
@@ -247,6 +249,20 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
 
 A selection of kNVSE related bug fixes, covering issues that commonly occur when using kNVSE animation mods.
 
+### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
+
+Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.
+
+#### Installation:
+
+- Optional File - NVCS Vanilla Weights
+
+:::note
+This mod **MUST** load after any other skeleton containing mods, which should already be true if following the guide.
+:::
+
+## Weapons
+
 ### [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701)
 
 Configurable tweaks when aiming with a scope such as blur and fade in from black.
@@ -304,20 +320,6 @@ A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignm
     <RadioButtonUncheckedIcon fontSize="small" /> 100%<br/>
   - Finished:
     - [x] Oh ye. We did it. Finished.
-
-### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
-
-Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.
-
-#### Installation:
-
-- Optional File - NVCS Vanilla Weights
-
-:::note
-This mod **MUST** load after any other skeleton containing mods, which should already be true if following the guide.
-:::
-
-## Weapons
 
 ### [aWRP - Another Weapon Retexture Project](https://www.nexusmods.com/newvegas/mods/82558)
 
@@ -388,13 +390,22 @@ A full replacement of all ballistic, explosive and energy weapon sounds.
 
 ## Lighting
 
-### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
+### [Vanilla Plus Terrain](https://www.nexusmods.com/newvegas/mods/92519)
 
-xNVSE plugin that almost completely fixes the exterior lighting bug, and allows up to 4x the number of active lights!
+Improves terrain shading by adding specular lighting, per-pixel fog, and ups the pointlight limit from 3 (or 13 with ILS) to 24.
 
 #### Installation:
 
-- Main File - Improved Lighting Shaders
+- Main File - Vanilla Plus Terrain
+
+### [Vanilla Plus Tonemapper](https://www.nexusmods.com/newvegas/mods/91500)
+
+Vanilla+ Tonemapper is a lightweight mod that fixes the vanilla tonemapping. It gets rids of the worst cases of white blown outs, while keeping true to the vanilla aesthetic.
+
+#### Installation:
+
+- Main File - Vanilla Plus Tonemapper
+- Optional File - Vanilla Plus Tonemapper - Sky Brightness Tweak
 
 ### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378)
 
