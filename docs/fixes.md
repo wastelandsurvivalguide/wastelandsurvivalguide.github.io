@@ -29,8 +29,12 @@ Updates zlib to the latest version for faster loading and less stutter.
 Removes cell loading stutter caused by unoptimized plugins.
 
 :::important
-On initial load, the game will **take longer** to generate offsets for each plugin. These will be placed in your **overwrite folder** on game exit. This is not a problem and they can either be dragged into the mod in the left pane or left as-is. Subsequent loads will be normal.
+On initial load, the game will **take longer to load** to generate offsets for each plugin. These will be placed in your **overwrite folder** on game exit. This is not a problem and they can either be dragged into the mod in the left pane or left as-is. Subsequent loads will be normal.
 :::
+
+### [Shader Loader - NVSE](https://www.nexusmods.com/newvegas/mods/87814)
+
+Allows loading shaders from loose files. Required for other mods within the guide.
 
 ### [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
 
@@ -73,6 +77,10 @@ Aim down sights without the camera snapping to place.
 ### [Audio Region Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91241)
 
 Fixes acoustic spaces not changing with exterior regions.
+
+### [Blood Decal Flashing Fix](https://www.nexusmods.com/newvegas/mods/87830)
+
+Fixes color overflow in blood decal shaders, which caused colorful flashes on certain GPUs or if using DXVK.
 
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
