@@ -48,6 +48,7 @@ The installation process is similar to the TTW installation. FO3 GOTY **must** b
 6. Copy the full address from the top and paste it into the installer's **Install Location** field.
 7. Click **Install**.
 8. If done correctly, you should have the mod's files inside the created **MAC-TEN TTW** folder.
+9. Refresh MO2 with F5 and enable the mod.
 
 ### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
 
