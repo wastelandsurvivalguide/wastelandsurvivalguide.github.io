@@ -52,19 +52,9 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 
 An all-in-one merge of a few gameplay enhancing mods for the Capital Wasteland.
 
-#### Installation:
-
-- Main File - Essential Capital Enhancements Merged
-  - Patches:
-    - [ ] Mothership Zeta Rehaul
-
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
-
-:::tip
-**READ THE DESCRIPTION** for details on the new location of the Medicine Bobblehead.
-:::
 
 - Main File - TTW Quick Start
 - Main File - [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
@@ -125,6 +115,7 @@ Automatically organizes your items in any interior cell. Can be tricky to set up
 #### Installation:
 
 - Main File - Stash Organizer
+- Main File - Stash Organizer INI
 
 :::important Instructions:
 - Press the **VATS** hotkey while looking at a container to access the Stash Organizer menu.
@@ -144,30 +135,9 @@ Adds crafting stations and additional containers to several vanilla player homes
 
 Adds the option to bottle water from any source when you hold Shift and activate the source, assuming you have an empty bottle.
 
-### [Simple Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
+### [Modern Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
 
-Adds togglable night vision and thermal imaging modes to power armor helmets. Fully configurable! 
-
-#### Installation:
-
-- Main File - Simple Night Vision
-  - Main Files:
-    - [x] Plugin
-    - [ ] Scriptrunner
-  - Add-ons:
-    - [ ] HUD Overlay
-  - Mod Patches:
-    - [ ] STARS TTW
-  - Texture Quality:
-    - [x] 2k
-    - [ ] 1k
-  - Texture Options:
-    - [x] Compress Textures
-
-:::important Instructions:
-- Press **N** to toggle night vision.
-- Hold **N** to add night vision support to your current headgear.
-:::
+Adds a feature rich night/thermal vision system to power armor helmets and other headgear. Fully configurable! 
 
 ### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
 
