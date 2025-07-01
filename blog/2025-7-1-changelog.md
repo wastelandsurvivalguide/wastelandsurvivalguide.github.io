@@ -1,6 +1,7 @@
 # Changelog - Why Can't This Be Easy
 
 `So settle down, relax yourself completely`
+
 `You can't get down if you're always in control`
 
 ---
