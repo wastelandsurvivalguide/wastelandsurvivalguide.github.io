@@ -12,6 +12,7 @@
 - Added Cell Offset Generator - NVSE.
 - Added Shader Loader - NVSE.
 - Added Blood Decal Flashing Fix.
+- Added LOD Flicker Fix - NVSE.
 
 ### Optimizations
 - Removed Collision Meshes DC and NV.
