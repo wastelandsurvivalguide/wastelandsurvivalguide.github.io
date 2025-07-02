@@ -23,8 +23,6 @@ all of the following mods are **REQUIRED**:
 - Main File - LOD Fixes and Improvements - NVSE
 - Main File - LOD Fixes and Improvements - INI
 
-### [LOD Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91705)
-
 ### [Much Needed LOD](https://www.nexusmods.com/newvegas/mods/64805)
 
 #### Installation:
