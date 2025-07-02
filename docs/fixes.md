@@ -94,6 +94,10 @@ Fixes a bug that would cause certain particles to appear black.
 
 Fixes some alpha rendering issues like broken effects when using Transparency Multisampling.
 
+### [LOD Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91705)
+
+Fixes flickering objects caused by lack of depth buffer precision.
+
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
 
 Fixes muzzle flash lights not being culled after firing, which would cause the game to continue using them for illumination.
