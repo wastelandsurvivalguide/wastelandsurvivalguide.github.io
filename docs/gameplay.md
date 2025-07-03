@@ -61,7 +61,7 @@ Quick start plugin to skip the Vault 101 intro sequence and start in the cave ju
   - Prevents starting with generic, pre-determined items.
 - Main File - [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
   - Provides stat based starting gear at the beginning of a playthrough.
-- Main File - [TTW No Free Levelup Quick Start](https://www.nexusmods.com/newvegas/mods/82173?tab=description)
+- Main File - [TTW No Free Levelup QS](https://www.nexusmods.com/newvegas/mods/82173?tab=description)
   - Prevents a free level up upon starting the game with TTW Quick Start.
 - Main File - [TTW Quick Train to NV Prompt](https://www.nexusmods.com/newvegas/mods/82311)
   - Restores the ability to start in the Mojave that is disabled by TTW Quick Start.
