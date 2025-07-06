@@ -66,6 +66,9 @@ Mojave Scenery Overhaul remakes and touches up areas that were lackluster and fo
   - Patch Selection:
     - [x] TLD Patch
     - [x] AWOLP Patch
+    - [ ] Revised Mojave Patch
+  - Custom Asset Addon:
+    - [ ] Custom Asset Addon
 
 ### [Lived-In All-in-One](https://www.nexusmods.com/newvegas/mods/90682)
 
@@ -95,6 +98,7 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
   - Patches:
     - [ ] Essential Vanilla Enhancements Merged
     - [ ] Functional Post-Game Ending
+    - [ ] Revised Mojave
 
 :::tip Note
 It is recommended that you skip Lived-In Strip if you plan to use the [SALVO](https://salamand3r.fail/salvo) guide after this.
@@ -187,6 +191,7 @@ A collection of compatibility patches for TTW and various mods.
 
 - Main File - Trooper's TTW Patches
   - Patches:
+    - [ ] Afterschool Special
     - [ ] Casino Crowds
     - [ ] Cut Sewers Restored
     - [ ] Meat Prep Animations Restored
@@ -195,8 +200,10 @@ A collection of compatibility patches for TTW and various mods.
     - [ ] Mojave Raiders
     - [x] Mojave Raiders Lite
     - [x] Mojave Wildlife
+    - [ ] Nova Arizona
     - [x] Performance of the Titans
     - [x] The Living Desert
+    - [ ] The New Bison Steve
     - [ ] Uncut Road to Legate's Camp
 
 ## Dialogue
