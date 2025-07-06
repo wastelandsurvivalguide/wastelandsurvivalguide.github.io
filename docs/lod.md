@@ -98,6 +98,6 @@ all of the following mods are **REQUIRED**:
 Do not install the following files if you plan to generate your own LOD.
 :::
 
-### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154154&nmm=1)
+### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154382&nmm=1)
 
-### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154153&nmm=1)
+### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154381&nmm=1)
