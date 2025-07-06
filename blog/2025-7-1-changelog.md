@@ -65,3 +65,19 @@
 ### Final Steps
 - Removed LOD section in favor of its own page.
 - Updated load order.
+
+## 06/07/2025
+
+### Combat
+- Temporarily removed Melee Hitstop Effects due to issues.
+
+### Content
+- Updated Mojave Scenery Overhaul install instructions.
+- Updated Lived-In Strip install instructions.
+- Updated Trooper's TTW Patches install instructions.
+
+### LOD
+- Updated WSG Terrain LOD and WSG Object LOD. Replace the previous version of VNV LOD Guide Plugins Merge with the new one, the BSAs were made with it in mind.
+
+### Finish
+- Updated load order.
