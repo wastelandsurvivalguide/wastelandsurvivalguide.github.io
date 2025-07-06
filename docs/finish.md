@@ -147,7 +147,7 @@ ATMOS - Atmospheric Lighting Tweaks Patch.esp
 LOD additions and improvements - TTW Patch.esp
 Wasted LOD rocks.esp
 TTW Fallout 3 LOD.esp
-VNV LOD Guide Plugins Merge.esp
+VNV LOD Plugins.esp
 DNWeathers.esp
 Interior Rain.esp
 Interior Rain - TTW.esp
