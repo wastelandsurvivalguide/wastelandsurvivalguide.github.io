@@ -51,7 +51,7 @@ Large collection of restored content, consistency fixes, integrated content, and
 
 Patches for Qolore's Goodies mod to work with TTW and other mods.
 
-- Main File - Goodies - TTW 2.2
+- Main File - Goodies - TTW 2.3
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
