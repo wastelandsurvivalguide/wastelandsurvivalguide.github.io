@@ -35,6 +35,7 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
+Mr House Final Battle Hotfix.esm
 Restored Physics Sounds.esm
 Placement Fixes.esm
 PerformanceOfTheTitans.esm
