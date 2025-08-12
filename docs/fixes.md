@@ -130,10 +130,6 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 - Main File - Equip and Movement Speed Fix - ESPless
 
-### [Tranquility Lane Pipboy Glove and Custom Race Fix](https://www.nexusmods.com/newvegas/mods/77018)
-
-Stops Tranquility Lane from de-aging you to a child, which breaks multiple race replacers and alternative Pip-Boy replacers.
-
 ### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
 
 Fixes vanilla FaceGen tints.
