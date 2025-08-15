@@ -51,7 +51,8 @@ pre {
 }
 
 .hero__title,
-.title_f1Hy {
+h1[class*='BlogPostItem-Header-Title'],
+h2[class*='BlogPostItem-Header-Title'] {
   font-family: "Permanent Marker", Cambria, Cochin, Georgia, Times,
     "Times New Roman", serif;
   font-size: 6vmin;
