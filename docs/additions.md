@@ -188,8 +188,6 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Cottonwood Cove Slave Market](https://www.nexusmods.com/newvegas/mods/74495) - Adds a slave market at Cottonwood Cove to support in-game lore.
 
-[Detailed New Vegas Suburban Overhaul - Westside](https://www.nexusmods.com/newvegas/mods/84318) - Merges two mods ([Detailed New Vegas - Westside](https://www.nexusmods.com/newvegas/mods/77383) and [New Vegas Suburban Overhaul](https://www.nexusmods.com/newvegas/mods/80526)) to overhaul Westside.
-
 [Freeside Facelift Lite](https://www.nexusmods.com/newvegas/mods/72411) - Overhauls Freeside.
 
 [Gun Runners Actually Run Guns](https://www.nexusmods.com/newvegas/mods/42503) - Expands the Gun Runners to a more lore appropriate role and adds a Gun Runner caravan that travels the Mojave Wasteland.
@@ -202,7 +200,6 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Irradiated Lonesome Road](https://www.nexusmods.com/newvegas/mods/74599) - Irradiates the entirety of Lonesome Road to increase difficulty and highlight the desolation of the divide.
 
 [Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights.
-- Combines nicely with [Animated Spotlights for Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/85553).
 
 [Meresti Metro Redesign TTW](https://www.nexusmods.com/newvegas/mods/83799) - Overhauls the Meresti Metro.
 
