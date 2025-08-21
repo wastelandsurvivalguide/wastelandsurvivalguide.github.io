@@ -92,7 +92,7 @@ JAM is a compilation of interface and gameplay-enhancing mods in one package, co
 
 ### [JIP LN NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154149&nmm=1)
 
-A custom configuration file with additional gameplay options enabled, such as FO3 style repair, localized DT/DR, weapon mods on enemy weapons, etc.
+A custom configuration file with additional gameplay options enabled, such as FO3 style repair, localized DT/DR, etc.
 
 ### [JIP CC&C](https://www.nexusmods.com/newvegas/mods/50468)
 
