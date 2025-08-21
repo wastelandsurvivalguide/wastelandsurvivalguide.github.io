@@ -199,7 +199,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Irradiated Lonesome Road](https://www.nexusmods.com/newvegas/mods/74599) - Irradiates the entirety of Lonesome Road to increase difficulty and highlight the desolation of the divide.
 
-[Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights.
+[Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights. (Do not use if you intend to use the SALVO guide.)
 
 [Meresti Metro Redesign TTW](https://www.nexusmods.com/newvegas/mods/83799) - Overhauls the Meresti Metro.
 
