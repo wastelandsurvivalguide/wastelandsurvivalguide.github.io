@@ -45,13 +45,17 @@ Large collection of restored content, consistency fixes, integrated content, and
     - [ ] Better Brotherhood
     - [ ] Functional Post-Game Ending
     - [x] Mojave Scenery Overhaul
-- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154151&nmm=1)
+
+:::important
+Do **NOT** download the INI file from the *Main Files* section. You will install a custom INI in the next step alongside the TTW patch.
+:::
 
 ### [Goodies Patches - TTW and More](https://www.nexusmods.com/newvegas/mods/91038)
 
 Patches for Qolore's Goodies mod to work with TTW and other mods.
 
-- Main File - Goodies - TTW 2.3
+- Main File - Main - Goodies - TTW
+- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000156930&nmm=1)
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
