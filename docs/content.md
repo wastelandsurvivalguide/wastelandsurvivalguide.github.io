@@ -55,7 +55,7 @@ Do **NOT** download the INI file from the *Main Files* section. You will install
 Patches for Qolore's Goodies mod to work with TTW and other mods.
 
 - Main File - Main - Goodies - TTW
-- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000156930&nmm=1)
+- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000158428&nmm=1)
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
