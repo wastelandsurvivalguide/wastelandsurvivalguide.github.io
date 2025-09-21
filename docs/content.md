@@ -30,7 +30,7 @@ Adds several scripted events and hundreds of NPCs who will patrol roads, travel 
 - Main File - The Living Desert .ini
 - Main File - [The Living Desert Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
 
-### [Goodies](https://www.nexusmods.com/newvegas/mods/91028?tab=files&file_id=1000156868&nmm=1)
+### [Goodies](https://www.nexusmods.com/newvegas/mods/91028)
 
 Large collection of restored content, consistency fixes, integrated content, and "gray area" bug fixes.
 
@@ -47,7 +47,7 @@ Large collection of restored content, consistency fixes, integrated content, and
     - [x] Mojave Scenery Overhaul
 
 :::important
-Do **NOT** download the INI file from the *Main Files* section. You will install a custom INI in the next step alongside the TTW patch. **Linking to a previous version is intentional.**
+Do **NOT** download the INI file from the *Main Files* section. You will install a custom INI in the next step alongside the TTW patch.
 :::
 
 ### [Goodies Patches - TTW and More](https://www.nexusmods.com/newvegas/mods/91038)
