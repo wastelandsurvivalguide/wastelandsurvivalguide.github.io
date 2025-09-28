@@ -56,7 +56,7 @@ Functional Post Game Ending Lite TTW Patch.esm
 Lived-In AIO.esm
 Lived-In Strip.esm
 Goodies.esp
-Goodies - TTW Patch.esp
+Goodies - TTW.esp
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
 Lived-In AIO - Mojave Scenery Patch.esm
