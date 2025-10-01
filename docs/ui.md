@@ -153,7 +153,7 @@ Adds a modern and feature rich minimap to the HUD.
   - Icon Add-on:
     - [ ] Default
     - [x] Colorful
-- Main File - [Modern Minimap - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000158791&nmm=1)
+- Main File - [Modern Minimap - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000158998&nmm=1)
 
 ### [Sleep Wait Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
 
