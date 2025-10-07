@@ -404,9 +404,6 @@ Overhauls the information shown on the Local Map. Adds dynamic icons to NPCs, cr
 #### Installation:
 
 - Main File - Local Map Overhaul
-  - Version:
-    - [ ] Lite
-    - [x] Full
 
 ### [Instant and Faster Pipboy (No Stutter)](https://www.nexusmods.com/newvegas/mods/85294)
 
