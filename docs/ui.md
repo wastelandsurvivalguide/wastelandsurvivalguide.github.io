@@ -25,6 +25,14 @@ Adds a settings menu to configure mods in-game.
 The mod **WILL NOT FUNCTION** without the update file!
 :::
 
+### [MCM Extender](https://www.nexusmods.com/newvegas/mods/93642)
+
+An add-on for The Mod Configuration Menu that adds quality-of-life features, script-free menu creation, bug fixes, and more.
+
+#### Installation:
+
+- Main File - MCM Extender
+
 ### [Vanilla UI Plus](https://github.com/ModdingLinked/Viva-New-Vegas/raw/refs/heads/main/files/Vanilla%20UI%20Plus%20New%20Vegas%209.48.7z)
 
 Modernized vanilla-style UI with many enhancements and bug fixes.
