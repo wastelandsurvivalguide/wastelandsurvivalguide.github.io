@@ -129,7 +129,7 @@ Adds crafting stations and additional containers to several vanilla player homes
 
 #### Installation:
 
-- Main File - Home and Safehouse Tweaks TTW
+- Main File - Home and Safehouse Tweaks
 
 ### [Bottle The Water](https://www.nexusmods.com/newvegas/mods/83913)
 
