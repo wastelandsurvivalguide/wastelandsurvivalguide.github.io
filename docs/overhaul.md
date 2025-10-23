@@ -52,6 +52,10 @@ Makes the economy harsher for characters with low barter, makes barter affect pr
 
 A completely reworked perk system to emphasize and encourage specialization and improve gameplay balance.
 
+:::important
+This mod changes the effect of the Speech bobblehead perk. In TTW, the perk allows you to ignore the karma requirements for hiring companions. If you'd like to keep the standard TTW behavior, consider skipping this mod.
+:::
+
 #### Installation:
 
 - Main File - TTW Perk Overhaul - Remastered
