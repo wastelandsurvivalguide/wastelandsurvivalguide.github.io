@@ -95,6 +95,7 @@ The Mod Configuration Menu.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 ExRB-TTW.esp
+GasTrapPerformanceFix.esp
 Vanilla UI Plus.esp
 JustAssortedMods.esp
 JBTImproved.esp
