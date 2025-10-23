@@ -152,7 +152,7 @@ Fixes the script lag﻿ occurring in cells with numerous gas traps.
 
 ### Installation:
 - Main File - Gas Trap Performance Fix
-  - main File:<br/>
+  - Main File:<br/>
   <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
   <RadioButtonUncheckedIcon fontSize="small" /> Scriptrunner<br/>
 
