@@ -38,7 +38,6 @@ all of the following mods are **REQUIRED**:
 
 - Main File - LODadditions
 - Delete `tmzLODadditions.esp`.
-- Main File - [LOD additions and improvements - TTW Patch](https://www.nexusmods.com/newvegas/mods/79358?tab=files&file_id=1000145689&nmm=1)
 
 ### [FNV LOD Supplementation](https://www.nexusmods.com/newvegas/mods/72099)
 
