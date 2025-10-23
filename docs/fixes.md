@@ -146,6 +146,16 @@ Fixes hundreds of clipping/floating/misaligned objects in the vanilla game that 
 
 - Main File - Placement Fixes TTW
 
+### [Gas Trap Performance Fix](https://www.nexusmods.com/newvegas/mods/88587)
+
+Fixes the script lag﻿ occurring in cells with numerous gas traps.
+
+### Installation:
+- Main File - Gas Trap Performance Fix
+  - main File:<br/>
+  <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> Scriptrunner<br/>
+
 ### [Consistent Weapon Mod Descriptions](https://www.nexusmods.com/newvegas/mods/85957)
 
 Certain weapon mods have an empty line above the description. This simple fix rectifies that issue.
