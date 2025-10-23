@@ -146,7 +146,6 @@ ATMOS Ambient Overhaul - AWOP Revision.esp
 ATMOS Sound Overhaul - TTW.esp
 Atmospheric Lighting Tweaks TTW.esp
 ATMOS - Atmospheric Lighting Tweaks Patch.esp
-LOD additions and improvements - TTW Patch.esp
 Wasted LOD rocks.esp
 TTW Fallout 3 LOD.esp
 VNV LOD Plugins.esp
