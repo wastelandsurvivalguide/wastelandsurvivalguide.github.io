@@ -193,22 +193,10 @@ A collection of compatibility patches for TTW and various mods.
 
 #### Installation:
 
-- Main File - Trooper's TTW Patches
-  - Patches:
-    - [ ] Afterschool Special
-    - [ ] Casino Crowds
-    - [ ] Cut Sewers Restored
-    - [ ] Meat Prep Animations Restored
-    - [ ] Meltdown Upgrade
-    - [ ] Mojave NPCs
-    - [ ] Mojave Raiders
-    - [x] Mojave Raiders Lite
-    - [x] Mojave Wildlife
-    - [ ] Nova Arizona
-    - [x] Performance of the Titans
-    - [x] The Living Desert
-    - [ ] The New Bison Steve
-    - [ ] Uncut Road to Legate's Camp
+- Optional File - Mojave Raiders Lite - TTW Patch
+- Optional File - Mojave Wildlife - TTW Patch
+- Optional File - PerformanceOfTheTitans - TTW Patch
+- Optional File - The Living Desert - TTW Patch
 
 ## Dialogue
 
