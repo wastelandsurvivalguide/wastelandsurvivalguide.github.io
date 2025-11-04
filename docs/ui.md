@@ -1,5 +1,6 @@
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
+import CheckBoxRoundedIcon from '@mui/icons-material/CheckBoxRounded';
 
 # User Interface & HUD 
 
@@ -44,13 +45,13 @@ If you don't know how to install a mod manually, refer to the [instructions in t
 #### Installation:
 
   - Readme:
-    - [x] Quick Readme
+    <CheckBoxRoundedIcon color="primary" fontSize="small" /> Quick Readme<br/>
   - Font Options:<br/>
-    <RadioButtonCheckedIcon color="secondary" fontSize="small" /> Default Font Tweaks<br/>
-    <RadioButtonUncheckedIcon color="secondary" fontSize="small" /> Classic Pip-Boy Font<br/>
-    <RadioButtonUncheckedIcon color="secondary" fontSize="small" /> No Font Tweaks<br/>
+    <RadioButtonCheckedIcon color="primary" fontSize="small" /> Default Font Tweaks<br/>
+    <RadioButtonUncheckedIcon color="primary" fontSize="small" /> Classic Pip-Boy Font<br/>
+    <RadioButtonUncheckedIcon color="primary" fontSize="small" /> No Font Tweaks<br/>
   - Keybinds:
-    - [x] WASD Compatible
+    <CheckBoxRoundedIcon color="primary" fontSize="small" /> WASD Compatible<br/>
 
 ### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
