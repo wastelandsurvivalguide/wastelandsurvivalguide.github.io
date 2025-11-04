@@ -50,7 +50,7 @@ If you don't know how to install a mod manually, refer to the [instructions in t
   - Font Options:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Default Font Tweaks<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Classic Pip-Boy Font<br/>
-    <RadioButtonUncheckedIcon color="palette.secondary.light" fontSize="small" /> No Font Tweaks<br/>
+    <RadioButtonUncheckedIcon sx={{ color: #ff79c6 }} fontSize="small" /> No Font Tweaks<br/>
   - Keybinds:
     - [x] WASD Compatible
 
