@@ -46,9 +46,9 @@ If you don't know how to install a mod manually, refer to the [instructions in t
   - Readme:
     - [x] Quick Readme
   - Font Options:<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Default Font Tweaks<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> Classic Pip-Boy Font<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> No Font Tweaks<br/>
+    <RadioButtonCheckedIcon color="secondary" fontSize="small" /> Default Font Tweaks<br/>
+    <RadioButtonUncheckedIcon color="secondary" fontSize="small" /> Classic Pip-Boy Font<br/>
+    <RadioButtonUncheckedIcon color="secondary" fontSize="small" /> No Font Tweaks<br/>
   - Keybinds:
     - [x] WASD Compatible
 
