@@ -1,6 +1,6 @@
 ﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
-import CheckBoxRoundedIcon from '@mui/icons-material/CheckBoxRounded';
+import CheckBoxIcon from '@mui/icons-material/CheckBox';
 import CheckBoxOutlineBlankIcon from '@mui/icons-material/CheckBoxOutlineBlank';
 
 # User Interface & HUD 
@@ -50,7 +50,7 @@ If you don't know how to install a mod manually, refer to the [instructions in t
   - Font Options:<br/>
     <RadioButtonCheckedIcon fontSize="small" /> Default Font Tweaks<br/>
     <RadioButtonUncheckedIcon fontSize="small" /> Classic Pip-Boy Font<br/>
-    <RadioButtonUncheckedIcon color="violet" fontSize="small" /> No Font Tweaks<br/>
+    <RadioButtonUncheckedIcon color="palette.secondary.light" fontSize="small" /> No Font Tweaks<br/>
   - Keybinds:
     - [x] WASD Compatible
 
