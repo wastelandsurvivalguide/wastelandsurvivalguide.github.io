@@ -48,7 +48,7 @@ Tale of Bi Wastelands + TTW Reputations Patch.esm
 TTW New Vegas Speech Checks.esm
 TTW New Vegas Speech Checks - TTW Reputations Patch.esm
 Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
-Essential Capital Enhancements Merged.esm
+TTW - Capital Wasteland Adjustments.esm
 Repeatable Quests Rewards Rebalanced.esm
 Functional Post Game Ending Lite.esm
 Functional Post Game Ending Lite TTW Patch.esm
