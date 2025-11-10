@@ -48,9 +48,9 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 - Main File - Delay DLC Redux TTW
 - Optional File - Delay DLC Redux TTW - Pre-Order Pack Placement
 
-### [Essential Capital Enhancements Merged](https://www.nexusmods.com/newvegas/mods/89636)
+### [TTW - Capital Wasteland Adjustments](https://www.nexusmods.com/newvegas/mods/94548)
 
-An all-in-one merge of a few gameplay enhancing mods for the Capital Wasteland.
+Tweaks several elements of the Capital Wasteland in TTW to make the experience less frustrating. Nerfed HP for Broken Steel enemies, no more Point Lookout bonus damage, and more!
 
 ### [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
 
