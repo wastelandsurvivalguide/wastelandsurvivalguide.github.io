@@ -243,6 +243,12 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
     - [x] Aid
     - [x] Misc
     - [ ] Ammo
+  - Colorful Icons - ySI
+    - [x] Bottlecaps
+    - [x] Doors
+    - [x] UI Prompts
+  - Colorful Icons - Doors
+    - [x] Doors
   - Optional:
     - [ ] ySI - JSON Patcher
 
@@ -390,9 +396,7 @@ Assorted tweaks for the Pip-Boy UI. Updated Weapon Mod Menu, extended item compa
 #### Installation:
 
 - Main File - Pip-Boy UI Tweaks
-  - Texture Addon:
-    - [x] Colorful Icons
-    - [x] MAPMO Style Icons
+- Main File - Pip-Boy UI Tweaks INI
    
 ### [Local Map Overhaul](https://www.nexusmods.com/newvegas/mods/88533)
 
