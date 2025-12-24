@@ -212,4 +212,4 @@ An all-in-one movement overhaul and expansion featuring movement bug fixes, 1st 
 #### Installation:
 
 - Main File - Enhanced Movement
-- Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131761&nmm=1)
+- Main File - [Enhanced Movement - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000164056&nmm=1)
