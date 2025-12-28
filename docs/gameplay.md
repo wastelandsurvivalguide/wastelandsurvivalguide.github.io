@@ -137,15 +137,7 @@ Adds the option to bottle water from any source when you hold Shift and activate
 
 ### [Modern Night Vision - ESPless](https://www.nexusmods.com/newvegas/mods/84991)
 
-Adds a feature rich night/thermal vision system to power armor helmets and other headgear. Fully configurable! 
-
-### [Hardcore Perk Every Level](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000101120&nmm=1)
-
-Changes TTW's Hardcore mode to grant a perk every level, instead of every two. 
-
-:::tip
-Consider **SKIPPING** this mod for a more **hardcore** experience.
-:::
+Adds a feature rich night/thermal vision system to power armor helmets and other headgear. Fully configurable!
 
 ### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
 
