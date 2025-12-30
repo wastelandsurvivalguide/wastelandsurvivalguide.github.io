@@ -74,20 +74,13 @@ Mojave Scenery Overhaul remakes and touches up areas that were lackluster and fo
   - Custom Asset Addon:
     - [ ] Custom Asset Addon
 
-### [Lived-In All-in-One](https://www.nexusmods.com/newvegas/mods/90682)
+### [Lived-In New Vegas](https://www.nexusmods.com/newvegas/mods/95255)
 
-This mod adds some subtle and realistic clutter around the major settlements and other locations across the Mojave.
+Cutting-edge location overhaul mod featuring dynamic navmesh generation, automatic patching, and full configurability.
 
 #### Installation:
 
 - Main File - Lived-In AIO
-  - Main File:
-    - [x] Main File
-  - Patches:
-    - [ ] Caravan Travel
-    - [x] Mojave Scenery Overhaul
-    - [x] The Living Desert
-    - [ ] Uncut Wasteland
 
 ### [Lived-In Strip](https://www.nexusmods.com/newvegas/mods/91279)
 
