@@ -4,10 +4,18 @@
         <title>Wasteland Survival Guide Blog</title>
         <link>https://wastelandsurvivalguide.github.io/blog</link>
         <description>Wasteland Survival Guide Blog</description>
-        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Changelog - It's Been a While]]></title>
+            <link>https://wastelandsurvivalguide.github.io/blog/2025/12/29/changelog</link>
+            <guid>https://wastelandsurvivalguide.github.io/blog/2025/12/29/changelog</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Some of these are older changes, but we haven't done changelogs in a while, so I'll post them all here.]]></description>
+            <content:encoded><![CDATA[<p><code>Some of these are older changes, but we haven't done changelogs in a while, so I'll post them all here.</code></p><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="12292025">12/29/2025<a href="#12292025" class="hash-link" aria-label="Direct link to 12/29/2025" title="Direct link to 12/29/2025">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="gameplay">Gameplay<a href="#gameplay" class="hash-link" aria-label="Direct link to Gameplay" title="Direct link to Gameplay">​</a></h3><ul><li>Replaced Essential Capital Enhancements Merged with TTW - Capital Wasteland Adjustments.</li><li>Created/uploaded a new custom .INI file for Enhanced Movement, as the mod was updated and now requires a new .INI format.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="content">Content<a href="#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content">​</a></h3><ul><li>Replaced Lived-In All-in-One with its successor, Lived-In New Vegas, as Lived-In AIO has been discontinued by the author in favor of Lived-In New Vegas.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="finish">Finish<a href="#finish" class="hash-link" aria-label="Direct link to Finish" title="Direct link to Finish">​</a></h3><ul><li>Updated load order.</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Changelog - Why Can't This Be Easy]]></title>
             <link>https://wastelandsurvivalguide.github.io/blog/2025/7/1/changelog</link>
