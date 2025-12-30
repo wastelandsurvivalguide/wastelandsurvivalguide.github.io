@@ -80,7 +80,7 @@ Cutting-edge location overhaul mod featuring dynamic navmesh generation, automat
 
 #### Installation:
 
-- Main File - Lived-In AIO
+- Main File - New Vegas
 
 ### [Lived-In Strip](https://www.nexusmods.com/newvegas/mods/91279)
 
