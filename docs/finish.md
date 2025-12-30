@@ -53,13 +53,12 @@ Repeatable Quests Rewards Rebalanced.esm
 Functional Post Game Ending Lite.esm
 Functional Post Game Ending Lite TTW Patch.esm
 3DNPCFNVBundle.esm
-Lived-In AIO.esm
+Lived-In New Vegas.esm
 Lived-In Strip.esm
 Goodies.esp
 Goodies - TTW.esp
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
-Lived-In AIO - Mojave Scenery Patch.esm
 Goodies - Mojave Scenery Overhaul Patch.esm
 TGMIO.esm
 TGDCIO.esm
@@ -70,7 +69,6 @@ Sweet Pain NV.esm
 MoreMojave.esm
 Mojave Scenery Overhaul - A World of Less Pain Patch.esm
 TLD_Travelers.esm
-Lived-In AIO - TLD Patch.esm
 Mojave Scenery Overhaul - TLD Patch.esm
 Faction Wasteland Presence.esm
 Mojave Raiders Lite.esm
