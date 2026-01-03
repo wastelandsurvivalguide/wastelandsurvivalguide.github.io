@@ -19,7 +19,7 @@ Adds a settings menu to configure mods in-game.
 #### Installation:
 
 - Main File - The Mod Configuration Menu
-- Update File - MCM Bugfix 2 
+- Update File - MCM Bugfix 2 (Safe to merge with the Main File)
 
 :::caution Installation
 You only need to install the **MCM Bugfix 2** update file if you are ***NOT*** installing **MCM Extender** listed below.
