@@ -135,7 +135,6 @@ Reanimates many more weapons in Another Millenia and its Gun Addon.
 #### Installation:
 
 - Main File - Hit - Millenia Animations - Part 2
-- Update File - [Hit Millenia Season 2 LAUG Patch](https://www.nexusmods.com/newvegas/mods/76133)
 
 ### [Enhanced Locomotion](https://www.nexusmods.com/newvegas/mods/88446)
 
