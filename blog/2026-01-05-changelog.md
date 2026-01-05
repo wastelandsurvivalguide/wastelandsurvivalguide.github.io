@@ -8,3 +8,6 @@
 
 ### Content
 - Another Millennia and Another Millennia Gun Addon both updated, and no longer need any optional files. Yippee!
+
+### Aesthetics & Ambience
+- Since Another Millennia updated, the LAUG patch for Hit - Millennia Animations is no longer necessary, so that's been removed too.
