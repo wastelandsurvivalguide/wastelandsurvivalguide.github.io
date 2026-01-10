@@ -81,8 +81,6 @@ mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
 Tactapack.esp
-ZL_Armaments_Remastered.esm
-zlArms3DNPCsPatch.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 PerformanceOfTheTitans - TTW Patch.esm
 TLD_Travelers - TTW Patch.esm
