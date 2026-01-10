@@ -60,7 +60,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Consistent Caliber Naming](https://www.nexusmods.com/newvegas/mods/85497) - Renames vanilla ballistic ammo types to be more consistent and match their real-world counterpart.
 - Use alongside the TTW Patch provided on the main mod page.
-- [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) patches are also available on the main mod page.
+- [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) patch is available on the main mod page.
 - A [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/76175?tab=files) is available courtesy of Audixas.
 
 [Creatures Aren’t Evil](https://www.nexusmods.com/newvegas/mods/83403) - Prevents karma gain from killing creatures.
@@ -84,7 +84,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Point Lookout Doctors TTW](https://www.nexusmods.com/newvegas/mods/85219) - Adds functional doctors to point lookout.
 
 [Realistic Ammo Name Replacer - RANR](https://www.nexusmods.com/newvegas/mods/86133?tab=description) - Changes all ballistic ammo names in NV and TTW to better emphasize realism. 
-- Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399), [Tactapack](https://www.nexusmods.com/newvegas/mods/80219), [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175), and [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
+- Compatible with [Tactapack](https://www.nexusmods.com/newvegas/mods/80219) and [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175).
 
 [Realistic Weapon Name Replacer - RWNR](https://www.nexusmods.com/newvegas/mods/85966) - Changes out weapon names to match their real world counterparts, game lore or just something that makes sense.
 - Compatible with [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133), [Another Millenia Gun Add-on](https://www.nexusmods.com/newvegas/mods/77358), and [Tactapack](https://www.nexusmods.com/newvegas/mods/80219).
@@ -128,11 +128,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ### Balance
 [ANVIL - Ammo New Variants in Loot](https://www.nexusmods.com/newvegas/mods/78561) - Adds ammo variants to loot pools.
-
-[CaliberZL](https://www.nexusmods.com/newvegas/mods/85399) - A caliber expansion mod.
-- Pairs nicely alongside Conzo's [Ammo Press Overhaul CaliberZL Version](https://www.nexusmods.com/newvegas/mods/85549).
-- Compatible with [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175) through use of Audixas' [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
-- Compatible with various other mod added weapons through the [CaliberZL Patch Compendium](https://www.nexusmods.com/newvegas/mods/85818) and [CaliberZL More Mod Stuff](https://www.nexusmods.com/newvegas/mods/85886)
 
 [Faster Melee Recoil Animations](https://www.nexusmods.com/newvegas/mods/83694) - Speeds up the melee recoil/stagger animations from 1.1 seconds to 0.3 seconds, greatly improving the flow of melee combat.
 - Use any pertinent patches provided on the main mod page.
