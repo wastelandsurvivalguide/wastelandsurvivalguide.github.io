@@ -219,7 +219,7 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
     - [ ] NS Weapons All in One
     - [ ] Supplementary Weapon Pack
     - [ ] TheZomX Weapons AIO
-    - [x] ZL Armaments Remastered
+    - [ ] ZL Armaments Remastered
   - Another Millenia Team:
     - [x] Another Millenia
     - [x] Another Millenia Add-on
