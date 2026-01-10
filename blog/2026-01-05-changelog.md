@@ -4,7 +4,15 @@
 
 ---
 
-## 01/05/2026
+## 09/01/2026
+
+### Content
+- Removed ZL Armaments and its 3DNPCs patch.
+
+### Overhauls
+- Removed TTW Perk Overhaul ZL Armaments patch.
+
+## 05/01/2026
 
 ### Content
 - Another Millennia and Another Millennia Gun Addon both updated, and no longer need any optional files. Yippee!
