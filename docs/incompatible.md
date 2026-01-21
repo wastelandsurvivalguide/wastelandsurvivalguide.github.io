@@ -6,7 +6,7 @@
 
 This is by no means an exhaustive list, and the following points cannot be stressed enough:
 :::caution Check for conflicts with xEdit
-Learn to use it, no exceptions!
+[Learn to use it](https://moddinglinked.com/xedit.html), no exceptions!
 :::
 :::danger Unconverted Fallout 3 Mods are Not Compatible
 Any FO3 mods with .ESM/ESP and/or animations and meshes are not compatible!
@@ -19,13 +19,20 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 ## Known to be Incompatible
 
-#### A Familiar Friend
+#### Bug fixes mods, such as Yukichigai Unofficial Patch, Unofficial Patch NVSE Plus, et cetera. 
+- YUPTTW and TTW Hotfix (if available) already fixes bugs on both games, using other bug fixes mods is redundant and may break the game instead. Engine fixes (such as lStewieAl's and JohnnyGuitar for example) will not break the game though, and you should already have it if following the guide.
 
-- use arm mounted version or universal pipboy mod. You must revert to arm mounted before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time. Use universal Pipboy to make this and readius work.
+#### Mission Mojave Ultimate Edition, and major overhauls such as FOOK, New Vegas Enhanced Content, DUST, etc. .   
+
+- Very old and should not be used nowadays, and will introduce bugs on their own.
+
+#### A Familiar Friend and Readius/Any hand-held Pip-Boy mods
+
+- Use the [arm-mounted version](https://www.nexusmods.com/newvegas/mods/49732) or [Universal Pip-Boy Customization](https://www.nexusmods.com/newvegas/mods/66598). You must revert to arm-mounted (if you're using UPBC0 before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time. Use UPBC to make this and any other hand-held Pip-Boy work.
 
 #### After War Nevada
 
-- completely incompatible.
+- Completely incompatible.
 
 #### Alt Start Mods
 
@@ -33,11 +40,11 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Animation Replacers predating kNVSE like WAR/Hitman's (old)/Asurahs
 
-- incompatible with the mesh and animation fixes in TTW. Ironsights, reloads for Fallout 3 weapons and other things will not work correctly. kNVSE animations work fine.
+- Incompatible with the mesh and animation fixes in TTW. Ironsights, reloads for Fallout 3 weapons and other things will not work correctly. kNVSE animations work fine.
 
 #### Armor overhauls
 
-- this includes NCR Overhaul, Legion Overhauls, Book of Steel (without patches), Spice of Life, and any other armor/outfit overhaul. Any of these will require extensive patching. Ones which use body replacers are not compatible period.
+- This includes NCR Overhaul, Legion Overhauls, Book of Steel (without patches), Spice of Life, and any other armor/outfit overhaul. Any of these will require extensive patching. Ones which use body replacers are not compatible period.
 
 #### CAGE/CAE (Continue After Game Ending)
 
@@ -45,11 +52,11 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### CFW - Classic Fallout Weapons
 
-- completely incompatible, breaks leveled lists in both games, broken meshes, ctds. Use [CFW Remastered](https://www.nexusmods.com/newvegas/mods/73805).
+- Completely incompatible, breaks leveled lists in both games, broken meshes, ctds. Use [Classic Fallout Weapons Remastered](https://www.nexusmods.com/newvegas/mods/73805) instead.
 
 #### CZ52 mod by kouoaeha
 
-- broken meshes and recompiles all scripts, will break TTW.
+- Broken meshes and recompiles all scripts, will break TTW.
 
 #### Cinemodded Fallout and Patches
 
@@ -61,11 +68,11 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### DUST - Survival simulator
 
-- completely incompatible; broken mod with over 1,000 errors in xEdit.
+- Completely incompatible; broken mod with over 1,000 errors in xEdit.
 
-#### EVE
+#### EVE - Essential Visual Enhancements 
 
-- incompatible weapon meshes and animations.
+- Incompatible weapon meshes and animations.
 
 #### Enhanced NPC Awareness
 
@@ -74,15 +81,11 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 #### FCO - Fallout Character Overhaul
 
 - All versions are known to conflict and break TTW, do not install under any circumstances any part of it.
-- Use [Two Wastelands Redesigned](https://www.nexusmods.com/newvegas/mods/73667) instead.
+  - Use [Two Wastelands Redesigned](https://www.nexusmods.com/newvegas/mods/73667) instead.
+  
+#### Most Fallout 3 mods
 
-#### FOOK New Vegas
-
-- Completely incompatible; avoid all outdated "total overhauls" such as this.
-
-#### Fallout 3 mods
-
-- TTW is a New Vegas mod, so mods loaded in FO3 will have no effect, and unconverted mods for FO3 will not work and break TTW.
+- TTW is a New Vegas mod, so mods loaded in FO3 will have no effect, and unconverted mods for FO3 will not work and break TTW. [Collision Meshes - DC](https://wastelandsurvival.guide/docs/optimizations#collision-meshes---dc) is an exception. 
 
 #### Fallout 4 Commonwealth mods
 
@@ -98,13 +101,15 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Freeside Open and any other mod that makes changes to the Freeside worldspace
 
-- can be patched
+- Can be patched
 
 #### GRA integration mods other than SawyerBatty.
 
+- Mods such as Mojave Arsenal and others are incompatible with TTW. 
+
 #### Game Setting Tuner
 
-- broken, bad scripting that causes save bloat and corruption.
+- Bad scripting that causes save bloat and corruption. Use Stewie Tweaks gamesetting override feature instead, and seek [Misc. Gamesetting Tweaks](https://www.nexusmods.com/newvegas/mods/72983) for references.
 
 #### HeroinZero's Weapon Fixes compilation by axonis
 
@@ -112,7 +117,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### ILO - Interior Lighting Overhaul
 
-- Old and incompatible, use the lighting mod in the WSG instead
+- Old and incompatible, use the [SILO](https://www.nexusmods.com/newvegas/mods/71390) or [Atmospheric Lighting Tweaks - TTW](https://wastelandsurvival.guide/docs/ambience#atmospheric-lighting-tweaks---ttw) instead (only use one or the other).
 
 #### IMPACT
 
@@ -121,9 +126,9 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 #### Increased Wasteland Spawns
 
 - causes massive save bloat and CTD's. Creatures will multiply. Outdated and should be avoided.
-- Use [The Living Desert](content#the-living-desert) for a more alive wasteland.
+  - Use [The Living Desert](content#the-living-desert) for a more alive wasteland.
 
-#### Killable Children (any)
+#### Any Killable Children mods
 
 - Incompatible.
 
@@ -133,11 +138,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### MMM (Mart's Monster Mod)
 
-- could be patched but would take a lot of effort.
-
-#### MMUE - Mission Mojave Ultimate Edition
-
-- Deletes records TTW needs and reuses Fallout 3 records, it WILL break TTW.
+- Could be patched but would take a lot of effort.
 
 #### Megaton Walkway
 
@@ -145,7 +146,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Monster Mod / MoMod
 
-- totally broken meshes that cause CTDs and broken leveled lists. If you must, try [MoMod Lite](https://www.nexusmods.com/newvegas/mods/71714).
+- Totally broken meshes that cause CTDs and broken leveled lists. If you must, try [MoMod Lite](https://www.nexusmods.com/newvegas/mods/71714).
 
 #### Mods that edit companions looks/inventory/whatever directly.
 
@@ -154,21 +155,13 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 - Extremely old mod that predates modern script extenders, so many perks are broken or have poor implementation. Redundant Fallout 3 perks,
   spelling and grammar errors abound.
 
-#### Most major overhauls to NV, like DUST
-
-- Just no, will completely break the game due to leveled list changes and/or deleted forms.
-
-#### NVEC - New Vegas Enhanced Content
-
-- uses many unused records in FNV for it's own stuff, we use the same records because they're FO3 records, it WILL break TTW.
-
-#### PCB Hotkey
+#### Purge Cell Buffers and PCB Hotkey
 
 - WILL break your game.
 
 #### PLR - Point Lookout Reborn
 
-- can be patched/reconverted, broken scripts and broken/dirty worldspace/cell edits
+- Can be patched/reconverted, broken scripts and broken/dirty worldspace/cell edits
 
 #### Project Nevada
 
@@ -176,15 +169,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Project Weaponry
 
-- multiple incomplatible meshes, all iron sights broken with TTW.
-
-#### Purge Cell Buffers
-
-- WILL break your game.
-
-#### Readius
-
-- Use Universal Pip-Boy Customization mod. You must revert to arm mounted before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time.
+- Multiple incomplatible meshes, all iron sights broken with TTW.
 
 #### Star the Wandering Courier
 
@@ -192,36 +177,24 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### The Storyteller
 
-- dirty edits and incompatible conflicts.
+- Dirty edits and incompatible conflicts.
 
 #### Unlimited Companions
 
-- janky mod from 2010, use JIP CCC instead
-
-#### Unofficial Patch NVSE
-
-- script and fix conflicts (not necessary)
-
-#### Unofficial Patch Plus
-
-- script and fix conflicts (not necessary)
+- Janky mod from 2010, use [JIP CC&C](https://wastelandsurvival.guide/docs/gameplay#jip-ccc) instead
 
 #### WMX/WME (Weapon Mods Expanded)
 
 - all meshes are incompatible with fixed animations and problems with texture sets, sound fixes and other issues.
-- Use [Unique Weapons Upgradeable](https://www.nexusmods.com/newvegas/mods/77809) instead.
+  - Use [Unique Weapons Upgradeable](https://www.nexusmods.com/newvegas/mods/77809) instead.
 
 #### WMIM (Weapon Mesh Improvement Mod)
 
-- already included with TTW and more up to date. Not needed and will cause fix conflicts.
+- Already included with TTW and more up to date. Not needed and will cause fix conflicts.
 
-#### Weapons of the New Millenia
+#### Weapons of the New Millenia/and Friends
 
-- Use [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133) instead.
-
-#### Weapons of the New Millenia and Friends
-
-- CTDs and other quality issues; use [Another Millenia](https://www.nexusmods.com/newvegas/mods/76133) instead.
+- Use [Another Millenia](https://wastelandsurvival.guide/docs/content#another-millenia) instead.
 
 #### Weapons of the Wasteland
 
@@ -231,15 +204,11 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 - Ancient; not even compatible with the current version of vanilla New Vegas.
 
-#### YUP and other unofficial patch mods
-
-- TTW comes with YUPTTW which patches almost all bugs and will continue to do so. TTW itself fixes bugs in Fallout 3 and New Vegas as well, sometimes supersedes fixes in YUP which are then removed from it. Regardless of what VUI+ wants, it is NOT compatible.
-
 #### Zan Autopurge Crash Protector
 
 - WILL break your game.
 
-#### anything that alters the game's timescale
+#### Anything that alters the game's timescale
 
 - Internal game functions are tied to time scale , changing them will break AI packages and other things.
 
@@ -249,23 +218,19 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 - Version differences in TTW mean that compatibility is sometimes out of the question in this situation.
 
-#### Any bug fix mods
-
-- TTW/YUP fixes bugs in both games. If you are aware of a bug which isn't fixed, let the team know. Fixes in NVSE plugins are fine.
-
 #### Custom Race Mods
 
-- lack child races, cause CTDs.
+- Lack child races, cause CTDs.
 
 #### Weapon sound overhauls
 
-- make edits to weapon records breaking them, can be patched. Use [AWSOME](https://www.nexusmods.com/newvegas/mods/77723).
+- Make edits to weapon records breaking them, can be patched. Use [AWSOME](https://www.nexusmods.com/newvegas/mods/77723).
 
 ## Minor Incompatibilities
 
 #### New Vegas Bounties II
 
-- some of dogmeat's dialogue is hijacked for Guts, Roy is fixing up all of someguy's mods
+- Some of dogmeat's dialogue is hijacked for Guts, Roy is fixing up all of someguy's mods
 
 #### Russell
 
