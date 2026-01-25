@@ -171,6 +171,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 All of the mods in this section require LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 :::
 
+[Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339) - Wonderful landscape overhaul for the Capital Wasteland
+
 [Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
@@ -239,6 +241,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101) - Removes ghouls "roar" animation that plays before they attack, meaning they now charge the player instantly - making them much deadlier.
 
+[Bloody Crazied Handies - TTW](https://www.nexusmods.com/newvegas/mods/85455) - Replaces crazed Handies with a bloody variant. 
 
 ### Quests
 
@@ -250,25 +253,18 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Embark on an adventure south to the town of Lake Havasu City and its surroundings! With over 60 voiced characters, dozens of new locations to explore and a bunch of quests to solve.
 - Use alongside [Havasu Blues Bugfixes](https://www.nexusmods.com/newvegas/mods/86083) - Fixes navmesh errors, script errors, incorrect dialogue conditions and oversights in Havasu Blues.
 
-[The Someguy Series](https://www.nexusmods.com/newvegas/mods/48925) - The master file required for all of Someguy2000's quest mods.
-- [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108) - Pursue high-risk/high-reward bounties in the first installment of the The Someguy Series.
-  - [Sweet Style Bounties](https://www.nexusmods.com/newvegas/mods/79556) - A balance and encounter overhaul for New Vegas Bounties 1 LE.
-  - [New Vegas Bounties I LE - kNVSE Sets](https://www.nexusmods.com/newvegas/mods/80789) - Adds kNVSE animations to the other guns in NVBILE.
-- [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427) - Work for Bobby Bass as a contract killer in this fully-voiced quest mod! Tiddies and biscuits.
-
 
 ## Visuals & Audio
 
 ### Visual Improvements
-[Armed To The Teeth - Redux](https://www.nexusmods.com/newvegas/mods/74936) - Allows you to holster up to 4 weapons on your body at once.
+
+[Vanilla Plus AO](https://www.nexusmods.com/newvegas/mods/94824) - Adds Ambient Occlusion to the game!
 
 [Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
 - Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
 
 [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
 - Texture replacers for the underground metro maps, making them more useful for navigation.
-
-[TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
 [Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) - A complete overhaul and restyle of power armor to provide a more classic, heavy, and imposing experience.
 - See [Webb’s Patch Emporium](https://www.nexusmods.com/newvegas/mods/74174) for the most readily available TOTNW patches.
