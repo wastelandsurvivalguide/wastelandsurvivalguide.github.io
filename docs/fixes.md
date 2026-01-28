@@ -150,7 +150,7 @@ Fixes hundreds of clipping/floating/misaligned objects in the vanilla game that 
 
 Fixes the script lag﻿ occurring in cells with numerous gas traps.
 
-### Installation:
+#### Installation:
 - Main File - Gas Trap Performance Fix
   - Main File:<br/>
   <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
