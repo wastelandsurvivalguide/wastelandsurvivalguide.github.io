@@ -188,7 +188,6 @@ A collection of compatibility patches for TTW and various mods.
 
 - Optional File - Mojave Raiders Lite - TTW Patch
 - Optional File - Mojave Wildlife - TTW Patch
-- Optional File - PerformanceOfTheTitans - TTW Patch
 - Optional File - The Living Desert - TTW Patch
 
 ## Dialogue
