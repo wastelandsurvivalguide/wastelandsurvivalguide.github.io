@@ -44,8 +44,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ### Quality of Life
 
-[Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
-
 [Baka Skill Book Scanner](https://www.nexusmods.com/newvegas/mods/75828) - Dynamic quest markers that highlights nearby skill books, anywhere, anytime.
 
 [Basic Retrievable Throwables](https://www.nexusmods.com/newvegas/mods/82211) - Adds any throwable weapon which hits a target to the target's inventory.
