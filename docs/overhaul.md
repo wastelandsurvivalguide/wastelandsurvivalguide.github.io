@@ -62,3 +62,4 @@ This mod changes the effect of the Speech bobblehead perk. In TTW, the perk allo
 - Optional File - TTW Perk Overhaul - Another Millenia Patch
 - Optional File - TTW Perk Overhaul - Another Millenia Add-on Patch
 - Optional File - TTW Perk Overhaul - Tactapack Patch
+- Optional File - TTW Perk Overhaul - ZL Armaments Remastered Patch
