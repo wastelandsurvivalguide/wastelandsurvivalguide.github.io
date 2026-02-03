@@ -4,6 +4,10 @@
 
 ---
 
+## 03/02/2026
+
+Just a reversal of the previous update. ZL's mods are back.
+
 ## 09/01/2026
 
 ### Content
