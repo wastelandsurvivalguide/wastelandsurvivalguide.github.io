@@ -163,17 +163,9 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [ ] EliV3's ETJ kNVSE Animations
   - Weapon Replacers:
     - [ ] WAP Weapon Replacers
+    - [ ] Gun and Friends
+    - [ ] Energy and Associates
     - [ ] Laser Weapon Iron Sights
-  - Xamie and Friends Series:
-    - [ ] 10mm Pistol and Friends
-    - [ ] 10mm SMG and Friends
-    - [ ] C.A.R and OUR Friends
-    - [ ] Combat Shotgun and Friends
-    - [ ] DKS and Friends
-    - [ ] Double Barrel Shotgun and Friends
-    - [ ] Hunting Rifle and Friends
-    - [ ] Lever Action Rifle and Friends
-    - [ ] R91 and Friends
   - Additional Patches:
     - [ ] Yukichigai's Unofficial Patch
     - [ ] Hitman's Anims No Burst Fire
