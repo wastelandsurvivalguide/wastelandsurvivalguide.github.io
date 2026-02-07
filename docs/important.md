@@ -20,7 +20,7 @@ Greatly improves NPC interactions.
 ### [Gundrops and Icecream - Accidental Discharge](https://www.nexusmods.com/newvegas/mods/80586)
 Drop your gun and it goes off.
 ### [Helmet Overlay](https://www.nexusmods.com/newvegas/mods/67870)
-#### 🏆 Mod of the Year 2019, 2020, 2021, 2022, 2023, 2024, 2025
+#### 🏆 Mod of the Year 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
 Improves the gameplay by obscuring a significant portion of the viewport with a grainy texture. This makes it more difficult to see, which is immersive.
 ### [Helpless Falling 2022](https://www.nexusmods.com/newvegas/mods/76448)
 Like helpful falling, but the opposite.
