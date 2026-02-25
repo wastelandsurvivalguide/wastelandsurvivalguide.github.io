@@ -370,7 +370,7 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 #### Installation:
 
 - Main File - Simple Maps - TTW
-- Main File - [Simple Maps - TTW Compressed](https://drive.google.com/file/d/1QNIIVjm-thojuxaCbqdhNTP8BA3kmFbB/view?usp=sharing)
+- Main File - [Simple Maps - TTW Compressed](https://drive.google.com/file/d/1b2TWQMmQwPJnfLPYwg2Nr3-ZqhQjBPwi/view?usp=sharing)
 
 The second file must be manually downloaded and installed. If you don't know how to install a mod manually, refer to the [instructions in the The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?). Make sure it **overwrites** the main mod.
 
