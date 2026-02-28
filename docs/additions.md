@@ -186,8 +186,6 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Believable Grub n’ Gulp](https://www.nexusmods.com/newvegas/mods/73974) - Overhauls Grub n’ Gulp.
 
-[Canterbury Commons Redesigned](https://www.nexusmods.com/newvegas/mods/85293) - Overhauls Canterbury Commons.
-
 [Cottonwood Cove Slave Market](https://www.nexusmods.com/newvegas/mods/74495) - Adds a slave market at Cottonwood Cove to support in-game lore.
 
 [Freeside Facelift Lite](https://www.nexusmods.com/newvegas/mods/72411) - Overhauls Freeside.
@@ -203,7 +201,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights. (Do not use if you intend to use the SALVO guide.)
 
-[Meresti Metro Redesign TTW](https://www.nexusmods.com/newvegas/mods/83799) - Overhauls the Meresti Metro.
+[Capital Wasteland Settlements Redesign TTW](https://www.nexusmods.com/newvegas/mods/88394) - Overhauls Arefu, Meresti Metro, & Northwest Seneca Station, Canterbury Commons and Underworld Redesign
 
 [Shanty Arefu](https://www.nexusmods.com/newvegas/mods/83904) - Overhauls Arefu.
 
@@ -308,6 +306,8 @@ The following are designed to be placed in the following load order if using the
 
 ### Animations
 [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Replacers for stagger and crippled animations.
+
+[Dog Sneak Animations](https://www.nexusmods.com/newvegas/mods/96002) - Add Sneak Animations for Rex, Dogmeat and other dog companions so they can sneak with the player
 
 [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=description) - Improves the animations associated with all ragdoll physics.
 - The following are designed to be placed in the following load order.
