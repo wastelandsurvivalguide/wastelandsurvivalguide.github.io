@@ -336,9 +336,6 @@ Various high-quality Pip-Boy icons.
 - Main File - [Consistent Pip-Boy Icons v5 - Reputation](https://www.nexusmods.com/newvegas/mods/83840)
 - Main File - [Consistent Pip-Boy Icons v5 - Stats (and Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
 - Main File - [Consistent Pip-Boy Icons v5 - Dynamicon](https://www.nexusmods.com/newvegas/mods/85411)
-  - Dynamicon:
-    - [x] Main Mod
-    - [x] Optional ESPLess Plugin
 
 ### [TTW Goodies](https://www.nexusmods.com/newvegas/mods/83603)
 
