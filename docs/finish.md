@@ -55,11 +55,12 @@ Functional Post Game Ending Lite TTW Patch.esm
 3DNPCFNVBundle.esm
 Lived-In New Vegas.esm
 Lived-In Strip.esm
+ExtraGoodies.ESP
 Goodies.esp
+ExtraGoodies - TTW.esp
 Goodies - TTW.esp
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
-Goodies - Mojave Scenery Overhaul Patch.esm
 TGMIO.esm
 TGDCIO.esm
 AWorldOfPainFO3.esm
