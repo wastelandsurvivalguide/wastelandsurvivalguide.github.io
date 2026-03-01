@@ -137,6 +137,7 @@ MigPowerAttack.esp
 SMAC - Simple Melee Attack Cancel and Parry.esp
 Hitstop.esp
 Enhanced Movement.esp
+WTH AMR Fix.esp
 B42Inertia.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
