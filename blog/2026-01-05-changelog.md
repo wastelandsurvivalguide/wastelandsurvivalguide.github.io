@@ -22,7 +22,7 @@
 - Added Weapon Textures from Heaven - aWRP Patch
 - Added Weapon Retexture from EVE
 
-### Finish
+### Final Steps
 - Updated load order. 
 
 ## 03/02/2026
