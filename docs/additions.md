@@ -108,6 +108,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 - Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
 - May make chems too plentiful if playing without loot scarcity mods.
 
+[Animated Location Discovery](https://www.nexusmods.com/newvegas/mods/94822) - Dynamic animated location discovery markers to your pip boy whenever you discover a new location for the first time
+
 [Immersive Fast Travel Encounters](https://www.nexusmods.com/newvegas/mods/73879) - A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
 
 [Immersive Sleeping Encounters](https://www.nexusmods.com/newvegas/mods/74289) - A user configurable overhaul of the sleep system that implements D&D styled random encounters when the player naps.
