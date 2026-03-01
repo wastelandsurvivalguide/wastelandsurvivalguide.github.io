@@ -78,18 +78,41 @@ Fixes misaligned Pip-Boy view for female characters as well as wrist gaps in fir
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
 
-### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501)
+### [New Vegas Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/96267)
 
 Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
 
-- Main File - ExRB
-  - Step 1:
-    - [ ] Full
-    - [ ] Full (YUP)
-    - [x] Full (TTW)
-    - [ ] Compatibility
-  - Step 2:
-    - [ ] A World of Pain - **DO NOT** install this patch. It is incompatible with the overhauls used in the guide
+- Main File - New Vegas Interior Optimization Project
+- Optional file - ESM Mod Patch Collection
+- Single Patches:
+  - [ ] Classic Adobe Buildings in Mojave
+  - [ ] Classic Adobe Camp Searchlight
+  - [ ] Classic Adobe Red Rock Canyon
+  - [ ] DM's Camp Golf
+  - [ ] DM's Court of the Crimson Caravan
+  - [ ] DM's Gun Runners Gone Shootin
+  - [ ] Doctor's House - A Doc Mitchell's Home Overhaul
+  - [ ] Functional Post Game Ending
+  - [ ] Gomorrah Casino Uncut
+  - [ ] New Damnation - A Hoover Dam Facelift
+  - [ ] Interiors Improved - NCRCF
+  - [ ] Interiors Improved - Tops Hotel
+  - [ ] Interiors Improved - Vault 21
+  - [ ] Prospector Saloon - An Overhaul
+  - [ ] Redesigned Gun Runners
+  - [ ] Revised Mojave
+  - [ ] SUPER Lively New Vegas
+  - [ ] Tales from the Burning Sands
+  - [x] The Great Mojave Interior Overhaul
+  - [ ] The New Bison Steve Consistent Interior Overhaul
+  - [ ] The Platinum Vault - Securitron Vault Extended
+  - [ ] The Thorn Overhauled
+- Mojave Vagabond:
+  - [ ] Full Mod
+  - [ ] Red Rock Visitor Center
+  - [ ] Nefarious Nipton
+- Optional Patches:
+  - [ ] The New Bison Steve Hotel and Lucky Casino (Original Version)
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 
