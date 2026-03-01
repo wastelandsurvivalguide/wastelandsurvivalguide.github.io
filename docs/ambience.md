@@ -319,7 +319,6 @@ Millenia's Weapon Retexture Project, configured as scriptrunner-based model repl
 #### Installation:
 
 - Main File - aWRP - Resource
-- Update File - aWRP - Resource Hotfix
 - Main File - [aWRP - NVAO-Guns Patch](https://www.nexusmods.com/newvegas/mods/88567)
 
 ### [WTH - Weapon Textures from Heaven](https://www.nexusmods.com/newvegas/mods/69837)
