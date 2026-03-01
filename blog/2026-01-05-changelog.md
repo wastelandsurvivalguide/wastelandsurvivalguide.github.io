@@ -6,7 +6,7 @@
 ## 02/28/2026
 
 ### Optimizations
-- Replaced exRB with New Vegas New Vegas Interior Optimization Project with a dashing 240 cell optimizations instead of 40
+- Replaced ExRB with New Vegas New Vegas Interior Optimization Project
 
 ### User Interface & HUD
 - Removed boxes on Consistent Pip-Boy Icons v5 - Dynamicon
