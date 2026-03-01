@@ -319,9 +319,25 @@ Millenia's Weapon Retexture Project, configured as scriptrunner-based model repl
 #### Installation:
 
 - Main File - aWRP - Resource
-- Main File - aWRP - Scripts (TTW)
 - Update File - aWRP - Resource Hotfix
 - Main File - [aWRP - NVAO-Guns Patch](https://www.nexusmods.com/newvegas/mods/88567)
+
+### [WTH - Weapon Textures from Heaven](https://www.nexusmods.com/newvegas/mods/69837)
+
+#### Installation:
+
+- Main File - WTH - Weapon Textures from Heaven 2k
+- Optional File - TTW's Hunting Rifle and .32 Rifle Textures
+- Optional File - WTH - AMR Suppressor Fix
+- Main File - [WTH - AMR for TTW](https://www.nexusmods.com/newvegas/mods/96125?tab=files&file_id=1000168138&nmm=1)
+
+### [Weapon Textures from Heaven - aWRP Patch](https://www.nexusmods.com/newvegas/mods/93494)
+
+- Main File - aWRP - Scripts (TTW)
+
+### [Weapon Retexture from EVE](https://www.nexusmods.com/newvegas/mods/76606)
+
+Textures Taken From EVE, Fixes some missing textures for modifications.
 
 ### [Kyu's Ballistics - Fixed](https://www.nexusmods.com/newvegas/mods/84939)
 
