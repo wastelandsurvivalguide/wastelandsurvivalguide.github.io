@@ -87,6 +87,9 @@ zlArms3DNPCsPatch.esp
 TTW Dialogue and Interactions Expansion Overhaul.esp
 PerformanceOfTheTitans - TTW Patch.esm
 TLD_Travelers - TTW Patch.esm
+FNV_Optimization.esm
+FNV_Optimization TTW.esm
+TGMIO_opt.esm
 ATMOS Ambient Overhaul.esp
 TTW FaceGen Fix.esp
 TTW No PipBoy Glove Equipping or Race Changes.esp
