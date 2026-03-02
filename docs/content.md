@@ -98,10 +98,6 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
 
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 
-:::important
-Return to [New Vegas Interior Optimization Project](https://wastelandsurvival.guide/docs/optimizations#new-vegas-interior-optimization-project) after installing
-:::
-
 An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
 
 #### Installation:
@@ -115,6 +111,7 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
     - [x] The Living Desert
     - [ ] Classic Adobe Buildings
     - [ ] Windows of The Mojave
+  - Main File - [ESM Patch Collection](https://www.nexusmods.com/newvegas/mods/96267?tab=files&file_id=1000170813&nmm=1)
    
 
 ### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
