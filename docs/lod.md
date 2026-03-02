@@ -60,6 +60,10 @@ all of the following mods are **REQUIRED**:
 
 - Delete `Wasted Mojave Rock LOD.esp`.
 
+### [Sqeps Random TTW LOD Hub](https://www.nexusmods.com/newvegas/mods/94042)
+
+- Main File - RubbleBlockade LOD Fixed
+
 ### [Wasted LOD - Cliffs of DC](https://www.nexusmods.com/newvegas/mods/79734)
 
 ### [Different LOD mods little tweaks and additions](https://www.nexusmods.com/newvegas/mods/81981)
@@ -80,6 +84,14 @@ all of the following mods are **REQUIRED**:
 - Main File - Decent LOD Kit
 - Delete `Decent LOD Kit.esp`.
 
+### [TTW Fallout 3 LOD](https://www.nexusmods.com/newvegas/mods/90327)
+
+### [Physically Based LOD](https://www.nexusmods.com/newvegas/mods/93393)
+
+#### Installation:
+
+Main File - Physically Based LOD
+
 ### [Nuclear LOD](https://www.nexusmods.com/newvegas/mods/88902)
 
 #### Installation:
@@ -89,14 +101,12 @@ all of the following mods are **REQUIRED**:
 - Main File - Nuclear Trees - Vanilla
 - Delete `TreeLOD_Vanilla.esp`.
 
-### [TTW Fallout 3 LOD](https://www.nexusmods.com/newvegas/mods/90327)
-
 ### [VNV LOD Guide Plugins Merge](https://www.nexusmods.com/newvegas/mods/79358)
 
 :::caution
 Do not install the following files if you plan to generate your own LOD.
 :::
 
-### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154382&nmm=1)
+### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000170793&nmm=1)
 
-### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000154381&nmm=1)
+### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000170792&nmm=1)
