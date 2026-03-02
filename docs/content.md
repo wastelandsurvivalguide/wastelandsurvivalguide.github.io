@@ -111,8 +111,8 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
     - [x] The Living Desert
     - [ ] Classic Adobe Buildings
     - [ ] Windows of The Mojave
-  - Main File - [ESM Patch Collection](https://www.nexusmods.com/newvegas/mods/96267?tab=files&file_id=1000170813&nmm=1)
-    - [x] The Great Mojave Interior Overhaul
+- Main File - [ESM Patch Collection](https://www.nexusmods.com/newvegas/mods/96267?tab=files&file_id=1000170813&nmm=1)
+     - [x] The Great Mojave Interior Overhaul
    
 
 ### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
