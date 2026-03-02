@@ -96,10 +96,6 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
     - [ ] Functional Post-Game Ending
     - [ ] Revised Mojave
 
-:::tip Note
-It is recommended that you skip Lived-In Strip if you plan to use the [SALVO](https://salamand3r.fail/salvo) guide after this.
-:::
-
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 
 An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
