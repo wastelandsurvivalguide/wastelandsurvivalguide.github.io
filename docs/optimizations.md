@@ -85,6 +85,43 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
 #### Installation:
 
 - Main File - New Vegas Interior Optimization Project
+- Optional file - ESM Mod Patch Collection
+- Adobe Buildings:
+  - [ ] Classic Adobe Buildings in Mojave
+  - [ ] Classic Adobe Camp Searchlight
+  - [ ] Classic Adobe Red Rock Canyon
+  - [ ] Classic Adobe Red Rock Canyon LITE
+- Diegonom's Mods:
+  - [ ] DM's Camp Golf
+  - [ ] DM's Court of the Crimson Caravan
+  - [ ] DM's Open Crimson Caravan
+  - [ ] DM's Gun Runners Gone Shootin
+- Interiors Improved:
+  - [ ] Cerulean Robotics
+  - [ ] LVB Station
+  - [ ] NCRCF
+  - [ ] Tops Hotel
+  - [ ] Vault 21
+- Misc Patches:
+  - [ ] Doctor's House - A Doc Mitchell's Home Overhaul
+  - [ ] Functional Post Game Ending
+  - [ ] Gomorrah Casino Uncut
+  - [ ] New Damnation - A Hoover Dam Facelift
+  - [ ] Prospector Saloon - An Overhaul
+  - [ ] Redesigned Gun Runners
+  - [ ] Revised Mojave
+  - [ ] SUPER Lively New Vegas
+  - [ ] Tales from the Burning Sands
+  - [x] The Great Mojave Interior Overhaul
+  - [ ] The Platinum Vault - Securitron Vault Extended
+  - [ ] The Thorn Overhauled
+- Mojave Vagabond:
+  - [ ] Full Mod
+  - [ ] Red Rock Visitor Center
+  - [ ] Nefarious Nipton
+- The New Bison Steve Hotel:
+  - [ ] Original Version
+  - [ ] Consistent Interior OverhauL
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 
