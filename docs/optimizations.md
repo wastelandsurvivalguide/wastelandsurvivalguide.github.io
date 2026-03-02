@@ -121,7 +121,8 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
   - [ ] Nefarious Nipton
 - The New Bison Steve Hotel:
   - [ ] Original Version
-  - [ ] Consistent Interior OverhauL
+  - [ ] Consistent Interior Overhaul
+  - [ ] None
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 
