@@ -54,7 +54,7 @@ Functional Post Game Ending Lite TTW Patch.esm
 3DNPCFNVBundle.esm
 Lived-In New Vegas.esm
 Lived-In Strip.esm
-ExtraGoodies.ESP
+ExtraGoodies.esp
 Goodies.esp
 ExtraGoodies - TTW.esp
 Goodies - TTW.esp
