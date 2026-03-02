@@ -91,7 +91,6 @@ FNV_Optimization TTW.esm
 TGMIO_opt.esm
 ATMOS Ambient Overhaul.esp
 TTW FaceGen Fix.esp
-TTW No PipBoy Glove Equipping or Race Changes.esp
 The Mod Configuration Menu.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
