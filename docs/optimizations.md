@@ -82,7 +82,7 @@ Dynamically adjusts draw distance in accordance with the fog to improve performa
 
 Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
 
-:::tip
+:::important
 Return to this section after installing [TGMIO](https://wastelandsurvival.guide/docs/content#the-great-mojave-interior-overhaul) in the [Content](https://wastelandsurvival.guide/docs/content) section.
 :::
 
