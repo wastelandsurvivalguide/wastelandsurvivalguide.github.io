@@ -178,6 +178,9 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339) - Wonderful landscape overhaul for the Capital Wasteland
 
+[Capital Landscape Additions (TTW)](https://www.nexusmods.com/newvegas/mods/91506) -  improve the visuals of the Capital Wasteland by adding new set dressing and doing some landscape improvements in various locations across the entire worldspace
+- Unrelated to [Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339)
+
 [Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
