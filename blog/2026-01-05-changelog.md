@@ -3,16 +3,24 @@
 `Put one foot in front of the other...~`
 
 ---
-## 02/28/2026
+## 03/1/2026 - PART TWO (Small LOD Update)
+
+### LOD
+- Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed
+- Added Physicially Based LOD
+- Updated Pregen LOD
+
+## 02/28/2026 - PART ONE
 
 ### Optimizations
 - Replaced ExRB with New Vegas New Vegas Interior Optimization Project
 
 ### User Interface & HUD
-- Removed boxes on Consistent Pip-Boy Icons v5 - Dynamicon
+- Removed Component Options on Consistent Pip-Boy Icons v5 - Dynamicon
 
 ### Content
 - Updated Goodies
+- Updated Goodies INI
 - Added ExtraGoodies
 - Updated Trooper's TTW Patches install instructions.
 
