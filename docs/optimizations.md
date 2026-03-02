@@ -86,6 +86,8 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
 Return to this section after installing [TGMIO](https://wastelandsurvival.guide/docs/content#the-great-mojave-interior-overhaul) in the [Content](https://wastelandsurvival.guide/docs/content) section.
 :::
 
+#### Installation 
+
 - Main File - New Vegas Interior Optimization Project
 - Optional file - ESM Mod Patch Collection
 - Adobe Buildings:
