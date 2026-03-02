@@ -79,7 +79,7 @@ Cutting-edge location overhaul mod featuring dynamic navmesh generation, automat
 
 #### Installation:
 
-- Main File - New Vegas
+- Main File - Lived-In New Vegas
 
 ### [Lived-In Strip](https://www.nexusmods.com/newvegas/mods/91279)
 
