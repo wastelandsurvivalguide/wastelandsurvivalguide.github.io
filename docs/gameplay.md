@@ -18,8 +18,8 @@ Tale of Bi Wastelands, TTW Reputations, TTW NV Speech checks. All in one package
 
 #### Installation:
 
-Main File - TTW BiReputationChecks
-Main File - TTW Perk and Consumables Overhaul - BiRepChecks
+- Main File - TTW BiReputationChecks
+- Main File - TTW Perk and Consumables Overhaul - BiRepChecks
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
