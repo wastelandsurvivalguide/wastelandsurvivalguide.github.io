@@ -12,28 +12,14 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 ## Gameplay Enhancements
 
-### [TTW Reputations](https://www.nexusmods.com/newvegas/mods/68604)
+### [TTW BiReputationChecks](https://www.nexusmods.com/newvegas/mods/96508)
 
-Adds a functional reputation system to Fallout 3 for parity with New Vegas.
-
-### [TTW N.V. Speech Checks](https://www.nexusmods.com/newvegas/mods/68736)
-
-Converts all Fallout 3 dialogue to utilize the New Vegas speech system.
+Tale of Bi Wastelands, TTW Reputations, TTW NV Speech checks. All in one package.
 
 #### Installation:
 
-- Main File - TTW New Vegas Speech Checks
-- Optional File - TTW New Vegas Speech Checks - TTW Reputations Patch
-
-### [Tale of Bi Wastelands](https://www.nexusmods.com/newvegas/mods/72721)
-
-Adds Confirmed Bachelor and Cherchez La Femme options for the canonically gay and lesbian merchants to mirror any Black Widow and Lady Killer options in Fallout 3 and its DLC.
-
-#### Installation:
-
-- Main File - Tale of Bi Wastelands 1.1
-- Main File - [Tale of Bi Wastelands - TTW New Vegas Speech Checks](https://www.nexusmods.com/newvegas/mods/76206)
-- Main File - [Tale of Bi Wastelands - TTW Reputations Patch](https://www.nexusmods.com/newvegas/mods/76206)
+Main File - TTW BiReputationChecks
+Main File - TTW Perk and Consumables Overhaul - BiRepChecks
 
 ### [Delay DLC Redux TTW](https://www.nexusmods.com/newvegas/mods/75851)
 
