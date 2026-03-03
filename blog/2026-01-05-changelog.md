@@ -5,7 +5,7 @@
 ---
 ## 03/1/2026
 
-Gameplay**
+### Gameplay
 - Added TTW BiReputationChecks (Replaces Tale of Bi Wastelands, TTW Reputations, TTW NV Speech check + Patches)
 - Removed TTW N.V. Speech Check
 - Removed Tale of Bi Wastelands
