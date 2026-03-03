@@ -41,12 +41,7 @@ PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
-Tale of Bi Wastelands.esm
-TTW Reputations.esm
-Tale of Bi Wastelands + TTW Reputations Patch.esm
-TTW New Vegas Speech Checks.esm
-TTW New Vegas Speech Checks - TTW Reputations Patch.esm
-Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
+BiRepChecks.esm
 TTW - Capital Wasteland Adjustments.esm
 Repeatable Quests Rewards Rebalanced.esm
 Functional Post Game Ending Lite.esm
@@ -123,7 +118,6 @@ Quickthrow.esp
 QuickthrowTweaks.esp
 Supplemental Ammo Crafting.esp
 TTWPerkOverhaul.esp
-DIEO - Tale of Bi Wastelands Patch.esp
 DIEO - AWOPFO3 Patch.esp
 Famine.esp
 Famine - Flora.esp
