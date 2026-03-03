@@ -5,11 +5,26 @@
 ---
 ## 03/1/2026
 
+Gameplay**
+- Added TTW BiReputationChecks (Replaces Tale of Bi Wastelands, TTW Reputations, TTW NV Speech check + Patches)
+- Removed TTW N.V. Speech Check
+- Removed Tale of Bi Wastelands
+- Removed TTW Reputations
+
+### Content
+- Added TTW (D.I.E.O.) - BiReputation Checks Version
+- Removed DIEO - Tale of Bi Wastelands Patch
+
+### Overhaul
+- Added TTW Perk and Consumables Overhaul - BiRepChecks
+- Removed TTW Perk Overhaul - Remastered (File Above Replaces it)
+
 ### LOD
 - Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed
 - Added Physicially Based LOD
 - Updated Pregen LOD
 
+**Don't forget to update all your other mods as well!**
 ## 02/28/2026
 
 ### Optimizations
