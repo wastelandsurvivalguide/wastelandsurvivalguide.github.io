@@ -58,7 +58,7 @@ This mod changes the effect of the Speech bobblehead perk. In TTW, the perk allo
 
 #### Installation:
 
-- Main File - TTW Perk Overhaul - Remastered
+- Main File - [TTW Perk and Consumables Overhaul - BiRepChecks](https://www.nexusmods.com/newvegas/mods/96508?tab=files&file_id=1000170882&nmm=1)
 - Optional File - TTW Perk Overhaul - Another Millenia Patch
 - Optional File - TTW Perk Overhaul - Another Millenia Add-on Patch
 - Optional File - TTW Perk Overhaul - Tactapack Patch
