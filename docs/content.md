@@ -194,8 +194,7 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 
 #### Installation:
 
-- Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
-- Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1)
+- Main File - TTW (D.I.E.O.) - BiReputation Checks Version
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1)
 
 ## Weapons
