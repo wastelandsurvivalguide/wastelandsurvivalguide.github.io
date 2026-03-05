@@ -56,10 +56,6 @@ If you don't know how to install a mod manually, refer to the [instructions in t
 
 Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
 
-:::important Info
-Linking to an older version of the mod is intentional.
-:::
-
 #### Installation:
 
 - Main File - Clean Vanilla Hud
