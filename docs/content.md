@@ -111,7 +111,12 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
     - [x] The Living Desert
     - [ ] Classic Adobe Buildings
     - [ ] Windows of The Mojave
-   
+
+### [The Great DLC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/96503)
+
+Overhauls many Mojave DLC locations to be more useful, cluttered, atmospheric, unique and if applicable,
+
+- Main File - The Great DLC Interior Overhaul
 
 ### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
 
