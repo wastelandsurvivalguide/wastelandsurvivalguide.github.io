@@ -57,6 +57,7 @@ Goodies - TTW.esp
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
 TGMIO.esm
+TGDLCIO.esm
 TGDCIO.esm
 AWorldOfPainFO3.esm
 A World of Pain Revised.esm
