@@ -119,10 +119,10 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
   - [ ] Full Mod
   - [ ] Red Rock Visitor Center
   - [ ] Nefarious Nipton
-- The New Bison Steve Hotel:
-  - [ ] Original Version
-  - [ ] Consistent Interior Overhaul
-  - [ ] None
+  - The New Bison Steve Hotel:<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Original Version<br/>
+    <RadioButtonUncheckedIcon fontSize="small" /> Consistent Interior Overhaul<br/>
+    <RadioButtonCheckedIcon fontSize="small" /> None<br/>
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 
