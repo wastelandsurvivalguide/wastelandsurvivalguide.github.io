@@ -85,6 +85,11 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
 #### Installation:
 
 - Main File - New Vegas Interior Optimization Project
+- Unofficial Patches:<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> YUP<br/>
+  <RadioButtonCheckedIcon fontSize="small" /> YUP TTW<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> NOPE<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> None<br/>
 - Optional file - ESM Mod Patch Collection
 - Adobe Buildings:
   - [ ] Classic Adobe Buildings in Mojave
