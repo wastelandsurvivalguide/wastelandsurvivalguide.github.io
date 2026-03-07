@@ -14,17 +14,18 @@
 ### Content
 - Added TTW (D.I.E.O.) - BiReputation Checks Version
 - Removed DIEO - Tale of Bi Wastelands Patch
+- Added The Great DLC Interior Overhaul
 
 ### Overhaul
 - Added TTW Perk and Consumables Overhaul - BiRepChecks
 - Removed TTW Perk Overhaul - Remastered (File Above Replaces it)
+
 
 ### LOD
 - Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed
 - Added Physicially Based LOD
 - Updated Pregen LOD
 
-**Don't forget to update all your other mods as well!**
 ## 02/28/2026
 
 ### Optimizations
