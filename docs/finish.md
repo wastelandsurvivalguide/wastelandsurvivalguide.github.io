@@ -35,7 +35,6 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
-Mr House Final Battle Hotfix.esm
 Restored Physics Sounds.esm
 Placement Fixes.esm
 PerformanceOfTheTitans.esm
@@ -91,7 +90,6 @@ TTW No PipBoy Glove Equipping or Race Changes.esp
 The Mod Configuration Menu.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
-ExRB-TTW.esp
 GasTrapPerformanceFix.esp
 Vanilla UI Plus.esp
 JustAssortedMods.esp
@@ -135,7 +133,6 @@ WTH AMR Fix.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
-ATMOS - ExRB Patch.esp
 ATMOS NV - TTW Patch.esp
 ATMOS Ambient Overhaul - DLC.esp
 ATMOS Ambient Overhaul - AWOP Revision.esp
