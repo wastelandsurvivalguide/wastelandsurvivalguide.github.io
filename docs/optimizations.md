@@ -120,6 +120,7 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
   - [x] The Great Mojave Interior Overhaul
   - [ ] The Platinum Vault - Securitron Vault Extended
   - [ ] The Thorn Overhauled
+  - [ ] Great Khan Lodge Rework
 - Mojave Vagabond:
   - [ ] Full Mod
   - [ ] Red Rock Visitor Center
