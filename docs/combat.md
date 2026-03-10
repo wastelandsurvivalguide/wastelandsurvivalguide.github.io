@@ -96,6 +96,4 @@ Adds a simple animation command line to each grunt when hit. Greatly enhances th
 
 #### Installation:
 
-- Main File - Simple Attack Reactions - TTW
-- Update File - (A) SAR Settings - DT
-- Update File - (B) SAR Settings - DT - Player
+- Main File - Simple Attack Reactions -  TTW - AIO
