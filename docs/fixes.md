@@ -98,6 +98,10 @@ Fixes some alpha rendering issues like broken effects when using Transparency Mu
 
 Fixes flickering objects caused by lack of depth buffer precision.
 
+### [Depth Resolve - NVSE](https://www.nexusmods.com/newvegas/mods/93991)
+
+Improves performance when Depth of Field is used by resolving the depth buffer instead of rendering a new "fake" one. Also provides a crucial requirement for other effects.
+
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
 
 Fixes muzzle flash lights not being culled after firing, which would cause the game to continue using them for illumination.
