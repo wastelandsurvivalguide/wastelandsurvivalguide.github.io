@@ -32,13 +32,7 @@ Overhauls all aspects of radiation, making it far more consequential.
 #### Installation:
 
 - Main File - RAD - Overhaul
-- Main File - [RAD - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077)
-  - Main:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> New Vegas Ultimate Edition<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> New Vegas Ultimate Edition + YUP<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Tale of Two Wastelands<br/>
-  - Optional:
-    - [ ] Better Stealth Suit Mk II
+- Main File - [RAD - Overhaul Fixed Plugin for TTW](https://www.nexusmods.com/newvegas/mods/96264?tab=files&file_id=1000168906&nmm=1)
 
 ### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360)
 
