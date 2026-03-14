@@ -66,6 +66,25 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 - Press enter to save your iron sight alterations.
 :::
 
+### [Assorted UI Textures]
+
+- Main File - Assorted UI Textures
+  - Vanilla:
+    - [x] Clean Textures
+  - Texture Options
+    - [ ] Compress Textures
+  - Mod Support
+    - [ ] B42 Bows
+    - [x] B42 FireMode
+    - [ ] B42 Optics
+    - [x] B42 Quickthrow
+    - [x] ISControl Enabler
+    - [x] IStewieAI's Tweaks
+    - [x] MAPMO
+  - MAPMO UI Tweaks
+    - [ ] B42 Descriptions
+    - [ ] B42 Inspect
+
 ### [Weapon Based Hands Clip Distance](https://www.nexusmods.com/newvegas/mods/82093)
 
 Allows for manual repositioning of the players hand clip distance.
