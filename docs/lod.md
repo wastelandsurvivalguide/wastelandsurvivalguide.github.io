@@ -107,6 +107,6 @@ Main File - Physically Based LOD
 Do not install the following files if you plan to generate your own LOD.
 :::
 
-### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000171613&nmm=1)
+### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000171757&nmm=1)
 
-### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000171615&nmm=1)
+### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000171755&nmm=1)
