@@ -223,31 +223,6 @@ Turns the white icons from ySI - Sorting Ycons into colored ones.
 
 - Main File - Color Inventory Ycons
 
-### [Colorful Icons Support](https://www.nexusmods.com/newvegas/mods/85075)
-
-Colorful UI icons will retain their look regardless of interface tint. Also includes categories for the Aid and Misc sections of the Pip-Boy.
-
-#### Installation:
-
-- Main File - Colorful Icons Support
-  - Interface:
-    - [x] ySI - Sorting Icons
-    - [x] Map Markers
-  - ySI - Categories:
-    - [ ] Weapons
-    - [ ] Apparel
-    - [x] Aid
-    - [x] Misc
-    - [ ] Ammo
-  - Colorful Icons - ySI
-    - [x] Bottlecaps
-    - [x] Doors
-    - [x] UI Prompts
-  - Colorful Icons - Doors
-    - [x] Doors
-  - Optional:
-    - [ ] ySI - JSON Patcher
-
 ### [ySI - Contextual Prompts](https://www.nexusmods.com/newvegas/mods/85117)
 
 Adds contextual ySI - Sorting Icons to the crosshair prompt.
@@ -314,6 +289,31 @@ A total overhaul to Map Marker icons, also including an extension that replaces 
     - [x] Unique DLC Starter Marks
     - [x] Unique Location Icons
     - [x] Unique Icons with General Mod Support
+   
+### [Colorful Icons Support](https://www.nexusmods.com/newvegas/mods/85075)
+
+Colorful UI icons will retain their look regardless of interface tint. Also includes categories for the Aid and Misc sections of the Pip-Boy.
+
+#### Installation:
+
+- Main File - Colorful Icons Support
+  - Interface:
+    - [x] ySI - Sorting Icons
+    - [x] Map Markers
+  - ySI - Categories:
+    - [ ] Weapons
+    - [ ] Apparel
+    - [x] Aid
+    - [x] Misc
+    - [ ] Ammo
+  - Colorful Icons - ySI
+    - [x] Bottlecaps
+    - [x] Doors
+    - [x] UI Prompts
+  - Colorful Icons - Doors
+    - [x] Doors
+  - Optional:
+    - [ ] ySI - JSON Patcher
 
 ### Consistent Pip-Boy Icons Collection
 
