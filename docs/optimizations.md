@@ -108,6 +108,7 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
   - [ ] Tops Hotel
   - [ ] Vault 21
 - Misc Patches:
+  - [ ] Better Bases - NCR
   - [ ] Doctor's House - A Doc Mitchell's Home Overhaul
   - [ ] Functional Post Game Ending
   - [ ] Gomorrah Casino Uncut
