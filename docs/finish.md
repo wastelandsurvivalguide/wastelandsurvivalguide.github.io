@@ -115,7 +115,6 @@ MoreMojave DSE- Mojave Scenery Patch.esp
 WeaponRequirementSystem.esp
 Reload Reloaded.esp
 RAD.esp
-RAD-Fixed-TTW.esp
 Quickthrow.esp
 QuickthrowTweaks.esp
 Supplemental Ammo Crafting.esp
