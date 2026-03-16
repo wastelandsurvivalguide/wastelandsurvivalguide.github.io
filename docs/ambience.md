@@ -66,7 +66,7 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 - Press enter to save your iron sight alterations.
 :::
 
-### [Assorted UI Textures]
+### [Assorted UI Textures](https://www.nexusmods.com/newvegas/mods/88478)
 
 - Main File - Assorted UI Textures
   - Vanilla:
