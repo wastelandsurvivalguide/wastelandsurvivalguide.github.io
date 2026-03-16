@@ -84,7 +84,6 @@ TTW Dialogue and Interactions Expansion Overhaul.esp
 TLD_Travelers - TTW Patch.esm
 FNV_Optimization.esm
 FNV_Optimization YUPTTW.esm
-TGMIO_opt.esm
 ATMOS Ambient Overhaul.esp
 TTW FaceGen Fix.esp
 TTW No PipBoy Glove Equipping or Race Changes.esp
