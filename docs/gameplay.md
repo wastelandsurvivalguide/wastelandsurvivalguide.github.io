@@ -124,6 +124,11 @@ Adds the option to bottle water from any source when you hold Shift and activate
 
 Adds a feature rich night/thermal vision system to power armor helmets and other headgear. Fully configurable!
 
+#### Installation:
+
+- Main File - Modern Night Vision
+- Main File - Modern Night Vision - INI
+
 ### [Better Caravan](https://www.nexusmods.com/newvegas/mods/81002)
 
 Improves the usability of the Caravan minigame.
