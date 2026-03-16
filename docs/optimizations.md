@@ -85,6 +85,11 @@ Adds and changes roombounds for many interior cells throughout the Mojave Wastel
 #### Installation:
 
 - Main File - New Vegas Interior Optimization Project
+- Unofficial Patches:<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> YUP<br/>
+  <RadioButtonCheckedIcon fontSize="small" /> YUP TTW<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> NOPE<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> None<br/>
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 
