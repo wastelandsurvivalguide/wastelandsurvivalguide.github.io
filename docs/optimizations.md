@@ -58,10 +58,6 @@ ITEM is a general bug fixing mod for dozens of item models across the base game 
 
 Mod that improves game performance and stability by removing unnecessary and hidden geometry for major areas of the New Vegas worldspace and its DLCs.
 
-### [Optimized Weapon World Models (ESPLESS)](https://www.nexusmods.com/newvegas/mods/88611)
-
-Adds new "world models" for weapons on the ground for better combat performance with zero visual or gameplay changes from vanilla.
-
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
 Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
