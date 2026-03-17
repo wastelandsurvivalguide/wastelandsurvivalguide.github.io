@@ -94,6 +94,13 @@ Fixes a bug that would cause certain particles to appear black.
 
 Fixes some alpha rendering issues like broken effects when using Transparency Multisampling.
 
+### [LOD Fixes and Improvements - NVSE](https://www.nexusmods.com/newvegas/mods/84171)
+
+#### Installation:
+
+- Main File - LOD Fixes and Improvements - NVSE
+- Main File - LOD Fixes and Improvements - INI
+
 ### [LOD Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91705)
 
 Fixes flickering objects caused by lack of depth buffer precision.
