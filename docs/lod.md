@@ -16,13 +16,6 @@ If you are using all of those mods, then you can use our pre-generated LOD by fo
 
 all of the following mods are **REQUIRED**:
 
-### [LOD Fixes and Improvements - NVSE](https://www.nexusmods.com/newvegas/mods/84171)
-
-#### Installation:
-
-- Main File - LOD Fixes and Improvements - NVSE
-- Main File - LOD Fixes and Improvements - INI
-
 ### [Much Needed LOD](https://www.nexusmods.com/newvegas/mods/64805)
 
 #### Installation:
