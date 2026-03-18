@@ -53,11 +53,11 @@ all of the following mods are **REQUIRED**:
 
 - Delete `Wasted Mojave Rock LOD.esp`.
 
+### [Wasted LOD - Cliffs of DC](https://www.nexusmods.com/newvegas/mods/79734)
+
 ### [Sqeps Random TTW LOD Hub](https://www.nexusmods.com/newvegas/mods/94042)
 
 - Main File - RubbleBlockade LOD Fixed
-
-### [Wasted LOD - Cliffs of DC](https://www.nexusmods.com/newvegas/mods/79734)
 
 ### [Different LOD mods little tweaks and additions](https://www.nexusmods.com/newvegas/mods/81981)
 
