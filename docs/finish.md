@@ -478,7 +478,7 @@ Press F5 to refresh MO2 and if everything went correctly, the list of plugins in
 +TTW_separator
 ```
 
-Press F5 to refresh MO2 and if everything went correctly, the list of Mods in the left pane will be reordered. If you installed all of the mods in the guide then the final plugin should be `+Tales Of Two Wastelands`
+Press F5 to refresh MO2 and if everything went correctly, the list of Mods in the left pane will be reordered. If you installed all of the mods in the guide then the final mod should be `+Tales Of Two Wastelands`
 
 Click the <button>**Create a Backup**</button> buttons so if something ever goes wrong you can instantly restore this load order and modlist:
 
