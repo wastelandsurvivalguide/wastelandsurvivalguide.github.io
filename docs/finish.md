@@ -148,6 +148,8 @@ CC - Rain.esp
 CC - 3D Rain.esp
 ```
 
+Press F5 to refresh MO2 and if everything went correctly, the list of plugins in the right pane will be reordered. If you installed all of the mods in the guide then the final plugin should be `CC - 3D Rain.esp`, however if you opted to skip some mods then it may be something else. This is fine, as long as you saw the list of plugins being reordered after refreshing.
+
 ## Mod List Order
 ```txt title="C:\Users<YOUR USERNAME>\AppData\Local\ModOrganizer\TTW\profiles\Default\modlist.txt"
 +WSG Terrain LOD
@@ -476,9 +478,9 @@ CC - 3D Rain.esp
 +TTW_separator
 ```
 
-Press F5 to refresh MO2 and if everything went correctly, the list of plugins in the right pane will be reordered. If you installed all of the mods in the guide then the final plugin should be `CC - 3D Rain.esp`, however if you opted to skip some mods then it may be something else. This is fine, as long as you saw the list of plugins being reordered after refreshing.
+Press F5 to refresh MO2 and if everything went correctly, the list of Mods in the left pane will be reordered. If you installed all of the mods in the guide then the final plugin should be `+Tales Of Two Wastelands`
 
-Click the <button>**Create a Backup**</button> button so if something ever goes wrong you can instantly restore this load order:
+Click the <button>**Create a Backup**</button> buttons so if something ever goes wrong you can instantly restore this load order and modlist:
 
 ![MO2 Backup Load Order Button](../static/img/backup.webp)
 
