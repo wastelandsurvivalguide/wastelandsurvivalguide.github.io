@@ -130,7 +130,7 @@ Adds many intense and unique locations, new items, companions, and quests to the
 
 #### Installation:
 
-- Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
+- Main File - [AWorldOfPainFO3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
 
 ### Sweet Pain NV
