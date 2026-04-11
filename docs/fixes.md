@@ -1,4 +1,4 @@
-﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 # Extra Utilities & Fixes
@@ -78,9 +78,6 @@ Aim down sights without the camera snapping to place.
 
 Fixes acoustic spaces not changing with exterior regions.
 
-### [Cell Offset Generator - NVSE](https://www.nexusmods.com/newvegas/mods/92182)
-
-Removes cell loading stutter caused by unoptimized plugins.
 ### [Blood Decal Flashing Fix](https://www.nexusmods.com/newvegas/mods/87830)
 
 Fixes color overflow in blood decal shaders, which caused colorful flashes on certain GPUs or if using DXVK.
