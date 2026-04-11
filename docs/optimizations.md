@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Optimizations**.
 
 :::tip What will these optimizations do?
-These mods will not have a noticable visual impact, but will significant improve your performance and experience with AI throughout the game.
+These mods will not have a noticable visual impact, but will significantly improve your performance and experience with AI throughout the game.
 :::
 
 ### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)
@@ -26,91 +26,70 @@ Fixes and improves vanilla game pathfinding errors and will provide a better and
 A compatibility patch is **NO LONGER** required for this mod.
 :::
 
-### [TTW Ultimate Invisible Wall Remover](https://www.nexusmods.com/newvegas/mods/77975)
-
-A comprehensive invisible wall remover for Tale of Two Wastelands.
-
-#### Installation:
-
-- Main File - TTW Ultimate Invisible Wall Remover (ESM Version)
-
-:::warning
-**MAY** break scripted events if quest related areas are entered from the incorrect route (eg climbing over a previously unpassable hill rather than navigating through the sewers to get to the GNR building), but is otherwise a MASSIVE quality of life improvement.
-:::
-
-### [Collision Meshes - DC](https://www.nexusmods.com/fallout3/mods/21946)
-
-Improves collision meshes in the Capital Wasteland.
-
-#### Installation:
-
-- Main File - Collision Meshes FO3
-
-### [Collision Meshes - NV](https://www.nexusmods.com/newvegas/mods/59149)
-
-Improves collision meshes in the Mojave Wasteland.
-
-#### Installation:
-
-- Main File - Collision Meshes FNV
-- Main File - Update Collision Meshes FNV 1.6.3 to 1.6.4
-
-### [New Vegas Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/74295)
-
-Optimizations and fixes for a large selection of meshes in the base game and DLC.
-
-#### Installation:
-
-- Main File - New Vegas Mesh Improvement Mod
-
 ### [MAC-TEN](https://www.nexusmods.com/newvegas/mods/83815)
 
-Fixes dozens of game models across the base game and DLCs.
+Fixes dozens of game models across the base game and DLCs. 
+
+### [MAC-TEN FO3 TTW](https://www.nexusmods.com/newvegas/mods/90284)
+
+MAC-TEN FO3 TTW is a general bug fixing mod for dozens of game models for TTW's DC wasteland.
+
+:::important
+The installation process is similar to the TTW installation. FO3 GOTY **must** be installed for the installer to work.
+:::
+
+#### Installation:
+
+1. Manually download **MAC-10 F3 TTW** and **Installer For MAC-10 F3 TTW**.
+2. Extract both files to a folder such as `C:\Modding\MAC-TEN TTW Installer`.
+3. Run **Mac10 F3 TTW Install.exe**
+4. Open Mod Organizer 2, select the **Show Open Folders menu...** button at the top and select **Open Mods folder**.
+5. Create a new folder inside the `Mods` folder and call it something like **MAC-TEN TTW**, then open it.
+6. Copy the full address from the top and paste it into the installer's **Install Location** field.
+7. Click **Install**.
+8. If done correctly, you should have the mod's files inside the created **MAC-TEN TTW** folder.
+9. Refresh MO2 with F5 and enable the mod.
 
 ### [Items Transformed - Enhanced Meshes (ITEM)](https://www.nexusmods.com/newvegas/mods/85622)
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
-### [Mainframes Litter Flickering Fix](https://www.nexusmods.com/newvegas/mods/83076)
-
-Adjusts a few shader flags to litter meshes to stop the litter from flickering.
-
-#### Installation:
-
-Main File - Mainframes Litter Flickering Fix v5
-
 ### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
 
 Adds a shader flag to vent meshes that fixes flickering and lighting issues.
 
+### [Performance Of The Titans](https://www.nexusmods.com/newvegas/mods/89069)
+
+Mod that improves game performance and stability by removing unnecessary and hidden geometry for major areas of the New Vegas worldspace and its DLCs.
+
 ### [PipBoyOn Node Fixes](https://www.nexusmods.com/newvegas/mods/81775)
 
-Fixes multiple boy:on nodes in the vanilla game armor meshes and TTW to remove the annoying -boy flicker.
+Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW to remove the annoying pip-boy flicker.
 
 #### Installation:
 
 - Main File - PipBoyOn Node Fixes TTW
 
-### [Aqua Performa - Strip Performance Fix](https://www.nexusmods.com/newvegas/mods/78617)
+### [Female Pipboy Fixed - Ultimate Edition](https://www.nexusmods.com/newvegas/mods/87642)
 
-Drastically improves performance on The Strip by getting rid of unseen water LOD.
+Fixes misaligned Pip-Boy view for female characters as well as wrist gaps in first person.
 
 ### [Fog-based Object Culling](https://www.nexusmods.com/newvegas/mods/79516)
 
 Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.
 
-### [ExRB - Extended Roombounds](https://www.nexusmods.com/newvegas/mods/71501)
+### [New Vegas Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/96267)
 
 Adds and changes roombounds for many interior cells throughout the Mojave Wasteland to improve performance.
 
-- Main File - ExRB
-  - Step 1:
-    - [ ] Full
-    - [ ] Full (YUP)
-    - [x] Full (TTW)
-    - [ ] Compatibility
-  - Step 2:
-    - [ ] A World of Pain - **DO NOT** install this patch. It is incompatible with the overhauls used in the guide
+#### Installation:
+
+- Main File - New Vegas Interior Optimization Project
+- Unofficial Patches:<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> YUP<br/>
+  <RadioButtonCheckedIcon fontSize="small" /> YUP TTW<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> NOPE<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> None<br/>
 
 ### [Fallout 3 TTW Interior Optimization Project](https://www.nexusmods.com/newvegas/mods/85909)
 

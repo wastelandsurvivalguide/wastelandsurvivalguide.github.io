@@ -1,13 +1,12 @@
 // @ts-check
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const {themes: prismThemes} = require("prism-react-renderer");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Wasteland Survival Guide",
   tagline: "A Tale of Two Wastelands Modding Guide",
   favicon: "img/wsg.webp",
-  url: "https://wastelandsurvivalguide.com",
+  url: "https://wastelandsurvivalguide.github.io/",
   baseUrl: "/",
   organizationName: "wastelandsurvivalguide",
   projectName: "wastelandsurvivalguide.github.io",
@@ -126,7 +125,7 @@ const config = {
           },
           {
             label: "Performance Guide",
-            href: "https://wallsogb.github.io/FalloutNV-Performance-Guide",
+            href: "https://performance.moddinglinked.com/falloutnv.html",
           },
           {
             label: "New Vegas Visual Renewal",
@@ -153,8 +152,8 @@ const config = {
         copyright: `Copyright <a href="/docs/important">©</a> ${new Date().getFullYear()} Wasteland Survival Guide`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
         additionalLanguages: ["ini"],
       },
     }),
