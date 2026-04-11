@@ -239,3 +239,9 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 ### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
 
 Adds over a dozen high quality firearms, energy weapons, and melee weapons made by Zealotlee.
+
+:::tip Note
+You can enable lore friendly names in the mod's INI file.
+:::
+
+### [ZL Armaments Remastered And FNV 3DNPC Bundle Updated Patch](https://www.nexusmods.com/newvegas/mods/87064)
