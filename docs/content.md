@@ -181,7 +181,7 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
 
-### [Trooper's TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
+### [Trooper's Patch Page](https://www.nexusmods.com/newvegas/mods/78465)
 
 A collection of compatibility patches for TTW and various mods.
 
