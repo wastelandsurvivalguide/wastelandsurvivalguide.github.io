@@ -2,6 +2,8 @@
 
 ---
 
+## Load Order
+
 This section ensures that your load order is correct for the guide by overwriting
 MO2's `loadorder.txt` file. It's fine if you skipped any number of mods in the guide;
 this process will still work.
@@ -33,58 +35,68 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
+Mr House Final Battle Hotfix.esm
+Restored Physics Sounds.esm
+Placement Fixes.esm
+PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
-TTW Ultimate Invisible Wall Remover.esm
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
-TweaksTTW.esm
-Tale of Bi Wastelands.esm
-TTW Reputations.esm
-Tale of Bi Wastelands + TTW Reputations Patch.esm
-TTW New Vegas Speech Checks.esm
-TTW New Vegas Speech Checks - TTW Reputations Patch.esm
-Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
-3DNPCFO3Bundle.esm
+BiRepChecks.esm
+TTW - Capital Wasteland Adjustments.esm
+Repeatable Quests Rewards Rebalanced.esm
+Functional Post Game Ending Lite.esm
+Functional Post Game Ending Lite TTW Patch.esm
 3DNPCFNVBundle.esm
-Functional Post Game Ending.esm
-Functional Post Game Ending - TTW Patch.esm
+Lived-In New Vegas.esm
+Lived-In Strip.esm
+ExtraGoodies.esp
+Goodies.esp
+ExtraGoodies - TTW.esp
+Goodies - TTW.esp
+Mojave Scenery Overhaul.esm
+Mojave Scenery Overhaul - TTW.esm
 TGMIO.esm
-TLD_Travelers.esm
-Uncut Wasteland.esp
-Uncut Extra Collection.esp
-Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
+TGDLCIO.esm
+TGDCIO.esm
 AWorldOfPainFO3.esm
 A World of Pain Revised.esm
 Sweet Pain.esm
 Sweet Pain NV.esm
 MoreMojave.esm
+Mojave Scenery Overhaul - A World of Less Pain Patch.esm
+TLD_Travelers.esm
+Mojave Scenery Overhaul - TLD Patch.esm
 Faction Wasteland Presence.esm
-Mojave Raiders.esm
-Mojave Raiders - TTW Patch.esm
+Mojave Raiders Lite.esm
+Mojave Raiders Lite - TTW Patch.esm
 Mojave Wildlife (FO3-Style + No Chanced).esp
+Mojave Wildlife - TTW Patch.esm
 SD_Transporters.esp
 Home and Safehouse Tweaks.esm
 mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
 Tactapack.esp
-zl_Armaments_Remastered.esm
+ZL_Armaments_Remastered.esm
+zlArms3DNPCsPatch.esp
+TTW Dialogue and Interactions Expansion Overhaul.esp
+TLD_Travelers - TTW Patch.esm
+FNV_Optimization.esm
+FNV_Optimization YUPTTW.esm
+ATMOS Ambient Overhaul.esp
+TTW FaceGen Fix.esp
+TTW No PipBoy Glove Equipping or Race Changes.esp
+The Mod Configuration Menu.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 GasTrapPerformanceFix.esp
-TTW No PipBoy Glove Equipping or Race Changes.esp
-TTW FaceGen Fix.esp
-ExRB-TTW.esp
-The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
-PipBoyUITweaks.esp
 JustAssortedMods.esp
 JBTImproved.esp
 JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
-SimpleNightVision.esp
-FOVSlider.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
@@ -97,50 +109,38 @@ SD_Transporters spelling.esp
 Benny Humbles You and Steals Your Stuff.esp
 TLD LVLI Total Overhaul.esp
 SP TTW Patch.esp
-TGMIO_FPGE_Patch.esp
 TGMIO_TLD_Patch.esp
-MoreMojave - FPGE Patch.esp
-Mojave Raiders.esp
-Mojave Raiders - TTW Patch.esp
-MR - Uncut Patch.esp
-Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
+MoreMojave DSE- Mojave Scenery Patch.esp
 WeaponRequirementSystem.esp
-ImmersiveRecoil.esp
-IRNPC.esp
 Reload Reloaded.esp
 RAD.esp
-RAD-Fixed-TTW.esp
 Quickthrow.esp
 QuickthrowTweaks.esp
-TTWPerkOverhaul.esp
 Supplemental Ammo Crafting.esp
-TTW Dialogue and Interactions Expansion Overhaul.esp
-DIEO - Tale of Bi Wastelands Patch.esp
+TTWPerkOverhaul.esp
 DIEO - AWOPFO3 Patch.esp
-zlArms3DNPCsPatch.esp
 Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
-SMAC - Simple Melee Attack Cancelling and Parry.esp
+SMAC - Simple Melee Attack Cancel and Parry.esp
 Hitstop.esp
 Enhanced Movement.esp
-B42Inertia.esp
-NVMIM.esp
-Tactapack_-_TTW_Patch.esp
+WTH AMR Fix.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
-ATMOS Ambient Overhaul.esp
-ATMOS - ExRB Patch.esp
 ATMOS NV - TTW Patch.esp
-ATMOS NV + FPGE Patch.esp
+ATMOS Ambient Overhaul - DLC.esp
+ATMOS Ambient Overhaul - AWOP Revision.esp
 ATMOS Sound Overhaul - TTW.esp
 Atmospheric Lighting Tweaks TTW.esp
 ATMOS - Atmospheric Lighting Tweaks Patch.esp
-Natural Interior.esp
+Wasted LOD rocks.esp
+TTW Fallout 3 LOD.esp
+VNV LOD Plugins.esp
 DNWeathers.esp
 Interior Rain.esp
 Interior Rain - TTW.esp
