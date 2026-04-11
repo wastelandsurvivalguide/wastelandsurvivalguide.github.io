@@ -40,12 +40,21 @@ Large collection of restored content, consistency fixes, integrated content, and
   - Main File:
     - [x] Main File
   - Extra Goodies:
-    - [ ] Extra Goodies
+    - [x] Extra Goodies
   - Patches:
     - [ ] Better Brotherhood
-    - [ ] Functional Post-Game Ending
-    - [x] Mojave Scenery Overhaul
-    - [ ] Simple Character Expansions
+
+:::important
+Do **NOT** download the INI file from the *Main Files* section. You will install a custom INI in the next step alongside the TTW patch.
+:::
+
+### [Goodies Patches - TTW and More](https://www.nexusmods.com/newvegas/mods/91038)
+
+Patches for Qolore's Goodies mod to work with TTW and other mods.
+
+- Main File - Main - Goodies - TTW
+- Main File - Optional - Extra Goodies - TTW
+- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000170682&nmm=1)
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
@@ -60,22 +69,17 @@ Mojave Scenery Overhaul remakes and touches up areas that were lackluster and fo
   - Patch Selection:
     - [x] TLD Patch
     - [x] AWOLP Patch
-    - [ ] More Mojave Patch
+    - [ ] Revised Mojave Patch
+  - Custom Asset Addon:
+    - [ ] Custom Asset Addon
 
-### [Lived-In All-in-One](https://www.nexusmods.com/newvegas/mods/90682)
+### [Lived-In New Vegas](https://www.nexusmods.com/newvegas/mods/95255)
 
-This mod adds some subtle and realistic clutter around the major settlements and other locations across the Mojave.
+Cutting-edge location overhaul mod featuring dynamic navmesh generation, automatic patching, and full configurability.
 
 #### Installation:
 
-- Main File - Lived-In AIO
-  - Main File:
-    - [x] Main File
-  - Patches:
-    - [ ] Caravan Travel
-    - [x] Mojave Scenery Overhaul
-    - [x] The Living Desert
-    - [ ] Uncut Wasteland
+- Main File - Lived-In New Vegas
 
 ### [Lived-In Strip](https://www.nexusmods.com/newvegas/mods/91279)
 
@@ -84,28 +88,13 @@ Complete reimagining of The Strip and all its buildings to bring it much closer 
 #### Installation:
 
 - Main File - Lived-In Strip
-
-:::tip Note
-It is recommended that you skip Lived-In Strip if you plan to use the [SALVO](https://salamand3r.fail/salvo) guide after this.
-:::
-
-### [RuyN21's - TTW Patch Hub](https://www.nexusmods.com/newvegas/mods/91351)
-
-Contains patches for Goodies and Lived-In AIO / Strip.
-
-#### Installation:
-
-- Main File - RuyN21's - TTW Patch Hub
-  - Main Files:
-    - [ ] Strip Lights Region Fix - TTW
-    - [x] Goodies - TTW
-    - [ ] Goodies - SawyerBatty
-    - [ ] Goodies - TTW NPC Overhaul
-    - [ ] Goodies - SawyerBatty - TTW NPC Overhaul
-    - [x] Lived-In AIO - TTW
-    - [ ] SawyerBatty - True Open World DC
-    - [ ] TTW NPC Overhaul - SawyerBatty
-    - [ ] TTW NPC Overhaul - True Open World DC
+  - Main File:
+    - [x] Lived-In Strip
+    - [ ] Lived-In Casinos
+  - Patches:
+    - [ ] Essential Vanilla Enhancements Merged
+    - [ ] Functional Post-Game Ending
+    - [ ] Revised Mojave
 
 ### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 
@@ -121,10 +110,19 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
     - [ ] Gun Runner's Arsenal Displayed
     - [x] The Living Desert
     - [ ] Classic Adobe Buildings
+    - [ ] Windows of The Mojave
+
+### [The Great DLC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/96503)
+
+Overhauls many Mojave DLC locations to be more useful, cluttered, atmospheric, unique and if applicable,
+
+- Main File - The Great DLC Interior Overhaul
 
 ### [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412)
 
 Vanilla+ project that aims to overhaul many DC locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
+
+- Main File - The Great DC Interior Overhaul
 
 ### Sweet Pain DC
 
@@ -132,7 +130,7 @@ Adds many intense and unique locations, new items, companions, and quests to the
 
 #### Installation:
 
-- Main File - [A World of Pain for Fallout 3](https://www.nexusmods.com/newvegas/mods/66265)
+- Main File - [AWorldOfPainFO3](https://www.nexusmods.com/newvegas/mods/66265)
 - Main File - [Sweet Pain DC](https://www.nexusmods.com/newvegas/mods/78569)
 
 ### Sweet Pain NV
@@ -174,7 +172,6 @@ Increased raider spawns and compatible vanilla rebalance and diversification of 
 #### Installation:
 
 - Main File - Mojave Raiders Lite
-- Main File - [Mojave Raiders Lite - TTW Patch](https://www.nexusmods.com/newvegas/mods/78465)
 
 ### [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638)
 
@@ -183,7 +180,16 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 #### Installation:
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
-- Main File - [Mojave Wildlife - TTW Patch](https://www.nexusmods.com/newvegas/mods/78465)
+
+### [Trooper's TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
+
+A collection of compatibility patches for TTW and various mods.
+
+#### Installation:
+
+- Optional File - Mojave Raiders Lite - TTW Patch
+- Optional File - Mojave Wildlife - TTW Patch
+- Optional File - The Living Desert - TTW Patch
 
 ## Dialogue
 
@@ -193,8 +199,7 @@ Overhauls player dialogue and interactions (and also adds new ones!) to the game
 
 #### Installation:
 
-- Main File - TTW (D.I.E.O.) Dialogue and Interactions Expansion
-- Main File - [DIEO - Tale of Bi Wastelands Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122910&nmm=1)
+- Main File - TTW (D.I.E.O.) - BiReputation Checks Version
 - Main File - [DIEO - AWOPFO3 Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000122912&nmm=1)
 
 ## Weapons
@@ -213,7 +218,7 @@ A massive collection of weapons made by Millenia, featuring over 50 new weapons!
 
 #### Installation:
 - Main File - Another Millenia
-- Update File - update 2.6c
+- Update File - Update 2.7a
 - Optional File - Another Millenia - TTW Unique Placements
 
 ### [Another Millenia Gun Addon](https://www.nexusmods.com/newvegas/mods/77358)
@@ -222,7 +227,6 @@ An add-on for Another Millenia that adds many guns that did not make the origina
 
 #### Installation: 
 - Main File - Another Millenia Gun Add-on
-- Update File - Update 2.1d
 
 ### [Tactapack](https://www.nexusmods.com/newvegas/mods/80219)
 
@@ -230,6 +234,7 @@ A compilation of all the excellent weapons from TactaGhoul, cleaned up, rebalanc
 
 #### Installation:
 - Main File - Tactapack
+- Optional File - Improved AK-112 Mesh
 
 ### [ZL Armaments Remastered](https://www.nexusmods.com/newvegas/mods/84213)
 

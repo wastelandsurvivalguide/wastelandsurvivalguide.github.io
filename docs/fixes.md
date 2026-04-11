@@ -24,6 +24,18 @@ Another script extender plugin that adds new functions to the game.
 
 Updates zlib to the latest version for faster loading and less stutter.
 
+### [Cell Offset Generator - NVSE](https://www.nexusmods.com/newvegas/mods/92182)
+
+Removes cell loading stutter caused by unoptimized plugins.
+
+:::important
+On initial load, the game will **take longer to load** to generate offsets for each plugin. These will be placed in your **overwrite folder** on game exit. This is not a problem and they can either be dragged into the mod in the left pane or left as-is. Subsequent loads will be normal.
+:::
+
+### [Shader Loader - NVSE](https://www.nexusmods.com/newvegas/mods/87814)
+
+Allows loading shaders from loose files. Required for other mods within the guide.
+
 ### [Keywords](https://www.nexusmods.com/newvegas/mods/83088)
 
 Implements a framework to create and automatically load keywords in a simple user-friendly way, via use of INI config files.
@@ -69,6 +81,9 @@ Fixes acoustic spaces not changing with exterior regions.
 ### [Cell Offset Generator - NVSE](https://www.nexusmods.com/newvegas/mods/92182)
 
 Removes cell loading stutter caused by unoptimized plugins.
+### [Blood Decal Flashing Fix](https://www.nexusmods.com/newvegas/mods/87830)
+
+Fixes color overflow in blood decal shaders, which caused colorful flashes on certain GPUs or if using DXVK.
 
 ### [Depth of Field Fix](https://www.nexusmods.com/newvegas/mods/81200)
 
@@ -81,6 +96,21 @@ Fixes a bug that would cause certain particles to appear black.
 ### [Fallout Alpha Rendering Tweaks](https://www.nexusmods.com/newvegas/mods/80316)
 
 Fixes some alpha rendering issues like broken effects when using Transparency Multisampling.
+
+### [LOD Fixes and Improvements - NVSE](https://www.nexusmods.com/newvegas/mods/84171)
+
+#### Installation:
+
+- Main File - LOD Fixes and Improvements - NVSE
+- Main File - LOD Fixes and Improvements - INI
+
+### [LOD Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91705)
+
+Fixes flickering objects caused by lack of depth buffer precision.
+
+### [Depth Resolve - NVSE](https://www.nexusmods.com/newvegas/mods/93991)
+
+Improves performance when Depth of Field is used by resolving the depth buffer instead of rendering a new "fake" one. Also provides a crucial requirement for other effects.
 
 ### [Muzzle Flash Light Fix](https://www.nexusmods.com/newvegas/mods/81201)
 
@@ -114,10 +144,6 @@ Fixes animation speed not updating correctly while in-game for weapon drawing, w
 
 - Main File - Equip and Movement Speed Fix - ESPless
 
-### [Tranquility Lane Pipboy Glove and Custom Race Fix](https://www.nexusmods.com/newvegas/mods/77018)
-
-Stops Tranquility Lane from de-aging you to a child, which breaks multiple race replacers and alternative Pip-Boy replacers.
-
 ### [Mostly Fixed FaceGen Tints (NV or TTW)](https://www.nexusmods.com/newvegas/mods/71577)
 
 Fixes vanilla FaceGen tints.
@@ -133,6 +159,16 @@ Fixes hundreds of clipping/floating/misaligned objects in the vanilla game that 
 #### Installation:
 
 - Main File - Placement Fixes TTW
+
+### [Gas Trap Performance Fix](https://www.nexusmods.com/newvegas/mods/88587)
+
+Fixes the script lag﻿ occurring in cells with numerous gas traps.
+
+#### Installation:
+- Main File - Gas Trap Performance Fix
+  - Main File:<br/>
+  <RadioButtonCheckedIcon fontSize="small" /> Plugin (Recommended)<br/>
+  <RadioButtonUncheckedIcon fontSize="small" /> Scriptrunner<br/>
 
 ### [Consistent Weapon Mod Descriptions](https://www.nexusmods.com/newvegas/mods/85957)
 

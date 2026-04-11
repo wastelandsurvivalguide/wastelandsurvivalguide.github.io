@@ -14,11 +14,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 ## Fixes
 
-[Freeside Neon Sign Fix](https://www.nexusmods.com/newvegas/mods/82647) - Fixes the flicker present on several Freeside neon signs.
-
 [Gauss Impact Fix - ESPless](https://www.nexusmods.com/newvegas/mods/69136) - Fixes the Gauss Rifle bug in VATS, correcting damage and explosion effects.
-
-[Gun Runners Kiosk Glass Fix](https://www.nexusmods.com/newvegas/mods/70293) - Fixes the glass texture in the Gun Runners' kiosk.
 
 [Laser Pistol 3rd Person Latch Animation Fix](https://www.nexusmods.com/newvegas/mods/80657) - Fixes a vanilla bug where the latch for the laser pistol would be out of position after reloading or clearing a jam.
 
@@ -29,10 +25,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [MZ Holding Cells Fog Clip Distance Fix](https://www.nexusmods.com/newvegas/mods/77022) - The fog clip distance for the holding cells in TTW's Mothership Zeta is low enough that it's clearly visible in the first area. This fixes it.
 
 [Ranger Combat Helmets Clipping Fix](https://www.nexusmods.com/newvegas/mods/82776) - Fixes the issue of character head clipping through ranger combat helmets.
-
-[TTW 32 Pistol Projectile Clipping Fix](https://www.nexusmods.com/newvegas/mods/75052) - Fixes a Fallout 3 bug where the .32 Pistol was using 7.62 Rifle Bullet Projectiles, causing the bullets to clip through the gun as they're fired.
-
-[TTW Combat Shotgun HQ Reload Sounds](https://www.nexusmods.com/newvegas/mods/75919) - Replaces the low-quality reload sounds of the Combat Shotgun in TTW with the original, higher quality versions.
 
 [Vanilla Animations Weapon Scale Fix](https://www.nexusmods.com/newvegas/mods/83245) - Prevents interactive animation mods used alongside vanilla weapon animations from causing the weapon to disappear.
 
@@ -51,8 +43,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds many perks inspired by Disco Elysium
 
 ### Quality of Life
-
-[Auto-Save Manager](https://www.nexusmods.com/newvegas/mods/67248) - Adds timed autosaves, save slots, and incremental/full save hotkeys.
 
 [Baka Skill Book Scanner](https://www.nexusmods.com/newvegas/mods/75828) - Dynamic quest markers that highlights nearby skill books, anywhere, anytime.
 
@@ -103,9 +93,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Skill Book Auto-Use](https://www.nexusmods.com/newvegas/mods/82674) - Automatically uses skill books upon pickup.
 
-[TTW Collectibles - Merged](https://www.nexusmods.com/newvegas/mods/75829) - An assortment of quests to help with the collection of all Bobbleheads, Steel Ingots, Keller Family Transcripts, Intel Briefcases, and Alien Captive Recorded Logs.
-- If experiencing crashes when picking up notes with this mod, this can be remedied by updating to the unreleased JIP file pinned in the WSG discord server.
-
 [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) and optionally [TTW - More Map Markers - No Download Map Markers](https://www.nexusmods.com/newvegas/mods/86655) - Adds a few more map markers to TTW
 
 [Unmissable Casino Rewards](https://www.nexusmods.com/newvegas/mods/83485) - Prevents you from bypassing reward tiers in casinos.
@@ -118,6 +105,8 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 [Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Feastures many returning favorites from Fallout games past and present. Includes custom animations.
 - Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
 - May make chems too plentiful if playing without loot scarcity mods.
+
+[Animated Location Discovery](https://www.nexusmods.com/newvegas/mods/94822) - Dynamic animated location discovery markers to your pip boy whenever you discover a new location for the first time
 
 [Immersive Fast Travel Encounters](https://www.nexusmods.com/newvegas/mods/73879) - A user configurable overhaul of the fast travel system that implements D&D styled random encounters when the player fast travels.
 
@@ -185,6 +174,11 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 All of the mods in this section require LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 :::
 
+[Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339) - Wonderful landscape overhaul for the Capital Wasteland
+
+[Capital Landscape Additions (TTW)](https://www.nexusmods.com/newvegas/mods/91506) -  improve the visuals of the Capital Wasteland by adding new set dressing and doing some landscape improvements in various locations across the entire worldspace
+- Unrelated to [Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339)
+
 [Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
@@ -193,11 +187,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Believable Grub n’ Gulp](https://www.nexusmods.com/newvegas/mods/73974) - Overhauls Grub n’ Gulp.
 
-[Canterbury Commons Redesigned](https://www.nexusmods.com/newvegas/mods/85293) - Overhauls Canterbury Commons.
-
 [Cottonwood Cove Slave Market](https://www.nexusmods.com/newvegas/mods/74495) - Adds a slave market at Cottonwood Cove to support in-game lore.
-
-[Detailed New Vegas Suburban Overhaul - Westside](https://www.nexusmods.com/newvegas/mods/84318) - Merges two mods ([Detailed New Vegas - Westside](https://www.nexusmods.com/newvegas/mods/77383) and [New Vegas Suburban Overhaul](https://www.nexusmods.com/newvegas/mods/80526)) to overhaul Westside.
 
 [Freeside Facelift Lite](https://www.nexusmods.com/newvegas/mods/72411) - Overhauls Freeside.
 
@@ -210,10 +200,9 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Irradiated Lonesome Road](https://www.nexusmods.com/newvegas/mods/74599) - Irradiates the entirety of Lonesome Road to increase difficulty and highlight the desolation of the divide.
 
-[Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights.
-- Combines nicely with [Animated Spotlights for Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/85553).
+[Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273) - Overhauls the Lucky 38's lights. (Do not use if you intend to use the SALVO guide.)
 
-[Meresti Metro Redesign TTW](https://www.nexusmods.com/newvegas/mods/83799) - Overhauls the Meresti Metro.
+[Capital Wasteland Settlements Redesign TTW](https://www.nexusmods.com/newvegas/mods/88394) - Overhauls Arefu, Meresti Metro, & Northwest Seneca Station, Canterbury Commons and Underworld Redesign
 
 [Shanty Arefu](https://www.nexusmods.com/newvegas/mods/83904) - Overhauls Arefu.
 
@@ -256,6 +245,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101) - Removes ghouls "roar" animation that plays before they attack, meaning they now charge the player instantly - making them much deadlier.
 
+[Bloody Crazied Handies - TTW](https://www.nexusmods.com/newvegas/mods/85455) - Replaces crazed Handies with a bloody variant. 
 
 ### Quests
 
@@ -267,25 +257,18 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Embark on an adventure south to the town of Lake Havasu City and its surroundings! With over 60 voiced characters, dozens of new locations to explore and a bunch of quests to solve.
 - Use alongside [Havasu Blues Bugfixes](https://www.nexusmods.com/newvegas/mods/86083) - Fixes navmesh errors, script errors, incorrect dialogue conditions and oversights in Havasu Blues.
 
-[The Someguy Series](https://www.nexusmods.com/newvegas/mods/48925) - The master file required for all of Someguy2000's quest mods.
-- [New Vegas Bounties I LE](https://www.nexusmods.com/newvegas/mods/77108) - Pursue high-risk/high-reward bounties in the first installment of the The Someguy Series.
-  - [Sweet Style Bounties](https://www.nexusmods.com/newvegas/mods/79556) - A balance and encounter overhaul for New Vegas Bounties 1 LE.
-  - [New Vegas Bounties I LE - kNVSE Sets](https://www.nexusmods.com/newvegas/mods/80789) - Adds kNVSE animations to the other guns in NVBILE.
-- [New Vegas Killer LE](https://www.nexusmods.com/newvegas/mods/78427) - Work for Bobby Bass as a contract killer in this fully-voiced quest mod! Tiddies and biscuits.
-
 
 ## Visuals & Audio
 
 ### Visual Improvements
-[Armed To The Teeth - Redux](https://www.nexusmods.com/newvegas/mods/74936) - Allows you to holster up to 4 weapons on your body at once.
+
+[Vanilla Plus AO](https://www.nexusmods.com/newvegas/mods/94824) - Adds Ambient Occlusion to the game!
 
 [Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
 - Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
 
 [Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
 - Texture replacers for the underground metro maps, making them more useful for navigation.
-
-[TTW - Megaton Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/79642) - Overhauls the lighting for Megaton.
 
 [Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) - A complete overhaul and restyle of power armor to provide a more classic, heavy, and imposing experience.
 - See [Webb’s Patch Emporium](https://www.nexusmods.com/newvegas/mods/74174) for the most readily available TOTNW patches.
@@ -324,6 +307,8 @@ The following are designed to be placed in the following load order if using the
 
 ### Animations
 [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Replacers for stagger and crippled animations.
+
+[Dog Sneak Animations](https://www.nexusmods.com/newvegas/mods/96002) - Add Sneak Animations for Rex, Dogmeat and other dog companions so they can sneak with the player
 
 [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=description) - Improves the animations associated with all ragdoll physics.
 - The following are designed to be placed in the following load order.

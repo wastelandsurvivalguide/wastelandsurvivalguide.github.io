@@ -88,7 +88,7 @@ This update sees a lot of removals from the previous iteration as well as reorga
 
 ## Changelog - Ghost Page
 
-Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! <3 :) - Kamchatka
+Another SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! With this update I hope to significantly modernize the options available in the guide, clarify the intent of each section, and appropriately notate when mods are either vanilla plus, not vanilla plus, or hardcore. For those updating from older iterations of the guide, this **IS NOT** save safe. As always, I'm open to feedback and expecting a fair amount of troubleshooting! &lt;3 :) - Kamchatka
 
 ### 13/05/2024
 
@@ -181,7 +181,7 @@ Another SIGNIFICANT reorganization of the overall layout of the guide, as well a
 
 ## Changelog - Atom Bomb
 
-A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. <3 - Kamchatka
+A SIGNIFICANT reorganization of the overall layout of the guide, as well as many must have (at least, in my opinion) additions! The goal of this update is specifically clarify deviations from the vanilla experience, and to make it clear that these mods are optional. &lt;3 - Kamchatka
 
 ### 05/05/2024
 
@@ -293,7 +293,7 @@ A SIGNIFICANT reorganization of the overall layout of the guide, as well as many
 
 ## Changelog - Cleanup Crew
 
-Just fixing some things I broke in the last update! Appreciate the reports <3. - Kamchatka
+Just fixing some things I broke in the last update! Appreciate the reports &lt;3. - Kamchatka
 
 ### 2/05/2024
 
@@ -307,7 +307,7 @@ Just fixing some things I broke in the last update! Appreciate the reports <3. -
 
 ## Changelog - Hostile Takeover
 
-The fools in the WSG team gave me the keys to the kingdom! If things are broken, grab your pitchforks and find me. I hope this will be a really cool update. <3 - Kamchatka
+The fools in the WSG team gave me the keys to the kingdom! If things are broken, grab your pitchforks and find me. I hope this will be a really cool update. &lt;3 - Kamchatka
 
 ### 30/04/2024
 

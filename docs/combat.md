@@ -64,10 +64,10 @@ Gives melee power and auto attacks an optional cost in Action Points, allows for
 
 Blocking interrupts your melee/unarmed attacks for quick and responsive defense!
 
-### [Melee Hitstop Effects](https://www.nexusmods.com/newvegas/mods/75981)
+<!-- ### [Melee Hitstop Effects](https://www.nexusmods.com/newvegas/mods/75981)
 
 Adds hitstop to melee weapons by slowing down gametime to 0.1 for a few frames, then restoring it. Greatly improves the flow of combat.
-
+-->
 ## Grenades
 
 ### [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686)
@@ -96,6 +96,4 @@ Adds a simple animation command line to each grunt when hit. Greatly enhances th
 
 #### Installation:
 
-- Main File - Simple Attack Reactions - TTW
-- Update File - (A) SAR Settings - DT
-- Update File - (B) SAR Settings - DT - Player
+- Main File - Simple Attack Reactions -  TTW - AIO

@@ -32,13 +32,7 @@ Overhauls all aspects of radiation, making it far more consequential.
 #### Installation:
 
 - Main File - RAD - Overhaul
-- Main File - [RAD - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077)
-  - Main:<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> New Vegas Ultimate Edition<br/>
-    <RadioButtonUncheckedIcon fontSize="small" /> New Vegas Ultimate Edition + YUP<br/>
-    <RadioButtonCheckedIcon fontSize="small" /> Tale of Two Wastelands<br/>
-  - Optional:
-    - [ ] Better Stealth Suit Mk II
+- Main File - [RAD - Overhaul Fixed Plugin for TTW](https://www.nexusmods.com/newvegas/mods/96264?tab=files&file_id=1000168906&nmm=1)
 
 ### [Harder Barter Faster Stronger](https://www.nexusmods.com/newvegas/mods/80360)
 
@@ -52,6 +46,14 @@ Makes the economy harsher for characters with low barter, makes barter affect pr
 
 A completely reworked perk system to emphasize and encourage specialization and improve gameplay balance.
 
+:::important
+This mod changes the effect of the Speech bobblehead perk. In TTW, the perk allows you to ignore the karma requirements for hiring companions. If you'd like to keep the standard TTW behavior, consider skipping this mod.
+:::
+
 #### Installation:
 
-- Main File - TTW Perk Overhaul - Remastered
+- Main File - [TTW Perk and Consumables Overhaul - BiRepChecks](https://www.nexusmods.com/newvegas/mods/96508?tab=files&file_id=1000170882&nmm=1)
+- Optional File - TTW Perk Overhaul - Another Millenia Patch
+- Optional File - TTW Perk Overhaul - Another Millenia Add-on Patch
+- Optional File - TTW Perk Overhaul - Tactapack Patch
+- Optional File - TTW Perk Overhaul - ZL Armaments Remastered Patch

@@ -11,7 +11,9 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Aesthetics & Ambience **.
 
 :::tip Why the small selection of texture, lighting, animation, and audio mods?
-Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [SALVO](https://salamand3r.fail/salvo). Support for SALVO is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
+Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [SALVO 2](https://www.nexusmods.com/newvegas/mods/95649). Support for SALVO 2 is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
+
+Skip Simply Upscaled Grass, and Contrasted LOD Noise Texture If using SALVO 2
 :::
 
 ## Visual Improvements
@@ -63,6 +65,25 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 - Adjust the sights position by holding left shift and moving the mouse.
 - Press enter to save your iron sight alterations.
 :::
+
+### [Assorted UI Textures](https://www.nexusmods.com/newvegas/mods/88478)
+
+- Main File - Assorted UI Textures
+  - Vanilla:
+    - [x] Clean Textures
+  - Texture Options
+    - [ ] Compress Textures
+  - Mod Support
+    - [ ] B42 Bows
+    - [x] B42 FireMode
+    - [ ] B42 Optics
+    - [x] B42 Quickthrow
+    - [x] ISControl Enabler
+    - [x] IStewieAI's Tweaks
+    - [x] MAPMO
+  - MAPMO UI Tweaks
+    - [ ] B42 Descriptions
+    - [ ] B42 Inspect
 
 ### [Weapon Based Hands Clip Distance](https://www.nexusmods.com/newvegas/mods/82093)
 
@@ -135,7 +156,6 @@ Reanimates many more weapons in Another Millenia and its Gun Addon.
 #### Installation:
 
 - Main File - Hit - Millenia Animations - Part 2
-- Update File - [Hit Millenia Season 2 LAUG Patch](https://www.nexusmods.com/newvegas/mods/76133)
 
 ### [Enhanced Locomotion](https://www.nexusmods.com/newvegas/mods/88446)
 
@@ -164,15 +184,9 @@ Comprehensively aligns iron sights across mods that alter or add animations and 
     - [ ] EliV3's ETJ kNVSE Animations
   - Weapon Replacers:
     - [ ] WAP Weapon Replacers
+    - [ ] Gun and Friends
+    - [ ] Energy and Associates
     - [ ] Laser Weapon Iron Sights
-    - [ ] 10mm Pistol and Friends
-    - [ ] 10mm SMG and Friends
-    - [ ] C.A.R and OUR Friends
-    - [ ] Combat Shotgun and Friends
-    - [ ] DKS and Friends
-    - [ ] Double Barrel Shotgun and Friends
-    - [ ] Lever Action Rifle and Friends
-    - [ ] R91 and Friends
   - Additional Patches:
     - [ ] Yukichigai's Unofficial Patch
     - [ ] Hitman's Anims No Burst Fire
@@ -247,6 +261,20 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
 
 A selection of kNVSE related bug fixes, covering issues that commonly occur when using kNVSE animation mods.
 
+### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
+
+Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.
+
+#### Installation:
+
+- Optional File - NVCS Vanilla Weights
+
+:::note
+This mod **MUST** load after any other skeleton containing mods, which should already be true if following the guide.
+:::
+
+## Weapons
+
 ### [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701)
 
 Configurable tweaks when aiming with a scope such as blur and fade in from black.
@@ -305,20 +333,6 @@ A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignm
   - Finished:
     - [x] Oh ye. We did it. Finished.
 
-### [Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
-
-Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.
-
-#### Installation:
-
-- Optional File - NVCS Vanilla Weights
-
-:::note
-This mod **MUST** load after any other skeleton containing mods, which should already be true if following the guide.
-:::
-
-## Weapons
-
 ### [aWRP - Another Weapon Retexture Project](https://www.nexusmods.com/newvegas/mods/82558)
 
 Millenia's Weapon Retexture Project, configured as scriptrunner-based model replacers.
@@ -326,9 +340,24 @@ Millenia's Weapon Retexture Project, configured as scriptrunner-based model repl
 #### Installation:
 
 - Main File - aWRP - Resource
-- Main File - aWRP - Scripts (TTW)
-- Update File - aWRP - Resource Hotfix
 - Main File - [aWRP - NVAO-Guns Patch](https://www.nexusmods.com/newvegas/mods/88567)
+
+### [WTH - Weapon Textures from Heaven](https://www.nexusmods.com/newvegas/mods/69837)
+
+#### Installation:
+
+- Main File - WTH - Weapon Textures from Heaven 2k
+- Optional File - TTW's Hunting Rifle and .32 Rifle Textures
+- Optional File - WTH - AMR Suppressor Fix
+- Main File - [WTH - AMR for TTW](https://www.nexusmods.com/newvegas/mods/96125?tab=files&file_id=1000168138&nmm=1)
+
+### [Weapon Textures from Heaven - aWRP Patch](https://www.nexusmods.com/newvegas/mods/93494)
+
+- Main File - aWRP - Scripts (TTW)
+
+### [Weapon Retexture from EVE](https://www.nexusmods.com/newvegas/mods/76606)
+
+Textures Taken From EVE, Fixes some missing textures for modifications.
 
 ### [Kyu's Ballistics - Fixed](https://www.nexusmods.com/newvegas/mods/84939)
 
@@ -356,8 +385,9 @@ Modernized ambient soundscape with an object based directional sound system. Est
 #### Installation:
 
 - Main File - ATMOS Ambience Overhaul - Master - Hi-Fi
+- Main File - ATMOS DLC Overhaul Part I
+- Optional File - ATMOS Ambience Overhaul - AWOP Revision
 - Main File - [ATMOS NV - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130990&nmm=1)
-- Main File - [ATMOS - ExRB Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137728&nmm=1)
 
 ### [Restored Physics Sounds](https://www.nexusmods.com/newvegas/mods/90895)
 
@@ -388,13 +418,22 @@ A full replacement of all ballistic, explosive and energy weapon sounds.
 
 ## Lighting
 
-### [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833)
+### [Vanilla Plus Terrain](https://www.nexusmods.com/newvegas/mods/92519)
 
-xNVSE plugin that almost completely fixes the exterior lighting bug, and allows up to 4x the number of active lights!
+Improves terrain shading by adding specular lighting, per-pixel fog, and ups the pointlight limit from 3 (or 13 with ILS) to 24.
 
 #### Installation:
 
-- Main File - Improved Lighting Shaders
+- Main File - Vanilla Plus Terrain
+
+### [Vanilla Plus Tonemapper](https://www.nexusmods.com/newvegas/mods/91500)
+
+Vanilla+ Tonemapper is a lightweight mod that fixes the vanilla tonemapping. It gets rids of the worst cases of white blown outs, while keeping true to the vanilla aesthetic.
+
+#### Installation:
+
+- Main File - Vanilla Plus Tonemapper
+- Optional File - Vanilla Plus Tonemapper - Sky Brightness Tweak
 
 ### [Atmospheric Lighting Tweaks - TTW](https://www.nexusmods.com/newvegas/mods/79378)
 
