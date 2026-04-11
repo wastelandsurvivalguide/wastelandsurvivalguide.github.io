@@ -133,6 +133,8 @@ WTH AMR Fix.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
+TGMIO_FPGE_Patch.esp
+ATMOS Ambient Overhaul.esp
 ATMOS NV - TTW Patch.esp
 ATMOS Ambient Overhaul - DLC.esp
 ATMOS Ambient Overhaul - AWOP Revision.esp
