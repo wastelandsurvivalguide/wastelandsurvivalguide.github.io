@@ -54,10 +54,6 @@ The installation process is similar to the TTW installation. FO3 GOTY **must** b
 
 ITEM is a general bug fixing mod for dozens of item models across the base game and DLCs.
 
-### [Vent Lighting Fix](https://www.nexusmods.com/newvegas/mods/83051)
-
-Adds a shader flag to vent meshes that fixes flickering and lighting issues.
-
 ### [Performance Of The Titans](https://www.nexusmods.com/newvegas/mods/89069)
 
 Mod that improves game performance and stability by removing unnecessary and hidden geometry for major areas of the New Vegas worldspace and its DLCs.
