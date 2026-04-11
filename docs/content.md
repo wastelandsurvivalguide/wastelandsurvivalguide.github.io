@@ -181,55 +181,12 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 
 - Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
 
-### [Trooper's TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
+### [Trooper's Patch Page](https://www.nexusmods.com/newvegas/mods/78465)
 
 A collection of compatibility patches for TTW and various mods.
 
 #### Installation:
 
-- Main File - [A Very Uncreative Collection of TTW Patches](https://www.nexusmods.com/newvegas/mods/78465)
-  - Patch Selection: 
-    - Plugins:
-      - [ ] Afterschool Special
-      - [ ] Autumn Leaves
-      - [ ] Casino Crowds
-      - [ ] Fucking Scary Fiends
-      - [ ] Mojave NPCs
-      - [ ] The New Bison Steve
-      - [ ] Primm Reputation Restored Revised
-      - [ ] Willow - A Better Companion Experience
-    - Mojave Raiders:
-      - [x] Mojave Raiders ESM
-      - [x] Mojave Raiders ESP
-    - Mojave Wildlife:
-      - [x] Mojave Wildlife (FO3-Style + No Chanced)
-      - [ ] Mojave Wildlife (FO3-Style)
-      - [ ] Mojave Wildlife (Vanilla-Style + No Chanced)
-      - [ ] Mojave Wildlife (Vanilla-Style)
-      - [ ] None
-
-:::important Instructions:
-If you only installed one of Mojave Raiders or Mojave Wildlife, select only the patches corresponding to that mod.
-:::
-
-### [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
-
-An ambitious project that aims to overhaul many New Vegas miscellaneous locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
-
-#### Installation:
-
-- Main File - The Great Mojave Interior Overhaul
-- Optional Files - [FPGE - Functional Post Game Ending - Patch](https://www.nexusmods.com/newvegas/mods/72933)
-
-## New Quests
-
-### [TTW A Trail of Crumbs](https://www.nexusmods.com/newvegas/mods/66267)
-
-Adds a quest that takes you to 10 different locations across the Capital Wasteland in search of treasure.
-
-### [TTW The Regulators](https://www.nexusmods.com/newvegas/mods/66266)
-
-Allows you to take on various missions from the Regulators HQ to hunt down fugitives.
 - Optional File - Mojave Raiders Lite - TTW Patch
 - Optional File - Mojave Wildlife - TTW Patch
 - Optional File - The Living Desert - TTW Patch

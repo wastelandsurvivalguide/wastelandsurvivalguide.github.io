@@ -19,10 +19,6 @@ Wasteland Survival Guide is a **modding guide** for Tale of Two Wastelands and n
 
 The guide assumes you are already familiar with the skills you learned during [**The Best of Times**](https://thebestoftimes.moddinglinked.com/), such as how to install mods with Mod Organizer 2. When in doubt, please reference that guide.
 
-## Discord
-
-All support you may need, and feedback and suggestions you may have, can be posted at our Discord, [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC)!
-
 ## Installing Mods
 
 The majority of mods have no special installation instructions. This means that you simply click the **Mod Manager Download** button for the latest **Main File** for the given mod, then double-click it in the **Downloads** tab of MO2's right pane to install. If a mod _does_ have special instructions, they will be clearly indicated in the guide.

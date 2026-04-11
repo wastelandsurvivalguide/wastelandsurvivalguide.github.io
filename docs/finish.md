@@ -123,7 +123,6 @@ Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
-GRA Scavenger Hunt Unbalanced TTW.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
 SMAC - Simple Melee Attack Cancel and Parry.esp
@@ -133,8 +132,6 @@ WTH AMR Fix.esp
 Kyu_Ballistics_TTW.esp
 BulletTrails.esp
 AWSOMER.esp
-TGMIO_FPGE_Patch.esp
-ATMOS Ambient Overhaul.esp
 ATMOS NV - TTW Patch.esp
 ATMOS Ambient Overhaul - DLC.esp
 ATMOS Ambient Overhaul - AWOP Revision.esp
