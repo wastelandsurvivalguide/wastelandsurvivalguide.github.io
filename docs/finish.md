@@ -2,6 +2,8 @@
 
 ---
 
+## Load Order
+
 This section ensures that your load order is correct for the guide by overwriting
 MO2's `loadorder.txt` file. It's fine if you skipped any number of mods in the guide;
 this process will still work.
@@ -33,61 +35,68 @@ MercenaryPack.esm
 TribalPack.esm
 TaleOfTwoWastelands.esm
 YUPTTW.esm
+Mr House Final Battle Hotfix.esm
+Restored Physics Sounds.esm
+Placement Fixes.esm
+PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
-TTW Ultimate Invisible Wall Remover.esm
 FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
-TweaksTTW.esm
-Tale of Bi Wastelands.esm
-TTW Reputations.esm
-Tale of Bi Wastelands + TTW Reputations Patch.esm
-TTW New Vegas Speech Checks.esm
-TTW New Vegas Speech Checks - TTW Reputations Patch.esm
-Tale of Bi Wastelands + TTW NV Speech Checks Patch.esm
-TGMIO.esm
-3DNPCFO3Bundle.esm
+BiRepChecks.esm
+TTW - Capital Wasteland Adjustments.esm
+Repeatable Quests Rewards Rebalanced.esm
+Functional Post Game Ending Lite.esm
+Functional Post Game Ending Lite TTW Patch.esm
 3DNPCFNVBundle.esm
-Functional Post Game Ending.esm
-Functional Post Game Ending - TTW Patch.esm
-TLD_Travelers.esm
-A Trail of Crumbs.esm
-Regulators.esm
-Uncut Wasteland.esp
-Uncut Extra Collection.esp
-Functional Post Game Ending - Uncut Wasteland And Extra Collection Patch.esm
+Lived-In New Vegas.esm
+Lived-In Strip.esm
+ExtraGoodies.esp
+Goodies.esp
+ExtraGoodies - TTW.esp
+Goodies - TTW.esp
+Mojave Scenery Overhaul.esm
+Mojave Scenery Overhaul - TTW.esm
+TGMIO.esm
+TGDLCIO.esm
+TGDCIO.esm
 AWorldOfPainFO3.esm
 A World of Pain Revised.esm
 Sweet Pain.esm
 Sweet Pain NV.esm
 MoreMojave.esm
+Mojave Scenery Overhaul - A World of Less Pain Patch.esm
+TLD_Travelers.esm
+Mojave Scenery Overhaul - TLD Patch.esm
 Faction Wasteland Presence.esm
-Mojave Raiders.esm
-Mojave Raiders - TTW Patch.esm
+Mojave Raiders Lite.esm
+Mojave Raiders Lite - TTW Patch.esm
 Mojave Wildlife (FO3-Style + No Chanced).esp
+Mojave Wildlife - TTW Patch.esm
 SD_Transporters.esp
 Home and Safehouse Tweaks.esm
-Home and Safehouse Tweaks - TTW Addon.esm
 mil.esp
 mil-TTWPlacements.esp
 mil_Add-On.esp
-zl_Armaments_Remastered.esm
 Tactapack.esp
+ZL_Armaments_Remastered.esm
+zlArms3DNPCsPatch.esp
+TTW Dialogue and Interactions Expansion Overhaul.esp
+TLD_Travelers - TTW Patch.esm
+FNV_Optimization.esm
+FNV_Optimization YUPTTW.esm
+ATMOS Ambient Overhaul.esp
+TTW FaceGen Fix.esp
+TTW No PipBoy Glove Equipping or Race Changes.esp
+The Mod Configuration Menu.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
-TTW No PipBoy Glove Equipping or Race Changes.esp
-TTW FaceGen Fix.esp
-ExRB-TTW.esp
-The Mod Configuration Menu.esp
+GasTrapPerformanceFix.esp
 Vanilla UI Plus.esp
-Power Armor Holo Panel.esp
-PipBoyUITweaks.esp
 JustAssortedMods.esp
 JBTImproved.esp
 JIP Companions Command & Control.esp
 Stash Organizer.esp
 QuickSelect.esp
-SimpleNightVision.esp
-FOVSlider.esp
 TTW Quick Start.esp
 TTW Quick Start Item Remover.esp
 Wasteland Starting Gear DC.esp
@@ -100,59 +109,39 @@ SD_Transporters spelling.esp
 Benny Humbles You and Steals Your Stuff.esp
 TLD LVLI Total Overhaul.esp
 SP TTW Patch.esp
-MoreMojave - FPGE Patch.esp
-Mojave Raiders.esp
-Mojave Raiders - TTW Patch.esp
-MR - Uncut Patch.esp
-Mojave Wildlife (FO3-Style + No Chanced) - TTW Patch.esp
+TGMIO_TLD_Patch.esp
+MoreMojave DSE- Mojave Scenery Patch.esp
 WeaponRequirementSystem.esp
-ImmersiveRecoil.esp
-IRNPC.esp
 Reload Reloaded.esp
-MigCrippled.esp
 RAD.esp
-RAD-Fixed-TTW.esp
 Quickthrow.esp
 QuickthrowTweaks.esp
 Supplemental Ammo Crafting.esp
-TTW Dialogue and Interactions Expansion Overhaul.esp
-DIEO - Tale of Bi Wastelands Patch.esp
+TTWPerkOverhaul.esp
 DIEO - AWOPFO3 Patch.esp
-zlArms3DNPCsPatch.esp
 Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
-Famine - TTW Exceptions.esp
-New Blood.esp
-S6S Base Game Perks Redux.esp
-S6S Base Game Perks Redux TTW Side.esp
-S6S Base Perks Redux No Big Guns Patch TTW.esp
-S6S Perks.esp
-Friends With Benefits Perk Pack.esp
-New Blood TTW Patch.esp
-Sweet Consumables.esp
-Aid Addon.esp
-Healing Systems.esp
-Player Combat Priority.esp
-PCP Reduced Chance To Attack Doggo Patch.esp
-TheAIMerge.esp
 GRA Scavenger Hunt Unbalanced.esp
-GUWR - TTW Patch.esp
+GRA Scavenger Hunt Unbalanced TTW.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
+SMAC - Simple Melee Attack Cancel and Parry.esp
 Hitstop.esp
 Enhanced Movement.esp
-B42Inertia.esp
-NVMIM.esp
-Impostors and LOD Flicker Fix.esp
-Tactapack_-_TTW_Patch.esp
+WTH AMR Fix.esp
+Kyu_Ballistics_TTW.esp
+BulletTrails.esp
 AWSOMER.esp
-ATMOS Ambient Overhaul.esp
 ATMOS NV - TTW Patch.esp
-ATMOS NV + FPGE Patch.esp
+ATMOS Ambient Overhaul - DLC.esp
+ATMOS Ambient Overhaul - AWOP Revision.esp
 ATMOS Sound Overhaul - TTW.esp
 Atmospheric Lighting Tweaks TTW.esp
-Natural Interior.esp
+ATMOS - Atmospheric Lighting Tweaks Patch.esp
+Wasted LOD rocks.esp
+TTW Fallout 3 LOD.esp
+VNV LOD Plugins.esp
 DNWeathers.esp
 Interior Rain.esp
 Interior Rain - TTW.esp
@@ -172,4 +161,4 @@ Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. Fo
 
 # Additional Mods
 
-Check out our [Additions](https://wastelandsurvivalguide.com/docs/additions) page for mods approved and recommended by our team that did not make it into the guide for one reason or another. Unfortunately, we do not have the time or energy to provide support for setups that install extra mods on top of the guide. We cannot stress enough that it is only recommended to add your own mods if you are an experienced modder and know how to manually make conflict resolution patches and sort your load order! If you don't know [how to do that](https://moddinglinked.com/themethod.html) in [xEdit](https://moddinglinked.com/xedit.html), or you are unwilling to spend the time to do so, it is not recommended to add your own mods. You can't just throw a bunch of mods on top of the guide without doing any conflict resolution, or use automated tools like LOOT as a substitute for proper conflict resolution, and expect your game to function as intended. Once again, **we will not support setups that have added any mods**.
+Check out our [Additions](additions) page for mods approved and recommended by our team that did not make it into the guide for one reason or another. Unfortunately, we do not have the time or energy to provide support for setups that install extra mods on top of the guide. We cannot stress enough that it is only recommended to add your own mods if you are an experienced modder and know how to manually make conflict resolution patches and sort your load order! If you don't know [how to do that](https://moddinglinked.com/themethod.html) in [xEdit](https://moddinglinked.com/xedit.html), or you are unwilling to spend the time to do so, it is not recommended to add your own mods. You can't just throw a bunch of mods on top of the guide without doing any conflict resolution, or use automated tools like LOOT as a substitute for proper conflict resolution, and expect your game to function as intended. Once again, **we will not support setups that have added any mods**.
