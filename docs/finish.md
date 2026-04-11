@@ -123,6 +123,7 @@ Famine.esp
 Famine - Flora.esp
 Famine - Flora TTW.esp
 GRA Scavenger Hunt Unbalanced.esp
+GRA Scavenger Hunt Unbalanced TTW.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
 SMAC - Simple Melee Attack Cancel and Parry.esp
