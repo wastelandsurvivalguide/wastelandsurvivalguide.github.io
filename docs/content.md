@@ -245,3 +245,5 @@ You can enable lore friendly names in the mod's INI file.
 :::
 
 ### [ZL Armaments Remastered And FNV 3DNPC Bundle Updated Patch](https://www.nexusmods.com/newvegas/mods/87064)
+
+This mod moves the Westside diner introduced in 3DNPCSNV to another location just across the street because ZL shop also occupies the same location.
