@@ -21,6 +21,10 @@ Implements customizable Strength and Skill requirements for weapons, making them
 - Main File - Weapon Requirements System
 - Main File - [Weapon Requirements System - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000131852&nmm=1)
 
+### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266)
+
+Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Highly customizable.
+
 ### [B42 FireMode - Selective Fire and First Shot Precision - ESPless](https://www.nexusmods.com/newvegas/mods/82576)
 
 Adds selective fire to various weapons and introduces first shot accuracy mechanic.
@@ -29,17 +33,9 @@ Adds selective fire to various weapons and introduces first shot accuracy mechan
 
 - Main File - B42 FireMode
 
-### [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973)
+### [B42 Recoil - ESPless](https://www.nexusmods.com/newvegas/mods/90536)
 
-Adds working recoil to the wasteland. 
-
-### [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971)
-
-Adds a recoil-like mechanic for all NPCs by tracking the number of shots made by each NPC and briefly stopping them from shooting if they exceed a certain number of shots within too short a time frame.
-
-### [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266)
-
-Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers. Highly customizable.
+Adds smooth and extremely customizable visual and camera recoil to firearms.
 
 ### [B42 True Leaning](https://www.nexusmods.com/newvegas/mods/81872)
 
@@ -49,9 +45,14 @@ Adds contextual leaning around corners.
 - Main File - [B42 True Leaning - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130112&nmm=1)
   - A custom INI for B42 True Leaning that intentionally disables lean hotkeys in favor of the contextual lean feature.
 
-### [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
+### [Accuracy Manager (NVSE)](https://www.nexusmods.com/newvegas/mods/88215)
 
-This small scriptrunner standardizes all of the player's body part damage multipliers so the AI doesn't always aim for the head.
+Accuracy Manager is a simple mod that lets you modify NPC combat accuracy.
+
+#### Installation:
+
+- Main File - Accuracy Manager (NVSE)
+- Main File - [Sweet Accuracy Preset](https://www.nexusmods.com/newvegas/mods/89324)
 
 ## Melee
 
@@ -63,10 +64,10 @@ Gives melee power and auto attacks an optional cost in Action Points, allows for
 
 Blocking interrupts your melee/unarmed attacks for quick and responsive defense!
 
-### [Melee Hitstop Effects](https://www.nexusmods.com/newvegas/mods/75981)
+<!-- ### [Melee Hitstop Effects](https://www.nexusmods.com/newvegas/mods/75981)
 
 Adds hitstop to melee weapons by slowing down gametime to 0.1 for a few frames, then restoring it. Greatly improves the flow of combat.
-
+-->
 ## Grenades
 
 ### [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686)
@@ -76,7 +77,7 @@ Adds brand new, modern throwing weapons mechanics, as seen in Metro, COD, Fallou
 #### Installation:
 
 - Main File - B42 Quickthrow
-- Main File - [B42 Quickthrow Tweaks - Give Player Perks Method](https://www.nexusmods.com/newvegas/mods/77674)
+- Main File - [B42 Quickthrow Tweaks](https://www.nexusmods.com/newvegas/mods/77674)
   - A patch that makes B42 Quickthrow compatible with perks and other player effects.
 
 :::important Instructions:
@@ -89,36 +90,10 @@ Holding a grenade before throwing it decreases its fuse.
 
 ## Reactions & Animations
 
-### [Crippled Limb Reaction Enforcer](https://www.nexusmods.com/newvegas/mods/73147)
-
-Makes idle animations for crippled limbs persist in situations where the game does not enforce them correctly. Also gives NPCs debuffs when crippled, similar to those that the player receives.
-
 ### [Simple Attack Reactions - Limb-Specific Animations](https://www.nexusmods.com/newvegas/mods/79687)
 
 Adds a simple animation command line to each grunt when hit. Greatly enhances the flow and realism of combat.
 
 #### Installation:
 
-- Main File - Simple Attack Reactions - TTW
-- Update File - (A) SAR Settings - DT
-- Update File - (B) SAR Settings - DT - Player
-
-## Combat AI
-
-### [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699)
-
-Prevents the game becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
-#### Installation:
-
-- Main File - Player Combat Priority
-- Main File - [PCP Doggo Patch](https://www.nexusmods.com/newvegas/mods/80339)
-  - A patch that further compounds the effects of Player Combat Priority in order to make dogs more survivable in combat.
-
-### [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
-
-A reliable collection of AI tweaks designed to improve AI intelligence in combat while still preserving scripted sequences.
-
-#### Installation:
-
-- Main File - The AI Merge
+- Main File - Simple Attack Reactions -  TTW - AIO
