@@ -8,7 +8,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 #### Separator:
 
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
-- Name the separator **Aesthetics & Ambience **.
+- Name the separator **Aesthetics & Ambience**.
 
 :::tip Why the small selection of texture, lighting, animation, and audio mods?
 Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [SALVO 2](https://www.nexusmods.com/newvegas/mods/95649). Support for SALVO 2 is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
