@@ -54,6 +54,10 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 - Incompatible
 
+#### JIP PP LN
+
+- Incompatible
+
 #### CFW - Classic Fallout Weapons
 
 - Completely incompatible, breaks leveled lists in both games, broken meshes, ctds. Use [Classic Fallout Weapons Remastered](https://www.nexusmods.com/newvegas/mods/73805) instead.
