@@ -114,7 +114,7 @@ An ambitious project that aims to overhaul many New Vegas miscellaneous location
 
 ### [The Great DLC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/96503)
 
-Overhauls many Mojave DLC locations to be more useful, cluttered, atmospheric, unique and if applicable,
+Overhauls many Mojave DLC locations to be more useful, cluttered, atmospheric, unique and if applicable, lived in.
 
 - Main File - The Great DLC Interior Overhaul
 
