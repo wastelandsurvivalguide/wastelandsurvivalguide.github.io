@@ -20,6 +20,14 @@ A script extender plugin that adds many new functions, required by some of the m
 
 Another script extender plugin that adds new functions to the game. 
 
+### [ITR NVSE](https://www.nexusmods.com/newvegas/mods/96922)
+
+Script extender featuring new commands and event handlers, bug fixes and tweaks.
+
+### [ITR NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000174006&nmm=1)
+
+Custom INI for ITR NVSE
+
 ### [zlib Updated - NVSE](https://www.nexusmods.com/newvegas/mods/85267)
 
 Updates zlib to the latest version for faster loading and less stutter.
