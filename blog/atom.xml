@@ -15,13 +15,23 @@
         <summary type="html"><![CDATA[Put one foot in front of the other...~]]></summary>
         <content type="html"><![CDATA[<p><code>Put one foot in front of the other...~</code></p>
 <hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="04242026">04/24/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#04242026" class="hash-link" aria-label="Direct link to 04/24/2026" title="Direct link to 04/24/2026" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fixes">Fixes<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#fixes" class="hash-link" aria-label="Direct link to Fixes" title="Direct link to Fixes" translate="no">​</a></h3>
+<ul>
+<li class="">Added ITR NVSE</li>
+</ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="0312026">03/1/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#0312026" class="hash-link" aria-label="Direct link to 03/1/2026" title="Direct link to 03/1/2026" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="fixes-1">Fixes<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#fixes-1" class="hash-link" aria-label="Direct link to Fixes" title="Direct link to Fixes" translate="no">​</a></h3>
+<ul>
+<li class="">Added Depth Resolve</li>
+</ul>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="gameplay">Gameplay<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#gameplay" class="hash-link" aria-label="Direct link to Gameplay" title="Direct link to Gameplay" translate="no">​</a></h3>
 <ul>
 <li class="">Added TTW BiReputationChecks (Replaces Tale of Bi Wastelands, TTW Reputations, TTW NV Speech check + Patches)</li>
 <li class="">Removed TTW N.V. Speech Check</li>
 <li class="">Removed Tale of Bi Wastelands</li>
 <li class="">Removed TTW Reputations</li>
+<li class="">Added Modern Night Vision - INI</li>
 </ul>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
@@ -29,10 +39,17 @@
 <li class="">Removed DIEO - Tale of Bi Wastelands Patch</li>
 <li class="">Added The Great DLC Interior Overhaul</li>
 </ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="combat">Combat<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#combat" class="hash-link" aria-label="Direct link to Combat" title="Direct link to Combat" translate="no">​</a></h3>
+<ul>
+<li class="">Added Simple Attack Reactions -  TTW - AIO</li>
+<li class="">Removed (A) SAR Settings - DT</li>
+<li class="">Removed (B) SAR Setting - DT - Player</li>
+</ul>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="overhaul">Overhaul<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#overhaul" class="hash-link" aria-label="Direct link to Overhaul" title="Direct link to Overhaul" translate="no">​</a></h3>
 <ul>
 <li class="">Added TTW Perk and Consumables Overhaul - BiRepChecks</li>
 <li class="">Removed TTW Perk Overhaul - Remastered (File Above Replaces it)</li>
+<li class="">Added RAD - Overhaul Fixed Plugin for TTW</li>
 </ul>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
 <ul>
