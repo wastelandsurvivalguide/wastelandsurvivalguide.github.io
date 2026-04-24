@@ -3,23 +3,37 @@
 `Put one foot in front of the other...~`
 
 ---
+## 04/24/2026
+
+### Fixes
+- Added ITR NVSE
+
 ## 03/1/2026
+
+### Fixes
+- Added Depth Resolve
 
 ### Gameplay
 - Added TTW BiReputationChecks (Replaces Tale of Bi Wastelands, TTW Reputations, TTW NV Speech check + Patches)
 - Removed TTW N.V. Speech Check
 - Removed Tale of Bi Wastelands
 - Removed TTW Reputations
+- Added Modern Night Vision - INI
 
 ### Content
 - Added TTW (D.I.E.O.) - BiReputation Checks Version
 - Removed DIEO - Tale of Bi Wastelands Patch
 - Added The Great DLC Interior Overhaul
 
+### Combat
+- Added Simple Attack Reactions -  TTW - AIO
+- Removed (A) SAR Settings - DT
+- Removed (B) SAR Setting - DT - Player
+
 ### Overhaul
 - Added TTW Perk and Consumables Overhaul - BiRepChecks
 - Removed TTW Perk Overhaul - Remastered (File Above Replaces it)
-
+- Added RAD - Overhaul Fixed Plugin for TTW
 
 ### LOD
 - Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed
