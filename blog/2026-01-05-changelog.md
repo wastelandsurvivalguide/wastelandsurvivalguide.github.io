@@ -7,6 +7,7 @@
 
 ### Fixes
 - Added ITR NVSE
+- Added ITR NVSE - Custom INI
 
 ## 03/1/2026
 
