@@ -35,7 +35,6 @@
 - Removed TTW Perk Overhaul - Remastered (File Above Replaces it)
 - Added RAD - Overhaul Fixed Plugin for TTW
 
-*
 ### Ambience
 - Added Assorted UI Textures
 
