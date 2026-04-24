@@ -35,6 +35,10 @@
 - Removed TTW Perk Overhaul - Remastered (File Above Replaces it)
 - Added RAD - Overhaul Fixed Plugin for TTW
 
+*
+### Ambience
+- Added Assorted UI Textures
+
 ### LOD
 - Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed
 - Added Physicially Based LOD
