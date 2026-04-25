@@ -70,7 +70,7 @@ Mojave Scenery Overhaul - TLD Patch.esm
 Faction Wasteland Presence.esm
 Mojave Raiders Lite.esm
 Mojave Raiders Lite - TTW Patch.esm
-Mojave Wildlife (FO3-Style + No Chanced).esp
+Mojave Wildlife.esm
 Mojave Wildlife - TTW Patch.esm
 SD_Transporters.esp
 Home and Safehouse Tweaks.esm
