@@ -9,6 +9,9 @@
 - Added ITR NVSE
 - Added ITR NVSE - Custom INI
 
+### Content
+Fixed Mojave Wildlife (enables no-chanced spawn in ini by default)
+
 ## 03/1/2026
 
 ### Fixes
