@@ -179,7 +179,7 @@ Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the 
 
 #### Installation:
 
-- Optional File - Mojave Wildlife - FO3 No Chanced Spawns Version
+- Main File - Mojave Wildlife
 
 ### [Trooper's Patch Page](https://www.nexusmods.com/newvegas/mods/78465)
 
