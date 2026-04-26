@@ -5,7 +5,7 @@
 ---
 ## 04/24/2026
 
-### Fixes
+### Extra Utilities & Fixes
 - Added ITR NVSE
 - Added ITR NVSE - Custom INI
 
@@ -15,7 +15,7 @@
 
 ## 03/1/2026
 
-### Fixes
+### Extra Utilities & Fixes
 - Added Depth Resolve
 
 ### Gameplay
