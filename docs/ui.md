@@ -161,13 +161,18 @@ Adds a modern and feature rich minimap to the HUD.
 
 The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained and lost based on the time selected.
 
-### [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
+### [Companion Wheel Extender - ESPless](https://www.nexusmods.com/newvegas/mods/94264)
 
-This is a interface overhaul that improves all of the low resolution icons and the textures of the Companion Wheel.
+- Main File - Companion Wheel Extender - Addon
+- Main File - Companion Wheel Extender
+
+### [Reinvented the (Companion) Wheel](https://www.nexusmods.com/newvegas/mods/89902)
+
+Features an entirely new cast of icons, with references to classic Fallout and icons that were cut from the original Fallout beta! The wheel and all other miscellaneous assets have been remade as well. and more impressive gradients, higher-quality visuals.
 
 #### Installation:
 
-- Main File - Clean Companion Wheel 256x256 Edition
+- Main File - Reinvented the (Companion) Wheel
 
 ### [Character Preset Menu](https://www.nexusmods.com/newvegas/mods/72789)
 
