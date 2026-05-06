@@ -3,6 +3,13 @@
 `Put one foot in front of the other...~`
 
 ---
+## 05/5/2026
+
+### User Interface & HUD
+- Added Companion Wheel Extender - ESPless
+- Added Reinvented the (Companion) Wheel
+- Removed Clean Companion Wheel
+
 ## 04/24/2026
 
 ### Extra Utilities & Fixes
