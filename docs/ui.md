@@ -163,6 +163,8 @@ The Sleep and Wait menu will show the amount of H2O, FOD, and SLP to be gained a
 
 ### [Companion Wheel Extender - ESPless](https://www.nexusmods.com/newvegas/mods/94264)
 
+Access additional functions through the Companion Wheel menu. Includes framework allowing mod authors to easily create additional Companion Wheel pages.
+
 #### Installation:
 
 - Main File - Companion Wheel Extender - Addon
