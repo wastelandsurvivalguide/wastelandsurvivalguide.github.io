@@ -93,7 +93,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
   
 #### Most Fallout 3 mods
 
-- TTW is a New Vegas mod, so mods loaded in FO3 will have no effect, and unconverted mods for FO3 will not work and break TTW. [Collision Meshes - DC](https://wastelandsurvival.guide/docs/optimizations#collision-meshes---dc) is an exception. 
+- TTW is a New Vegas mod, so mods loaded in FO3 will have no effect, and unconverted mods for FO3 will not work and break TTW.
 
 #### Fallout 4 Commonwealth mods
 
