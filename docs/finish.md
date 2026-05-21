@@ -156,7 +156,7 @@ Click the <button>**Create a Backup**</button> button so if something ever goes 
 
 # Finishing Notes
 
-Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. For additional resources such as incompatible mods, performance tips, frequently asked questions and more, see the [Appendix](appendix). Join the [TTW Discord](https://discord.gg/taleoftwowastelands) if you have any additional questions about the guide, modding, or just to chill.
+Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. For additional resources such as incompatible mods, performance tips, frequently asked questions and more, see the [Appendix](appendix). Join [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC) if you have any additional questions about the guide, modding, or just to chill.
 
 # Additional Mods
 
