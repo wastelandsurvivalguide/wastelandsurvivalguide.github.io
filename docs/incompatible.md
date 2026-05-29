@@ -177,7 +177,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Project Weaponry
 
-- Multiple incomplatible meshes, all iron sights broken with TTW.
+- Multiple incompatible meshes, all iron sights broken with TTW.
 
 #### Star the Wandering Courier
 
@@ -218,7 +218,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Anything that alters the game's timescale
 
-- Internal game functions are tied to time scale , changing them will break AI packages and other things.
+- Internal game functions are tied to time scale, changing them will break AI packages and other things.
 
 ## Probably Incompatible
 

@@ -102,7 +102,7 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Force yourself into locks & containers, requires [Sweets Keywords](https://www.nexusmods.com/newvegas/mods/83781) 
 
-[Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Feastures many returning favorites from Fallout games past and present. Includes custom animations.
+[Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Features many returning favorites from Fallout games past and present. Includes custom animations.
 - Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
 - May make chems too plentiful if playing without loot scarcity mods.
 

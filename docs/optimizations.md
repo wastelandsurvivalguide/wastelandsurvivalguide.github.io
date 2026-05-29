@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Optimizations**.
 
 :::tip What will these optimizations do?
-These mods will not have a noticable visual impact, but will significantly improve your performance and experience with AI throughout the game.
+These mods will not have a noticeable visual impact, but will significantly improve your performance and experience with AI throughout the game.
 :::
 
 ### [Improved AI (Navmesh Overhaul Mod)](https://www.nexusmods.com/newvegas/mods/81003)

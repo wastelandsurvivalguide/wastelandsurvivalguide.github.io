@@ -11,7 +11,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Name the separator **Overhauls**.
 
 :::danger Spicy Mods Ahead
-The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced and designed for **hardcore** mode. **Procceed with caution!**
+The mods ahead may change the game dramatically, requiring compensation in gameplay style for the systems they add. These mods were specifically balanced and designed for **hardcore** mode. **Proceed with caution!**
 :::
 
 ### [Famine](https://www.nexusmods.com/newvegas/mods/74985)

@@ -13,7 +13,7 @@ Tale of Two Wastelands already cleans and fixes issues in the base plugins.
 
 Read the <strong>Mod Installation Instructions</strong> section from the <a href="https://thebestoftimes.moddinglinked.com/mo2.html#installationInstructions" target="_blank">The Best of Times MO2 section</a>.
 
-### Why do I get a Application Load Error 5:0000065434 message when I try to launch the game?
+### Why do I get an Application Load Error 5:0000065434 message when I try to launch the game?
 
 Run your game directly through Steam once. You may also need to restart Steam and/or Mod Organizer 2. If that still doesn't work, place a copy of your <strong>Steam.exe</strong> (not a shortcut) into the game's <strong>Root</strong> folder.
 
@@ -40,7 +40,7 @@ Verify that NVTF is actually working by using the console command IsDLLLoaded NV
 ### How do I fix NPCs "bouncing" when playing above 60 FPS?
 
 1. Make sure your game FPS is locked to any amount below 120. If this doesn't fix it, try the next steps.
-2. Click the MO2 INI button button at the top of MO2 and select **INI Editor**.
+2. Click the MO2 INI button at the top of MO2 and select **INI Editor**.
 3. Select the **FalloutCustom.ini** tab.
     - Make sure you are in the FalloutCustom.ini tab and **NOT** the Custom.ini tab.
 4. Paste in the following:
@@ -90,7 +90,7 @@ iSize H=1440
 
 <details>
 <summary>Short answer: No.</summary>
-<p>Long answer: The guide is oriented completely towards MO2 and takes advantage of a number of its exclusive features. You should use whatever mod manager you like, but we are unable to accomodate Vortex users looking for support, as none of us use it. If using MO2 is a dealbreaker for you, we recommend <a href="https://youtu.be/Zts-tF0nYIk" target="_blank">Gopher's video tutorial</a> instead of this guide.</p>
+<p>Long answer: The guide is oriented completely towards MO2 and takes advantage of a number of its exclusive features. You should use whatever mod manager you like, but we are unable to accommodate Vortex users looking for support, as none of us use it. If using MO2 is a dealbreaker for you, we recommend <a href="https://youtu.be/Zts-tF0nYIk" target="_blank">Gopher's video tutorial</a> instead of this guide.</p>
 </details>
 
 ### I found a mistake in the guide
@@ -99,6 +99,6 @@ Please click the "Edit this page" link at the bottom of the page on the left. It
 
 ### `loadorder.txt` has mods I didn't install
 
-No need to worry; this is actually intentional. MO2 parses the file line-by-line and compares it to your modlist, and when any given mod is missing, MO2 simply skips it and goes to the next line. The mods that _are_ present will be ordered correctly and anything absent will be ignored. Some mods that were included in older versions of the guide, or other popular mods which may cause problems with mods in the guide if they were in the wrong place, are therefore included in the file to cover edge cases or outdated . This is no cause for concern. As is stressed in the comments at the top of the `loadorder.txt``, there's no need to read or modify the file.
+No need to worry; this is actually intentional. MO2 parses the file line-by-line and compares it to your modlist, and when any given mod is missing, MO2 simply skips it and goes to the next line. The mods that _are_ present will be ordered correctly and anything absent will be ignored. Some mods that were included in older versions of the guide, or other popular mods which may cause problems with mods in the guide if they were in the wrong place, are therefore included in the file to cover edge cases or outdated . This is no cause for concern. As is stressed in the comments at the top of the `loadorder.txt`, there's no need to read or modify the file.
 
 The only time the loadorder.txt might fail to properly order your mods is if you added mods on your own that aren't in the guide. Those mods will need to be manually reordered to the appropriate spot in your loadorder, so if you aren't familiar with how to the correct spot, how to make patches in xEdit and so on, then it may not be a good idea to add additional mods.

@@ -302,7 +302,7 @@ A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignm
     - [x] Finish.
 - Optional File - PSRO - Mod Compatibility Compendium - FOMOD
   - Continue?:
-    - [x] I got everthing. Let me in.
+    - [x] I got everything. Let me in.
   - Select Your Patches:
     - [ ] AMAC-1500 Sniper Rifle
     - [ ] CFA - Classic Wattz 2000 Laser Rifle
