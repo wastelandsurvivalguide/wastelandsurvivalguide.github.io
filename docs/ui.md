@@ -52,7 +52,7 @@ If you don't know how to install a mod manually, refer to the [instructions in t
   - Keybinds:
     - [x] WASD Compatible
 
-### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001?tab=files&file_id=1000141508&nmm=1)
+### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
 Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
 
