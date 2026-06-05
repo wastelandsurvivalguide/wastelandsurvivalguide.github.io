@@ -174,9 +174,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 All of the mods in this section require LOD generation. Instructions are provided in the [Viva New Vegas - LOD Guide](https://vivanewvegas.moddinglinked.com/lod.html).
 :::
 
-[Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339) - Wonderful landscape overhaul for the Capital Wasteland
-- Merge [Capital Landscapes 1.02](https://www.nexusmods.com/newvegas/mods/91339?tab=files&file_id=1000162476nmm=1) with main file to prevent crashing
-
 [Capital Landscape Additions (TTW)](https://www.nexusmods.com/newvegas/mods/91506) -  improve the visuals of the Capital Wasteland by adding new set dressing and doing some landscape improvements in various locations across the entire worldspace
 - Unrelated to [Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339)
 
