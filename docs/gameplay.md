@@ -41,6 +41,8 @@ Tweaks several elements of the Capital Wasteland in TTW to make the experience l
 
 Quick start plugin to skip the Vault 101 intro sequence and start in the cave just outside the vault. 
 
+#### Installation:
+
 - Main File - TTW Quick Start
 - Main File - [TTW Quick Start Item Remover](https://www.nexusmods.com/newvegas/mods/75832)
   - Prevents starting with generic, pre-determined items.
@@ -61,7 +63,7 @@ Resets the player's level and skills, as well as removes gear upon travelling fr
 
 #### Installation:
 
-- Main File - Benny Humbles You and Steals Your Stuff
+- Main File - BHYSYS
 
 ### [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 
@@ -83,11 +85,11 @@ A custom configuration file with additional gameplay options enabled, such as FO
 
 Revolutionizes the way companions are controlled and interacted with.
 
-Main Files:
+#### Installation:
 
-- JIP Companions Command and Control
-- [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
-- [Perk Styled CC&C Icons](https://www.nexusmods.com/newvegas/mods/70849)
+- Main File - JIP Companions Command and Control
+- Main File - [JIP CC&C HD Icons](https://www.nexusmods.com/newvegas/mods/75378)
+- Main File - [Perk Styled CCC Icons](https://www.nexusmods.com/newvegas/mods/70849)
 
 ### [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175)
 
@@ -161,6 +163,10 @@ Improved damage multipliers for the game's difficulty settings. In the base game
 ### [Transportalponder EX](https://www.nexusmods.com/newvegas/mods/76128)
 
 Upgrades the vanilla Big MT Transportalponder! received at the conclusion of Old World Blues into a configurable teleportation device.
+
+#### Installation:
+
+- Main File - TTW Transportalponder Extended
 
 ### [Transporters](https://www.nexusmods.com/newvegas/mods/77645)
 
