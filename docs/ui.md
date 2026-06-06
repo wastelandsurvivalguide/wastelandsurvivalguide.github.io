@@ -124,7 +124,8 @@ A complete high-resolution and more detailed rework of the Tale of Two Wasteland
 
 #### Installation:
 
-- Choose the options in the FOMOD installer matching your monitor's resolution. 2k Texture Resolution is recommended.
+- Main File - Main Menu Redone - TTW - AIO
+  - Choose the options in the FOMOD installer matching your monitor's resolution. 2k Texture Resolution is recommended.
 
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249)
 
@@ -244,6 +245,10 @@ Replaces text labels next to condition meters with ySI icons, which change dynam
 
 Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
+#### Installation:
+
+- Main File - High Resolution Screens
+
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
 This is a faithful recreation of the Vault Boy Paper Doll, which appears when taking damage or in the Condition menu in your Pip-Boy. Also fixes some alignment issues.
@@ -319,7 +324,7 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
     - [x] Bottlecaps
     - [x] Doors
     - [x] UI Prompts
-  - Colorful Icons - Doors
+  - Colorful Icons - Map
     - [x] Doors
   - Optional:
     - [ ] ySI - JSON Patcher
@@ -330,7 +335,7 @@ Various high-quality Pip-Boy icons.
 
 #### Installation:
 
-- Main File - [1. Consistent Pip-boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
+- Main File - [Consistent Pip-boy Icons v4](https://www.nexusmods.com/newvegas/mods/65046)
 - Main File - [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
 - Main File - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
 - Main File - [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)
