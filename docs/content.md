@@ -28,7 +28,7 @@ Adds several scripted events and hundreds of NPCs who will patrol roads, travel 
 
 - Main File - The Living Desert Main File
 - Main File - The Living Desert .ini
-- Main File - [The Living Desert Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
+- Main File - [TLD Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
 
 ### [Goodies](https://www.nexusmods.com/newvegas/mods/91028)
 
