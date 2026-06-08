@@ -3,6 +3,11 @@
 `Put one foot in front of the other...~`
 
 ---
+## 06/08/2026 (08/06/2026 for EU)
+
+### User Interface & HUD
+- Added ELMO
+
 ## 05/5/2026
 
 ### User Interface & HUD
