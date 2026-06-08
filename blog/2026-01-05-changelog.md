@@ -25,7 +25,7 @@
 - Updated Mojave Wildlife
 - Added Mojave Wildlife - Custom INI
 
-## 03/1/2026
+## 03/01/2026
 
 ### Extra Utilities & Fixes
 - Added Depth Resolve
