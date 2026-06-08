@@ -210,7 +210,7 @@ In the upcoming FOMOD, **UNCHECK** patches for any mods you skipped earlier in t
   - kNVSE Animations:
     - [x] New Vegas Animation Overhaul - Guns
     - [ ] EliV3's ETJ kNVSE Animations
-  - Weapon Patches: 
+  - New Vegas Mods: 
     - [ ] Claim the Mojave
     - [ ] Dead Money Tweaks
     - [ ] Havasu Blues
@@ -281,7 +281,7 @@ Configurable tweaks when aiming with a scope such as blur and fade in from black
 
 #### Installation:
 
-- Main File - Scope Aim Tweaks (No Plugin)
+- Main File - Scope Aim Tweaks
 
 ### [PSRO - Peripheral Scope Reticle Overhaul](https://www.nexusmods.com/newvegas/mods/71781)
 
