@@ -3,7 +3,7 @@
 `Put one foot in front of the other...~`
 
 ---
-## 06/08/2026 (08/06/2026 for EU)
+## June 8th, 2026
 
 ### User Interface & HUD
 - Added ELMO
@@ -15,7 +15,7 @@
 - Added Reinvented the (Companion) Wheel
 - Removed Clean Companion Wheel
 
-## 04/24/2026
+## April 24th, 2026
 
 ### Extra Utilities & Fixes
 - Added ITR NVSE
@@ -25,7 +25,7 @@
 - Updated Mojave Wildlife
 - Added Mojave Wildlife - Custom INI
 
-## 03/01/2026
+## March 1st, 2026
 
 ### Extra Utilities & Fixes
 - Added Depth Resolve
@@ -60,7 +60,7 @@
 - Added Physicially Based LOD
 - Updated Pregen LOD
 
-## 02/28/2026
+## February 28th, 2026
 
 ### Optimizations
 - Replaced ExRB with New Vegas New Vegas Interior Optimization Project
@@ -83,11 +83,11 @@
 ### Final Steps
 - Updated load order. 
 
-## 03/02/2026
+## Feburary 2nd, 2026
 
 Just a reversal of the previous update. ZL's mods are back.
 
-## 09/01/2026
+## January 9th, 2026
 
 ### Content
 - Removed ZL Armaments and its 3DNPCs patch.
@@ -95,7 +95,7 @@ Just a reversal of the previous update. ZL's mods are back.
 ### Overhauls
 - Removed TTW Perk Overhaul ZL Armaments patch.
 
-## 05/01/2026
+## January 1st, 2026
 
 ### Content
 - Another Millennia and Another Millennia Gun Addon both updated, and no longer need any optional files. Yippee!
