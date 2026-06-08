@@ -83,7 +83,7 @@
 ### Final Steps
 - Updated load order. 
 
-## Feburary 2nd, 2026
+## Feburary 3rd, 2026
 
 Just a reversal of the previous update. ZL's mods are back.
 
