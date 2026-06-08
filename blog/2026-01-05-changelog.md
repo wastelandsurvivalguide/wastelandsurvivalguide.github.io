@@ -95,7 +95,7 @@ Just a reversal of the previous update. ZL's mods are back.
 ### Overhauls
 - Removed TTW Perk Overhaul ZL Armaments patch.
 
-## January 1st, 2026
+## January 5th, 2026
 
 ### Content
 - Another Millennia and Another Millennia Gun Addon both updated, and no longer need any optional files. Yippee!
