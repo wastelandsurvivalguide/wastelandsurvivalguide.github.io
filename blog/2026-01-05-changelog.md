@@ -8,7 +8,7 @@
 ### User Interface & HUD
 - Added ELMO
 
-## 05/5/2026
+## 05/05/2026
 
 ### User Interface & HUD
 - Added Companion Wheel Extender - ESPless
