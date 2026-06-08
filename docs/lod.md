@@ -14,14 +14,14 @@ If you don't use all of the terrain altering mods from the [Content](content) se
 
 If you are using all of those mods, then you can use our pre-generated LOD by following these instructions.
 
-all of the following mods are **REQUIRED**:
+All of the following mods are **REQUIRED**:
 
 ### [Much Needed LOD](https://www.nexusmods.com/newvegas/mods/64805)
 
 #### Installation:
 
 - Main File - Much Needed LOD
-- Delete `MuchNeededLOD.esp` and the `meshes\effects\` folder.
+  - Delete `MuchNeededLOD.esp` and the `meshes\effects\` folder.
 
 ### [Much Needed LOD fixed rocks color](https://www.nexusmods.com/newvegas/mods/81524)
 
@@ -30,7 +30,7 @@ all of the following mods are **REQUIRED**:
 #### Installation:
 
 - Main File - LODadditions
-- Delete `tmzLODadditions.esp`.
+  - Delete `tmzLODadditions.esp`.
 
 ### [FNV LOD Supplementation](https://www.nexusmods.com/newvegas/mods/72099)
 
@@ -51,7 +51,8 @@ all of the following mods are **REQUIRED**:
 
 #### Installation:
 
-- Delete `Wasted Mojave Rock LOD.esp`.
+- Main File - Version 1.0
+  - Delete `Wasted Mojave Rock LOD.esp`.
 
 ### [Sqeps Random TTW LOD Hub](https://www.nexusmods.com/newvegas/mods/94042)
 
@@ -68,16 +69,16 @@ all of the following mods are **REQUIRED**:
 #### Installation:
 
 - Main File - LODIFY
-- Delete `TTWLods.esp`.
+  - Delete `TTWLods.esp`.
 - Optional File - LODIFY FNV Wall_SoGB Editon
-- Delete `LODIFY_FNV.esp`.
+  - Delete `LODIFY_FNV.esp`.
 
 ### [Decent LOD Kit](https://www.nexusmods.com/newvegas/mods/88979)
 
 #### Installation:
 
 - Main File - Decent LOD Kit
-- Delete `Decent LOD Kit.esp`.
+  - Delete `Decent LOD Kit.esp`.
 
 ### [TTW Fallout 3 LOD](https://www.nexusmods.com/newvegas/mods/90327)
 
@@ -85,16 +86,16 @@ all of the following mods are **REQUIRED**:
 
 #### Installation:
 
-Main File - Physically Based LOD
+- Main File - Physically Based LOD
 
 ### [Nuclear LOD](https://www.nexusmods.com/newvegas/mods/88902)
 
 #### Installation:
 
 - Main File - Nuclear Core
-- Delete `Nuclear_LOD.esp`.
+  - Delete `Nuclear_LOD.esp`.
 - Main File - Nuclear Trees - Vanilla
-- Delete `TreeLOD_Vanilla.esp`.
+  - Delete `TreeLOD_Vanilla.esp`.
 
 ### [VNV LOD Guide Plugins Merge](https://www.nexusmods.com/newvegas/mods/79358)
 
