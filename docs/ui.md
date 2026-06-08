@@ -137,9 +137,9 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 - Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137712&nmm=1)
   - Remaps the hotkeys for weapons to 1 and aid to 3. Disables throwables in favor of B42 Quickthrow.
  
-### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
+### [ELMO](https://www.nexusmods.com/newvegas/mods/94708)
 
-Changes the corner notifications to improve readability. Multiple messages appear simultaneously and fade out as newer ones appear.
+replaces the game's vanilla corner messages with a highly configurable notification system. Every message that would normally appear in the top-left corner - item pickups, karma changes, reputation shifts, crippled limbs, critical hits - now displays through ELMO with smooth animations, colour coding, custom icons, and granular control over timing and appearance.
 
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
