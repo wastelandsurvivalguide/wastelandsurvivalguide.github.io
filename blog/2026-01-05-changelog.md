@@ -6,7 +6,7 @@
 ## 06/08/2026
 
 ### User Interface & HUD
-- Added ELMO
+- Replaced B42 Notify With ELMO
 
 ## 05/05/2026
 
