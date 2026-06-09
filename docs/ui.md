@@ -141,6 +141,11 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 
 replaces the game's vanilla corner messages with a highly configurable notification system. Every message that would normally appear in the top-left corner - item pickups, karma changes, reputation shifts, crippled limbs, critical hits - now displays through ELMO with smooth animations, colour coding, custom icons, and granular control over timing and appearance.
 
+#### Installation:
+
+- Main File - ELMO
+- Main File - [ELMO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000176294nmm=1)
+
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
 Increases the resolution of local maps from 128 to 512. Required by other mods.
