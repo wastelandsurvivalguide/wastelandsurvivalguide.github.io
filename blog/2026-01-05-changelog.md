@@ -7,6 +7,7 @@
 
 ### User Interface & HUD
 - Replaced B42 Notify With ELMO
+- Added ELMO - Custom INI
 
 ## 05/05/2026
 
