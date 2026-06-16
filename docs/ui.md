@@ -144,7 +144,7 @@ replaces the game's vanilla corner messages with a highly configurable notificat
 #### Installation:
 
 - Main File - ELMO
-- Main File - [ELMO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000176294nmm=1)
+- Main File - [ELMO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000176294&nmm=1)
 
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
