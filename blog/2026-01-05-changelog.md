@@ -3,6 +3,11 @@
 `Put one foot in front of the other...~`
 
 ---
+## 06/20/2026
+ 
+### Overhauls
+- Added TTW Perk Overhaul - ySI - Colorful Icons Patch
+
 ## 06/08/2026
 
 ### User Interface & HUD
