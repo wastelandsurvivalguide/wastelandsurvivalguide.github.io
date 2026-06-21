@@ -125,7 +125,6 @@ GRA Scavenger Hunt Unbalanced.esp
 Simple Attack Reactions - NV+TTW.esp
 MigPowerAttack.esp
 SMAC - Simple Melee Attack Cancel and Parry.esp
-Hitstop.esp
 Enhanced Movement.esp
 WTH AMR Fix.esp
 Kyu_Ballistics_TTW.esp
