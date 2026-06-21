@@ -5,6 +5,10 @@
 `You can't get down if you're always in control`
 
 ---
+## 12/08/2025
+
+## Extra Utilities & Fixes
+- Removed Tranquility Lane Pipboy Glove and Custom Race Fix
 
 ## 01/07/2025
 
