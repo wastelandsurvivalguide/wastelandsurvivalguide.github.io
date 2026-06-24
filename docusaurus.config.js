@@ -129,7 +129,7 @@ const config = {
           },
           {
             label: "New Vegas Visual Renewal",
-            href: "https://salamand3r.fail/texture-guide",
+            href: "https://www.nexusmods.com/newvegas/mods/95649",
           },
           {
             label: "TTW Discord",
