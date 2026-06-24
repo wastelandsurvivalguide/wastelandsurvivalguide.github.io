@@ -53,8 +53,8 @@ This mod changes the effect of the Speech bobblehead perk. In TTW, the perk allo
 #### Installation:
 
 - Main File - [TTW Perk and Consumables Overhaul - BiRepChecks](https://www.nexusmods.com/newvegas/mods/96508?tab=files&file_id=1000170882&nmm=1)
-- Optional File - TTW Perk Overhaul - [ySI - Colorful Icons Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000144488&nmm=1)
-- Optional File - TTW Perk Overhaul - [Another Millenia Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000149803&nmm=1)
-- Optional File - TTW Perk Overhaul - [Another Millenia Add-on Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000149814&nmm=1)
-- Optional File - TTW Perk Overhaul - [Tactapack Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000150094&nmm=1)
-- Optional File - TTW Perk Overhaul - [ZL Armaments Remastered Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000150410&nmm=1)
+- Optional File - [TTW Perk Overhaul - ySI - Colorful Icons Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000144488&nmm=1)
+- Optional File - [TTW Perk Overhaul - Another Millenia Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000149803&nmm=1)
+- Optional File - [TTW Perk Overhaul - Another Millenia Add-on Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000149814&nmm=1)
+- Optional File - [TTW Perk Overhaul - Tactapack Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000150094&nmm=1)
+- Optional File - [TTW Perk Overhaul - ZL Armaments Remastered Patch](https://www.nexusmods.com/newvegas/mods/87571?tab=files&file_id=1000150410&nmm=1)
