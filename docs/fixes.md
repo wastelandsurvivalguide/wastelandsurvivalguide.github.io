@@ -106,7 +106,7 @@ Fixes some alpha rendering issues like broken effects when using Transparency Mu
 
 #### Installation:
 
-- Main File - LOD Fixes and Improvements - NVSE
+- Main File - LOD Fixes and Improvements
 - Main File - LOD Fixes and Improvements - INI
 
 ### [LOD Flicker Fix - NVSE](https://www.nexusmods.com/newvegas/mods/91705)
