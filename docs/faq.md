@@ -56,7 +56,7 @@ fOriginalGroundHeightMS=0
 
 ### Ultrawide resolution
 
-1. Click the MO2 INI button button at the top of MO2 and select **INI Editor**.
+1. Click the MO2 INI button at the top of MO2 and select **INI Editor**.
 2. Select the **FalloutCustom.ini** tab.
     - Make sure you are in the FalloutCustom.ini tab and **NOT** the Custom.ini tab.
 3. Paste in your display's resolution:
@@ -71,7 +71,7 @@ iSize H=1440
 
 ### How do I change my FOV?
 
-1. Click the MO2 INI button button at the top of MO2 and select **INI Editor**.
+1. Click the MO2 INI button at the top of MO2 and select **INI Editor**.
 2. Select the FalloutCustom.ini tab.
 3. Under the **Display** section, change the following values to your preference:
 4. **fDefaultWorldFOV** (FOV of the camera in relation to the world, increasing this will affect performance gradually)

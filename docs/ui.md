@@ -38,7 +38,7 @@ An add-on for The Mod Configuration Menu that adds quality-of-life features, scr
 Modernized vanilla-style UI with many enhancements and bug fixes.
 
 :::tip Installation
-If you don't know how to install a mod manually, refer to the [instructions in the The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?).
+If you don't know how to install a mod manually, refer to the [instructions in The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?).
 :::
 
 #### Installation:
@@ -139,7 +139,7 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
  
 ### [ELMO](https://www.nexusmods.com/newvegas/mods/94708)
 
-replaces the game's vanilla corner messages with a highly configurable notification system. Every message that would normally appear in the top-left corner - item pickups, karma changes, reputation shifts, crippled limbs, critical hits - now displays through ELMO with smooth animations, colour coding, custom icons, and granular control over timing and appearance.
+Replaces the game's vanilla corner messages with a highly configurable notification system. Every message that would normally appear in the top-left corner - item pickups, karma changes, reputation shifts, crippled limbs, critical hits - now displays through ELMO with smooth animations, colour coding, custom icons, and granular control over timing and appearance.
 
 #### Installation:
 
@@ -178,7 +178,7 @@ Access additional functions through the Companion Wheel menu. Includes framework
 
 ### [Reinvented the (Companion) Wheel](https://www.nexusmods.com/newvegas/mods/89902)
 
-Features an entirely new cast of icons, with references to classic Fallout and icons that were cut from the original Fallout beta! The wheel and all other miscellaneous assets have been remade as well. and more impressive gradients, higher-quality visuals.
+Features an entirely new cast of icons, with references to classic Fallout and icons that were cut from the original Fallout beta! The wheel and all other miscellaneous assets have been remade as well. More impressive gradients and higher-quality visuals.
 
 #### Installation:
 
@@ -384,7 +384,7 @@ Replaces all maps with simple vector imagery akin to Fallout 4, vastly improving
 - Main File - Simple Maps - TTW
 - Main File - [Simple Maps - TTW Compressed](https://drive.google.com/file/d/1b2TWQMmQwPJnfLPYwg2Nr3-ZqhQjBPwi/view?usp=sharing)
 
-The second file must be manually downloaded and installed. If you don't know how to install a mod manually, refer to the [instructions in the The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?). Make sure it **overwrites** the main mod.
+The second file must be manually downloaded and installed. If you don't know how to install a mod manually, refer to the [instructions in The Best of Times guide](https://thebestoftimes.moddinglinked.com/mo2.html#HowToUse?). Make sure it **overwrites** the main mod.
 
 ### [True Colorful Map Marker Icons](https://www.nexusmods.com/newvegas/mods/89451)
 
