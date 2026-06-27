@@ -152,10 +152,10 @@ Click the <button>**Create a Backup**</button> button so if something ever goes 
 
 ![MO2 Backup Load Order Button](../static/img/backup.webp)
 
-# Finishing Notes
+## Finishing Notes
 
 Congratulations! You now have a modded Tale of Two Wastelands setup to enjoy. For additional resources such as incompatible mods, performance tips, frequently asked questions and more, see the [Appendix](appendix). Join [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC) if you have any additional questions about the guide, modding, or just to chill.
 
-# Additional Mods
+## Additional Mods
 
 Check out our [Additions](additions) page for mods approved and recommended by our team that did not make it into the guide for one reason or another. Unfortunately, we do not have the time or energy to provide support for setups that install extra mods on top of the guide. We cannot stress enough that it is only recommended to add your own mods if you are an experienced modder and know how to manually make conflict resolution patches and sort your load order! If you don't know [how to do that](https://moddinglinked.com/themethod.html) in [xEdit](https://moddinglinked.com/xedit.html), or you are unwilling to spend the time to do so, it is not recommended to add your own mods. You can't just throw a bunch of mods on top of the guide without doing any conflict resolution, or use automated tools like LOOT as a substitute for proper conflict resolution, and expect your game to function as intended. Once again, **we will not support setups that have added any mods**.

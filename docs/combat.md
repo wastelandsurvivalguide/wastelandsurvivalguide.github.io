@@ -96,4 +96,4 @@ Adds a simple animation command line to each grunt when hit. Greatly enhances th
 
 #### Installation:
 
-- Main File - Simple Attack Reactions -  TTW - AIO
+- Main File - Simple Attack Reactions - TTW - AIO

@@ -13,7 +13,7 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 :::tip Why the small selection of texture, lighting, animation, and audio mods?
 Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [SALVO 2](https://www.nexusmods.com/newvegas/mods/95649). Support for SALVO 2 is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
 
-Skip Simply Upscaled Grass, and Contrasted LOD Noise Texture If using SALVO 2
+Skip [Contrasted LOD Noise Texture](#contrasted-lod-noise-texture) and [Simply Upscaled Grass](#simply-upscaled-grass) if using SALVO 2
 :::
 
 ## Visual Improvements
@@ -87,7 +87,7 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 
 ### [Weapon Based Hands Clip Distance](https://www.nexusmods.com/newvegas/mods/82093)
 
-Allows for manual repositioning of the players hand clip distance.
+Allows for manual repositioning of the player's hand clip distance.
 
 :::important Instructions:
 - Hold the aim button and press right alt. Alternatively, if adjusting clip distance while your weapon is at the hip, simply press right alt.

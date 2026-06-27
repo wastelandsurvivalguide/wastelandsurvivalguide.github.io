@@ -28,7 +28,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### A Familiar Friend and Readius/Any hand-held Pip-Boy mods
 
-- Use the [arm-mounted version](https://www.nexusmods.com/newvegas/mods/49732) or [Universal Pip-Boy Customization](https://www.nexusmods.com/newvegas/mods/66598). You must revert to arm-mounted (if you're using UPBC0 before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time. Use UPBC to make this and any other hand-held Pip-Boy work.
+- Use the [arm-mounted version](https://www.nexusmods.com/newvegas/mods/49732) or [Universal Pip-Boy Customization](https://www.nexusmods.com/newvegas/mods/66598). You must revert to arm-mounted (if you're using UPBC before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time. Use UPBC to make this and any other hand-held Pip-Boy work.
 
 #### After War Nevada
 
@@ -84,7 +84,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Enhanced NPC Awareness
 
-- causes random NPCs and companions after firing to become hostile to the player among other issues.
+- Causes random NPCs and companions after firing to become hostile to the player among other issues.
 
 #### FCO - Fallout Character Overhaul
 
@@ -243,4 +243,3 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 #### Russell
 
 - Ghoul doctor from Caruthers Canyon will walk to and appear in Underworld due to reused marker/package
-- Someguy's mods are all being [remastered](content#the-someguy-series-le) with TTW patches.
