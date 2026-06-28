@@ -28,7 +28,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### A Familiar Friend and Readius/Any hand-held Pip-Boy mods
 
-- Use the [arm-mounted version](https://www.nexusmods.com/newvegas/mods/49732) or [Universal Pip-Boy Customization](https://www.nexusmods.com/newvegas/mods/66598). You must revert to arm-mounted (if you're using UPBC before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time. Use UPBC to make this and any other hand-held Pip-Boy work.
+- Use the [arm-mounted version](https://www.nexusmods.com/newvegas/mods/49732) or [Universal Pip-Boy Customization](https://www.nexusmods.com/newvegas/mods/66598). You must revert to arm-mounted if you're using UPBC before doing Tranquility Lane and Anchorage and taking the train to Vegas the first time. Use UPBC to make this and any other hand-held Pip-Boy work.
 
 #### After War Nevada
 
@@ -125,7 +125,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### ILO - Interior Lighting Overhaul
 
-- Old and incompatible, use the [SILO](https://www.nexusmods.com/newvegas/mods/71390) or [Atmospheric Lighting Tweaks - TTW](https://wastelandsurvival.guide/docs/ambience#atmospheric-lighting-tweaks---ttw) instead (only use one or the other).
+- Old and incompatible, use the [SILO](https://www.nexusmods.com/newvegas/mods/71390) or [Atmospheric Lighting Tweaks - TTW](ambience#atmospheric-lighting-tweaks---ttw) instead (only use one or the other).
 
 #### IMPACT
 
@@ -189,7 +189,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Unlimited Companions
 
-- Janky mod from 2010, use [JIP CC&C](https://wastelandsurvival.guide/docs/gameplay#jip-ccc) instead
+- Janky mod from 2010, use [JIP CC&C](gameplay#jip-ccc) instead
 
 #### WMX/WME (Weapon Mods Expanded)
 
@@ -202,7 +202,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Weapons of the New Millenia/and Friends
 
-- Use [Another Millenia](https://wastelandsurvival.guide/docs/content#another-millenia) instead.
+- Use [Another Millenia](content#another-millenia) instead.
 
 #### Weapons of the Wasteland
 
