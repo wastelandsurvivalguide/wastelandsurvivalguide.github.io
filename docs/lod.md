@@ -10,7 +10,8 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **LOD**.
 
-:::tip Skip This Section if using [Salvo 2](https://www.nexusmods.com/newvegas/mods/95649)
+:::tip
+If you are planning on using [Salvo 2](https://www.nexusmods.com/newvegas/mods/95649), you can skip this page.
 :::
 
 If you don't use all of the terrain altering mods from the [Content](content) section, you should follow the instructions on the [VNV LOD guide](https://vivanewvegas.moddinglinked.com/lod.html) for generating your own LOD.
