@@ -159,9 +159,10 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Capital Wasteland Hideouts](https://www.sublevel3.com/mmtv/fnv/ttw-cw-hideouts.html) - a collection of 10 small way station player homes that offer places to safely store your stuff until you can get to your main base (or until you can acquire one).
 
-[Mobile Truck Base TTW Community Preview Edition](https://www.nexusmods.com/newvegas/mods/79005?tab=files) - Adds a mobile truck base player home.
+<!-- [Mobile Truck Base TTW Community Preview Edition](https://www.nexusmods.com/newvegas/mods/79005?tab=files) - Adds a mobile truck base player home.
 - Pairs nicely with [Mobile Truck Base SFX Enhancer](https://www.nexusmods.com/newvegas/mods/77110).
 - Use alongside [Benny Steals Your Truck](https://www.nexusmods.com/newvegas/mods/80106) if using [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112).
+-->
 
 [TTW - Springvale Garage](https://www.nexusmods.com/newvegas/mods/76503) - A lore-friendly and balanced player home/quest mod for TTW that sees you renovate the ruin of the garage at Springvale Red Rocket into a fully functional and capable home for yourself. Clean up, restore power and water, salvage furniture, and purchase or scavenge powerful upgrades for your home.
 
