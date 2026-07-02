@@ -5,6 +5,9 @@
 ---
 ## 07/02/2026 (NOT MID-SAVE-SAFE)
 
+### User Interface & HUD
+- Updated ELMO - Custom INI
+
 ### Content
 - Replaced Goodies With Troopers Uncut Merge
 - Removed Goodies Patches
