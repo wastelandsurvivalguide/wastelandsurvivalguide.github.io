@@ -36,7 +36,7 @@ This mod is a merge of several content restoration mods
 
 #### Installation:
 
-- Main File - Goodies
+- Main File - Trooper's Uncut Merge
   - Main File:
     - [x] Main File
   - Optional Add-Ons:
@@ -54,7 +54,7 @@ This mod is a merge of several content restoration mods
     - [ ] Regular
     - [ ] Dirty Glass
     - [x] None
-    Patches:
+  - Patches:
     - [ ] A Lightweight Strip Overhaul
     - [ ] AWOP
     - [x] AWOP Revised
