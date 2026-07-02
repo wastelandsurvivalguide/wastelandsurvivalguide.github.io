@@ -1,4 +1,4 @@
-﻿import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
+import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
 import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 # Content 
@@ -30,7 +30,7 @@ Adds several scripted events and hundreds of NPCs who will patrol roads, travel 
 - Main File - The Living Desert .ini
 - Main File - [TLD Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
 
-### [Trooper's Uncut Merge](https://www.nexusmods.com/newvegas/mods/95700)
+### [Trooper's Uncut Merge](https://www.nexusmods.com/newvegas/mods/91028)
 
 This mod is a merge of several content restoration mods
 
