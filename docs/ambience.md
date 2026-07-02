@@ -18,6 +18,10 @@ If you are planning on using [SALVO 2](https://www.nexusmods.com/newvegas/mods/9
 
 ## Visual Improvements
 
+### [Impostors and LOD Flicker Fix - ESPLess](https://www.nexusmods.com/newvegas/mods/92372)
+
+Fixes Z-flickering by changing the model path of various imposter meshes to be blank.
+
 ### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898)
 
 Adds LOD noise texture for Mid Frequency Details, which helps blend far terrain with closer details.

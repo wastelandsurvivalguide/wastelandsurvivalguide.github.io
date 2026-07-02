@@ -30,31 +30,41 @@ Adds several scripted events and hundreds of NPCs who will patrol roads, travel 
 - Main File - The Living Desert .ini
 - Main File - [TLD Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
 
-### [Goodies](https://www.nexusmods.com/newvegas/mods/91028)
+### [Trooper's Uncut Merge](https://www.nexusmods.com/newvegas/mods/91028)
 
-Large collection of restored content, consistency fixes, integrated content, and "gray area" bug fixes.
+This mod is a merge of several content restoration mods
 
 #### Installation:
 
 - Main File - Goodies
   - Main File:
     - [x] Main File
-  - Extra Goodies:
-    - [x] Extra Goodies
-  - Patches:
-    - [ ] Better Brotherhood
-
-:::important
-Do **NOT** download the INI file from the *Main Files* section. You will install a custom INI in the next step alongside the TTW patch.
-:::
-
-### [Goodies Patches - TTW and More](https://www.nexusmods.com/newvegas/mods/91038)
-
-Patches for Qolore's Goodies mod to work with TTW and other mods.
-
-- Main File - Main - Goodies - TTW
-- Main File - Optional - Extra Goodies - TTW
-- Main File - [Goodies - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000170682&nmm=1)
+  - Optional Add-Ons:
+    - [ ] Beta Mr House
+    - [ ] Clean Tops Casino Interior
+    - [ ] Dead Money Beta Police Sign
+    - [ ] ED-E Temp VO Restored
+    - [ ] Goodsprings Settler MOAN
+    - [ ] Melee VATS Animation Restoration
+    - [ ] Original Tribal Armor Restored
+    - [ ] Prospector Saloon Full Neon Sign
+    - [ ] Rhonda Pre-Release Voice
+    - [ ] Tunneler Beta Restoration
+  - Ultra Luxe Skylight:
+    - [ ] Regular
+    - [ ] Dirty Glass
+    - [x] None
+    Patches:
+    - [ ] A Lightweight Strip Overhaul
+    - [ ] AWOP
+    - [x] AWOP Revised
+    - [ ] Functional Post Game Ending
+    - [ ] Mojave Raiders
+    - [ ] NV Interiors Remastered
+    - [x] Tale Of Two Wastelands
+    - [x] The Living Desert
+    - [ ] The New Bison Steve Hotel and Lucky Casino
+    - [ ] Yukichigai Unofficial Patch
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 

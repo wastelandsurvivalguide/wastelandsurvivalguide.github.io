@@ -3,6 +3,21 @@
 `Put one foot in front of the other...~`
 
 ---
+## 07/01/2026 (NOT MID-SAVE-SAFE)
+
+### Content
+- Replaced Goodies With Troopers Uncut Merge
+- Removed Goodies Patches
+
+### Aesthetics & Ambience
+- Added Impostors and LOD Flicker Fix - ESPless
+
+### LOD
+- Updated Pregen Lod
+ 
+### Finish
+- Updated load order
+
 ## 06/21/2026
 
 ### Combat

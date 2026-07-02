@@ -49,10 +49,8 @@ Functional Post Game Ending Lite TTW Patch.esm
 3DNPCFNVBundle.esm
 Lived-In New Vegas.esm
 Lived-In Strip.esm
-ExtraGoodies.esp
-Goodies.esp
-ExtraGoodies - TTW.esp
-Goodies - TTW.esp
+Trooper Uncut.esm
+Trooper Uncut - TTW Patch.esm
 Mojave Scenery Overhaul.esm
 Mojave Scenery Overhaul - TTW.esm
 TGMIO.esm
@@ -60,11 +58,13 @@ TGDLCIO.esm
 TGDCIO.esm
 AWorldOfPainFO3.esm
 A World of Pain Revised.esm
+Trooper Uncut - AWOP Revised Patch
 Sweet Pain.esm
 Sweet Pain NV.esm
 MoreMojave.esm
 Mojave Scenery Overhaul - A World of Less Pain Patch.esm
 TLD_Travelers.esm
+Trooper Uncut - TLD Patch.esm
 Mojave Scenery Overhaul - TLD Patch.esm
 Faction Wasteland Presence.esm
 Mojave Raiders Lite.esm
