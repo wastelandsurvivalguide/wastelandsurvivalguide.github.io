@@ -3,6 +3,11 @@
 `Put one foot in front of the other...~`
 
 ---
+## 07/09/2026
+
+### Extra Utilities & Fixes
+- Added hNVSE
+
 ## 07/02/2026 (NOT MID-SAVE-SAFE)
 
 ### User Interface & HUD
