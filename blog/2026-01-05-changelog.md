@@ -9,7 +9,7 @@
 - Added hNVSE
 
 ### Aesthetics & Ambience
-- Updated ATMOS DLC Overhaul
+- Added ATMOS DLC Overhaul Part I and II
 
 ## 07/02/2026 (NOT MID-SAVE-SAFE)
 
