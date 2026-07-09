@@ -19,6 +19,7 @@
 
 ### Aesthetics & Ambience
 - Added Impostors and LOD Flicker Fix - ESPless
+- Updated ATMOS DLC Overhaul
 
 ### LOD
 - Updated Pregen Lod
