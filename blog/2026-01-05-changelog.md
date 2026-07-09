@@ -8,6 +8,9 @@
 ### Extra Utilities & Fixes
 - Added hNVSE
 
+### Aesthetics & Ambience
+- Updated ATMOS DLC Overhaul (Added Part 2)
+
 ## 07/02/2026 (NOT MID-SAVE-SAFE)
 
 ### User Interface & HUD
@@ -19,7 +22,6 @@
 
 ### Aesthetics & Ambience
 - Added Impostors and LOD Flicker Fix - ESPless
-- Updated ATMOS DLC Overhaul
 
 ### LOD
 - Updated Pregen Lod
