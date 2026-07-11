@@ -16,6 +16,12 @@
             <description><![CDATA[Put one foot in front of the other...~]]></description>
             <content:encoded><![CDATA[<p><code>Put one foot in front of the other...~</code></p>
 <hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="07112026">07/11/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#07112026" class="hash-link" aria-label="Direct link to 07/11/2026" title="Direct link to 07/11/2026" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
+<ul>
+<li class="">Added Trooper's Much Needed Lod Patch, for uncut merge</li>
+<li class="">Updated Pregen LOD</li>
+</ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="07092026">07/09/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#07092026" class="hash-link" aria-label="Direct link to 07/09/2026" title="Direct link to 07/09/2026" translate="no">​</a></h2>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="extra-utilities--fixes">Extra Utilities &amp; Fixes<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#extra-utilities--fixes" class="hash-link" aria-label="Direct link to Extra Utilities &amp; Fixes" title="Direct link to Extra Utilities &amp; Fixes" translate="no">​</a></h3>
 <ul>
@@ -39,7 +45,7 @@
 <ul>
 <li class="">Added Impostors and LOD Flicker Fix - ESPless</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod-1">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod-1" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
 <ul>
 <li class="">Updated Pregen Lod</li>
 </ul>
@@ -116,7 +122,7 @@
 <ul>
 <li class="">Added Assorted UI Textures</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod-1">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod-1" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod-2">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod-2" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
 <ul>
 <li class="">Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed</li>
 <li class="">Added Physicially Based LOD</li>
