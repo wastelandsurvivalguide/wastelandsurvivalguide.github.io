@@ -3,6 +3,12 @@
 `Put one foot in front of the other...~`
 
 ---
+## 07/11/2026
+
+### LOD
+- Added Trooper's Much Needed Lod Patch, for uncut merge
+- Updated Pregen LOD
+ 
 ## 07/09/2026
 
 ### Extra Utilities & Fixes
