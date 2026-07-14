@@ -217,7 +217,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Provides unique perks to NPCs to provide more gameplay quirks and personality to companions. These often take the form of debuffs.
 
-[D.C. NPCs](https://www.nexusmods.com/newvegas/mods/83419) - Adds reactivity, clutter, and minor NPCs to the DC wasteland.
+[D.C. NPCs](https://www.nexusmods.com/fallout3/mods/25834?tab=files&file_id=1000030705&nmm=1) - Adds reactivity, clutter, and minor NPCs to the DC wasteland.
 
 [Friendly Strip Factions](https://www.nexusmods.com/newvegas/mods/80453) - Makes the various Strip factions friendly after completing their respective quests.
 
