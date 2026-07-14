@@ -39,10 +39,10 @@ Restored Physics Sounds.esm
 Placement Fixes.esm
 PerformanceOfTheTitans.esm
 NavmeshOverhaul.esm
-FO3_Optimization.esm
 Main And Pause Menus Overhaul.esm
 BiRepChecks.esm
 TTW - Capital Wasteland Adjustments.esm
+FO3_Optimization.esm
 Repeatable Quests Rewards Rebalanced.esm
 Functional Post Game Ending Lite.esm
 Functional Post Game Ending Lite TTW Patch.esm
