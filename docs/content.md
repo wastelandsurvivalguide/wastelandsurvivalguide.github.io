@@ -64,7 +64,6 @@ This mod is a merge of several content restoration mods
     - [x] Tale Of Two Wastelands
     - [x] The Living Desert
     - [ ] The New Bison Steve Hotel and Lucky Casino
-    - [ ] Yukichigai Unofficial Patch
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
