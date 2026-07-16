@@ -34,7 +34,7 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 
 [CCCP - Cool Clean Cursor Pack](https://www.nexusmods.com/newvegas/mods/85751) - A collection of alternative cursors
 
-[Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Customizable detailed stats menu for items, when hovering or pressing a defined hotkey
+[Item Cards - ESPless](https://www.nexusmods.com/newvegas/mods/85868) - Customizable detailed stats menu for items, when hovering or pressing a defined hotkey
 
 
 ## Gameplay 
@@ -49,8 +49,6 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 
 [Benny Fighting Chance](https://www.nexusmods.com/newvegas/mods/74613) - Buffs Benny's ammo and DT to help him have a little more survivability when fighting the player.
 
-[Better Weapon Restrictions](https://www.nexusmods.com/newvegas/mods/81295) - Makes open carry of weapons in restricted areas a hostile action.
-
 [Companion Carry Weight Adder](https://www.nexusmods.com/newvegas/mods/85266) - Adds the free space of your companions’ inventory to your own.
 
 [Complex Vendors](https://www.nexusmods.com/newvegas/mods/71512) - Makes vendors only buy items related to their profession.
@@ -64,14 +62,14 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 
 [Hardcore Forever](https://www.nexusmods.com/newvegas/mods/75682) - Enables Hardcore mode and disables the selection message.
 
-[Lootable Statics](https://www.nexusmods.com/newvegas/mods/83946) - Uses [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934) to allow you to loot previously static vents, hollowed trees/logs, lockers, desks, etc.
+[Lootable Statics Compatibility Edition - Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83946) - Allows you to loot previously static vents, hollowed trees/logs, lockers, desks, etc.
 - Requires [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934).
 
 [More Shovels](https://www.nexusmods.com/newvegas/mods/75126) - Makes shovels more common in barter and enemy loot.
 
 [More Throwing Weapons](https://www.nexusmods.com/newvegas/mods/75199) - Increases the saturation of throwing weapons throughout the game.
 
-[Movable Statics Replaced with Lootable Versions](https://www.nexusmods.com/newvegas/mods/83961) - Uses base object swapper to swap hundreds of statics with lootable versions.
+[Movable Statics Replaced with Lootable Versions - ESPless](https://www.nexusmods.com/newvegas/mods/83961) - Replaces many hundreds of Movable Statics with Lootable variants - Such as Pots, Coffee Mugs, Fission Batteries and more.
 - Requires [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934).
 
 [No More Explosions Blindness](https://www.nexusmods.com/newvegas/mods/73572) - Removes the blindness effect from explosions.
@@ -88,9 +86,9 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 
 [Retrievable Railway Spikes](https://www.nexusmods.com/newvegas/mods/83676) - Allows for retrieval of railway spikes from targets who are hit by TTW's railway rifle.
 
-[Simply Less Junk](https://www.nexusmods.com/newvegas/mods/84277) - Culls a customizable percentage of various item types to help mitigate save bloat and useless world loot.
+[Simply Less Junk. esp-less](https://www.nexusmods.com/newvegas/mods/84277) - Culls a customizable percentage of various item types to help mitigate save bloat and useless world loot.
 
-[Skill Book Auto-Use](https://www.nexusmods.com/newvegas/mods/82674) - Automatically uses skill books upon pickup.
+[Auto Book Use](https://www.nexusmods.com/newvegas/mods/82674) - Automatically uses skill books upon pickup.
 
 [TTW - More Map Markers](https://www.nexusmods.com/newvegas/mods/67022) and optionally [TTW - More Map Markers - No Download Map Markers](https://www.nexusmods.com/newvegas/mods/86655) - Adds a few more map markers to TTW
 
@@ -99,7 +97,8 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 
 ### Functional Additions
 
-[Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Force yourself into locks & containers, requires [Sweets Keywords](https://www.nexusmods.com/newvegas/mods/83781) 
+[Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Is a systemic mod which allows the player to bypass locks on containers and doors by simply attacking them.
+- Requires [Sweets Keywords](https://www.nexusmods.com/newvegas/mods/83781).
 
 [Hit - Drugs](https://www.nexusmods.com/newvegas/mods/86257) - Adds an abundance of new chems for the discerning junkie and/or dealer! Features many returning favorites from Fallout games past and present. Includes custom animations.
 - Requires [B42 Inject - Animated Item Use - ESPless](https://www.nexusmods.com/newvegas/mods/80437).
@@ -113,11 +112,11 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 
 [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Real-time alternative to the menu-mode hacking and lockpicking mini-games
 
-[Magic Sewer](https://www.nexusmods.com/newvegas/mods/75589) - For all your cross-continental travel needs.
+[MagicSewer.esp](https://www.nexusmods.com/newvegas/mods/75589) - Travel instantly from one Wasteland to the other through nothing more than a magical drainage grate.
 
-[Pip-boy Weapon Mod Vendor](https://www.nexusmods.com/newvegas/mods/84997) - Purchase weapon mods directly through the Pip-boy interface. Optionally have them shipped to any unlocked dropbox.
+[Pip-boy Weapon Mod Vendor - ESPless](https://www.nexusmods.com/newvegas/mods/84997) - Purchase weapon mods directly through the Pip-boy interface. Optionally have them shipped to any unlocked dropbox.
 
-[Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Let's you purchase items that're on display at vendors
+[Purchase Items on Display (xNVSE)](https://www.nexusmods.com/newvegas/mods/78873) - Let's you purchase items that're on display at vendors
 
 [Simple Explosive Entry](https://www.nexusmods.com/newvegas/mods/66992) - Allows the player to use explosives to bypass locks.
 - Use with [Simple Explosive Entry Tweaks](https://www.nexusmods.com/newvegas/mods/85580), which provides tweaks to the mod to make it more seamless and engaging.
@@ -148,8 +147,8 @@ The WSG team **will not** provide support for the following mods. Rather, the in
 - This mod will require a significant number of patches to maintain compatibility.
 
 [True Open World DC](https://www.nexusmods.com/newvegas/mods/84575) - Disables the FO3 main quest, and allows you to visit all main quest locked locations such as Raven Rock and Vault 101 through alternate means, providing a true open world experience in the Capital Wasteland.
-- Incompatible with [TTW Quick Start](https://mod.pub/ttw/54-ttw-3-3-esp-less-quick-start) as both mods alter the game's start.
-- Incompatible with [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030).
+- Incompatible with [TTW Fast Track](https://mod.pub/ttw/54-ttw-3-3-esp-less-quick-start) as both mods alter the game's start.
+- Incompatible with [Rebuild the Capital - A Brotherhood of Steel Expansion Mod TTW Edition](https://www.nexusmods.com/newvegas/mods/68030).
 
 
 ### Player Homes
@@ -177,22 +176,22 @@ All of the mods in this section require LOD generation. Instructions are provide
 [Capital Landscape Additions (TTW)](https://www.nexusmods.com/newvegas/mods/91506) -  Improves the visuals of the Capital Wasteland by adding new set dressing and doing some landscape improvements in various locations across the entire worldspace
 - Unrelated to [Capital Landscapes (TTW)](https://www.nexusmods.com/newvegas/mods/91339)
 
-[Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
+[TTW Another Interior Mod](https://www.nexusmods.com/newvegas/mods/66611) - Adds additional interiors in the DC Wasteland.
 
 [Better Strip View](https://www.nexusmods.com/newvegas/mods/73261) - Adds strip signs and adjusts building position to remain consistent when viewing from anywhere.
 
-[Big Town Extended](https://www.nexusmods.com/newvegas/mods/74825) - Overhauls Big Town.
+[Big Town Extensions](https://www.nexusmods.com/newvegas/mods/74825) - Overhauls Big Town.
 
-[Believable Grub n’ Gulp](https://www.nexusmods.com/newvegas/mods/73974) - Overhauls Grub n’ Gulp.
+[Believable Grub n Gulp](https://www.nexusmods.com/newvegas/mods/73974) - Overhauls Grub n’ Gulp.
 
 [Cottonwood Cove Slave Market](https://www.nexusmods.com/newvegas/mods/74495) - Adds a slave market at Cottonwood Cove to support in-game lore.
 
-[Freeside Facelift Lite](https://www.nexusmods.com/newvegas/mods/72411) - Overhauls Freeside.
+[Freeside Facelift LITE](https://www.nexusmods.com/newvegas/mods/72411) - Overhauls Freeside.
 
 [Gun Runners Actually Run Guns](https://www.nexusmods.com/newvegas/mods/42503) - Expands the Gun Runners to a more lore appropriate role and adds a Gun Runner caravan that travels the Mojave Wasteland.
-- Would recommend use alongside [Sweet's GRARG Patch](https://www.nexusmods.com/newvegas/mods/73327) for generalized balancing.
+- Would recommend use alongside [S6S GRARG Patch](https://www.nexusmods.com/newvegas/mods/73327) for generalized balancing.
 
-[Hidden Valley: Overhauled](https://www.nexusmods.com/newvegas/mods/70859) - Overhauls the Brotherhood of Steel’s Hidden Valley.
+[Hidden Valley Overhauled](https://www.nexusmods.com/newvegas/mods/70859) - Overhauls the Brotherhood of Steel’s Hidden Valley.
 
 [Hoover Dam Bridge Overhaul](https://www.nexusmods.com/newvegas/mods/84212) - Overhauls the Hoover Dam Bridge.
 
@@ -202,7 +201,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Capital Wasteland Settlements Redesign TTW](https://www.nexusmods.com/newvegas/mods/88394) - Overhauls Arefu, Meresti Metro, & Northwest Seneca Station, Canterbury Commons and Underworld Redesign
 
-[Shanty Arefu](https://www.nexusmods.com/newvegas/mods/83904) - Overhauls Arefu.
+[Spifferino Shanty Arefu TTW Port](https://www.nexusmods.com/newvegas/mods/83904) - Overhauls Arefu.
 
 [Vault 22 Flora Overhauled Remastered](https://www.nexusmods.com/newvegas/mods/71521) - Overhauls Vault 22.
 
@@ -217,15 +216,15 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Provides unique perks to NPCs to provide more gameplay quirks and personality to companions. These often take the form of debuffs.
 
-[D.C. NPCs](https://www.nexusmods.com/fallout3/mods/25834?tab=files&file_id=1000030705&nmm=1) - Adds reactivity, clutter, and minor NPCs to the DC wasteland.
+[D.C NPCs](https://www.nexusmods.com/fallout3/mods/25834) - Adds reactivity, clutter, and minor NPCs to the DC wasteland.
 
 [Friendly Strip Factions](https://www.nexusmods.com/newvegas/mods/80453) - Makes the various Strip factions friendly after completing their respective quests.
 
 [NCR Dialogue Expanded](https://www.nexusmods.com/newvegas/mods/83819) - 238 new lines of dialogue for generic NCR troopers, rangers, and MPs.
 
-[Raiders of the Capital Wasteland](https://www.nexusmods.com/newvegas/mods/83487) - Expands the Raiders into a joinable faction with new settlements, interactions, and quests.
-- Patches for [D.C. NPCs](https://www.nexusmods.com/newvegas/mods/83419) and [Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) are provided on the main mod page.
-- Incompatible with [Rebuild the Capital](https://www.nexusmods.com/newvegas/mods/68030).
+[Raiders of the Capital Wasteland - TTW Edition](https://www.nexusmods.com/newvegas/mods/83487) - Expands the Raiders into a joinable faction with new settlements, interactions, and quests.
+- Patches for [D.C. NPCs](https://www.nexusmods.com/fallout3/mods/25834) and [Titans of The New West 2.0](https://www.nexusmods.com/newvegas/mods/78688) are provided on the main mod page.
+- Incompatible with [Rebuild the Capital - A Brotherhood of Steel Expansion Mod TTW Edition](https://www.nexusmods.com/newvegas/mods/68030).
 
 
 ### Creature, Enemy, Weapon, & Armor Overhauls
@@ -236,14 +235,14 @@ All of the mods in this section require LOD generation. Instructions are provide
 - [Classic Fallout 2 Combat Armor MK2](https://www.nexusmods.com/newvegas/mods/78947)
 - [Classic Brotherhood Combat Armor](https://www.nexusmods.com/newvegas/mods/84261)
 - [Classic Replacers for TTW](https://www.nexusmods.com/newvegas/mods/77858) - Use only the "Classic Combat Armor Replacer Redux TTW" file. 
-- [Tweaks for TTW - Combat Armors Replacer](https://www.nexusmods.com/newvegas/mods/88164) - Replaces the Brotherhood/Enclave Combat Armor added by TTW Tweaks with new high quality assets from the Classic Brotherhood Combat Armor Mod.
+- [Tweaks for TTW - Classic Combat Armors Replacer](https://www.nexusmods.com/newvegas/mods/88164) - Replaces the Brotherhood/Enclave Combat Armor added by TTW Tweaks with new high quality assets from the Classic Brotherhood Combat Armor Mod.
 
 [Classic Fallout Metal Armor](https://www.nexusmods.com/newvegas/mods/80930) - Same as above, except for the metal armors.
 - [Classic Fallout Metal Armor MK2](https://www.nexusmods.com/newvegas/mods/79493)
 
 [Better Ghouls - No Roar Animation](https://www.nexusmods.com/newvegas/mods/71101) - Removes ghouls "roar" animation that plays before they attack, meaning they now charge the player instantly - making them much deadlier.
 
-[Bloody Crazied Handies - TTW](https://www.nexusmods.com/newvegas/mods/85455) - Replaces crazed Handies with a bloody variant. 
+[Bloody Crazied Handies - TTW (ESPless or plugin)](https://www.nexusmods.com/newvegas/mods/85455) - Replaces crazed Handies with a bloody variant. 
 
 ### Quests
 
@@ -262,14 +261,13 @@ All of the mods in this section require LOD generation. Instructions are provide
 
 [Vanilla Plus AO](https://www.nexusmods.com/newvegas/mods/94824) - Adds Ambient Occlusion to the game!
 
-[Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
+[TTW - 3.3 - Dual Wasteland Street Lights](https://www.nexusmods.com/newvegas/mods/76230) - Adds functioning street lights across the DC and Mojave wastelands.
 - Contrary to the description on the mod page, the less street lights version does not appear to appreciably impact performance.
 
-[Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing)
-- Texture replacers for the underground metro maps, making them more useful for navigation.
+[Metro Map Replacer](https://drive.google.com/file/d/100KlafE3tkv_sgqwaWJIvsLeihCZei2G/view?usp=sharing) - Texture replacers for the underground metro maps, making them more useful for navigation.
 
-[Titans of the New West (TOTNW)](https://www.nexusmods.com/newvegas/mods/78688) - A complete overhaul and restyle of power armor to provide a more classic, heavy, and imposing experience.
-- See [Webb’s Patch Emporium](https://www.nexusmods.com/newvegas/mods/74174) for the most readily available TOTNW patches.
+[Titans of The New West 2.0](https://www.nexusmods.com/newvegas/mods/78688) - A complete overhaul and restyle of power armor to provide a more classic, heavy, and imposing experience.
+- See [Webb’s Titans of The New West Patch Emporium](https://www.nexusmods.com/newvegas/mods/74174) for the most readily available TOTNW patches.
 
 [TTW - Robco Lights](https://www.nexusmods.com/newvegas/mods/79641) - Adds lights to areas on robots you'd expect would actually emit light.
 
@@ -280,7 +278,7 @@ All of the mods in this section require LOD generation. Instructions are provide
 The following are designed to be placed in the following load order if using the entire suite.
 
 [T4](https://www.nexusmods.com/newvegas/mods/66903) - A female body replacer.
-- Also requires [T4 Modest](https://www.nexusmods.com/newvegas/mods/69642) to prevent incompatibility and clipping with mods that edit armors.
+- Also requires [More Modest Type 4 Body and Armor](https://www.nexusmods.com/newvegas/mods/69642) to prevent incompatibility and clipping with mods that edit armors.
 
 [Improved Vanilla Male Body (IVMB)](https://www.nexusmods.com/newvegas/mods/70160) - A male body replacer.
 
@@ -308,7 +306,7 @@ The following are designed to be placed in the following load order if using the
 
 [Dog Sneak Animations](https://www.nexusmods.com/newvegas/mods/96002) - Add Sneak Animations for Rex, Dogmeat and other dog companions so they can sneak with the player
 
-[Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=description) - Improves the animations associated with all ragdoll physics.
+[Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes - Reactive Ragdolls](https://www.nexusmods.com/newvegas/mods/81591?tab=description) - Improves the animations associated with all ragdoll physics.
 - The following are designed to be placed in the following load order.
 - [NV Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
 - [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147)
