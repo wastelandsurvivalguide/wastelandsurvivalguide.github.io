@@ -55,13 +55,8 @@ const sidebars = {
         },
         {
           type: "link",
-          label: "Tools to Avoid",
-          href: "https://vivanewvegas.moddinglinked.com/avoid-tools.html",
-        },
-        {
-          type: "link",
-          label: "Mods to Avoid",
-          href: "https://vivanewvegas.moddinglinked.com/avoid-mods.html",
+          label: "Safe Modding",
+          href: "https://vivanewvegas.moddinglinked.com/safe-modding.html",
         },
         {
           type: "link",
