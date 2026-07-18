@@ -48,7 +48,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### CAGE/CAE (Continue After Game Ending)
 
-- Use [FPGE](content#fpge) instead.
+- Use [FPGEL](content#fpgel---functional-post-game-ending-lite) instead.
 
 #### Plugins Plus (pplus)
 
@@ -129,7 +129,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### IMPACT
 
-- incompatible hard edits to weapons, but the scripted [Impact Compatibility Edition](https://www.nexusmods.com/newvegas/mods/62050) will work fine.
+- incompatible hard edits to weapons, but the scripted [Impact - Compatibility Edition](https://www.nexusmods.com/newvegas/mods/62050) will work fine.
 
 #### Increased Wasteland Spawns
 
@@ -232,7 +232,7 @@ when you use LOOT on TTW - your mods will essentially be randomized. **Don't use
 
 #### Weapon sound overhauls
 
-- Make edits to weapon records breaking them, can be patched. Use [AWSOME](https://www.nexusmods.com/newvegas/mods/77723).
+- Make edits to weapon records breaking them, can be patched. Use [AWSOMER](ambience#all-weapon-sound-overhaul-modern-edition-redone---awsomer).
 
 ## Minor Incompatibilities
 
