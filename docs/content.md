@@ -64,7 +64,7 @@ This mod is a merge of several content restoration mods
     - [x] Tale Of Two Wastelands
     - [x] The Living Desert
     - [ ] The New Bison Steve Hotel and Lucky Casino
- - Optional File - [Much Needed LOD Patch](https://www.nexusmods.com/newvegas/mods/95700?tab=files&file_id=1000177832&nmm=1)  
+- Optional File - [Much Needed LOD Patch](https://www.nexusmods.com/newvegas/mods/95700?tab=files&file_id=1000177832&nmm=1)  
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
 
