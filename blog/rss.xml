@@ -17,9 +17,12 @@
             <content:encoded><![CDATA[<p><code>Put one foot in front of the other...~</code></p>
 <hr>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="07112026">07/11/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#07112026" class="hash-link" aria-label="Direct link to 07/11/2026" title="Direct link to 07/11/2026" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Added Trooper's Much Needed Lod Patch, for uncut merge</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="lod">LOD<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#lod" class="hash-link" aria-label="Direct link to LOD" title="Direct link to LOD" translate="no">​</a></h3>
+<ul>
 <li class="">Updated Pregen LOD</li>
 </ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="07092026">07/09/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#07092026" class="hash-link" aria-label="Direct link to 07/09/2026" title="Direct link to 07/09/2026" translate="no">​</a></h2>
@@ -36,7 +39,7 @@
 <ul>
 <li class="">Updated ELMO - Custom INI</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-1">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-1" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Replaced Goodies With Troopers Uncut Merge</li>
 <li class="">Removed Goodies Patches</li>
@@ -82,7 +85,7 @@
 <li class="">Added ITR NVSE</li>
 <li class="">Added ITR NVSE - Custom INI</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-1">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-1" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-2">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-2" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Updated Mojave Wildlife</li>
 <li class="">Added Mojave Wildlife - Custom INI</li>
@@ -100,7 +103,7 @@
 <li class="">Removed TTW Reputations</li>
 <li class="">Added Modern Night Vision - INI</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-2">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-2" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-3">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-3" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Added TTW (D.I.E.O.) - BiReputation Checks Version</li>
 <li class="">Removed DIEO - Tale of Bi Wastelands Patch</li>
@@ -137,7 +140,7 @@
 <ul>
 <li class="">Removed Component Options on Consistent Pip-Boy Icons v5 - Dynamicon</li>
 </ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-3">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-3" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-4">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-4" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Updated Goodies</li>
 <li class="">Updated Goodies INI</li>
@@ -158,7 +161,7 @@
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="03022026">03/02/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#03022026" class="hash-link" aria-label="Direct link to 03/02/2026" title="Direct link to 03/02/2026" translate="no">​</a></h2>
 <p>Just a reversal of the previous update. ZL's mods are back.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="09012026">09/01/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#09012026" class="hash-link" aria-label="Direct link to 09/01/2026" title="Direct link to 09/01/2026" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-4">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-4" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-5">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-5" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Removed ZL Armaments and its 3DNPCs patch.</li>
 </ul>
@@ -167,7 +170,7 @@
 <li class="">Removed TTW Perk Overhaul ZL Armaments patch.</li>
 </ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="05012026">05/01/2026<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#05012026" class="hash-link" aria-label="Direct link to 05/01/2026" title="Direct link to 05/01/2026" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-5">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-5" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="content-6">Content<a href="https://wastelandsurvivalguide.github.io/blog/2026/01/05/changelog#content-6" class="hash-link" aria-label="Direct link to Content" title="Direct link to Content" translate="no">​</a></h3>
 <ul>
 <li class="">Another Millennia and Another Millennia Gun Addon both updated, and no longer need any optional files. Yippee!</li>
 </ul>
