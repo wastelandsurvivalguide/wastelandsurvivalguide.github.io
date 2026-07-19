@@ -60,10 +60,12 @@ This mod is a merge of several content restoration mods
     - [x] AWOP Revised
     - [ ] Functional Post Game Ending
     - [ ] Mojave Raiders
+    - [x] Much Needed LOD
     - [ ] NV Interiors Remastered
     - [x] Tale Of Two Wastelands
     - [x] The Living Desert
     - [ ] The New Bison Steve Hotel and Lucky Casino
+    - [ ] Simple Open Strip
  
 
 ### [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867)
