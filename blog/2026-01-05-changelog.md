@@ -6,7 +6,7 @@
 ## 07/11/2026
 
 ### Content
-- Added Trooper's Much Needed Lod Patch, for uncut merge
+- Updated Trooper's Uncut Merge FOMOD (Added Much Needed Lod Patch)
 
 ### LOD
 - Updated Pregen LOD
