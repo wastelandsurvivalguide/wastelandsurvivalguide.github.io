@@ -26,7 +26,6 @@ All of the following mods are **REQUIRED**:
 
 - Main File - Much Needed LOD
   - Delete `MuchNeededLOD.esp` and the `meshes\effects\` folder.
-- Optional File - [Much Needed LOD Patch](https://www.nexusmods.com/newvegas/mods/95700?tab=files&file_id=1000177832&nmm=1)
 
 ### [Much Needed LOD fixed rocks color](https://www.nexusmods.com/newvegas/mods/81524)
 
