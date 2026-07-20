@@ -306,24 +306,9 @@ The following are designed to be placed in the following load order if using the
 
 [Dog Sneak Animations](https://www.nexusmods.com/newvegas/mods/96002) - Add Sneak Animations for Rex, Dogmeat and other dog companions so they can sneak with the player
 
-[Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes - Reactive Ragdolls](https://www.nexusmods.com/newvegas/mods/81591?tab=description) - Improves the animations associated with all ragdoll physics.
-- The following are designed to be placed in the following load order.
-- [NV Compatibility Skeleton](https://www.nexusmods.com/newvegas/mods/68776)
-- [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147)
-- [Death Throes](https://www.nexusmods.com/newvegas/mods/81591?tab=description)
-  - Modified Ragdolls
-    - This plugin overwrites the original Ragdolls plugin.
-  - Reactive Ragdolls
-    - This is the death throes main file and should follow the modified Ragdolls plugin.
-  - Constraints
-    - This is an optional file that changes the physical properties of many armor types to allow for more convincing ragdoll animations.
-  - Projectile Forces
-    - This is an optional file that provides custom re-assignment of projectile forces, as vanilla values are inconsistent with their real-life caliber counterparts.
-   
 ### Audio
 [The Golden Archive](https://mod.pub/falloutnv/122-the-golden-archive) - Greatly extends Radio New Vegas with 200+ lore friendly tracks.
 - If using alongside [A Music Addition - Revised](https://www.nexusmods.com/newvegas/mods/84554), use the TTW - No Radio New Vegas version of Music Addition available in the FOMOD.
-
 
 ## Changelog
 1.9 - 3/11/2025
