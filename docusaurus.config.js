@@ -15,8 +15,6 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  plugins: ["docusaurus-plugin-image-zoom"],
-
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -56,16 +54,6 @@ const config = {
         apiKey: "a62240650a1665512559c9fd6006d035",
         indexName: "wastelandsurvivalguide",
         contextualSearch: false,
-      },
-      // Image zoom plugin
-      zoom: {
-        selector: ".markdown :not(em) > img",
-        background: {
-          light: "rgba(0,0,0,0.3)",
-          dark: "rgba(0,0,0,0.5)",
-        },
-        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
-        config: {},
       },
       colorMode: {
         defaultMode: "dark",
