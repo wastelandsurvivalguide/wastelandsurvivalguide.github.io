@@ -14,6 +14,13 @@ const config = {
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+  future: {
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+      fasterByDefault: true,
+    },
+    faster: true,
+  },
 
   i18n: {
     defaultLocale: "en",
