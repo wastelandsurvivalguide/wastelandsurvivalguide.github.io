@@ -37,8 +37,7 @@ This mod is a merge of several content restoration mods
 #### Installation:
 
 - Main File - Trooper's Uncut Merge
-  - Main File:
-    - [x] Main File
+- Optional File - Patches And Optionals
   - Optional Add-Ons:
     - [ ] Beta Mr House
     - [ ] Clean Tops Casino Interior
