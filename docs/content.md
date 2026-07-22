@@ -57,6 +57,7 @@ This mod is a merge of several content restoration mods
     - [ ] A Lightweight Strip Overhaul
     - [ ] AWOP
     - [x] AWOP Revised
+    - [ ] Essential Vanilla Enhancements Merged
     - [ ] Functional Post Game Ending
     - [ ] Mojave Raiders
     - [x] Much Needed LOD
