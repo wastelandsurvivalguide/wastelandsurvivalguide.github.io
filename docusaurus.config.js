@@ -10,7 +10,6 @@ const config = {
   baseUrl: "/",
   organizationName: "wastelandsurvivalguide",
   projectName: "wastelandsurvivalguide.github.io",
-  deploymentBranch: "gh-pages",
   trailingSlash: false,
   onBrokenLinks: "throw",
   markdown: {
