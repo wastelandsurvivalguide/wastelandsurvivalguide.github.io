@@ -44,10 +44,15 @@ const sidebars = {
       type: "category",
       label: "Appendix",
       items: [
-        "faq",
-        "contributors",
-        "incompatible",
         "additions",
+        "incompatible",
+        "contributors",
+      ],
+    },
+    {
+      type: "category",
+      label: "Resources",
+      items: [
         {
           type: "link",
           label: "LOD Guide",

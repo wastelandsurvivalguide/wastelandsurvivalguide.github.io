@@ -20,13 +20,9 @@ A _non-exhaustive_ list of recommended mods that are recommended, but require ma
 
 Guide on how to generate LOD with FNVLODgen.
 
-### [Tools to Avoid](https://vivanewvegas.moddinglinked.com/avoid-tools.html)
+### [Safe Modding](https://vivanewvegas.moddinglinked.com/safe-modding.html)
 
-A list of popular modding tools and mod managers that should be avoided, and what to use instead.
-
-### [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
-
-A list of popular mods that should be avoided, and what to use instead.
+A list of popular mods and tools that should be avoided, and what to use instead.
 
 ### [Dangerous Dogmas](https://moddinglinked.com/dogmas.html)
 
