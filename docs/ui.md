@@ -110,13 +110,13 @@ Makes the loadwheel less intrusive by moving it to the corner of the screen and 
 
 - Main File - Scum's Considerably Cute Corner Load Wheel (Vanilla)
 
-### [Simple Loadwheels](https://www.nexusmods.com/newvegas/mods/78974)
+### [Simple UI Elements](https://www.nexusmods.com/newvegas/mods/78974)
 
 Replaces the vanilla loading wheel with a sleek, minimalist design.
 
 #### Installation:
 
-- Main File - Radiation Loadwheel
+- Main File - Loadwheel - Radiation
 
 ### [Main Menu Redone](https://www.nexusmods.com/newvegas/mods/76352)
 
