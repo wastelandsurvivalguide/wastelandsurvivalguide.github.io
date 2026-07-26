@@ -1,0 +1,184 @@
+[
+    {
+        "date": "11/07/2026",
+        "pagefiles": {
+            "content": [
+                "Updated Trooper's Uncut Merge FOMOD (Added Much Needed Lod Patch)"
+            ],
+            "lod": [
+                "Updated Pregen LOD"
+            ]
+        }
+    },
+    {
+        "date": "02/07/2026",
+        "description": "NOT MID-SAVE-SAFE",
+        "pagefiles": {
+            "ui": [
+                "Updated ELMO - Custom INI"
+            ],
+            "content": [
+                "Replaced Goodies With Troopers Uncut Merge",
+                "Removed Goodies Patches"
+            ],
+            "ambience": [
+                "Added Impostors and LOD Flicker Fix - ESPless"
+            ],
+            "lod": [
+                "Updated Pregen Lod"
+            ],
+            "finish": [
+                "Updated load order"
+            ]
+        }
+    },
+    {
+        "date": "09/07/2026",
+        "pagefiles": {
+            "fixes": [
+                "Added hNVSE"
+            ],
+            "ambience": [
+                "Added ATMOS DLC Overhaul Part I and II"
+            ]
+        }
+    },
+    {
+        "date": "21/06/2026",
+        "pagefiles": {
+            "combat": [
+                "Replaced Melee Hitstop Effects with Melee Hit Stop (ESPless)"
+            ]
+        }
+    },
+    {
+        "date": "20/06/2026",
+        "pagefiles": {
+            "overhaul": [
+                "Added TTW Perk Overhaul - ySI - Colorful Icons Patch"
+            ]
+        }
+    },
+    {
+        "date": "08/06/2026",
+        "pagefiles": {
+            "ui": [
+                "Replaced B42 Notify With ELMO",
+                "Added ELMO - Custom INI"
+            ]
+        }
+    },
+    {
+        "date": "05/05/2026",
+        "pagefiles": {
+            "ui": [
+                "Added Companion Wheel Extender - ESPless",
+                "Added Reinvented the (Companion) Wheel",
+                "Removed Clean Companion Wheel"
+            ]
+        }
+    },
+    {
+        "date": "24/04/2026",
+        "pagefiles": {
+            "fixes": [
+                "Added ITR NVSE",
+                "Added ITR NVSE - Custom INI"
+            ],
+            "content": [
+                "Updated Mojave Wildlife",
+                "Added Mojave Wildlife - Custom INI"
+            ]
+        }
+    },
+    {
+        "date": "01/03/2026",
+        "pagefiles": {
+            "fixes": [
+                "Added Depth Resolve"
+            ],
+            "gameplay": [
+                "Added TTW BiReputationChecks (Replaces Tale of Bi Wastelands, TTW Reputations, TTW NV Speech check + Patches)",
+                "Removed TTW N.V. Speech Check",
+                "Removed Tale of Bi Wastelands",
+                "Removed TTW Reputations",
+                "Added Modern Night Vision - INI"
+            ],
+            "content": [
+                "Added TTW (D.I.E.O.) - BiReputation Checks Version",
+                "Removed DIEO - Tale of Bi Wastelands Patch",
+                "Added The Great DLC Interior Overhaul"
+            ],
+            "combat": [
+                "Added Simple Attack Reactions -  TTW - AIO",
+                "Removed (A) SAR Settings - DT",
+                "Removed (B) SAR Setting - DT - Player"
+            ],
+            "overhaul": [
+                "Added TTW Perk and Consumables Overhaul - BiRepChecks",
+                "Removed TTW Perk Overhaul - Remastered (File Above Replaces it)",
+                "Added RAD - Overhaul Fixed Plugin for TTW"
+            ],
+            "ambience": [
+                "Added Assorted UI Textures"
+            ],
+            "lod": [
+                "Added Sqeps Random TTW LOD Hub - RubbleBlockade LOD Fixed",
+                "Added Physicially Based LOD",
+                "Updated Pregen LOD"
+            ]
+        }
+    },
+    {
+        "date": "28/02/2026",
+        "pagefiles": {
+            "optimizations": [
+                "Replaced ExRB with New Vegas New Vegas Interior Optimization Project"
+            ],
+            "ui": [
+                "Removed Component Options on Consistent Pip-Boy Icons v5 - Dynamicon"
+            ],
+            "content": [
+                "Updated Goodies",
+                "Updated Goodies INI",
+                "Added ExtraGoodies",
+                "Updated Trooper's TTW Patches install instructions"
+            ],
+            "ambience": [
+                "Added WTH",
+                "Added WTH Anti-Material Rifle Fix - TTW Patch",
+                "Added Weapon Textures from Heaven - aWRP Patch",
+                "Added Weapon Retexture from EVE"
+            ],
+            "finish": [
+                "Updated load order"
+            ]
+        }
+    },
+    {
+        "date": "03/02/2026",
+        "description": "Just a reversal of the previous update. ZL's mods are back."
+    },
+    {
+        "date": "09/01/2026",
+        "pagefiles": {
+            "content": [
+                "Removed ZL Armaments and its 3DNPCs patch"
+            ],
+            "overhaul": [
+                "Removed TTW Perk Overhaul ZL Armaments patch"
+            ]
+        }
+    },
+    {
+        "date": "05/01/2026",
+        "pagefiles": {
+            "content": [
+                "Another Millennia and Another Millennia Gun Addon both updated, and no longer need any optional files. Yippee!"
+            ],
+            "ambience": [
+                "Since Another Millennia updated, the LAUG patch for Hit - Millennia Animations is no longer necessary, so that's been removed too"
+            ]
+        }
+    }
+]

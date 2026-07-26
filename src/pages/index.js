@@ -1,22 +1,25 @@
-import React from "react";
-import clsx from "clsx";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import Layout from "@theme/Layout";
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Layout from '@theme/Layout';
 
-import styles from "./index.module.css";
+import Heading from '@theme/Heading';
+import styles from './index.module.css';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <meta name="algolia-site-verification"  content="885BE78EF23D9AAF" />
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <br />
-        {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
+        {/*<p className="hero__subtitle">{siteConfig.tagline}</p>*/}
         <div className={styles.buttons}>
-          <Link className="button button--primary button--lg" to="/docs/intro">
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
             Get Started
           </Link>
         </div>
@@ -26,14 +29,14 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A customizable modding guide for Tale of Two Wastelands."
-    >
+      description="A customizable modding guide for Tale of Two Wastelands.">
       <HomepageHeader />
-      <main></main>
+      <main>
+      </main>
     </Layout>
   );
 }

@@ -14,23 +14,18 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.10.2",
-    "@docusaurus/faster": "^3.10.2",
-    "@docusaurus/preset-classic": "^3.10.2",
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/faster": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
     "@mdx-js/react": "^3.0.0",
-    "@mui/icons-material": "^5.11.11",
-    "@mui/material": "^5.11.12",
-    "clsx": "^1.2.1",
-    "medium-zoom": "^1.0.8",
-    "prism-react-renderer": "^2.4.1",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "clsx": "^2.0.0",
+    "prism-react-renderer": "^2.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.10.2",
-    "@docusaurus/types": "^3.10.2"
+    "@docusaurus/module-type-aliases": "3.10.2",
+    "@docusaurus/types": "3.10.2"
   },
   "browserslist": {
     "production": [
@@ -39,18 +34,12 @@
       "not op_mini all"
     ],
     "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
     ]
   },
   "engines": {
     "node": ">=20.0"
-  },
-  "overrides": {
-    "lodash": "4.18.1",
-    "path-to-regexp": "1.9.0",
-    "serialize-javascript": "7.0.5",
-    "webpack": "5.105.4"
   }
 }

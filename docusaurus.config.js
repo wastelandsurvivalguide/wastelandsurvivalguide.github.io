@@ -1,55 +1,77 @@
 // @ts-check
-const {themes: prismThemes} = require("prism-react-renderer");
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
+
+import {themes as prismThemes} from 'prism-react-renderer';
+
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Wasteland Survival Guide",
-  tagline: "A Tale of Two Wastelands Modding Guide",
-  favicon: "img/wsg.webp",
-  url: "https://wastelandsurvivalguide.github.io/",
-  baseUrl: "/",
-  organizationName: "wastelandsurvivalguide",
-  projectName: "wastelandsurvivalguide.github.io",
+  title: 'Wasteland Survival Guide', // my site
+  tagline: 'A Tale of Two Wastelands Modding Guide', // Dinosaurs are cool
+  favicon: 'img/wsg.webp', //img/favicon.ico
   trailingSlash: false,
-  onBrokenLinks: "throw",
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: "warn",
     }
   },
 
+  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: {
-      removeLegacyPostBuildHeadAttribute: true,
-      fasterByDefault: true,
-    },
-    faster: true,
+    v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
+  // Set the production url of your site here
+  url: 'https://wastelandsurvivalguide.github.io/',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'wastelandsurvivalguide', // Usually your GitHub org/user name.
+  projectName: 'wastelandsurvivalguide.github.io', // Usually your repo name.
+
+  onBrokenLinks: 'throw',
+
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
     [
-      "classic",
+      'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: "docs",
-          routeBasePath: "docs",
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: './sidebars.js',
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/edit/main/",
+            'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/',
         },
         blog: {
           showReadingTime: false,
+          feedOptions: {
+            type: null,
+          },
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/",
+            'https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io/tree/main/',
+          // Useful options to enforce blogging best practices
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
@@ -58,7 +80,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      stylesheets: ["https://fonts.googleapis.com/icon?family=Material+Icons"],
       // Search bar
       algolia: {
         appId: "PGDR3J962U",
@@ -66,16 +87,17 @@ const config = {
         indexName: "wastelandsurvivalguide",
         contextualSearch: false,
       },
+      // Replace with your project's social card
+      image: 'img/socal.webp',
       colorMode: {
         defaultMode: "dark",
-        respectPrefersColorScheme: false,
+        respectPrefersColorScheme: true,
       },
       docs: {
         sidebar: {
           hideable: true,
         },
       },
-      image: "img/social.webp",
       navbar: {
         title: "Wasteland Survival Guide",
         logo: {
@@ -86,22 +108,26 @@ const config = {
           {
             type: "doc",
             docId: "intro",
-            position: "left",
             label: "Guide",
+            position: "left",
           },
           {
-            type: "doc",
-            docId: "faq",
-            position: "left",
-            label: "FAQ",
-          },
-          {
-            type: "doc",
-            docId: "appendix",
-            position: "left",
+            to: "/docs/category/appendix",
             label: "Appendix",
+            position: "left",
           },
-          { to: "/blog", label: "Changelog", position: "left" },
+          {
+            to: "/faq",
+            label: "FAQ",
+            position: "left",
+          },
+          { to: "/blog", label: "Blog", position: "left" },
+          {
+            type: 'docSidebar',
+            position: 'left',
+            sidebarId: 'changelog',
+            label: 'Changelog',
+          },
           {
             href: "https://github.com/wastelandsurvivalguide/wastelandsurvivalguide.github.io",
             //label: "GitHub",
@@ -112,7 +138,7 @@ const config = {
         ],
       },
       footer: {
-        style: "dark",
+        style: 'dark',
         links: [
           {
             label: "The Wasteland Supplemental",
@@ -148,14 +174,13 @@ const config = {
           src: "img/TTW.webp",
           href: "https://taleoftwowastelands.com",
         },
-        copyright: `Copyright <a href="/docs/important">©</a> ${new Date().getFullYear()} Wasteland Survival Guide`,
+        copyright: `Copyright <a href="/docs/important">©</a> ${new Date().getFullYear()} Wasteland Survival Guide Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ["ini"],
       },
     }),
 };
 
-module.exports = config;
+export default config;
