@@ -39,7 +39,9 @@
       "last 5 safari version"
     ]
   },
+  "packageManager": "pnpm@11.17.0",
   "engines": {
-    "node": ">=20.0"
+    "node": ">=20.0",
+    "pnpm": ">=11.10"
   }
 }
