@@ -1,5 +1,13 @@
 [
     {
+        "date": "28/07/2026",
+        "pagefiles": {
+            "ui": [
+                "Removed Update File - MCM Bugfix 2 (Use MCM Extender instead)"
+            ]
+        }
+    },
+    {
         "date": "11/07/2026",
         "pagefiles": {
             "content": [
