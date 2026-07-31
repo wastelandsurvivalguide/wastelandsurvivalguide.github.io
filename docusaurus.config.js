@@ -88,7 +88,7 @@ const config = {
         contextualSearch: false,
       },
       // Replace with your project's social card
-      image: 'img/socal.webp',
+      image: 'img/social.webp',
       colorMode: {
         defaultMode: "dark",
         respectPrefersColorScheme: true,
