@@ -1,4 +1,11 @@
-/* You can override the default Infima variables here. */
+/**
+ * Docusaurus --ifm colors
+ * https://docusaurus.community/knowledge/design/css/variables/
+ *
+ * Algolia DocSearch styling
+ * https://algolia-docsearch.mintlify.app/concepts/styling
+**/
+
 :root {
   --ifm-color-primary: #004f23;
   --ifm-color-primary-dark: #004720;
@@ -11,7 +18,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #1bff80;
   --ifm-color-primary-dark: #00fe70;
@@ -24,28 +30,43 @@
 }
 
 [data-theme='light'] .DocSearch {
+  /* Colors */
+  --docsearch-primary-color: var(--ifm-color-primary);
+  --docsearch-text-color: var(--ifm-font-color-base);
+  --docsearch-highlight-color: var(--ifm-link-color);
   --docsearch-muted-color: var(--ifm-color-secondary-darkest);
-  --docsearch-container-background: rgba(94, 100, 112, 0.7);
+  --docsearch-container-background: rgba(94, 112, 108, 0.7);
+  --docsearch-subtle-color: var(--ifm-color-primary-darkest);
+  --docsearch-logo-color: var(--ifm-color-primary);
+  /* Key */
+  --docsearch-key-background: var(--docsearch-container-background);
+  --docsearch-key-color: var(--ifm-color-white);
   /* Modal */
   --docsearch-modal-background: var(--ifm-color-secondary-lighter);
   /* Button */
-  --docsearch-search-button-background: var(--ifm-color-secondary);
   --docsearch-search-button-text-color: var(--docsearch-muted-color);
   /* Search box */
   --docsearch-searchbox-background: var(--ifm-color-secondary);
   --docsearch-searchbox-focus-background: var(--ifm-color-white);
   /* Hit */
   --docsearch-hit-color: var(--ifm-font-color-base);
-  --docsearch-hit-active-color: var(--ifm-color-white);
   --docsearch-hit-background: var(--ifm-color-white);
   /* Footer */
   --docsearch-footer-background: var(--ifm-color-white);
 }
 
 [data-theme='dark'] .DocSearch {
+  /* Colors */
+  --docsearch-primary-color: var(--ifm-color-primary);
   --docsearch-text-color: var(--ifm-font-color-base);
+  --docsearch-highlight-color: var(--ifm-link-color);
   --docsearch-muted-color: var(--ifm-color-secondary-darkest);
-  --docsearch-container-background: rgba(47, 55, 69, 0.7);
+  --docsearch-container-background: rgba(47, 69, 65, 0.7);
+  --docsearch-subtle-color: var(--ifm-color-primary-darkest);
+  --docsearch-logo-color: var(--ifm-color-primary);
+  /* Key */
+  --docsearch-key-background: var(--docsearch-container-background);
+  --docsearch-key-color: var(--docsearch-muted-color);
   /* Modal */
   --docsearch-modal-background: var(--ifm-background-color);
   /* Button */
@@ -53,10 +74,9 @@
   --docsearch-search-button-text-color: var(--docsearch-muted-color);
   /* Search box */
   --docsearch-searchbox-background: var(--ifm-background-color);
-  --docsearch-searchbox-focus-background: var(--ifm-color-black);
+  --docsearch-searchbox-focus-background: var(--ifm-background-color);
   /* Hit */
   --docsearch-hit-color: var(--ifm-font-color-base);
-  --docsearch-hit-active-color: var(--ifm-color-white);
   --docsearch-hit-background: var(--ifm-color-emphasis-100);
   /* Footer */
   --docsearch-footer-background: var(--ifm-background-surface-color);
@@ -65,4 +85,12 @@
     var(--ifm-color-emphasis-200) 0%,
     var(--ifm-color-emphasis-100) 100%
   );
+}
+
+/* Force colors in hover */
+.DocSearch-Hit[aria-selected='true'] a {
+  background-color: var(--docsearch-highlight-color) !important;
+}
+.DocSearch-Hit[aria-selected='true'] * {
+  color: var(--ifm-color-content-inverse) !important;
 }
