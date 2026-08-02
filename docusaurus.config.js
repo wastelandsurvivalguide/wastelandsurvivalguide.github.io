@@ -181,17 +181,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-  headTags: [
-    {
-      tagName: "link",
-      attributes: {
-        rel: "preload",
-        as: "image",
-        href: "/img/banner.webp",
-        fetchpriority: "high",
-      },
-    },
-  ],
 };
 
 export default config;
