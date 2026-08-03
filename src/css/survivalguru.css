@@ -139,3 +139,9 @@ input[type="checkbox"]:disabled:checked::after {
 .footer {
   background-color: #242526;
 }
+
+/* Code block smaller */
+pre {
+  max-height: 480px;
+  overflow-y: scroll;
+}
