@@ -10,7 +10,7 @@ minimumReleaseAgeIgnoreMissingTime: false
 minimumReleaseAgeExclude:
   - pnpm
   - brace-expansion@5.0.9
-  - fast-uri@3.1.5
+
 trustPolicy: no-downgrade
 trustPolicyIgnoreAfter: 525600 # ignore packages published 1+ year ago
 trustPolicyExclude:
