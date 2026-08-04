@@ -17,6 +17,7 @@ jobs:
           fetch-depth: 0
       - uses: pnpm/setup@v1
       - run: node --version
+      
       - name: Build website
         run: pnpm run build
 
