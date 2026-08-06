@@ -8,6 +8,10 @@ on:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
   workflow_dispatch:
 
+concurrency:
+  group: "page-deployment"
+  cancel-in-progress: false
+
 jobs:
   build:
     name: Build Docusaurus
@@ -17,7 +21,9 @@ jobs:
         with:
           fetch-depth: 0
       - uses: pnpm/setup@v2.0.0
-      - run: node --version
+        with:
+          install: false
+      - run: pnpm install --frozen-lockfile
       
       - name: Build website
         run: pnpm run build
