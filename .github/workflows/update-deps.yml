@@ -26,6 +26,7 @@ jobs:
           install: false
       - uses: pnpm/update@v0
         with:
+          update-deps: ranges
           refresh-lockfile: true
           changesets: false
           commit-message: "chore: update dependencies, Node.js and pnpm"
