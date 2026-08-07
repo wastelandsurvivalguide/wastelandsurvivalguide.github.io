@@ -1,0 +1,22 @@
+name: PNPM Audit
+
+on:
+  schedule:
+    - cron: "* * */3 * *"
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  audit:
+    name: Audit dependencies
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          fetch-depth: 0
+      - uses: pnpm/setup@v2.0.0
+        with:
+          install: false
+
+      - name: Audit
+        run: pnpm audit
