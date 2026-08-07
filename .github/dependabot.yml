@@ -23,12 +23,31 @@ updates:
 
   - package-ecosystem: npm
     directory: "/"
-    versioning-strategy: lockfile-only
+    versioning-strategy: increase
+    groups:
+      docusaurus:
+        patterns:
+          - "@docusaurus/*"
+        update-types:
+          - "minor"
+          - "patch"
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
+        update-types:
+          - "minor"
+          - "patch"
+      dependencies:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
     schedule:
       interval: "weekly"
     cooldown:
       default-days: 3
-      semver-major-days: 7
       semver-minor-days: 4
       semver-patch-days: 4
     commit-message:
