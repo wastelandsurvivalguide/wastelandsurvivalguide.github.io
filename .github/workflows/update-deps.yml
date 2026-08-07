@@ -28,7 +28,6 @@ jobs:
         with:
           refresh-lockfile: true
           changesets: false
-          update-pnpm-minimum-release-age: 0
           commit-message: "chore: update dependencies, Node.js and pnpm"
           pr-title: "chore: update dependencies, Node.js and pnpm"
           pr-body: |
