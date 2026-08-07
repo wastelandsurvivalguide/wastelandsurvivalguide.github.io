@@ -1,0 +1,40 @@
+name: Update Dependencies
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Every Monday at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-dependencies
+  cancel-in-progress: false
+
+jobs:
+  update-dependencies:
+    if: github.repository == "wastelandsurvivalguide/wastelandsurvivalguide.github.io" # Don't run on forks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - uses: pnpm/setup@v2.0.1
+        with:
+          install: false
+      - uses: pnpm/update@v0
+        with:
+          refresh-lockfile: true
+          changesets: false
+          update-pnpm-minimum-release-age: 0
+          commit-message: "chore: update dependencies, Node.js and pnpm"
+          pr-title: "chore: update dependencies, Node.js and pnpm"
+          pr-body: |
+            This automated PR bumps the project's dependencies and pinned versions:
+
+            - Updates all dependencies to their latest versions and refreshes the lockfile.
+            - Bumps Node.js to the latest pinned release, propagated into the CI, release, and benchmark workflows via the meta-updater.
+            - Bumps pnpm to the latest release (`packageManager` and `devEngines.packageManager`).
+            - Updates the GitHub Actions pinned in the workflow files.
