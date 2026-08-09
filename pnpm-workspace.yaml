@@ -6,10 +6,11 @@ minimumReleaseAge: 4320 # 3 days in minutes
 minimumReleaseAgeStrict: true
 minimumReleaseAgeIgnoreMissingTime: false
 minimumReleaseAgeExclude:
+  - '@pnpm/*'
   - pnpm
 
 trustPolicy: no-downgrade
-trustPolicyIgnoreAfter: 525600 # ignore packages published 1+ year ago
+trustPolicyIgnoreAfter: 262800 # ignore packages published 6 months ago
 trustPolicyExclude:
   - 'detect-port@1.6.1'
   - 'semver@6.3.1'
