@@ -1,5 +1,22 @@
 [
     {
+        "date": "09/08/2026",
+        "pagefiles": {
+            "fixes": [
+                "Added Supplementary Fixes And Tweaks",
+            ],
+            "gameplay": [
+                "Added Narrative-Consistent Gameplay Tweaks",
+            ],
+              "lod": [
+                "Updated Pregen LOD"
+            ],
+              "finish": [
+                "Updated load order"
+            ]
+        }
+    },
+    {
         "date": "28/07/2026",
         "pagefiles": {
             "ui": [
