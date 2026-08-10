@@ -19,11 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7.0.1
-        with:
-          persist-credentials: false
       - uses: pnpm/setup@v2.0.1
-        with:
-          install: false
       - uses: pnpm/update@v0
         with:
           update-deps: false
