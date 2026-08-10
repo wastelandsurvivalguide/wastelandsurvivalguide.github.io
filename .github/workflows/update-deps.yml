@@ -19,12 +19,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7.0.1
-      - uses: pnpm/setup@v2.0.1
-      - uses: pnpm/update@v0
         with:
-          update-deps: false
+          persist-credentials: false
+      - uses: pnpm/setup@v2.0.1
+        with:
+          install: false
+
+      - name: Update dependencies, Node.js and pnpm
+        uses: pnpm/update@v0
+        with:
+          update-deps: ranges
           refresh-lockfile: true
           changesets: false
+          branch: chore/update-lockfile
           commit-message: "chore: update dependencies, Node.js and pnpm"
           pr-title: "chore: update dependencies, Node.js and pnpm"
           pr-body: |
