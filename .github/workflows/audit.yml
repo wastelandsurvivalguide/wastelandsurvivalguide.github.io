@@ -2,7 +2,7 @@ name: PNPM Audit
 
 on:
   schedule:
-    - cron: "0 0 */7 * *"
+    - cron: "0 0 */3 * *"
   pull_request:
   workflow_dispatch:
 
