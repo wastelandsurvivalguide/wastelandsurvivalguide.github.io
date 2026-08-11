@@ -1,5 +1,13 @@
 [
     {
+        "date": "11/08/2026", 
+        "pagefiles": {
+            "lod": [
+                "Updated Object Pregen LOD"
+            ]
+        }
+    },
+    {
         "date": "09/08/2026",
         "pagefiles": {
             "fixes": [
