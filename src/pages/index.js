@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -10,7 +11,6 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <meta name="algolia-site-verification"  content="885BE78EF23D9AAF" />
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -34,6 +34,9 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title}`}
       description="A customizable modding guide for Tale of Two Wastelands.">
+      <Head>
+        <meta name="algolia-site-verification"  content="885BE78EF23D9AAF" />
+      </Head>
       <HomepageHeader />
       <main>
       </main>
