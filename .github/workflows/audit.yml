@@ -1,8 +1,8 @@
 name: PNPM Audit
 
 on:
-  schedule:
-    - cron: "0 0 */3 * *"
+  #schedule:
+    #- cron: "0 0 */3 * *"
   pull_request:
   workflow_dispatch:
 
