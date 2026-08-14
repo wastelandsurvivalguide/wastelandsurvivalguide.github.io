@@ -4,14 +4,9 @@
         "pagefiles": {
         "gameplay": [
              "Replaced Repeatable Quests Rewards Rebalanced (TTW) with Radiant Rewards Redone - TTW"
-            ]
-        }
-    },
-    {
-        "date": "13/08/2026",
-        "pagefiles": {
-            "lod": [
-                "Fixed and updated Pregen LOD"
+        ],
+          "lod": [
+             "Fixed and updated Pregen LOD"
             ],
             "finish": [
                 "Updated Load Order"
