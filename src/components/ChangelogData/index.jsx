@@ -7,6 +7,15 @@ const parseDate = (dateStr) => {
   const [day, month, year] = dateStr.split('/');
   return new Date(year, month - 1, day);
 };
+// Formats the raw string into "Month DD, YYYY"
+const formatDate = (dateStr) => {
+  const date = parseDate(dateStr);
+  return date.toLocaleDateString('en-US', { 
+    month: 'long', 
+    day: 'numeric', 
+    year: 'numeric' 
+  });
+};
 
 export default function ChangelogDisplay({ mode, category, year }) {
 
@@ -25,7 +34,7 @@ export default function ChangelogDisplay({ mode, category, year }) {
     if (!latestEntry) return null;
 
     return (
-      <Details summary={`Last Changes: ${latestEntry.date}`}>
+      <Details summary={`Last Changes: ${formatDate(latestEntry.date)}`}>
         <ul style={{ paddingLeft: '1.5rem' }}>
           {latestEntry.pagefiles[category].map((change, index) => (
             <li key={index}>{change}</li>
@@ -49,7 +58,7 @@ export default function ChangelogDisplay({ mode, category, year }) {
     return (
       <>
         {yearlyEntries.map((entry, index) => (
-          <Details key={index} summary={entry.date}>
+          <Details key={index} summary={formatDate(entry.date)}>
             
             {/* If a description exists, we display it */}
             {entry.description && <p><em>{entry.description}</em></p>}
