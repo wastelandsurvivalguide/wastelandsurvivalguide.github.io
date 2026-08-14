@@ -1,6 +1,17 @@
 [
     {
-        "date": "11/08/2026", 
+        "date": "13/08/2026",
+        "pagefiles": {
+            "lod": [
+                "Fixed and updated Pregen LOD"
+            ],
+            "finish": [
+                "Updated Load Order"
+            ]
+        }
+    },
+    {
+        "date": "11/08/2026",
         "pagefiles": {
             "lod": [
                 "Updated Object Pregen LOD"
