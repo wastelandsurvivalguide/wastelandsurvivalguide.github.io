@@ -2,7 +2,10 @@
     {
         "date": "14/08/2026",
         "pagefiles": {
-        "gameplay": [
+           "fixes": [
+          "Removed Slideshow FOV Fix"
+        ],
+          "gameplay": [
              "Replaced Repeatable Quests Rewards Rebalanced (TTW) with Radiant Rewards Redone - TTW"
         ],
           "lod": [
