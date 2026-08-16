@@ -31,6 +31,7 @@ jobs:
           update-deps: ranges
           refresh-lockfile: true
           changesets: false
+          update-pnpm: latest
           update-pnpm-minimum-release-age: 0
           branch: chore/update-lockfile
           commit-message: "chore: update dependencies, Node.js and pnpm"
