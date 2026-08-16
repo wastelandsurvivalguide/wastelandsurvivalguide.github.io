@@ -82,9 +82,9 @@ const config = {
     ({
       // Search bar
       algolia: {
-        appId: "PGDR3J962U",
-        apiKey: "a62240650a1665512559c9fd6006d035",
-        indexName: "wastelandsurvivalguide",
+        appId: 'T0T4CP7RP1',
+        apiKey: '944bebd6c0d62f56dea108306d9a6759',
+        indexName: 'Wasteland Survival Guide - Fallout TTW',
         contextualSearch: false,
       },
       // Replace with your project's social card
