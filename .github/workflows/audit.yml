@@ -3,7 +3,7 @@ name: PNPM Audit
 on:
   #schedule:
     #- cron: "0 0 */3 * *"
-  pull_request:
+  #pull_request:
   workflow_dispatch:
 
 permissions:
