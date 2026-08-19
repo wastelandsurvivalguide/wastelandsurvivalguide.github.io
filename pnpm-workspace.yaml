@@ -1,6 +1,17 @@
 overrides:
   "serialize-javascript": "^7.0.5"
   "uuid": "^11.1.1"
+  # versions of @peculiar package higher than 2.8.0 are not reliable at this time
+  "@peculiar/asn1-cms": "2.8.0"
+  "@peculiar/asn1-csr": "2.8.0"
+  "@peculiar/asn1-pkcs9": "2.8.0"
+  "@peculiar/asn1-rsa": "2.8.0"
+  "@peculiar/asn1-ecc": "2.8.0"
+  "@peculiar/asn1-x509": "2.8.0"
+  "@peculiar/asn1-schema": "2.8.0"
+  "@peculiar/asn1-pfx": "2.8.0"
+  "@peculiar/asn1-pkcs8": "2.8.0"
+  "@peculiar/asn1-x509-attr": "2.8.0"
 
 minimumReleaseAge: 4320 # 3 days in minutes
 minimumReleaseAgeStrict: true
