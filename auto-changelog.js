@@ -53,12 +53,12 @@ function buildMarkdown() {
       // If there are page files, we display them grouped by category
       if (entry.pagefiles) {
         Object.keys(entry.pagefiles).forEach(catName => {
-          //mdContent += `#### ${catName}\n\n`;
+          mdContent += `#### ${catName.toUpperCase()}\n\n`;
           entry.pagefiles[catName].forEach(change => {
             mdContent += `- ${change}\n`;
           });
+          mdContent += `\n`;
         });
-        mdContent += `\n`;
       }
     });
 
