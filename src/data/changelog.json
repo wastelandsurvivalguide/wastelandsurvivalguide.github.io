@@ -1,5 +1,13 @@
 [
     {
+        "date": "21/08/2026",
+        "pagefiles": {
+        "content": [
+          "Removed Mojave Raider Lite"
+            ]
+        }
+    },
+    {
         "date": "18/08/2026",
         "pagefiles": {
         "optimizations": [
