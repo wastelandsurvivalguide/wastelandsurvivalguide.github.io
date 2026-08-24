@@ -91,7 +91,7 @@ const config = {
       image: 'img/social.webp',
       colorMode: {
         defaultMode: "dark",
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
       },
       docs: {
         sidebar: {
