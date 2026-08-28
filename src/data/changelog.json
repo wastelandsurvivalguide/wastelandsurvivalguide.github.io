@@ -1,5 +1,14 @@
 [
     {
+        "date": "28/08/2026",
+        "pagefiles": {
+            "lod": [
+                "Physically Based LOD moved below Nuclear LOD",
+                "Updated Object Pregen LOD"
+            ]
+        }
+    },
+    {
         "date": "23/08/2026",
         "pagefiles": {
             "content": [
