@@ -1,5 +1,13 @@
 [
     {
+        "date": "05/09/2026",
+        "pagefiles": {
+            "fixes": [
+                "Added Unique Item KEYWORDS List",
+            ]
+        }
+    },
+    {
         "date": "28/08/2026",
         "pagefiles": {
             "lod": [
