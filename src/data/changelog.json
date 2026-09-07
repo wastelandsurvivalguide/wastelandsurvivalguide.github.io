@@ -1,4 +1,15 @@
 [
+  {
+      "date": "05/09/2026",
+      "pagefiles": {
+          "content": [
+              "Added TLD-MSO LivedInNewVegas 3DNPC Patch"
+          ],
+          "finish": [
+            "Updated Load Order"
+          ]
+      }
+  },
     {
         "date": "05/09/2026",
         "pagefiles": {
