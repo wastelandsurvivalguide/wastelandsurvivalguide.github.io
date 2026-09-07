@@ -1,6 +1,7 @@
 overrides:
   "serialize-javascript": "^7.0.5"
   "uuid": "^11.1.1"
+  "qs": "^6.16.0"
 
 audit:
   ignore:
@@ -19,6 +20,7 @@ trustPolicyIgnoreAfter: 262800 # ignore packages published 6 months ago
 trustPolicyExclude:
   - 'detect-port@1.6.1'
   - 'semver@6.3.1'
+  - 'webpack-dev-middleware@7.4.6'
 
 trustLockfile: false
 blockExoticSubdeps: true
