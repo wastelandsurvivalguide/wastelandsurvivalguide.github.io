@@ -15,8 +15,7 @@ jobs:
           persist-credentials: false
       - uses: pnpm/setup@v2.1.0
         with:
-          install: false
-      - run: pnpm install --frozen-lockfile
-      
+          require-lockfile: true
+
       - name: Test build website
         run: pnpm run build
