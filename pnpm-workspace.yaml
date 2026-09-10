@@ -11,9 +11,6 @@ audit:
 minimumReleaseAge: 4320 # 3 days in minutes
 minimumReleaseAgeStrict: true
 minimumReleaseAgeIgnoreMissingTime: false
-minimumReleaseAgeExclude:
-  - '@pnpm/*'
-  - pnpm
 
 trustPolicy: no-downgrade
 trustPolicyIgnoreAfter: 262800 # ignore packages published 6 months ago
