@@ -1534,50 +1534,50 @@ packages:
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-core@4.73.0':
-    resolution: {integrity: sha512-RIszJgrHcDFwZgs9annRHxwV3sDKSzgmMGCDX/qubP5oorOSpCnOOtsMNUybV8ou8zrSxCX9D/x2z1vP7RVjdA==}
+  '@jsonjoy.com/fs-core@4.75.0':
+    resolution: {integrity: sha512-G0E9RxkI4VhrIFSn5Gy5hPhF4tPXbsjriSnL8TutVs4d5MAocTawlwRSyjcycUsO+DByzpNehI46vmI764YSkw==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-fsa@4.73.0':
-    resolution: {integrity: sha512-KEAAsBH7Adu1xy40Kf+7OllKToTFbxIU9saSipW2TX83rBKogPTvBzB0a343OgmE3iPvH8Sb2qPq+vUB2831Xw==}
+  '@jsonjoy.com/fs-fsa@4.75.0':
+    resolution: {integrity: sha512-IoMlNWjzcFK5NOUZnCx1hWGbYeUhrLg7cwWi0QTLgUCp5WbDCbzUR1ipqeFgyFsyPrUG+bFPgzS35gjlMT9Vyg==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-node-builtins@4.73.0':
-    resolution: {integrity: sha512-Pv/jk/exzEUIKZ8bWSZNY8m6PvFgsKqquKqOOP5nv5vhKyR7ADvLfxyyiA7WujRP05SulJPGiuTrLmhu8R4I+g==}
+  '@jsonjoy.com/fs-node-builtins@4.75.0':
+    resolution: {integrity: sha512-ennOTWjGp8+1lC7Y2Py7cJIS+vR4wF74i/lIpxLMJM8FgkeYBXsgyhPpUgUreB6S9Qpp6CRAVyJp6kgPSFvUMw==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-node-to-fsa@4.73.0':
-    resolution: {integrity: sha512-4l4Txj4YpocKDhKIn3rW2EQrccm7n/JuHz02453cYPdNk1+em5O20pmIZj9Mkufq2ITY5as6hRVIsz3ukemySQ==}
+  '@jsonjoy.com/fs-node-to-fsa@4.75.0':
+    resolution: {integrity: sha512-RH5YQd3vAvTdZL0MV/LyM8tJnKphG8kJyGXaNLxNN5r7ENPUKI55ZkoSzohaHXQfAq6Ef9uxC8MzwFGTKRtYPQ==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-node-utils@4.73.0':
-    resolution: {integrity: sha512-4XQH0iAPMYDlDfEav8vHUyY6cdXtbeSsbZXzG4IATEAxnHtgpgdQmUE2EYgAt2PpIvpDFUOmzQDlxKcj+Vvfeg==}
+  '@jsonjoy.com/fs-node-utils@4.75.0':
+    resolution: {integrity: sha512-gEAojafarixiyZYkoP5J+CeaV6y/SndvUPRz0/pdoa62koLP2D+SHnoWIpyVBBPW6NJ0FVrF+R1K0ZuXhNX2HQ==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-node@4.73.0':
-    resolution: {integrity: sha512-LsZ2NFq6cpK9qMrfbagsQnL42PDNkznrn8hMv59bwoYcMtZ4yQaUTJ1mNQ85sN3dETB+pLfY0HDzuwxMG5fV6Q==}
+  '@jsonjoy.com/fs-node@4.75.0':
+    resolution: {integrity: sha512-+6GrUqEOxnhpXcMHyK1YN48qJWxpA88o+oCvnyY0RlyyKz/hvIsW970GXnoDfGxX6Tt/RRN1lLN4yfZNINwhzQ==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-print@4.73.0':
-    resolution: {integrity: sha512-hgIt4PWKq8lBcBcl+qBvZWTkjymR/xG50LjZAHHMkgQtnsyBZSn234dSam2UiitIhXJk3dWwL1+GvACM/5zfuw==}
+  '@jsonjoy.com/fs-print@4.75.0':
+    resolution: {integrity: sha512-bAyOYr2MRqch6INi34tArXPH4jtm0uEk8uswdmB0TPq7q2Jewwp3xHFaoOXUfCkI/Q7n4w6vccnWS3afmy9nxg==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
 
-  '@jsonjoy.com/fs-snapshot@4.73.0':
-    resolution: {integrity: sha512-bSsUPvd/2gx83JleugI7ZODv8p7QNIdZmOBFAxt3ZGlqbb3mw5k7F4oT1qm7Noz1LMQ2nPgYztlYt9h/1/cB+Q==}
+  '@jsonjoy.com/fs-snapshot@4.75.0':
+    resolution: {integrity: sha512-TQATJHVtL36otQQuYriOnKRRFOBduHGbY0eb4YYgONcPvxijG37+0vTVaDZj9zdDQb8rHHGVr43d3g3mwGw8VA==}
     engines: {node: '>=10.0'}
     peerDependencies:
       tslib: '2'
@@ -2489,8 +2489,8 @@ packages:
     resolution: {integrity: sha512-LElXdjswlqjWrPpJFg1Fx4wpkOCxj1TDHlSV4PlaRxHGWko024xICaa97ZkMfs6DRKlCguiAI+rbXv5GWwXIkg==}
     hasBin: true
 
-  autoprefixer@10.5.5:
-    resolution: {integrity: sha512-uiRYvQYe/nNSzBJ7OUnd2/TZVsAdob3blml44teEpee9Cc1f4rGZFewO+JT3Wo8mgFOSzNqes4FHZn/Qz8WOuw==}
+  autoprefixer@10.5.6:
+    resolution: {integrity: sha512-HiH4oYNc5+DQEx/b8FPfMj+WHH/WWUBmbN5r1Uf/ixtfyFkk+wGIlfJT/RD5eAyzlwkeYRtZUCI8qrEi26pl2g==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
@@ -2536,8 +2536,8 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  baseline-browser-mapping@2.11.21:
-    resolution: {integrity: sha512-uh8vpY/1/YyFkunIDFH/12p7/7VdPKA1hejMVEbdkEaWnUz0Hesvx5EbiU6XxjyHZIOju+ZMbQJkRh+es3/spQ==}
+  baseline-browser-mapping@2.11.22:
+    resolution: {integrity: sha512-pWc4w51fBFd7mav43/zKRC+RI6f4yfzQoVlfvE8dECePyfkn1bzLp01Fj0QACcyCZyFhiEMyD2qScfKRWgWibA==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -2760,8 +2760,8 @@ packages:
     resolution: {integrity: sha512-AF3r7P5dWxL8MxyITRMlORQNaOA2IkAFaTr4k7BUumjPtRpGDTZpl0Pb1XCO6JeDCBdp126Cgs9sMxqSjgYyRg==}
     engines: {node: '>= 0.6'}
 
-  compression@1.8.1:
-    resolution: {integrity: sha512-9mAqGPHLakhCLeNyxPkK4xVo746zQ/czLH1Ky+vkitMnWfWZps8r0qXuwhwizagCRttsL4lfG4pIOvaWLpAP0w==}
+  compression@1.8.2:
+    resolution: {integrity: sha512-o8vI5RE5A6EVVOd9o41jKp41aJom+QTEO/Bx8MYNjexMo/Bv2WOjUfZr+aL0WnYSgymUy6zeguqLTsIhV0gMvQ==}
     engines: {node: '>= 0.8.0'}
 
   concat-map@0.0.1:
@@ -3117,8 +3117,8 @@ packages:
   ee-first@1.1.1:
     resolution: {integrity: sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==}
 
-  electron-to-chromium@1.5.426:
-    resolution: {integrity: sha512-2Gcq6inCQs/AqfHP3f5ftCzk+pqeW2VlA1LgmPqEj2hfBO8HiZRspNYkD4HzFBe4u6lGqca4BspFr6Ix4Q400g==}
+  electron-to-chromium@1.5.427:
+    resolution: {integrity: sha512-n14zb3FdsChZ2BNobqNHAJMcP3ifFv4paox2LvCrfVAQcqGiSURgbJl+PfMpHVCNFkStnNc+RRVtPBTVW5PDgw==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -3774,8 +3774,8 @@ packages:
     resolution: {integrity: sha512-/imKNG4EbWNrVjoNC/1H5/9GFy+tqjGBHCaSsN+P2RnPqjsLmv6UD3Ej+Kj8nBWaRAwyk7kK5ZUc+OEatnTR3A==}
     hasBin: true
 
-  joi@17.13.7:
-    resolution: {integrity: sha512-MF80Dm5Y2veNy8QWVx9Bj3ui4mo7+VPSPsR1M+oaHXV0Gx6zGX9a2F+OZG3Blby9tOlzU9Rs5FUimlEhbKtfnQ==}
+  joi@17.13.8:
+    resolution: {integrity: sha512-iPKOGmiRw1jxf/JOPwxmCcUQAOdF359mdzYiP2DJ+TMX0YK2zjK3D+zYOaGjpumWxOFF/l2xVWjRVK5bGSLdEw==}
 
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
@@ -4024,8 +4024,8 @@ packages:
     resolution: {integrity: sha512-dq+qelQ9akHpcOl/gUVRTxVIOkAJ1wR3QAvb4RsVjS8oVoFjDGTc679wJYmUmknUF5HwMLOgb5O+a3KxfWapPQ==}
     engines: {node: '>= 0.6'}
 
-  memfs@4.73.0:
-    resolution: {integrity: sha512-/TjmMp5j+5y+MpenASLkkdiQVcTY/bOHhFk1Bc+fdj8DwRTFsvcz6qQqlvkO1yPtH5l4lcV4qoGri3cLz0grUQ==}
+  memfs@4.75.0:
+    resolution: {integrity: sha512-ds3qQCghw0FsG9S+CSAR9F1n5nCwlA7Z5Mf8xgRec6iBAVPPwldmD5UxJhMstWhMhOVBwZ/FoBz09B46m3Le/g==}
 
   merge-descriptors@1.0.3:
     resolution: {integrity: sha512-gaNvAS7TZ897/rVaZ0nMtAyxNyi/pdbjbAwUpFQpN70GqnVfOiXpeUUMKRBmzXaSQ8DdTX4/0ms62r2K+hE6mQ==}
@@ -4059,8 +4059,8 @@ packages:
   micromark-extension-gfm-strikethrough@2.1.0:
     resolution: {integrity: sha512-ADVjpOOkjz1hhkZLlBiYA9cR2Anf8F4HqZUO6e5eDcPQd0Txw5fxLzzxnEkSkfnD0wziSGiv7sYhk/ktvbf1uw==}
 
-  micromark-extension-gfm-table@2.1.1:
-    resolution: {integrity: sha512-t2OU/dXXioARrC6yWfJ4hqB7rct14e8f7m0cbI5hUmDyyIlwv5vEtooptH8INkbLzOatzKuVbQmAYcbWoyz6Dg==}
+  micromark-extension-gfm-table@2.1.2:
+    resolution: {integrity: sha512-pRzm4kDTu0MjlmBkxmS9yYhw60nncfcEwu9NNdPFSQEFXS95ZKyIIyTSHu/o3ReBUrLKYEq+7YaXCRn/bPB4MA==}
 
   micromark-extension-gfm-tagfilter@2.0.0:
     resolution: {integrity: sha512-xHlTOmuCSotIA8TW1mDIM6X2O1SiX5P9IuDtqGonFhEK0qgRI4yeC6vMxEV2dgyr2TiD+2PQ10o+cOhdVAcwfg==}
@@ -4293,8 +4293,8 @@ packages:
     resolution: {integrity: sha512-2eznPJP8z2BFLX50tf0LuODrpINqP1RVIm/CObbTcBRITQgmC/TjcREF1NeTBzIcR5XO/ukWo+YHOjBbFwIupg==}
     hasBin: true
 
-  nanoid@3.3.18:
-    resolution: {integrity: sha512-DTg4MJbGMWkfi6VZFdNt2/caMbQy4Ou+Op/hJQvGEWcnVfoA1QA+xzRKAzw9jD6+GVOOeYr/mIcuDSdug6F6+w==}
+  nanoid@3.3.19:
+    resolution: {integrity: sha512-Y2tUNy4ouw6tq5oDSKeQYGOyhkUBhNOcGV/02KC+6kd9eDGqdZd++mjMiIDilrBYvjEnCYvVtsuHCuP+okSfug==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
@@ -5753,8 +5753,8 @@ packages:
     resolution: {integrity: sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==}
     engines: {node: '>= 0.8'}
 
-  update-browserslist-db@1.3.2:
-    resolution: {integrity: sha512-UQ+MSxlhRm1bzjhU+DcuXfjFO1FzNtqhK5+9Yvlp90ItDLk5vT932A0rFu619nf7RVS+Y/VeaUW1jaRDqZ8VJw==}
+  update-browserslist-db@1.3.3:
+    resolution: {integrity: sha512-pJ2sYawQS0R/WI928Gj5GlPhTGzbMelq0+4INtSYNDV9ErKJcX6xjGWkoG/VnB3dpUm00zALaqkrUD77pO5TDQ==}
     hasBin: true
     peerDependencies:
       browserslist: '>= 4.21.0'
@@ -8092,7 +8092,7 @@ snapshots:
       '@types/mdast': 4.0.4
       '@types/react': 19.3.0
       commander: 5.1.0
-      joi: 17.13.7
+      joi: 17.13.8
       react: 19.3.0
       react-dom: 19.3.0(react@19.3.0)
       react-helmet-async: '@slorber/react-helmet-async@1.3.0(react-dom@19.3.0(react@19.3.0))(react@19.3.0)'
@@ -8151,7 +8151,7 @@ snapshots:
       '@docusaurus/utils': 3.10.2(@swc/core@1.16.2)(@swc/html@1.16.2)(clean-css@5.3.3)(cssnano@6.1.2(postcss@8.5.28))(csso@5.0.5)(html-minifier-terser@7.2.0)(lightningcss@1.33.0)(postcss@8.5.28)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)(supports-color@8.1.1)(svgo@3.3.5)
       '@docusaurus/utils-common': 3.10.2(@swc/core@1.16.2)(@swc/html@1.16.2)(clean-css@5.3.3)(cssnano@6.1.2(postcss@8.5.28))(csso@5.0.5)(html-minifier-terser@7.2.0)(lightningcss@1.33.0)(postcss@8.5.28)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)(supports-color@8.1.1)(svgo@3.3.5)
       fs-extra: 11.4.0
-      joi: 17.13.7
+      joi: 17.13.8
       js-yaml: 4.3.2
       lodash: 4.18.1
       tslib: 2.8.1
@@ -8388,59 +8388,59 @@ snapshots:
     dependencies:
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-core@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-core@4.75.0(tslib@2.8.1)':
     dependencies:
-      '@jsonjoy.com/fs-node-builtins': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-builtins': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
       thingies: 2.6.1(tslib@2.8.1)
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-fsa@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-fsa@4.75.0(tslib@2.8.1)':
     dependencies:
-      '@jsonjoy.com/fs-core': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-builtins': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-core': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-builtins': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
       thingies: 2.6.1(tslib@2.8.1)
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-node-builtins@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-node-builtins@4.75.0(tslib@2.8.1)':
     dependencies:
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-node-to-fsa@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-node-to-fsa@4.75.0(tslib@2.8.1)':
     dependencies:
-      '@jsonjoy.com/fs-fsa': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-builtins': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-fsa': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-builtins': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-node-utils@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-node-utils@4.75.0(tslib@2.8.1)':
     dependencies:
-      '@jsonjoy.com/fs-node-builtins': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-builtins': 4.75.0(tslib@2.8.1)
       glob-to-regex.js: 1.2.0(tslib@2.8.1)
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-node@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-node@4.75.0(tslib@2.8.1)':
     dependencies:
-      '@jsonjoy.com/fs-core': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-builtins': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-print': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-snapshot': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-core': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-builtins': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-print': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-snapshot': 4.75.0(tslib@2.8.1)
       glob-to-regex.js: 1.2.0(tslib@2.8.1)
       thingies: 2.6.1(tslib@2.8.1)
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-print@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-print@4.75.0(tslib@2.8.1)':
     dependencies:
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
       tree-dump: 1.1.0(tslib@2.8.1)
       tslib: 2.8.1
 
-  '@jsonjoy.com/fs-snapshot@4.73.0(tslib@2.8.1)':
+  '@jsonjoy.com/fs-snapshot@4.75.0(tslib@2.8.1)':
     dependencies:
       '@jsonjoy.com/buffers': 17.67.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
       '@jsonjoy.com/json-pack': 17.67.0(tslib@2.8.1)
       '@jsonjoy.com/util': 17.67.0(tslib@2.8.1)
       tslib: 2.8.1
@@ -9427,7 +9427,7 @@ snapshots:
 
   astring@1.9.0: {}
 
-  autoprefixer@10.5.5(postcss@8.5.28):
+  autoprefixer@10.5.6(postcss@8.5.28):
     dependencies:
       browserslist: 4.28.9
       caniuse-lite: 1.0.30001810
@@ -9489,7 +9489,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  baseline-browser-mapping@2.11.21: {}
+  baseline-browser-mapping@2.11.22: {}
 
   batch@0.6.1: {}
 
@@ -9554,11 +9554,11 @@ snapshots:
 
   browserslist@4.28.9:
     dependencies:
-      baseline-browser-mapping: 2.11.21
+      baseline-browser-mapping: 2.11.22
       caniuse-lite: 1.0.30001810
-      electron-to-chromium: 1.5.426
+      electron-to-chromium: 1.5.427
       node-releases: 2.0.55
-      update-browserslist-db: 1.3.2(browserslist@4.28.9)
+      update-browserslist-db: 1.3.3(browserslist@4.28.9)
 
   buffer-from@1.1.2: {}
 
@@ -9729,11 +9729,12 @@ snapshots:
     dependencies:
       mime-db: 1.54.0
 
-  compression@1.8.1(supports-color@8.1.1):
+  compression@1.8.2(supports-color@8.1.1):
     dependencies:
       bytes: 3.1.2
       compressible: 2.0.18
       debug: 2.6.9(supports-color@8.1.1)
+      destroy: 1.2.0
       negotiator: 0.6.4
       on-headers: 1.1.0
       safe-buffer: 5.2.1
@@ -9903,7 +9904,7 @@ snapshots:
 
   cssnano-preset-advanced@6.1.2(postcss@8.5.28):
     dependencies:
-      autoprefixer: 10.5.5(postcss@8.5.28)
+      autoprefixer: 10.5.6(postcss@8.5.28)
       browserslist: 4.28.9
       cssnano-preset-default: 6.1.2(postcss@8.5.28)
       postcss: 8.5.28
@@ -10105,7 +10106,7 @@ snapshots:
 
   ee-first@1.1.1: {}
 
-  electron-to-chromium@1.5.426: {}
+  electron-to-chromium@1.5.427: {}
 
   emoji-regex@8.0.0: {}
 
@@ -10839,7 +10840,7 @@ snapshots:
 
   jiti@1.21.7: {}
 
-  joi@17.13.7:
+  joi@17.13.8:
     dependencies:
       '@hapi/hoek': 9.3.0
       '@hapi/topo': 5.1.0
@@ -11177,16 +11178,16 @@ snapshots:
 
   media-typer@0.3.0: {}
 
-  memfs@4.73.0:
+  memfs@4.75.0:
     dependencies:
-      '@jsonjoy.com/fs-core': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-fsa': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-builtins': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-to-fsa': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-node-utils': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-print': 4.73.0(tslib@2.8.1)
-      '@jsonjoy.com/fs-snapshot': 4.73.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-core': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-fsa': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-builtins': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-to-fsa': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-node-utils': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-print': 4.75.0(tslib@2.8.1)
+      '@jsonjoy.com/fs-snapshot': 4.75.0(tslib@2.8.1)
       '@jsonjoy.com/json-pack': 1.21.0(tslib@2.8.1)
       '@jsonjoy.com/util': 1.9.0(tslib@2.8.1)
       glob-to-regex.js: 1.2.0(tslib@2.8.1)
@@ -11265,7 +11266,7 @@ snapshots:
       micromark-util-symbol: 2.0.1
       micromark-util-types: 2.0.2
 
-  micromark-extension-gfm-table@2.1.1:
+  micromark-extension-gfm-table@2.1.2:
     dependencies:
       devlop: 1.1.0
       micromark-factory-space: 2.0.1
@@ -11290,7 +11291,7 @@ snapshots:
       micromark-extension-gfm-autolink-literal: 2.1.0
       micromark-extension-gfm-footnote: 2.1.0
       micromark-extension-gfm-strikethrough: 2.1.0
-      micromark-extension-gfm-table: 2.1.1
+      micromark-extension-gfm-table: 2.1.2
       micromark-extension-gfm-tagfilter: 2.0.0
       micromark-extension-gfm-task-list-item: 2.1.0
       micromark-util-combine-extensions: 2.0.1
@@ -11571,7 +11572,7 @@ snapshots:
       dns-packet: 5.6.1
       thunky: 1.1.0
 
-  nanoid@3.3.18: {}
+  nanoid@3.3.19: {}
 
   negotiator@0.6.3: {}
 
@@ -12114,7 +12115,7 @@ snapshots:
       '@csstools/postcss-text-decoration-shorthand': 4.0.3(postcss@8.5.28)
       '@csstools/postcss-trigonometric-functions': 4.0.9(postcss@8.5.28)
       '@csstools/postcss-unset-value': 4.0.0(postcss@8.5.28)
-      autoprefixer: 10.5.5(postcss@8.5.28)
+      autoprefixer: 10.5.6(postcss@8.5.28)
       browserslist: 4.28.9
       css-blank-pseudo: 7.0.1(postcss@8.5.28)
       css-has-pseudo: 7.0.3(postcss@8.5.28)
@@ -12211,7 +12212,7 @@ snapshots:
 
   postcss@8.5.28:
     dependencies:
-      nanoid: 3.3.18
+      nanoid: 3.3.19
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
@@ -13025,7 +13026,7 @@ snapshots:
 
   unpipe@1.0.0: {}
 
-  update-browserslist-db@1.3.2(browserslist@4.28.9):
+  update-browserslist-db@1.3.3(browserslist@4.28.9):
     dependencies:
       browserslist: 4.28.9
       escalade: 3.2.0
@@ -13121,7 +13122,7 @@ snapshots:
   webpack-dev-middleware@7.4.6(webpack@5.110.3(@swc/core@1.16.2)(@swc/html@1.16.2)(clean-css@5.3.3)(cssnano@6.1.2(postcss@8.5.28))(csso@5.0.5)(html-minifier-terser@7.2.0)(lightningcss@1.33.0)(postcss@8.5.28)(svgo@3.3.5)):
     dependencies:
       colorette: 2.0.20
-      memfs: 4.73.0
+      memfs: 4.75.0
       mime-types: 3.0.2
       on-finished: 2.4.1
       range-parser: 1.3.0
@@ -13143,7 +13144,7 @@ snapshots:
       bonjour-service: 1.4.4
       chokidar: 3.6.0
       colorette: 2.0.20
-      compression: 1.8.1(supports-color@8.1.1)
+      compression: 1.8.2(supports-color@8.1.1)
       connect-history-api-fallback: 2.0.0
       express: 4.22.2(supports-color@8.1.1)
       graceful-fs: 4.2.11
