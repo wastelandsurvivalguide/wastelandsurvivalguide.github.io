@@ -51,7 +51,7 @@
     },
     "packageManager": {
       "name": "pnpm",
-      "version": "12.12.1",
+      "version": "12.13.0",
       "onFail": "download"
     }
   },
