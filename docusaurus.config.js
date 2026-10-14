@@ -84,7 +84,7 @@ const config = {
       announcementBar: {
         id: 'wag',
         content:
-          'Wasteland Survival Guide has reached <strong><a target="_blank" rel="noopener noreferrer" href="blog/wsg-ending">EOL</a></strong>',
+          'Wasteland Survival Guide has reached <strong><a target="_blank" rel="noopener noreferrer" href="blog/2026-10-10-wsg-end">EOL</a></strong>',
       },
       // Search bar
       algolia: {
