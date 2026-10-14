@@ -80,6 +80,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // Announcement bar
+      announcementBar: {
+        id: 'wag',
+        content:
+          'Wasteland Survival Guide reach <strong><a target="_blank" rel="noopener noreferrer" href="blog/wsg-ending">EOL</a></strong>',
+      },
       // Search bar
       algolia: {
         appId: 'T0T4CP7RP1',
